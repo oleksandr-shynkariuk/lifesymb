@@ -1,0 +1,530 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>::. Welcome To Life Symb .::</title>
+
+<meta name="robots" content="all" />
+<meta name="MSSmartTagsPreventParsing" content="true" />
+
+<link rel="stylesheet" href="css/style.css" type="text/css" />
+<link href='http://fonts.googleapis.com/css?family=Cherry+Swash:400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Carrois+Gothic+SC' rel='stylesheet' type='text/css'>
+<script src="js/cufon-yui.js" type="text/javascript"></script>
+<script src="js/rockwell-font.js" type="text/javascript"></script>
+<script src="js/cufon-config.js" type="text/javascript"></script>
+<script type="text/javascript">
+Cufon.replace('h1');
+</script>
+
+    
+
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'sv', includedLanguages: 'en,sv', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  
+
+
+
+
+
+
+<link rel='stylesheet' id='style-css'  href='css/diapo.css' type='text/css' media='all'> 
+<script type='text/javascript' src='scripts/jquery.min.js'></script>
+<!--[if !IE]><!--><script type='text/javascript' src='scripts/jquery.mobile-1.0rc2.customized.min.js'></script><!--<![endif]-->
+<script type='text/javascript' src='scripts/jquery.easing.1.3.js'></script> 
+<script type='text/javascript' src='scripts/jquery.hoverIntent.minified.js'></script> 
+<script type='text/javascript' src='scripts/diapo.js'></script> 
+
+<script>
+$(function(){
+	$('.pix_diapo').diapo();
+});
+
+</script>
+
+
+<link href="css/blue80a9.css" media="screen" rel="stylesheet" type="text/css" />
+<link href="css/tipTip2294.css" media="screen" rel="stylesheet" type="text/css" />
+<script src="js/jquery_tipTip_minified2294.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="css/anylinkmenu.css" />
+<script type="text/javascript" src="js/menucontents.js"></script>
+
+<script type="text/javascript" src="js/anylinkmenu.js"></script>
+
+<script type="text/javascript">anylinkmenu.init("menuanchorclass")</script>
+
+
+<script type='text/javascript'>
+  //<![CDATA[
+    $(document).ready(function($) {
+      //form errors
+      $('img.little-x').mouseover(function() {
+        $(this).siblings(':first').show();
+      });
+    
+      $('img.little-x').mouseleave(function() {
+        $(this).siblings(':first').hide();
+      });
+      $(function(){
+      $(".toolTip").tipTip({maxWidth: "398px", defaultPosition: "right"});
+      $(".topTip").tipTip({maxWidth: "242px", defaultPosition: "top"});
+      });
+    
+      //check the URL for parameters
+      function getURLParameter(name) {
+          return decodeURIComponent(
+              (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search)||[,null])[1]
+          );
+      }
+    
+      //scroll code
+      function filterPath(string) {
+      return string
+        .replace(/^\//,'')
+        .replace(/(index|default).[a-zA-Z]{3,4}$/,'')
+        .replace(/\/$/,'');
+      }
+      var locationPath = filterPath(location.pathname);
+      var scrollElem = scrollableElement('html', 'body');
+    
+      //initialScroll
+      var anchor = getURLParameter(name);
+      if(anchor !== 'null'){
+      var someTarget = '#'+anchor;
+      $(someTarget);
+      $someTargetOffset = ($(someTarget).offset().top) -80;
+      setTimeout(
+        function() 
+        {
+          $(scrollElem).animate({scrollTop: $someTargetOffset }, 800, function() {});
+        }, 500);
+    
+      }
+    //  
+    
+      $('a[href*=#]').each(function() {
+        var thisPath = filterPath(this.pathname) || locationPath;
+        if (  locationPath == thisPath
+        && (location.hostname == this.hostname || !this.hostname)
+        && this.hash.replace(/#/,'') ) {
+          var $target = $(this.hash), target = this.hash;
+          if ($target) {
+            var targetOffset = ($target.offset().top) - 80;
+            $(this).click(function(event) {
+              event.preventDefault();
+              $(scrollElem).animate({scrollTop: targetOffset }, 800, function() {
+                //alert(location.hash);
+                //location.hash = target;
+              });
+            });
+          }
+        }
+      });
+    
+      // use the first element that is "scrollable"
+      function scrollableElement(els) {
+        for (var i = 0, argLength = arguments.length; i <argLength; i++) {
+          var el = arguments[i],
+              $scrollElement = $(el);
+          if ($scrollElement.scrollTop()> 0) {
+            return el;
+          } else {
+            $scrollElement.scrollTop(1);
+            var isScrollable = $scrollElement.scrollTop()> 0;
+            $scrollElement.scrollTop(0);
+            if (isScrollable) {
+              return el;
+            }
+          }
+        }
+        return [];
+      }
+    
+    });
+  //]]>
+</script>
+
+</head>
+<body>
+
+<div id="wrapper">
+	
+	<div id="header">
+		<div id="tophead">
+			<a href="index.html"><img src="images/logo-ontwerpen.png" id="logo" width="286px" height="103px" alt="Logolabs" /></a>
+            
+            <div class="head-right">
+            
+            <div class="quick-link">
+            
+            <div class="qmenu">
+            
+            <ul>
+           <li> <a href="about-us.html">About us</a></li>      
+           <li><a href="contact.html">Contact us</a></li>      
+           <li><a href="#">Help</a></li>        
+           
+            
+            </ul>
+            
+            
+            </div>
+            
+            <div class="search">
+            
+            <table width="100%" border="0">
+  <tr>
+    <td><div id="google_translate_element"></div></td>
+   <!-- <td><img src="images/searchbt.png" width="24" height="21" /></td>-->
+  </tr>
+</table>
+
+            
+            </div>
+            
+            </div>
+            
+			<div id="navwrap">
+				<ul id="uppernav">
+					<li><a href="index.html" class="button">HOME</a></li>
+					<li><a href="terapi.html" class="button">Therapy</a></li>
+					<li><a href="#" class="button">Training</a></li>
+                    <li><a href="#" class="button">courses</a></li>
+					<li><a href="price_schedule.html" class="active menuanchorclass" rel="anylinkmenu1">Price & Schedule</a></li>
+					
+				</ul>
+			</div></div>
+		</div>
+
+
+<div class="clearfix" style="clear:both;"></div>
+		
+        <div class="banner">
+        
+        <!--<div id="piecemaker">
+      <p>Put your alternative Non Flash content here.</p>
+    </div>-->
+    
+    
+    <div style="overflow:hidden; width:1000px; margin:0; padding:0;"> 
+                <div class="pix_diapo">
+
+                    <div data-thumb="images/thumbs/megamind1048.jpg">
+                        <img src="images/slides/piecemaker1.png" width="1000">
+                        <div class="caption elemHover fromLeft">
+                           We believe that the optimal treatment and thus, individual healthcare can
+
+only be achieved, through the intelligent organization of different specialists,
+
+working hand in hand for the sake of the customers.
+
+                        </div>
+                    </div>
+                    
+                    <div data-thumb="images/thumbs/megamind_07.jpg">
+                        <img src="images/slides/piecemaker2.png" width="1000"> 
+                        <div class="caption elemHover fromRight" style="bottom:65px; padding-bottom:5px; ">
+                           The LifeSymb program is not only a gym where you can train your muscles and you fitness. We also 
+                        </div>
+                        <div class="caption elemHover fromLeft" style="padding-top:5px;">
+                          help you to find your inner peace and balance. Try it and you will feel the difference.
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div data-thumb="images/thumbs/megamind1048.jpg">
+                        <img src="images/slides/piecemaker3.png" width="1000">
+                         <div class="caption elemHover fromRight" style="bottom:65px; padding-bottom:5px; ">
+                           LifeSymb is a company with the mission to improve the quality of life of our customers. Therefore we specialized on people over 50, with their special demands. We believe our first responsibility is to 
+                        </div>
+                        <div class="caption elemHover fromLeft" style="padding-top:5px;">
+                         create gentle but effective ways to promote health and fitness, provide support, and maintain independence though our knowledge and technology.
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                    
+               </div><!-- #pix_diapo -->
+                
+        </div>
+        
+        
+        </div>
+        
+        
+	</div>
+		
+	<div id="mainwrap" class="clearfix">
+<br />
+
+<div class="my-wp">
+
+
+<div class="info-strip">We also offer a free plan for anyone who would like to try the basic version of our service.(Dummy Text)</div>
+<div class="seperator"></div>
+<div id='content-container'>
+  
+  <table id='compare-plans'>
+    <thead>
+      <tr>
+        <th height="19" class='table-col-0'><h1> Price of single services</h1></th>
+        <td class='blank'></td>
+        <td class='table-col-1' id='table-col-header-1'><h2 class='plan-name'> Basic </h2></td>
+        <td class='blank'></td>
+        <td class='table-col-2' id='table-col-header-2'><h2 class='plan-name'> Advanced </h2></td>
+        <td class='blank'></td>
+        <td class='table-col-3' id='table-col-header-3'><h2 class='plan-name'> Premium </h2></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th height="35" class='table-col-0'>  </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><h2></h2></td>
+        <td class='blank'></td>
+        <td class='table-col-2'><h2>&nbsp;</h2></td>
+        <td class='blank'></td>
+        <td class='table-col-3'><h2>10%</h2> </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'> Driving service (both ways) </div>
+        </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>individual </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'>individual </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> individual</span>  </td>
+      </tr>
+      <tr>
+       
+        
+        <th height="47" class='table-col-0 toolTip' title=''> <div class='info'>Home training</div>
+        </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>individual </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'>individual </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> individual</span>  </td>
+      </tr>
+      <tr>
+        <th height="47" class='table-col-0 toolTip' title=''> <div class='info'> Sensomotor training (kr/h) </div>
+        </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>120 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 120 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 180</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'> Personal training (kr/h)</div>
+        </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>750 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'>750 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 675</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'>4D training (kr/h)</div>
+        </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>240 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 240 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 216</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'> Symbalance (kr/h) </div>
+        </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>100 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 100 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 90</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''><div class='info'> Yoga (kr/h) </div>
+        </th>
+        <td class='blank'></td>
+        <td class='table-col-1'><span class='number'></span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 0 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'>0</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'>Chi Gong (kr/h)</div>
+        </th>
+         <td class='blank'></td>
+        <td class='table-col-1'><span class='number'> </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 0 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 0</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'> Massage (kr/h)</div>
+        </th>
+         <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>400 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 400</span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 360</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'>Movement analysis (kr)</div>
+        </th>
+         <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>80</span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 800  </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 720</span>  </td>
+      </tr>
+      <tr>
+        <th class='table-col-0 toolTip' title=''> <div class='info'> Nutrition consulting (kr) </div>
+        </th>
+         <td class='blank'></td>
+        <td class='table-col-1'><span class='number'>530 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-2'><span class='number'> 530 </span>  </td>
+        <td class='blank'></td>
+        <td class='table-col-3'><span class='number'> 470 </span>  </td>
+      </tr>
+     
+      
+    </tbody>
+  </table>
+</div>
+
+         
+         
+         
+        
+         
+         
+      </div>  	
+
+  </div>
+ 
+</div>	
+
+
+<div id="footer">
+
+	<div id="footerwrapper">
+		<div class="footerbox">
+			<h1 class="footerkop">Categories</h1>
+			<ul class="bottomnav">
+				<li><a href="index.html" class="active">home</a></li>
+				<li><a href="4dtraining.html" class="button">4D</a></li>
+				<li><a href="#" class="button">Diagnostic</a></li>
+				<li><a href="#" class="button">News</a></li>
+				<li><a href="#" class="button">Training</a></li>
+                <li><a href="gravity.html" class="button">Gravity</a></li>					
+			</ul>
+		</div>	
+		<div class="footerbox">
+			<h1 class="footerkop">Lifesymb</h1>
+			<ul class="bottomnav">	
+				<li><a href="about-us.html" class="button" >About us</a></li>		
+				<li><a href="#"  class="button">Work with us</a></li>		
+				<li><a href="contact.html"  class="button">Contact</a></li>	
+				<li><a href="legal.html"  class="button">Legal</a></li>					
+			</ul>			
+		</div>
+		
+		<div class="footerbox">
+			<h1 class="footerkop">Quick Links</h1>
+			<ul class="bottomnav">
+				<li><a href="https://twitter.com/LifeSymb"  class="button">Twitter</a></li>
+				<li><a href="https://www.facebook.com/Lifesymb"  class="button">facebook</a></li>					
+				<li><a href="mailto:info@lifesymb.com"  class="button">Mail ons</a></li>					
+			</ul>
+		</div>
+        
+        <div class="footerbox" style="width:310px ;font-style:italic;text-align:justify; font-size:11px;">
+			<h1 class="footerkop" style="font-style:normal;">About us</h1>
+			
+            
+           A guide to manage the complexity of the human body
+A listening ear and a helping hand on a journey to personal well-being and success
+A company incorporating different kinds of health and sport professionals
+This and more is lifesymb, following the belief that the whole is more than the sum of its pieces.<br /><br />
+
+
+We believe that the optimal treatment and thus, individual healthcare can
+only be achieved, through the intelligent organization of different specialists,
+working hand in hand for the sake of the customers.
+
+            
+		</div>
+		
+		
+		
+		
+	<div class="clearfix"></div>
+    
+    
+    
+    
+</div>
+
+
+<div id="optimalisatiebalk">
+			
+				
+              <p style="float:left;">Copyright © LifeSymb Ltd. 2013.</p>  
+              
+              
+              <p style="float:right;">
+              
+              
+              <div id="optimalisatiewrap">
+				<a href="#" id="footerlink1" >About us</a> <p class="streepje"> - </p>
+                
+                
+                <a href="#" id="footerlink1" > Projects</a> <p class="streepje"> - </p>
+                
+                
+                <a href="#" id="footerlink1" >Support</a> <p class="streepje"> - </p>
+                
+                
+                <a href="#" id="footerlink1" >Sign up </a> <p class="streepje"> - </p>
+                
+                
+                <a href="#" id="footerlink1" >Help </a> <p class="streepje"> - </p>
+				
+              
+              
+              </p>  
+                
+                
+		</div>
+	</div>
+    
+    
+    <div class="clearfix"></div>
+</div>
+
+
+</body>
+
+</html>
