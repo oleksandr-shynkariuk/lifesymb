@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Вашата среща очаква потвърждение</subject>
+<body>
+Блогодарим Ви за резервирането на среща при нас.
+Имаме нужда от време да прегледаме Вашата заявка. Ще Ви уведомим, когато Вашата заявка бъде одобрена.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Вашата среща е одобрена</subject>
+<body>
+Блогодарим Ви за резервирането на среща при нас. Вашата заявка е одобрена. Заповядайте в уговорения час.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Вашата среща е Отхвърлена</subject>
+<body>
+Блогодарим Ви за резервирането на среща при нас. Съжаляваме, но Вашата заявка беше отхвърлена.
+
+Прична за отхвърлянето:
+{APPOINTMENT.REJECT_REASON}
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-customer</key>
+<subject>Вашата среща е маркирана в статус Не се показва</subject>
+<body>
+Съжаляваме, Вашата среща а маркирана в статус Не се показва.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>Заявка за среща</subject>
+<body>
+Блогодарим Ви за резервирането на среща при нас. Вашата заявка е одобрена. Заповядайте в уговорения час.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Вашата среща е отменена</subject>
+<body>
+Потвърждаваме отмяната на вашата заявка за среща.
+
+Причина за отмяна:
+{APPOINTMENT.CANCEL_REASON}
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-customer</key>
+<subject>Промяна на запазената среща</subject>
+<body>
+Детайлите за запазената Ви среща се променят, новите детайли са:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>Новите заявки за среща изискват одобрение</subject>
+<body>
+Това е първата Ви заявка за среща и тя изисква одобрение.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+
+Данни за клиента:
+{APPOINTMENT.CUSTOMER.-ALL-}
+
+Бърза връзка към срещата:
+{APPOINTMENT.QUICK_LINK_APPROVE} {APPOINTMENT.QUICK_LINK_REJECT}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Нова заявка за среща</subject>
+<body>
+Това е първата Ви заявка за среща и тя бе автоматично одобрена.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+
+Данни за клиента:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Срещата Ви е отменена от клиент</subject>
+<body>
+Уведомяваме Ви, че срещата Ви беше отменена от клианта.
+
+Причина за отмяна:
+{APPOINTMENT.CANCEL_REASON}
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+
+Данни за клиента:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-provider</key>
+<subject>Вашата среща е отхвърлена</subject>
+<body>
+Вашата среща е отхвърлена.
+
+Причина за отхвърлянето:
+{APPOINTMENT.REJECT_REASON}
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+
+Данни за клиента:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-provider</key>
+<subject>Вашата среща е маркирана в статус Не се показва</subject>
+<body>
+Вашата среща е маркирана в статус Не се показва.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+
+Данни за клиента:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Вашата среща е одобрена</subject>
+<body>
+Вашата среща е одобрена.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+
+Данни за клиента:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-provider</key>
+<subject>Промяна на запазената среща</subject>
+<body>
+Детайлите за запазената Ви среща се променят, новите детайли са:
+{APPOINTMENT.-ALL-}
+
+Данни за клиента:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-require_email_confirmation-user</key>
+<subject>Моля потвърдете Вашия имейл адрес</subject>
+<body>
+Благодарим Ви за регистрацията! Молим да потвърдете Вашия имейл с клик на следния линк.
+
+{USER.CONFIRMATION_LINK}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Вашият профил очаква одобрение</subject>
+<body>
+Благодарим Ви за регистрацията!
+Молим да изчакате одобрение на Вашия профил. Ще Ви уведомим, когато акаунта Ви е активен.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Нов потребител изисква одобрение</subject>
+<body>
+На вашия сайт се е регистрирал нов потребител. Моля одобрете или отхвърлете този потребител през административния панел.
+
+Данни за новия потребител:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Вашият профил е вече активен</subject>
+<body>
+Поздравления!
+Вашият профил е вече активен. Детайли:
+
+Потребителско име: {USER.USERNAME}
+Парола: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Вашата парола е ресетната</subject>
+<body>
+По Ваша заявка сменихме паролата за Вашия профил. Новата информация за Вашия профил:
+
+Потребителско име: {USER.USERNAME}
+Парола: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-customer</key>
+<subject>Напомняне за среща</subject>
+<body>
+Напомняме Ви за среща при нас.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-provider</key>
+<subject>Напомняне за среща</subject>
+<body>
+Напомняме Ви за среща с клиент при нас.
+
+Повече информация за запазената среща:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+</emails>

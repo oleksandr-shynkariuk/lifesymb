@@ -1,0 +1,1933 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<file>
+<language>Svenska</language>
+<author>Daniel Olsson, do-support.com</author>
+<lastUpdate>17 June, 2011</lastUpdate>
+<charset>utf-8</charset>
+
+<string>
+	<original>- Any -</original>
+	<translate>- Alla -</translate>
+</string>
+<string>
+	<original>Access Denied</original>
+	<translate>Tillträde nekad</translate>
+</string>
+<string>
+	<original>Actions</original>
+	<translate>Åtgärder</translate>
+</string>
+<string>
+	<original>Activate</original>
+	<translate>Aktivera</translate>
+</string>
+<string>
+	<original>Active</original>
+	<translate>Aktiv</translate>
+</string>
+<string>
+	<original>Add</original>
+	<translate>Lägg till</translate>
+</string>
+<string>
+	<original>Add a star sign (*) before the default value</original>
+	<translate>Lägg till asterisk (*) före standardvärdet</translate>
+</string>
+<string>
+	<original>Admin</original>
+	<translate>Admin</translate>
+</string>
+<string>
+	<original>Admin Area</original>
+	<translate>Admin område</translate>
+</string>
+<string>
+	<original>Administrative User</original>
+	<translate>Administratör</translate>
+</string>
+<string>
+	<original>Administrative Users</original>
+	<translate>Administratörer</translate>
+</string>
+<string>
+	<original>Advanced Search</original>
+	<translate>Avancerad sökning</translate>
+</string>
+<string>
+	<original>All</original>
+	<translate>Alla</translate>
+</string>
+<string>
+	<original>All Days</original>
+	<translate>Alla dagar</translate>
+</string>
+<string>
+	<original>Allow Duplicate Emails</original>
+	<translate>Tillåt email dubbletter</translate>
+</string>
+<string>
+	<original>Allow No Email</original>
+	<translate>Tillåt ingen email</translate>
+</string>
+<string>
+	<original>Allow To Set Own Timezone</original>
+	<translate>Tillåt att sätta egen tidszon</translate>
+</string>
+<string>
+	<original>Already Approved</original>
+	<translate>Redan godkänd</translate>
+</string>
+<string>
+	<original>Already Confirmed</original>
+	<translate>Redan konfirmerad</translate>
+</string>
+<string>
+	<original>Already have an account?</original>
+	<translate>Har du redan ett konto?</translate>
+</string>
+<string>
+	<original>Already in use</original>
+	<translate>Redan i bruk</translate>
+</string>
+<string>
+	<original>Amount</original>
+	<translate>Summa</translate>
+</string>
+<string>
+	<original>Applied On</original>
+	<translate>Tillämpad på</translate>
+</string>
+<string>
+	<original>Appointment</original>
+	<translate>Bokning</translate>
+</string>
+<string>
+	<original>Appointment Details</original>
+	<translate>Bokningsdetaljer</translate>
+</string>
+<string>
+	<original>Appointment Flow</original>
+	<translate>Bokningsflöde</translate>
+</string>
+<string>
+	<original>Appointment Form</original>
+	<translate>Bokningsformulär</translate>
+</string>
+<string>
+	<original>Appointment Forms</original>
+	<translate>Bokningsformulären</translate>
+</string>
+<string>
+	<original>Appointment Pack</original>
+	<translate>Bokningspaket</translate>
+</string>
+<string>
+	<original>Appointment Packs</original>
+	<translate>Bokningspaketen</translate>
+</string>
+<string>
+	<original>Appointment Types</original>
+	<translate>Bokningstyp</translate>
+</string>
+<string>
+	<original>Appointments</original>
+	<translate>Bokningar</translate>
+</string>
+<string>
+	<original>Appointments In Total</original>
+	<translate>Antal bokningar, totalt</translate>
+</string>
+<string>
+	<original>Approval Required</original>
+	<translate>Godkännande krävs</translate>
+</string>
+<string>
+	<original>Approve</original>
+	<translate>Godkänn</translate>
+</string>
+<string>
+	<original>Approved</original>
+	<translate>Godkänd</translate>
+</string>
+<string>
+	<original>Apr</original>
+	<translate>Apr</translate>
+</string>
+<string>
+	<original>Are you sure?</original>
+	<translate>Är du säker?</translate>
+</string>
+<string>
+	<original>Assign</original>
+	<translate>Tilldela</translate>
+</string>
+<string>
+	<original>Attach Ical File To Notification Email</original>
+	<translate>Bifoga iCal fil till email</translate>
+</string>
+<string>
+	<original>Aug</original>
+	<translate>Aug</translate>
+</string>
+<string>
+	<original>Author</original>
+	<translate>Författare</translate>
+</string>
+<string>
+	<original>Auto Confirmed</original>
+	<translate>Auto konfirmerad</translate>
+</string>
+<string>
+	<original>Availability</original>
+	<translate>Tillgänglighet</translate>
+</string>
+<string>
+	<original>Available</original>
+	<translate>Tillgängligt</translate>
+</string>
+<string>
+	<original>Available In Packs Only</original>
+	<translate>Endast tillgängligt som paket</translate>
+</string>
+<string>
+	<original>Backup</original>
+	<translate>Backup</translate>
+</string>
+<string>
+	<original>Backup File</original>
+	<translate>Backup fil</translate>
+</string>
+<string>
+	<original>Bookable Resource</original>
+	<translate>Bokningsbar resurs</translate>
+</string>
+<string>
+	<original>Bookable Resources</original>
+	<translate>Bokningsbara resurser</translate>
+</string>
+<string>
+	<original>Browse</original>
+	<translate>Bläddra</translate>
+</string>
+<string>
+	<original>Bulk Actions</original>
+	<translate>Åtgärda flera</translate>
+</string>
+<string>
+	<original>CSV Field Delimiter</original>
+	<translate>CSV fält separator</translate>
+</string>
+<string>
+	<original>Cancel</original>
+	<translate>Avbryt</translate>
+</string>
+<string>
+	<original>Cancellation/Reschedule Deadline</original>
+	<translate>Avboknings-/ombokningstidsfrist</translate>
+</string>
+<string>
+	<original>Cancelled</original>
+	<translate>Avbokad</translate>
+</string>
+<string>
+	<original>Capacity</original>
+	<translate>Kapacitet</translate>
+</string>
+<string>
+	<original>Categories</original>
+	<translate>Kategorier</translate>
+</string>
+<string>
+	<original>Category</original>
+	<translate>Kategori</translate>
+</string>
+<string>
+	<original>Change</original>
+	<translate>Ändra</translate>
+</string>
+<string>
+	<original>Change Appointment</original>
+	<translate>Ändra bokning</translate>
+</string>
+<string>
+	<original>Change Password</original>
+	<translate>Ändra lösenord</translate>
+</string>
+<string>
+	<original>Checkbox On</original>
+	<translate>Kryssruta PÅ</translate>
+</string>
+<string>
+	<original>Class/Lesson</original>
+	<translate>Klass/Lektion</translate>
+</string>
+<string>
+	<original>Click here to confirm your email</original>
+	<translate>Klicka här för att konfirmera din email adress</translate>
+</string>
+<string>
+	<original>Click to activate</original>
+	<translate>Klicka för att aktivera</translate>
+</string>
+<string>
+	<original>Click to disable</original>
+	<translate>Klicka för att inaktivera</translate>
+</string>
+<string>
+	<original>Close</original>
+	<translate>Stäng</translate>
+</string>
+<string>
+	<original>Company Confirmation Required</original>
+	<translate>Företagskonfirmation krävs</translate>
+</string>
+<string>
+	<original>Company Timezone</original>
+	<translate>Företagets tidszon</translate>
+</string>
+<string>
+	<original>Confirm Appointment</original>
+	<translate>Bekräfta bokning</translate>
+</string>
+<string>
+	<original>Confirm Password</original>
+	<translate>Bekräfta lösenord</translate>
+</string>
+<string>
+	<original>Confirm Reschedule</original>
+	<translate>Bekräfta ombokning</translate>
+</string>
+<string>
+	<original>Congratulations, your account has been created and activated</original>
+	<translate>Gratulerar, ditt konto har skapats och aktiverats</translate>
+</string>
+<string>
+	<original>Contact Information</original>
+	<translate>Kontaktinformation</translate>
+</string>
+<string>
+	<original>Continue</original>
+	<translate>Fortsätt</translate>
+</string>
+<string>
+	<original>Continue With Recurring Appointments</original>
+	<translate>Fortsätt med återkommande bokningar</translate>
+</string>
+<string>
+	<original>Continue With Single Appointment</original>
+	<translate>Fortsätt med enskild bokning</translate>
+</string>
+<string>
+	<original>Copy</original>
+	<translate>Kopiera</translate>
+</string>
+<string>
+	<original>Create</original>
+	<translate>Skapa</translate>
+</string>
+<string>
+	<original>Create Appointment</original>
+	<translate>Skapa bokning</translate>
+</string>
+<string>
+	<original>Created</original>
+	<translate>Skapad</translate>
+</string>
+<string>
+	<original>Currency</original>
+	<translate>Valuta</translate>
+</string>
+<string>
+	<original>Custom Form</original>
+	<translate>Anpassade formulär</translate>
+</string>
+<string>
+	<original>Customer</original>
+	<translate>Klient</translate>
+</string>
+<string>
+	<original>Customers</original>
+	<translate>Klienter</translate>
+</string>
+<string>
+	<original>Date</original>
+	<translate>Datum</translate>
+</string>
+<string>
+	<original>Date Format</original>
+	<translate>Datumformat</translate>
+</string>
+<string>
+	<original>Date and Time</original>
+	<translate>Datum och tid</translate>
+</string>
+<string>
+	<original>Dates</original>
+	<translate>Datum</translate>
+</string>
+<string>
+	<original>Day</original>
+	<translate>Dag</translate>
+</string>
+<string>
+	<original>Days</original>
+	<translate>Dagar</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For External User</original>
+	<translate>Antal dagar att visa i kalendern för externa användare</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For Internal User</original>
+	<translate>Antal dagar att visa i kalendern för interna användare</translate>
+</string>
+<string>
+	<original>Dec</original>
+	<translate>Dec</translate>
+</string>
+<string>
+	<original>Default Value</original>
+	<translate>Standardvärde</translate>
+</string>
+<string>
+	<original>Delete</original>
+	<translate>Ta bort</translate>
+</string>
+<string>
+	<original>Deleted</original>
+	<translate>Borttagen</translate>
+</string>
+<string>
+	<original>Description</original>
+	<translate>Beskrivning</translate>
+</string>
+<string>
+	<original>Desired Username</original>
+	<translate>Önskat användarnamn</translate>
+</string>
+<string>
+	<original>Details</original>
+	<translate>Detaljer</translate>
+</string>
+<string>
+	<original>Disable</original>
+	<translate>Inaktivera</translate>
+</string>
+<string>
+	<original>Discount</original>
+	<translate>Rabatt</translate>
+</string>
+<string>
+	<original>Do Not Show The Timezone</original>
+	<translate>Visa inte tidszonen</translate>
+</string>
+<string>
+	<original>Don't have an account yet?</original>
+	<translate>Inget konto ännu?</translate>
+</string>
+<string>
+	<original>Down</original>
+	<translate>Ned</translate>
+</string>
+<string>
+	<original>Download Backup</original>
+	<translate>Ladda ner backup</translate>
+</string>
+<string>
+	<original>Drop Down</original>
+	<translate>Lista</translate>
+</string>
+<string>
+	<original>Due Value</original>
+	<translate>Förfallet värde</translate>
+</string>
+<string>
+	<original>Duplicate</original>
+	<translate>Duplicera</translate>
+</string>
+<string>
+	<original>Duplicate To</original>
+	<translate>Duplicera till</translate>
+</string>
+<string>
+	<original>Duration</original>
+	<translate>Varaktighet</translate>
+</string>
+<string>
+	<original>Each option on new line</original>
+	<translate>Varje val på ny rad</translate>
+</string>
+<string>
+	<original>Edit</original>
+	<translate>Redigera</translate>
+</string>
+<string>
+	<original>Email</original>
+	<translate>Email</translate>
+</string>
+<string>
+	<original>Email Confirmation Required</original>
+	<translate>Email konfirmation krävs</translate>
+</string>
+<string>
+	<original>Email Not Confirmed</original>
+	<translate>Email inte bekräftad</translate>
+</string>
+<string>
+	<original>Email Notifications Templates</original>
+	<translate>Email mallar</translate>
+</string>
+<string>
+	<original>Email Test Mode</original>
+	<translate>Email testläge</translate>
+</string>
+<string>
+	<original>Enable Registration</original>
+	<translate>Aktivera registrering</translate>
+</string>
+<string>
+	<original>Error Message If Validation Fails</original>
+	<translate>Felmeddelande om validering misslyckas</translate>
+</string>
+<string>
+	<original>Every</original>
+	<translate>Varje</translate>
+</string>
+<string>
+	<original>Every 3 Weeks</original>
+	<translate>Var 3:e vecka</translate>
+</string>
+<string>
+	<original>Every Day</original>
+	<translate>Varje dag</translate>
+</string>
+<string>
+	<original>Every Fortnight</original>
+	<translate>Var 14:e dag</translate>
+</string>
+<string>
+	<original>Every Month</original>
+	<translate>Varje månad</translate>
+</string>
+<string>
+	<original>Every Other Day</original>
+	<translate>Varannan dag</translate>
+</string>
+<string>
+	<original>Every Week</original>
+	<translate>Varje vecka</translate>
+</string>
+<string>
+	<original>External User Access</original>
+	<translate>Access för extern användare</translate>
+</string>
+<string>
+	<original>Failed</original>
+	<translate>Misslyckades</translate>
+</string>
+<string>
+	<original>Feb</original>
+	<translate>Feb</translate>
+</string>
+<string>
+	<original>Fill in if required by your web hosting. You may need to consult your web hosting administrator or help documentation.</original>
+	<translate>Fyll i om det krävs av din webbhost. Konsultera din webbhost/administratör eller hjälp dokumentation.</translate>
+</string>
+<string>
+	<original>Find</original>
+	<translate>Sök</translate>
+</string>
+<string>
+	<original>First Name</original>
+	<translate>Förnamn</translate>
+</string>
+<string>
+	<original>Fixed</original>
+	<translate>Fast</translate>
+</string>
+<string>
+	<original>Footer</original>
+	<translate>Fot</translate>
+</string>
+<string>
+	<original>Footer For All Emails</original>
+	<translate>Fotnot för alla email</translate>
+</string>
+<string>
+	<original>Forgot Your Password</original>
+	<translate>Glömt ditt lösenord</translate>
+</string>
+<string>
+	<original>Form</original>
+	<translate>Formulär</translate>
+</string>
+<string>
+	<original>Form Field</original>
+	<translate>Formulär fält</translate>
+</string>
+<string>
+	<original>Form Fields</original>
+	<translate>Formulär fält</translate>
+</string>
+<string>
+	<original>Forms</original>
+	<translate>Formulär</translate>
+</string>
+<string>
+	<original>Free</original>
+	<translate>Ledig</translate>
+</string>
+<string>
+	<original>Fri</original>
+	<translate>Fre</translate>
+</string>
+<string>
+	<original>Friday</original>
+	<translate>Fredag</translate>
+</string>
+<string>
+	<original>From</original>
+	<translate>Från</translate>
+</string>
+<string>
+	<original>Frontend View</original>
+	<translate> Användarvy</translate>
+</string>
+<string>
+	<original>Full Name</original>
+	<translate>Namn</translate>
+</string>
+<string>
+	<original>Fully Booked</original>
+	<translate>Fullbokad</translate>
+</string>
+<string>
+	<original>Fully Paid</original>
+	<translate>Betalt till fullo</translate>
+</string>
+<string>
+	<original>Gateway</original>
+	<translate>Portal</translate>
+</string>
+<string>
+	<original>Gateway Reference</original>
+	<translate>Portalreferens</translate>
+</string>
+<string>
+	<original>Gateway Response</original>
+	<translate>Portalrespons</translate>
+</string>
+<string>
+	<original>Go</original>
+	<translate>Gå</translate>
+</string>
+<string>
+	<original>Go Back</original>
+	<translate>Åter</translate>
+</string>
+<string>
+	<original>Header</original>
+	<translate>Huvudnot</translate>
+</string>
+<string>
+	<original>Header For All Emails</original>
+	<translate>Huvudnot för alla email</translate>
+</string>
+<string>
+	<original>Help Text</original>
+	<translate>Hjälptext</translate>
+</string>
+<string>
+	<original>Hidden</original>
+	<translate>Dold</translate>
+</string>
+<string>
+	<original>Hide</original>
+	<translate>Dölj</translate>
+</string>
+<string>
+	<original>Home</original>
+	<translate>Hem</translate>
+</string>
+<string>
+	<original>Host</original>
+	<translate>Värd</translate>
+</string>
+<string>
+	<original>Hour</original>
+	<translate>Timme</translate>
+</string>
+<string>
+	<original>Hours</original>
+	<translate>Timmar</translate>
+</string>
+<string>
+	<original>If more than one seat available, then all appointments should start at the same time. Otherwise, any overlapping allowed.</original>
+	<translate>Om mer än en plats är tillgänglig, bör alla bokningar starta på samma tid. Annars är all överlappning tillåten.</translate>
+</string>
+<string>
+	<original>If set correctly, your company time is now [b]{TIME_STRING}[/b]. If it is wrong, please set your company correct time zone.</original>
+	<translate>Om konfigurerat korrekt är klockan nu [b]{TIME_STRING}[/b]. Om inkorrekt, justera systemets klocka till rätt tidszon.</translate>
+</string>
+<string>
+	<original>If set to 1, the recurring option will be disabled</original>
+	<translate>Om 1 är vald, återkommande val är inaktiverat.</translate>
+</string>
+<string>
+	<original>If set to Minute for example, it will show 90 Minutes rather than 1 Hour 30 Minutes.</original>
+	<translate>Om Minut är vald, kommer systemet att visa 90 minuter istället för 1 timme 30 minuter.</translate>
+</string>
+<string>
+	<original>If set, email messages will be printed on screen rather than sent</original>
+	<translate>Om vald, kommer email att visas på skärmen istället för att sändas</translate>
+</string>
+<string>
+	<original>If you proceed, these appointments will be cancelled</original>
+	<translate>Om du fortsätter kommer dessa bokningar att avbokas</translate>
+</string>
+<string>
+	<original>Info</original>
+	<translate>Information</translate>
+</string>
+<string>
+	<original>Input Validation</original>
+	<translate>Validering av indata</translate>
+</string>
+<string>
+	<original>Install</original>
+	<translate>Installera</translate>
+</string>
+<string>
+	<original>Installed Version</original>
+	<translate>Installerad version</translate>
+</string>
+<string>
+	<original>Integers Only</original>
+	<translate>Endast heltal</translate>
+</string>
+<string>
+	<original>Invoice</original>
+	<translate>Faktura</translate>
+</string>
+<string>
+	<original>Invoice Value</original>
+	<translate>Faktureringsvärde</translate>
+</string>
+<string>
+	<original>Jan</original>
+	<translate>Jan</translate>
+</string>
+<string>
+	<original>Jul</original>
+	<translate>Jul</translate>
+</string>
+<string>
+	<original>Jun</original>
+	<translate>Jun</translate>
+</string>
+<string>
+	<original>Keep Cancelled/Rejected Appointments In Database</original>
+	<translate>Behåll avbokade/avvisade bokningar i databasen</translate>
+</string>
+<string>
+	<original>Label</original>
+	<translate>Etikett</translate>
+</string>
+<string>
+	<original>Language</original>
+	<translate>Språk</translate>
+</string>
+<string>
+	<original>Languages</original>
+	<translate>Språken</translate>
+</string>
+<string>
+	<original>Last Name</original>
+	<translate>Efternamn</translate>
+</string>
+<string>
+	<original>Last Update</original>
+	<translate>Senaste uppdatering</translate>
+</string>
+<string>
+	<original>Lead In</original>
+	<translate>Förberedningstid</translate>
+</string>
+<string>
+	<original>Lead Out</original>
+	<translate>Uppföljningstid</translate>
+</string>
+<string>
+	<original>Leave these blank to autogenerate a random password</original>
+	<translate>Lämna blankt för att automatiskt generera lösenord</translate>
+</string>
+<string>
+	<original>Leave this empty to return to hitAppoint start page</original>
+	<translate>Lämnas blankt för att återvända till hitAppoints startsida</translate>
+</string>
+<string>
+	<original>Legend</original>
+	<translate>Legend</translate>
+</string>
+<string>
+	<original>List</original>
+	<translate>Lista</translate>
+</string>
+<string>
+	<original>Loading</original>
+	<translate>Laddar</translate>
+</string>
+<string>
+	<original>Location</original>
+	<translate>Plats</translate>
+</string>
+<string>
+	<original>Locations</original>
+	<translate>Platser</translate>
+</string>
+<string>
+	<original>Logged out</original>
+	<translate>Utloggad</translate>
+</string>
+<string>
+	<original>Login</original>
+	<translate>Inloggning</translate>
+</string>
+<string>
+	<original>Login details</original>
+	<translate>Inloggningsdetaljer</translate>
+</string>
+<string>
+	<original>Logout</original>
+	<translate>Logga ut</translate>
+</string>
+<string>
+	<original>Logs</original>
+	<translate>Logg</translate>
+</string>
+<string>
+	<original>Lowercase English Letters, Numbers, Underscores Only</original>
+	<translate>Endast gemena romerska bokstäver (a-z), nummer (0-9), understreck (_)</translate>
+</string>
+<string>
+	<original>Manage</original>
+	<translate>Hantera</translate>
+</string>
+<string>
+	<original>Mar</original>
+	<translate>Mar</translate>
+</string>
+<string>
+	<original>Marked As No Show</original>
+	<translate>Markerad som utebliven tid</translate>
+</string>
+<string>
+	<original>Max Advance Booking</original>
+	<translate>Maximal förbokning</translate>
+</string>
+<string>
+	<original>Max Number Of Appointments In Pack</original>
+	<translate>Maximalt antal bokningar i paket</translate>
+</string>
+<string>
+	<original>Max Number Of Recurring Appointments</original>
+	<translate>Maximalt antal återkommande bokningar</translate>
+</string>
+<string>
+	<original>Max Time Measure In Duration Display</original>
+	<translate>Maximal tid att visa</translate>
+</string>
+<string>
+	<original>May</original>
+	<translate>Maj</translate>
+</string>
+<string>
+	<original>Message</original>
+	<translate>Meddelande</translate>
+</string>
+<string>
+	<original>Min Advance Booking</original>
+	<translate>Minimum förbokning </translate>
+</string>
+<string>
+	<original>Minute</original>
+	<translate>Minut</translate>
+</string>
+<string>
+	<original>Minutes</original>
+	<translate>Minuter</translate>
+</string>
+<string>
+	<original>Misc</original>
+	<translate>Diverse</translate>
+</string>
+<string>
+	<original>Mon</original>
+	<translate>Mån</translate>
+</string>
+<string>
+	<original>Monday</original>
+	<translate>Måndag</translate>
+</string>
+<string>
+	<original>Month</original>
+	<translate>Månad</translate>
+</string>
+<string>
+	<original>Months To Show In Calendar</original>
+	<translate>Antal månader att visa i kalender</translate>
+</string>
+<string>
+	<original>Moved Down</original>
+	<translate>Flyttad nedåt</translate>
+</string>
+<string>
+	<original>Moved Up</original>
+	<translate>Flyttad uppåt</translate>
+</string>
+<string>
+	<original>My Appointments</original>
+	<translate>Mina bokningar</translate>
+</string>
+<string>
+	<original>My Profile</original>
+	<translate>Min profil</translate>
+</string>
+<string>
+	<original>My Timezone</original>
+	<translate>Min tidszon</translate>
+</string>
+<string>
+	<original>N/A</original>
+	<translate>Inte tillgänglig</translate>
+</string>
+<string>
+	<original>Name</original>
+	<translate>Namn</translate>
+</string>
+<string>
+	<original>Nearest Availability</original>
+	<translate>Närmaste tid</translate>
+</string>
+<string>
+	<original>New</original>
+	<translate>Ny</translate>
+</string>
+<string>
+	<original>New Appointment</original>
+	<translate>Ny bokning</translate>
+</string>
+<string>
+	<original>New Version</original>
+	<translate>Ny version</translate>
+</string>
+<string>
+	<original>New Version Files Uploaded, Upgrade Procedure Required</original>
+	<translate>Ny version uppladdad, uppgradering krävs</translate>
+</string>
+<string>
+	<original>New appointment has been created and automatically approved.</original>
+	<translate>Ny bokning har skapats och automatiskt bekräftats.</translate>
+</string>
+<string>
+	<original>New to our site? Please take a moment to register!</original>
+	<translate>Ny användare? Var vänlig registrera!</translate>
+</string>
+<string>
+	<original>Newly registered users will be asked to confirm their email by following a confirmation link in the email message</original>
+	<translate>Nya användare kommer att bli ombedda att bekräfta email med följande konfirmationslänk i meddelande som mailas</translate>
+</string>
+<string>
+	<original>Newsletter</original>
+	<translate>Nyhetsbrev</translate>
+</string>
+<string>
+	<original>Next Timeoffs</original>
+	<translate>Nästa blockerade tider</translate>
+</string>
+<string>
+	<original>No</original>
+	<translate>Nej</translate>
+</string>
+<string>
+	<original>No Access</original>
+	<translate>Ingen tillgång</translate>
+</string>
+<string>
+	<original>No Email?</original>
+	<translate>Ingen email?</translate>
+</string>
+<string>
+	<original>No Selectable Times</original>
+	<translate>Inga tillgängliga tider</translate>
+</string>
+<string>
+	<original>No Show</original>
+	<translate>Utebliven tid</translate>
+</string>
+<string>
+	<original>No Upgrade Procedure To Run</original>
+	<translate>Ingen uppdatering att köra</translate>
+</string>
+<string>
+	<original>No administrative users to manage appointments!</original>
+	<translate>Inga administratörer att hantera bokningar!</translate>
+</string>
+<string>
+	<original>No administrative users to manage schedules!</original>
+	<translate>Inga administratörer att hantera bokningar scheman!</translate>
+</string>
+<string>
+	<original>No more available</original>
+	<translate>Inga fler tillgängliga</translate>
+</string>
+<string>
+	<original>No schedules configured!</original>
+	<translate>Inga scheman konfigurerade!</translate>
+</string>
+<string>
+	<original>No users found matching your search</original>
+	<translate>Inga användare funna som matchar din sökning</translate>
+</string>
+<string>
+	<original>Non Registered Users</original>
+	<translate>Oregistrerade användare</translate>
+</string>
+<string>
+	<original>None</original>
+	<translate>Inga</translate>
+</string>
+<string>
+	<original>Not Allowed</original>
+	<translate>Inte tillåtet</translate>
+</string>
+<string>
+	<original>Not Approved</original>
+	<translate>Inte godkänd</translate>
+</string>
+<string>
+	<original>Not Available Now</original>
+	<translate>Inte tillgänglig nu</translate>
+</string>
+<string>
+	<original>Not Paid</original>
+	<translate>Obetald</translate>
+</string>
+<string>
+	<original>Not Registered</original>
+	<translate>Inte registrerad</translate>
+</string>
+<string>
+	<original>Not Shown</original>
+	<translate>Visas inte</translate>
+</string>
+<string>
+	<original>Not Shown For Security Reasons</original>
+	<translate>Visas inte av säkerhetsskäl</translate>
+</string>
+<string>
+	<original>Not The First Option In Select List</original>
+	<translate>Inte första valet i listan</translate>
+</string>
+<string>
+	<original>Not in list</original>
+	<translate>Inte i listan</translate>
+</string>
+<string>
+	<original>Not you?</original>
+	<translate>Inte du?</translate>
+</string>
+<string>
+	<original>Notification</original>
+	<translate>Avisering</translate>
+</string>
+<string>
+	<original>Notifications</original>
+	<translate>Aviseringar</translate>
+</string>
+<string>
+	<original>Nov</original>
+	<translate>Nov</translate>
+</string>
+<string>
+	<original>Numbers only</original>
+	<translate>Endast nummer</translate>
+</string>
+<string>
+	<original>OK</original>
+	<translate>Ok</translate>
+</string>
+<string>
+	<original>Oct</original>
+	<translate>Okt</translate>
+</string>
+<string>
+	<original>Old Appointment</original>
+	<translate>Äldre bokning</translate>
+</string>
+<string>
+	<original>Old Appointments</original>
+	<translate>Äldre bokningar</translate>
+</string>
+<string>
+	<original>Old Timeoffs</original>
+	<translate>Äldre blockerade tider</translate>
+</string>
+<string>
+	<original>One Appointment Free</original>
+	<translate>En ledig tid</translate>
+</string>
+<string>
+	<original>One Entry Only</original>
+	<translate>Endast ett val</translate>
+</string>
+<string>
+	<original>Only View The Timezone</original>
+	<translate>Visa endast tidszonen</translate>
+</string>
+<string>
+	<original>Only lowercase English letters, numbers, and underscores please!</original>
+	<translate>Endast gemena romerska bokstäver(a-z), nummer (0-9) och understreck (_)!</translate>
+</string>
+<string>
+	<original>Optional</original>
+	<translate>Valfri</translate>
+</string>
+<string>
+	<original>Or Recurring Appointments?</original>
+	<translate>Eller återkommande bokningar?</translate>
+</string>
+<string>
+	<original>Other Views &amp; Export</original>
+	<translate>Andra visningar &amp; Exportera</translate>
+</string>
+<string>
+	<original>Other end time?</original>
+	<translate>Annan slut tid?</translate>
+</string>
+<string>
+	<original>Pages</original>
+	<translate>Sidor</translate>
+</string>
+<string>
+	<original>Paid Through</original>
+	<translate>Betalad genom</translate>
+</string>
+<string>
+	<original>Paid Value</original>
+	<translate>Betalat värde</translate>
+</string>
+<string>
+	<original>Partially Booked</original>
+	<translate>Delvis bokad</translate>
+</string>
+<string>
+	<original>Partially Paid</original>
+	<translate>Delvis betald</translate>
+</string>
+<string>
+	<original>Password</original>
+	<translate>Lösenord</translate>
+</string>
+<string>
+	<original>Password Changed</original>
+	<translate>Lösenordet ändrat</translate>
+</string>
+<string>
+	<original>Password Reset</original>
+	<translate>Lösenordet återställt</translate>
+</string>
+<string>
+	<original>Passwords don't match!</original>
+	<translate>Lösenorden överensstämmer inte!</translate>
+</string>
+<string>
+	<original>Payment</original>
+	<translate>Betalning</translate>
+</string>
+<string>
+	<original>Payment Gateway</original>
+	<translate>Betalningsportal</translate>
+</string>
+<string>
+	<original>Payment Gateways</original>
+	<translate>Betalningsportaler</translate>
+</string>
+<string>
+	<original>Payment Options</original>
+	<translate>Betalningsmöjligheter</translate>
+</string>
+<string>
+	<original>Payment Required</original>
+	<translate>Betalning krävs</translate>
+</string>
+<string>
+	<original>Payments</original>
+	<translate>Betalningar</translate>
+</string>
+<string>
+	<original>Paypal Email</original>
+	<translate>PayPal email</translate>
+</string>
+<string>
+	<original>Pending</original>
+	<translate>Avvaktande</translate>
+</string>
+<string>
+	<original>Period</original>
+	<translate>Period</translate>
+</string>
+<string>
+	<original>Periodic</original>
+	<translate>Periodiska</translate>
+</string>
+<string>
+	<original>Permission Denied</original>
+	<translate>Behörighet nekad</translate>
+</string>
+<string>
+	<original>Permissions</original>
+	<translate>Behörigheter</translate>
+</string>
+<string>
+	<original>Phone number should have at least {NUM} digits</original>
+	<translate>Telefonnummer ska vara minst {NUM} siffror</translate>
+</string>
+<string>
+	<original>Please Confirm Your Email</original>
+	<translate>Vänligen bekräfta din email</translate>
+</string>
+<string>
+	<original>Please choose at least one option</original>
+	<translate>Vänligen välj minst ett alternativ</translate>
+</string>
+<string>
+	<original>Please choose whom to send your newsletter to</original>
+	<translate>Vänligen välj vem du vill sända nyhetsbrevet till</translate>
+</string>
+<string>
+	<original>Please confirm the password</original>
+	<translate>Vänligen bekräfta lösenordet</translate>
+</string>
+<string>
+	<original>Please login</original>
+	<translate>Vänligen logga in</translate>
+</string>
+<string>
+	<original>Please provide the cancel reason</original>
+	<translate>Vänligen ange anledning till avbokning</translate>
+</string>
+<string>
+	<original>Please provide the reject reason</original>
+	<translate>Vänligen ange anledning till avvisning</translate>
+</string>
+<string>
+	<original>Please provide your contact details</original>
+	<translate>Vänligen ange dina kontaktuppgifter</translate>
+</string>
+<string>
+	<original>Please register</original>
+	<translate>Vänligen registrera</translate>
+</string>
+<string>
+	<original>Please try again</original>
+	<translate>Vänligen försök igen</translate>
+</string>
+<string>
+	<original>Plugin</original>
+	<translate>Plugin</translate>
+</string>
+<string>
+	<original>Plugins</original>
+	<translate>Plugins</translate>
+</string>
+<string>
+	<original>Price</original>
+	<translate>Pris</translate>
+</string>
+<string>
+	<original>Price Format</original>
+	<translate>Prisformat</translate>
+</string>
+<string>
+	<original>Pricing</original>
+	<translate>Prissättning</translate>
+</string>
+<string>
+	<original>Print</original>
+	<translate>Skriv ut</translate>
+</string>
+<string>
+	<original>Proceed</original>
+	<translate>Fortsätt</translate>
+</string>
+<string>
+	<original>Purge</original>
+	<translate>Rensa</translate>
+</string>
+<string>
+	<original>Purge Cancelled</original>
+	<translate>Rensa avbokade</translate>
+</string>
+<string>
+	<original>Purged</original>
+	<translate>Rensade</translate>
+</string>
+<string>
+	<original>Recurring</original>
+	<translate>Återkommande</translate>
+</string>
+<string>
+	<original>Recurring Options</original>
+	<translate>Återkommande alternativ</translate>
+</string>
+<string>
+	<original>Register</original>
+	<translate>Registrera</translate>
+</string>
+<string>
+	<original>Registered Users</original>
+	<translate>Registrerade användare</translate>
+</string>
+<string>
+	<original>Reject</original>
+	<translate>Avvisa</translate>
+</string>
+<string>
+	<original>Release No Show</original>
+	<translate>Släpp uteblivna tider</translate>
+</string>
+<string>
+	<original>Reminder</original>
+	<translate>Påminnelse</translate>
+</string>
+<string>
+	<original>Reminders</original>
+	<translate>Påminnelser</translate>
+</string>
+<string>
+	<original>Request (Automatically Approved)</original>
+	<translate>Begäran (automatiskt godkänd)</translate>
+</string>
+<string>
+	<original>Request Permissions</original>
+	<translate>Begär behörigheter</translate>
+</string>
+<string>
+	<original>Require Clients Give Appointment Cancellation Reason</original>
+	<translate>Begär klienter att ange avbokningsorsak</translate>
+</string>
+<string>
+	<original>Required field</original>
+	<translate>Tvingande fält</translate>
+</string>
+<string>
+	<original>Reschedule</original>
+	<translate>Omboka</translate>
+</string>
+<string>
+	<original>Resend Confirmation Code</original>
+	<translate>Sänd konfirmationskod på nytt</translate>
+</string>
+<string>
+	<original>Reset To Defaults</original>
+	<translate>Återställ till standardvärde</translate>
+</string>
+<string>
+	<original>Response</original>
+	<translate>Svar</translate>
+</string>
+<string>
+	<original>Restore</original>
+	<translate>Återställ</translate>
+</string>
+<string>
+	<original>Restore From Backup</original>
+	<translate>Återställ från backup</translate>
+</string>
+<string>
+	<original>Revise Search?</original>
+	<translate>Revidera sökning?</translate>
+</string>
+<string>
+	<original>Role</original>
+	<translate>Roll</translate>
+</string>
+<string>
+	<original>Run Upgrade Procedure</original>
+	<translate>Kör uppgraderingsprocess</translate>
+</string>
+<string>
+	<original>SMS</original>
+	<translate>SMS</translate>
+</string>
+<string>
+	<original>SMS Notifications Templates</original>
+	<translate>SMS meddelandemallar</translate>
+</string>
+<string>
+	<original>SMTP Settings</original>
+	<translate>SMTP inställningar</translate>
+</string>
+<string>
+	<original>Sat</original>
+	<translate>Lör</translate>
+</string>
+<string>
+	<original>Saturday</original>
+	<translate>Lördag</translate>
+</string>
+<string>
+	<original>Save</original>
+	<translate>Spara</translate>
+</string>
+<string>
+	<original>Schedule</original>
+	<translate>Schema</translate>
+</string>
+<string>
+	<original>Schedules</original>
+	<translate>Scheman</translate>
+</string>
+<string>
+	<original>Search</original>
+	<translate>Sök</translate>
+</string>
+<string>
+	<original>Seats</original>
+	<translate>Platser</translate>
+</string>
+<string>
+	<original>Secure</original>
+	<translate>Säker</translate>
+</string>
+<string>
+	<original>Select</original>
+	<translate>Välj</translate>
+</string>
+<string>
+	<original>Select Options</original>
+	<translate>Välj alternativ</translate>
+</string>
+<string>
+	<original>Selectable Times</original>
+	<translate>Valbara tider</translate>
+</string>
+<string>
+	<original>Selecting Now</original>
+	<translate>Välj nu</translate>
+</string>
+<string>
+	<original>Selection Display Style</original>
+	<translate>Stil display för val</translate>
+</string>
+<string>
+	<original>Send</original>
+	<translate>Sänd</translate>
+</string>
+<string>
+	<original>Send New Password</original>
+	<translate>Sänd nytt lösenord</translate>
+</string>
+<string>
+	<original>Send Reminder Before</original>
+	<translate>Sänd påminnelse innan</translate>
+</string>
+<string>
+	<original>Send To</original>
+	<translate>Sänd till</translate>
+</string>
+<string>
+	<original>Sender Email</original>
+	<translate>Sändarens email</translate>
+</string>
+<string>
+	<original>Sender Name</original>
+	<translate>Sändarens namn</translate>
+</string>
+<string>
+	<original>Sent At</original>
+	<translate>Sänt</translate>
+</string>
+<string>
+	<original>Sep</original>
+	<translate>Sep</translate>
+</string>
+<string>
+	<original>Service</original>
+	<translate>Tjänst</translate>
+</string>
+<string>
+	<original>Service selection should come before the date and time selection</original>
+	<translate>Val av service bör komma före datum/tid val</translate>
+</string>
+<string>
+	<original>Services</original>
+	<translate>Tjänster</translate>
+</string>
+<string>
+	<original>Settings</original>
+	<translate>Inställningar</translate>
+</string>
+<string>
+	<original>Show</original>
+	<translate>Visa</translate>
+</string>
+<string>
+	<original>Show Session Duration For Clients</original>
+	<translate>Visa varaktiget för klienter</translate>
+</string>
+<string>
+	<original>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</original>
+	<translate>Visar {SHOW_FROM} - {SHOW_TO} av {TOTAL_COUNT}</translate>
+</string>
+<string>
+	<original>Single Or Recurring Appointments?</original>
+	<translate>Enskild eller återkommande bokningar?</translate>
+</string>
+<string>
+	<original>Something short and descriptive, like Summer Schedule, etc</original>
+	<translate>Något kortfattat och beskrivande, som "Sommar schema", etc</translate>
+</string>
+<string>
+	<original>Sort By</original>
+	<translate>Sortera efter</translate>
+</string>
+<string>
+	<original>Split</original>
+	<translate>Dela</translate>
+</string>
+<string>
+	<original>Status</original>
+	<translate>Status</translate>
+</string>
+<string>
+	<original>String(s) missing</original>
+	<translate>Stäng(ar) saknas</translate>
+</string>
+<string>
+	<original>Subject</original>
+	<translate>Ämne</translate>
+</string>
+<string>
+	<original>Sun</original>
+	<translate>Sön</translate>
+</string>
+<string>
+	<original>Sunday</original>
+	<translate>Söndag</translate>
+</string>
+<string>
+	<original>Suspend</original>
+	<translate>Avstäng</translate>
+</string>
+<string>
+	<original>Suspended</original>
+	<translate>Avstängda</translate>
+</string>
+<string>
+	<original>System Access Level</original>
+	<translate>Åtkomstnivå system</translate>
+</string>
+<string>
+	<original>System Name</original>
+	<translate>System namn</translate>
+</string>
+<string>
+	<original>Tags</original>
+	<translate>Taggar</translate>
+</string>
+<string>
+	<original>Template</original>
+	<translate>Mall</translate>
+</string>
+<string>
+	<original>Templates</original>
+	<translate>Mallar</translate>
+</string>
+<string>
+	<original>Terminology</original>
+	<translate>Terminologi</translate>
+</string>
+<string>
+	<original>Text</original>
+	<translate>Text</translate>
+</string>
+<string>
+	<original>Text Field Size</original>
+	<translate>Textfälts storlek</translate>
+</string>
+<string>
+	<original>Textarea</original>
+	<translate>Textområde</translate>
+</string>
+<string>
+	<original>Textarea Columns</original>
+	<translate>Textområde kolumner</translate>
+</string>
+<string>
+	<original>Textarea Rows</original>
+	<translate>Textområde rader</translate>
+</string>
+<string>
+	<original>Thank you for registering![br]Now we kindly ask you to confirm your email. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Tack för registreringen! [br]Vi ber dig konfirmera din email adress genom att klicka på konfirmationslänken som vi mailat till dig.</translate>
+</string>
+<string>
+	<original>The administrator will need to manually approve new user accounts before they can access the system</original>
+	<translate>Administratören måste manuellt godkänna nya användare innan dom kan logga in</translate>
+</string>
+<string>
+	<original>Theme</original>
+	<translate>Tema</translate>
+</string>
+<string>
+	<original>Themes</original>
+	<translate>Teman</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s)</original>
+	<translate>Det finns [b]{APPS_COUNT}[/b] bokning(ar)</translate>
+</string>
+<string>
+	<original>There has been a problem with your payment</original>
+	<translate>Det har uppstått ett problem med din betalning</translate>
+</string>
+<string>
+	<original>There is a problem with your account</original>
+	<translate>Det har uppstått ett problem med ditt konto</translate>
+</string>
+<string>
+	<original>These upgrade scripts have been executed</original>
+	<translate>Dessa uppgraderingsskript har utförts</translate>
+</string>
+<string>
+	<original>This email is not registered</original>
+	<translate>Email adressen är inte registrerad</translate>
+</string>
+<string>
+	<original>This may depend on your Excel regional settings</original>
+	<translate>Kan bero på dina regionala Excel inställningar</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min advance booking</original>
+	<translate>Bör inte vara mindre än minimum förbokning</translate>
+</string>
+<string>
+	<original>Thu</original>
+	<translate>Tor</translate>
+</string>
+<string>
+	<original>Thursday</original>
+	<translate>Torsdag</translate>
+</string>
+<string>
+	<original>Time</original>
+	<translate>Tid</translate>
+</string>
+<string>
+	<original>Time Format</original>
+	<translate>Tidsformat</translate>
+</string>
+<string>
+	<original>Time Slot</original>
+	<translate>Tid</translate>
+</string>
+<string>
+	<original>Time Slots</original>
+	<translate>Tider</translate>
+</string>
+<string>
+	<original>Time Unit, min</original>
+	<translate>Tidsenhet, min</translate>
+</string>
+<string>
+	<original>Timeoff</original>
+	<translate>Blockerad tid</translate>
+</string>
+<string>
+	<original>Times shown in [b]{TIME_ZONE}[/b] time zone</original>
+	<translate>Tider visade i tidzon [b]{TIME_ZONE}[/b]</translate>
+</string>
+<string>
+	<original>Timezone</original>
+	<translate>Tidszon</translate>
+</string>
+<string>
+	<original>Title</original>
+	<translate>Titel</translate>
+</string>
+<string>
+	<original>To</original>
+	<translate>Till</translate>
+</string>
+<string>
+	<original>Together</original>
+	<translate>Gemensam</translate>
+</string>
+<string>
+	<original>Total</original>
+	<translate>Total</translate>
+</string>
+<string>
+	<original>Total Amount</original>
+	<translate>Totalt belopp</translate>
+</string>
+<string>
+	<original>Total Duration</original>
+	<translate>Total längd</translate>
+</string>
+<string>
+	<original>Total Price</original>
+	<translate>Total pris</translate>
+</string>
+<string>
+	<original>Tue</original>
+	<translate>Tis</translate>
+</string>
+<string>
+	<original>Tuesday</original>
+	<translate>Tisdag</translate>
+</string>
+<string>
+	<original>Type</original>
+	<translate>Typ</translate>
+</string>
+<string>
+	<original>URL To Return After Appointment Request</original>
+	<translate>URL att återvända till efter bokningsförfrågan</translate>
+</string>
+<string>
+	<original>Uncategorized</original>
+	<translate>Okategoriserad</translate>
+</string>
+<string>
+	<original>Uninstall</original>
+	<translate>Avinstallera</translate>
+</string>
+<string>
+	<original>Unique Email</original>
+	<translate>Unik email</translate>
+</string>
+<string>
+	<original>Unique Username</original>
+	<translate>Unikt användarnamn</translate>
+</string>
+<string>
+	<original>Until Closed</original>
+	<translate>Tills stängd</translate>
+</string>
+<string>
+	<original>Up</original>
+	<translate>Upp</translate>
+</string>
+<string>
+	<original>Upcoming Appointments</original>
+	<translate>Kommande bokningar</translate>
+</string>
+<string>
+	<original>Update</original>
+	<translate>Uppdatera</translate>
+</string>
+<string>
+	<original>Upgrade</original>
+	<translate>Uppgradera</translate>
+</string>
+<string>
+	<original>Uploaded Version</original>
+	<translate>Uppladdad version</translate>
+</string>
+<string>
+	<original>Use Email As Username</original>
+	<translate>Använd email som användarnamn</translate>
+</string>
+<string>
+	<original>User</original>
+	<translate>Användare</translate>
+</string>
+<string>
+	<original>User Login Required?</original>
+	<translate>Inloggning obligatorisk?</translate>
+</string>
+<string>
+	<original>User Registration</original>
+	<translate>Användarregistrering</translate>
+</string>
+<string>
+	<original>User Status</original>
+	<translate>Användarstatus</translate>
+</string>
+<string>
+	<original>Username</original>
+	<translate>Användarnamn</translate>
+</string>
+<string>
+	<original>Users</original>
+	<translate>Användare</translate>
+</string>
+<string>
+	<original>Valid</original>
+	<translate>Giltig</translate>
+</string>
+<string>
+	<original>Valid From Date</original>
+	<translate>Giltig från datum</translate>
+</string>
+<string>
+	<original>Valid To Date</original>
+	<translate>Giltig till datum</translate>
+</string>
+<string>
+	<original>Valid URL Syntax</original>
+	<translate>Giltig URL Syntax</translate>
+</string>
+<string>
+	<original>Validation</original>
+	<translate>Validering</translate>
+</string>
+<string>
+	<original>View</original>
+	<translate>Visa</translate>
+</string>
+<string>
+	<original>View Only</original>
+	<translate>Visa endast</translate>
+</string>
+<string>
+	<original>View and Update</original>
+	<translate>Visa och uppdatera</translate>
+</string>
+<string>
+	<original>Waiting For Approval</original>
+	<translate>Avvaktar godkännande</translate>
+</string>
+<string>
+	<original>Warning: your current data will be deleted by restoring from backup file</original>
+	<translate>Varning: nuvarande data kommer att raderas om du väljer att återställa från backup</translate>
+</string>
+<string>
+	<original>Wed</original>
+	<translate>Ons</translate>
+</string>
+<string>
+	<original>Wednesday</original>
+	<translate>Onsdag</translate>
+</string>
+<string>
+	<original>Week</original>
+	<translate>Vecka</translate>
+</string>
+<string>
+	<original>Week Starts On</original>
+	<translate>Veckor startar på</translate>
+</string>
+<string>
+	<original>Weekday</original>
+	<translate>Veckodag</translate>
+</string>
+<string>
+	<original>Weeks</original>
+	<translate>Veckor</translate>
+</string>
+<string>
+	<original>When</original>
+	<translate>När</translate>
+</string>
+<string>
+	<original>When enabling this, be sure you remember your own email address</original>
+	<translate>När du aktiverar detta, säkerställ att du kommer ihåg din egen email adress</translate>
+</string>
+<string>
+	<original>Working Time</original>
+	<translate>Arbetstid</translate>
+</string>
+<string>
+	<original>Wrong Confirmation Link</original>
+	<translate>Felaktig konfirmationslänk</translate>
+</string>
+<string>
+	<original>Wrong username or password</original>
+	<translate>Felaktigt användarnamn eller lösenord</translate>
+</string>
+<string>
+	<original>Yes</original>
+	<translate>Ja</translate>
+</string>
+<string>
+	<original>Yes/No</original>
+	<translate>Ja/Nej</translate>
+</string>
+<string>
+	<original>You can use the * wildcard to match any set of characters</original>
+	<translate>Du kan använda asterisk (*) för att matcha bokstäver</translate>
+</string>
+<string>
+	<original>You cannot cancel or reschedule this appointment now</original>
+	<translate>Du kan inte avboka/omboka den här bokningen nu</translate>
+</string>
+<string>
+	<original>You have nothing to manage</original>
+	<translate>Du har inget att åtgärda</translate>
+</string>
+<string>
+	<original>Your Name</original>
+	<translate>Ditt namn</translate>
+</string>
+<string>
+	<original>Your account is temporarily suspended</original>
+	<translate>Ditt användarkonto är tillfälligt avstängt</translate>
+</string>
+<string>
+	<original>Your email is not confirmed yet. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Din email adress är inte konfirmerad ännu. Vänligen bekräfta din email genom att klicka på den konfirmationslänk som har skickats till dig.</translate>
+</string>
+<string>
+	<original>Your new password has been sent to your email</original>
+	<translate>Ditt nya lösenord har skickats till din email adress</translate>
+</string>
+<string>
+	<original>hitAppoint Path</original>
+	<translate>hitAppoint sökväg</translate>
+</string>
+<string>
+<original>Automatically Select Any Available</original>
+<translate>Välj automatiskt alla tillgängliga</translate>
+</string>
+<string>
+<original>Don't have a particular preference</original>
+<translate>Har inte en särskild preferens</translate>
+</string>
+<string>
+<original>It seems that you have not made a backup for some time, it's highly recommended to do it now</original>
+<translate>Det verkar som du inte har gjort en backup på länge, det är rekommenderat att du gör en backup nu</translate>
+</string>
+<string>
+<original>Let Customer Select</original>
+<translate>Låt kunden välja</translate>
+</string>
+<string>
+<original>Let Customer Select With Auto Assign Option</original>
+<translate>Låt kunden välja genom auto tilldela</translate>
+</string>
+<string>
+<original>List Appointment Packs Above Regular Services</original>
+<translate>Lista bokningspaket ovanför vanliga tjänster</translate>
+</string>
+<string>
+<original>No payment gateways configured!</original>
+<translate>Ingen betalningsportal är konfigurerad!</translate>
+</string>
+<string>
+<original>Or select one below</original>
+<translate>Eller välj en av nedanstående</translate>
+</string>
+<string>
+<original>Remind Me To Backup</original>
+<translate>Påminn mig att köra backup</translate>
+</string>
+<string>
+<original>iCal Subscription</original>
+<translate>iCal prenumeration</translate>
+</string>
+
+</file>

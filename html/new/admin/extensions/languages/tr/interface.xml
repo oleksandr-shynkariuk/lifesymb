@@ -1,0 +1,2902 @@
+ï»¿<?xml version="1.0" encoding="ISO-8859-1"?>
+<file>
+<language>Turkish</language>
+<author>Unknown</author>
+<lastUpdate>05 June, 2013</lastUpdate>
+<charset>utf-8</charset>
+
+<string>
+	<original>- Any -</original>
+	<translate>- Herhangi -</translate>
+</string>
+<string>
+	<original>Access Denied</original>
+	<translate>Yetkisiz Giris</translate>
+</string>
+<string>
+	<original>Actions</original>
+	<translate>Aksiyon</translate>
+</string>
+<string>
+	<original>Activate</original>
+	<translate>Aktif et</translate>
+</string>
+<string>
+	<original>Active</original>
+	<translate>Aktif et</translate>
+</string>
+<string>
+	<original>Add</original>
+	<translate>Ekle</translate>
+</string>
+<string>
+	<original>Add a star sign (*) before the default value</original>
+	<translate>Varsayilan degerin önüne (*) isareti koyun</translate>
+</string>
+<string>
+	<original>Admin</original>
+	<translate>Admin</translate>
+</string>
+<string>
+	<original>Admin Area</original>
+	<translate>Admin Area</translate>
+</string>
+<string>
+	<original>Administrative User</original>
+	<translate>Administrative User</translate>
+</string>
+<string>
+	<original>Administrative Users</original>
+	<translate>Administrative Users</translate>
+</string>
+<string>
+	<original>Advanced Search</original>
+	<translate>Gelismis Arama</translate>
+</string>
+<string>
+	<original>All</original>
+	<translate>Tümü</translate>
+</string>
+<string>
+	<original>All Days</original>
+	<translate>Tüm Günler</translate>
+</string>
+<string>
+	<original>Allow Duplicate Emails</original>
+	<translate>Duplike Emaillere izin ver</translate>
+</string>
+<string>
+	<original>Allow No Email</original>
+	<translate>Emaile izin verme</translate>
+</string>
+<string>
+	<original>Allow To Set Own Timezone</original>
+	<translate>Yerel zaman dilimi tanimina izin ver</translate>
+</string>
+<string>
+	<original>Already Approved</original>
+	<translate>Önceden Onaylandi</translate>
+</string>
+<string>
+	<original>Already Confirmed</original>
+	<translate>Önceden Teyit Edildi</translate>
+</string>
+<string>
+	<original>Already have an account?</original>
+	<translate>Hesabiniz var mi?</translate>
+</string>
+<string>
+	<original>Already in use</original>
+	<translate>Su anda kullanimda</translate>
+</string>
+<string>
+	<original>Amount</original>
+	<translate>Miktar</translate>
+</string>
+<string>
+	<original>Applied On</original>
+	<translate>Uygulanma Datasi</translate>
+</string>
+<string>
+	<original>Appointment</original>
+	<translate>Rezervasyon</translate>
+</string>
+<string>
+	<original>Appointment Details</original>
+	<translate>Rezervasyon Detaylari</translate>
+</string>
+<string>
+	<original>Appointment Flow</original>
+	<translate>Rezervasyon Akisi</translate>
+</string>
+<string>
+	<original>Appointment Form</original>
+	<translate>Rezervasyon Formu</translate>
+</string>
+<string>
+	<original>Appointment Forms</original>
+	<translate>Rezervasyon Formlari</translate>
+</string>
+<string>
+	<original>Appointment Pack</original>
+	<translate>Rezervasyon Paketi</translate>
+</string>
+<string>
+	<original>Appointment Packs</original>
+	<translate>Rezervasyon Paketleri</translate>
+</string>
+<string>
+	<original>Appointments</original>
+	<translate>Rezervasyonlar</translate>
+</string>
+<string>
+	<original>Appointments In Total</original>
+	<translate>Toplam Rezervasyonlar</translate>
+</string>
+<string>
+	<original>Approval Required</original>
+	<translate>Onay Gerekiyor</translate>
+</string>
+<string>
+	<original>Approve</original>
+	<translate>Onayla</translate>
+</string>
+<string>
+	<original>Approved</original>
+	<translate>Onaylandi</translate>
+</string>
+<string>
+	<original>Apr</original>
+	<translate>Nis</translate>
+</string>
+<string>
+	<original>Are you sure?</original>
+	<translate>Emin misiniz?</translate>
+</string>
+<string>
+	<original>Assign</original>
+	<translate>Ata</translate>
+</string>
+<string>
+	<original>Attach Ical File To Notification Email</original>
+	<translate>Ical dosyasini hatirlatma mailine ekle</translate>
+</string>
+<string>
+	<original>Aug</original>
+	<translate>Aug</translate>
+</string>
+<string>
+	<original>Author</original>
+	<translate>Yazar</translate>
+</string>
+<string>
+	<original>Auto Confirmed</original>
+	<translate>Otomatik olarak konfirme edildi</translate>
+</string>
+<string>
+	<original>Automatically Select Any Available</original>
+	<translate>Uygun olani otomatik olarak seç</translate>
+</string>
+<string>
+	<original>Availability</original>
+	<translate>Uygunluk</translate>
+</string>
+<string>
+	<original>Available</original>
+	<translate>Uygun</translate>
+</string>
+<string>
+	<original>Available In Packs Only</original>
+	<translate>Sadece Paketlerde uygun</translate>
+</string>
+<string>
+	<original>Backup</original>
+	<translate>Yedekle</translate>
+</string>
+<string>
+	<original>Backup File</original>
+	<translate>Dosyayi Yedekle</translate>
+</string>
+<string>
+	<original>Bookable Resource</original>
+	<translate>Rezerve edilebilir Masaj Uzmani</translate>
+</string>
+<string>
+	<original>Bookable Resources</original>
+	<translate>Rezerve edilebilir Masaj Uzmanlari</translate>
+</string>
+<string>
+	<original>Browse</original>
+	<translate>Ara</translate>
+</string>
+<string>
+	<original>Bulk Actions</original>
+	<translate>Toplu aksiyonlar</translate>
+</string>
+<string>
+	<original>CSV Field Delimiter</original>
+	<translate>CSV alan ayiraci</translate>
+</string>
+<string>
+	<original>Cancel</original>
+	<translate>Iptal</translate>
+</string>
+<string>
+	<original>Cancellation/Reschedule Deadline</original>
+	<translate>Cancellation/Reschedule Deadline</translate>
+</string>
+<string>
+	<original>Cancelled</original>
+	<translate>Iptal edildi</translate>
+</string>
+<string>
+	<original>Capacity</original>
+	<translate>Kapasite</translate>
+</string>
+<string>
+	<original>Categories</original>
+	<translate>Kategoriler</translate>
+</string>
+<string>
+	<original>Category</original>
+	<translate>Kategori</translate>
+</string>
+<string>
+	<original>Change</original>
+	<translate>Degistir</translate>
+</string>
+<string>
+	<original>Change Appointment</original>
+	<translate>Rezervasyonu degistir</translate>
+</string>
+<string>
+	<original>Change Password</original>
+	<translate>Sifreyi degistir</translate>
+</string>
+<string>
+	<original>Checkbox On</original>
+	<translate>Checkbox Açik</translate>
+</string>
+<string>
+	<original>Class/Lesson</original>
+	<translate>Sinif/Ders</translate>
+</string>
+<string>
+	<original>Click here to confirm your email</original>
+	<translate>Emailinizi konfirme etmek için burayi tiklayin</translate>
+</string>
+<string>
+	<original>Click to activate</original>
+	<translate>Aktif etmek için tiklayin</translate>
+</string>
+<string>
+	<original>Click to disable</original>
+	<translate>Inaktif etmek için tiklayin</translate>
+</string>
+<string>
+	<original>Close</original>
+	<translate>Kapat</translate>
+</string>
+<string>
+	<original>Company Confirmation Required</original>
+	<translate>Kurum Onayi Gerekli</translate>
+</string>
+<string>
+	<original>Company Timezone</original>
+	<translate>Kurum Yerel Saat Araligi</translate>
+</string>
+<string>
+	<original>Confirm Appointment</original>
+	<translate>Rezervasyonu Teyit Et</translate>
+</string>
+<string>
+	<original>Confirm Password</original>
+	<translate>Sifreyi teyit et</translate>
+</string>
+<string>
+	<original>Confirm Reschedule</original>
+	<translate>Rezervasyon degisikligini teyit et</translate>
+</string>
+<string>
+	<original>Congratulations, your account has been created and activated</original>
+	<translate>Tebrikler! Hesabiniz olusturuldu ve aktif edildi</translate>
+</string>
+<string>
+	<original>Contact Information</original>
+	<translate>Iletisim Bilgileri</translate>
+</string>
+<string>
+	<original>Continue</original>
+	<translate>Devam et</translate>
+</string>
+<string>
+	<original>Continue With Recurring Appointments</original>
+	<translate>Ileri tarihli rezervasyonlarla devam et</translate>
+</string>
+<string>
+	<original>Continue With Single Appointment</original>
+	<translate>Mevcut rezervasyon ile devam et</translate>
+</string>
+<string>
+	<original>Copy</original>
+	<translate>Kopyala</translate>
+</string>
+<string>
+	<original>Create</original>
+	<translate>Olustur</translate>
+</string>
+<string>
+	<original>Create Appointment</original>
+	<translate>Rezervasyon olustur</translate>
+</string>
+<string>
+	<original>Created</original>
+	<translate>Olusturuldu</translate>
+</string>
+<string>
+	<original>Currency</original>
+	<translate>Para Birimi</translate>
+</string>
+<string>
+	<original>Custom Form</original>
+	<translate>Kisillestirilmis Form</translate>
+</string>
+<string>
+	<original>Customer</original>
+	<translate>Müsteri</translate>
+</string>
+<string>
+	<original>Customers</original>
+	<translate>Müsteriler</translate>
+</string>
+<string>
+	<original>Date</original>
+	<translate>Tarih</translate>
+</string>
+<string>
+	<original>Date Format</original>
+	<translate>Tarih Formati</translate>
+</string>
+<string>
+	<original>Date and Time</original>
+	<translate>Tarih ve Saat</translate>
+</string>
+<string>
+	<original>Dates</original>
+	<translate>Tarihler</translate>
+</string>
+<string>
+	<original>Day</original>
+	<translate>Gün</translate>
+</string>
+<string>
+	<original>Days</original>
+	<translate>Gün</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For External User</original>
+	<translate>Harici kullanicilar için takvimde gösterilecek gün sayisi</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For Internal User</original>
+	<translate>Dahili kullanicilar için takvimde gösterilecek gün sayisi</translate>
+</string>
+<string>
+	<original>Dec</original>
+	<translate>Ara</translate>
+</string>
+<string>
+	<original>Default Value</original>
+	<translate>Varsayiloan Deger</translate>
+</string>
+<string>
+	<original>Delete</original>
+	<translate>Sil</translate>
+</string>
+<string>
+	<original>Deleted</original>
+	<translate>Silindi</translate>
+</string>
+<string>
+	<original>Description</original>
+	<translate>Tanim</translate>
+</string>
+<string>
+	<original>Desired Username</original>
+	<translate>Tercih edilen Kullanici Ismi</translate>
+</string>
+<string>
+	<original>Details</original>
+	<translate>Detaylar</translate>
+</string>
+<string>
+	<original>Disable</original>
+	<translate>Etkisizlestir</translate>
+</string>
+<string>
+	<original>Discount</original>
+	<translate>Indirim</translate>
+</string>
+<string>
+	<original>Do Not Show The Timezone</original>
+	<translate>Yerel Saat araligini gösterme</translate>
+</string>
+<string>
+	<original>Don't have a particular preference</original>
+	<translate>Özel bir tercihiniz yokmu?</translate>
+</string>
+<string>
+	<original>Don't have an account yet?</original>
+	<translate>Henüz hesabiniz yok mu?</translate>
+</string>
+<string>
+	<original>Down</original>
+	<translate>Asagi</translate>
+</string>
+<string>
+	<original>Download Backup</original>
+	<translate>Yedegi indir</translate>
+</string>
+<string>
+	<original>Drop Down</original>
+	<translate>Drop Down</translate>
+</string>
+<string>
+	<original>Due Value</original>
+	<translate>Geçerli Deger</translate>
+</string>
+<string>
+	<original>Duplicate</original>
+	<translate>Çogalt</translate>
+</string>
+<string>
+	<original>Duplicate To</original>
+	<translate>Buraya çogalt</translate>
+</string>
+<string>
+	<original>Duration</original>
+	<translate>Süre</translate>
+</string>
+<string>
+	<original>Each option on new line</original>
+	<translate>Her seçenek yeni satira</translate>
+</string>
+<string>
+	<original>Edit</original>
+	<translate>Düzenle</translate>
+</string>
+<string>
+	<original>Email</original>
+	<translate>Email</translate>
+</string>
+<string>
+	<original>Email Confirmation Required</original>
+	<translate>Email teyidi gerekli</translate>
+</string>
+<string>
+	<original>Email Not Confirmed</original>
+	<translate>Email teyit edilmedi</translate>
+</string>
+<string>
+	<original>Email Notifications Templates</original>
+	<translate>Email Bildirimleri Sablonlari</translate>
+</string>
+<string>
+	<original>Email Test Mode</original>
+	<translate>Email Test Modu</translate>
+</string>
+<string>
+	<original>Enable Registration</original>
+	<translate>Üyelik kaydini etkinlestir</translate>
+</string>
+<string>
+	<original>Error Message If Validation Fails</original>
+	<translate>Geçerlilik denetimi geçersizse hata mesaji</translate>
+</string>
+<string>
+	<original>Every</original>
+	<translate>Tümü</translate>
+</string>
+<string>
+	<original>Every 3 Weeks</original>
+	<translate>Her 3 Hafta</translate>
+</string>
+<string>
+	<original>Every 6 Weeks</original>
+	<translate>Her 6 Hafta</translate>
+</string>
+<string>
+	<original>Every Day</original>
+	<translate>Her gün</translate>
+</string>
+<string>
+	<original>Every Fortnight</original>
+	<translate>Her 2 hafta</translate>
+</string>
+<string>
+	<original>Every Month</original>
+	<translate>Her Ay</translate>
+</string>
+<string>
+	<original>Every Other Day</original>
+	<translate>Her sonraki Gün</translate>
+</string>
+<string>
+	<original>Every Week</original>
+	<translate>Her Hafta</translate>
+</string>
+<string>
+	<original>External User Access</original>
+	<translate>Harici Kullanici Erisimi</translate>
+</string>
+<string>
+	<original>Failed</original>
+	<translate>Basarisiz</translate>
+</string>
+<string>
+	<original>Feb</original>
+	<translate>Sub</translate>
+</string>
+<string>
+	<original>Fill in if required by your web hosting. You may need to consult your web hosting administrator or help documentation.</original>
+	<translate>Web hostinginiz tarafindan isteniyorsa doldurun. Destek için yardim dökümanlari veya web master'iniza danisabilirsiniz.</translate>
+</string>
+<string>
+	<original>Find</original>
+	<translate>Bul</translate>
+</string>
+<string>
+	<original>First Name</original>
+	<translate>Isim</translate>
+</string>
+<string>
+	<original>Fixed</original>
+	<translate>Sabit</translate>
+</string>
+<string>
+	<original>Footer</original>
+	<translate>Dip Not</translate>
+</string>
+<string>
+	<original>Footer For All Emails</original>
+	<translate>Tüm Emailler için dip not</translate>
+</string>
+<string>
+	<original>Forgot Your Password</original>
+	<translate>Sifenizi mi unuttunuz?</translate>
+</string>
+<string>
+	<original>Form</original>
+	<translate>Form</translate>
+</string>
+<string>
+	<original>Form Field</original>
+	<translate>Form Alani</translate>
+</string>
+<string>
+	<original>Form Fields</original>
+	<translate>Form Alanlari</translate>
+</string>
+<string>
+	<original>Forms</original>
+	<translate>Formlar</translate>
+</string>
+<string>
+	<original>Free</original>
+	<translate>Uygun</translate>
+</string>
+<string>
+	<original>Fri</original>
+	<translate>Cum</translate>
+</string>
+<string>
+	<original>Friday</original>
+	<translate>Cuma</translate>
+</string>
+<string>
+	<original>From</original>
+	<translate>Kimden</translate>
+</string>
+<string>
+	<original>Frontend View</original>
+	<translate>Son Kullanici Arayüzü</translate>
+</string>
+<string>
+	<original>Full Name</original>
+	<translate>Tam Isim</translate>
+</string>
+<string>
+	<original>Fully Booked</original>
+	<translate>Tam Dolu</translate>
+</string>
+<string>
+	<original>Fully Paid</original>
+	<translate>Ödendi</translate>
+</string>
+<string>
+	<original>Gateway</original>
+	<translate>Gateway</translate>
+</string>
+<string>
+	<original>Gateway Reference</original>
+	<translate>Gateway Tercihi</translate>
+</string>
+<string>
+	<original>Gateway Response</original>
+	<translate>Gateway Cevap</translate>
+</string>
+<string>
+	<original>Go</original>
+	<translate>Git</translate>
+</string>
+<string>
+	<original>Go Back</original>
+	<translate>Geri Git</translate>
+</string>
+<string>
+	<original>Header</original>
+	<translate>Baslik</translate>
+</string>
+<string>
+	<original>Header For All Emails</original>
+	<translate>Tüm Emailler için Baslik</translate>
+</string>
+<string>
+	<original>Help Text</original>
+	<translate>Yardim Metni</translate>
+</string>
+<string>
+	<original>Hidden</original>
+	<translate>Gizli</translate>
+</string>
+<string>
+	<original>Hide</original>
+	<translate>Sakla</translate>
+</string>
+<string>
+	<original>Home</original>
+	<translate>Ana Sayfa</translate>
+</string>
+<string>
+	<original>Host</original>
+	<translate>Host</translate>
+</string>
+<string>
+	<original>Hour</original>
+	<translate>Saat</translate>
+</string>
+<string>
+	<original>Hours</original>
+	<translate>Saat</translate>
+</string>
+<string>
+	<original>If more than one seat available, then all appointments should start at the same time. Otherwise, any overlapping allowed.</original>
+	<translate>Eger bir istasyondan fazlasi müsaitse, tüm rezervasyonlar ayni anda baslamali Degilse herhangi bir çakisana izin verilir..</translate>
+</string>
+<string>
+	<original>If set correctly, your company time is now [b]{TIME_STRING}[/b]. If it is wrong, please set your company correct time zone.</original>
+	<translate>Eger dogru tanimlanmissa su anda yerel saatiniz [b]{TIME_STRING}[/b] olmalidir. Degilse, ayarlari kontrol edin.</translate>
+</string>
+<string>
+	<original>If set to 1, the recurring option will be disabled</original>
+	<translate>Eger 1 seçiliyse, tekrarlayan rezervasyon fonksiyonu etkin olmayacaktir.</translate>
+</string>
+<string>
+	<original>If set to Minute for example, it will show 90 Minutes rather than 1 Hour 30 Minutes.</original>
+	<translate>Dakika ayari getirildiyse 1 Saat 30 Dakika yerine 90 Dakika olarak görüntülenir</translate>
+</string>
+<string>
+	<original>If set, email messages will be printed on screen rather than sent</original>
+	<translate>Seçilisye email mesajlari gönderilmez, ekranda görüntülenir.</translate>
+</string>
+<string>
+	<original>If you proceed, these appointments will be cancelled</original>
+	<translate>Devam ederseniz, bu rezervasyonlar iptal edilecektir</translate>
+</string>
+<string>
+	<original>Info</original>
+	<translate>Info</translate>
+</string>
+<string>
+	<original>Input Validation</original>
+	<translate>Giris Geçerliligi</translate>
+</string>
+<string>
+	<original>Install</original>
+	<translate>Yükle</translate>
+</string>
+<string>
+	<original>Installed Version</original>
+	<translate>Yüklü Versiyon</translate>
+</string>
+<string>
+	<original>Integers Only</original>
+	<translate>Sadece tam sayilar</translate>
+</string>
+<string>
+	<original>Invoice</original>
+	<translate>Fatura</translate>
+</string>
+<string>
+	<original>Invoice Value</original>
+	<translate>Fatura Tutari</translate>
+</string>
+<string>
+	<original>It seems that you have not made a backup for some time, it's highly recommended to do it now</original>
+	<translate>Bir süredir verileri yedeklememis görünüyorsunuz. Simdi yedekleme yapiniz</translate>
+</string>
+<string>
+	<original>Jan</original>
+	<translate>Oca</translate>
+</string>
+<string>
+	<original>Jul</original>
+	<translate>Tem</translate>
+</string>
+<string>
+	<original>Jun</original>
+	<translate>Haz</translate>
+</string>
+<string>
+	<original>Keep Cancelled/Rejected Appointments In Database</original>
+	<translate>Iptal/Red rezervasyonlari veritabaninda tut</translate>
+</string>
+<string>
+	<original>Label</original>
+	<translate>Etiket</translate>
+</string>
+<string>
+	<original>Language</original>
+	<translate>Lisan</translate>
+</string>
+<string>
+	<original>Languages</original>
+	<translate>Lisanlar</translate>
+</string>
+<string>
+	<original>Last Name</original>
+	<translate>Soy Isim</translate>
+</string>
+<string>
+	<original>Last Update</original>
+	<translate>Son Güncelleme</translate>
+</string>
+<string>
+	<original>Lead In</original>
+	<translate>Seans öncesi hazirlik zamani</translate>
+</string>
+<string>
+	<original>Lead Out</original>
+	<translate>Seans sonrasi hazirlik zamani</translate>
+</string>
+<string>
+	<original>Leave these blank to autogenerate a random password</original>
+	<translate>Otomatik sifre olusturmak için bos birakin</translate>
+</string>
+<string>
+	<original>Leave this empty to return to hitAppoint start page</original>
+	<translate>BILINMEYEN baslangiç sayfasina dönmek için bos birakin </translate>
+</string>
+<string>
+	<original>Legend</original>
+	<translate>Açiklamalar</translate>
+</string>
+<string>
+	<original>Let Customer Select</original>
+	<translate>Müsteri Seçsin</translate>
+</string>
+<string>
+	<original>Let Customer Select With Auto Assign Option</original>
+	<translate>Otomatik atama ile müsteri seçsin</translate>
+</string>
+<string>
+	<original>List</original>
+	<translate>Liste</translate>
+</string>
+<string>
+	<original>List Appointment Packs Above Regular Services</original>
+	<translate>Rezervasyon apketlerini standart hizmetlerin üstünde sirala</translate>
+</string>
+<string>
+	<original>Loading</original>
+	<translate>Yüklüyor</translate>
+</string>
+<string>
+	<original>Location</original>
+	<translate>Lokasyon</translate>
+</string>
+<string>
+	<original>Locations</original>
+	<translate>Lokasyonlar</translate>
+</string>
+<string>
+	<original>Logged out</original>
+	<translate>Çikis yapildi</translate>
+</string>
+<string>
+	<original>Login</original>
+	<translate>Giris</translate>
+</string>
+<string>
+	<original>Login details</original>
+	<translate>Giris detaylari</translate>
+</string>
+<string>
+	<original>Logout</original>
+	<translate>Çikis</translate>
+</string>
+<string>
+	<original>Logs</original>
+	<translate>Loglar</translate>
+</string>
+<string>
+	<original>Lowercase English Letters, Numbers, Underscores Only</original>
+	<translate>sadece ingilizce kucuk harfler, sayilar ve alt tireler</translate>
+</string>
+<string>
+	<original>Manage</original>
+	<translate>Yönet</translate>
+</string>
+<string>
+	<original>Mar</original>
+	<translate>Mar</translate>
+</string>
+<string>
+	<original>Marked As No Show</original>
+	<translate>No Show olarak isaretli</translate>
+</string>
+<string>
+	<original>Max Advance Booking</original>
+	<translate>Maksimum ileri tarihli rezervasyon girisi</translate>
+</string>
+<string>
+	<original>Max Number Of Appointments In Pack</original>
+	<translate>Rezervasyon paketindeki maksimum rezervasyon sayisi</translate>
+</string>
+<string>
+	<original>Max Number Of Recurring Appointments</original>
+	<translate>Maksimum tekrarlayan rezervasyon sayisi</translate>
+</string>
+<string>
+	<original>Max Time Measure In Duration Display</original>
+	<translate>Süre ekraninda maksimum zaman ölçüsü</translate>
+</string>
+<string>
+	<original>May</original>
+	<translate>May</translate>
+</string>
+<string>
+	<original>Message</original>
+	<translate>Mesaj</translate>
+</string>
+<string>
+	<original>Min Advance Booking</original>
+	<translate>En yakin tarihli rezervasyon girisi</translate>
+</string>
+<string>
+	<original>Minute</original>
+	<translate>Dakika</translate>
+</string>
+<string>
+	<original>Minutes</original>
+	<translate>Dakika</translate>
+</string>
+<string>
+	<original>Misc</original>
+	<translate>Çesitli</translate>
+</string>
+<string>
+	<original>Mon</original>
+	<translate>Pzt</translate>
+</string>
+<string>
+	<original>Monday</original>
+	<translate>Pazartesi</translate>
+</string>
+<string>
+	<original>Month</original>
+	<translate>Ay</translate>
+</string>
+<string>
+	<original>Months To Show In Calendar</original>
+	<translate>Takvimde görüntülenecek Ay sayisi</translate>
+</string>
+<string>
+	<original>Moved Down</original>
+	<translate>Asagi tasindi</translate>
+</string>
+<string>
+	<original>Moved Up</original>
+	<translate>Yukari tasindi</translate>
+</string>
+<string>
+	<original>My Appointments</original>
+	<translate>Rezervasyonlarim</translate>
+</string>
+<string>
+	<original>My Profile</original>
+	<translate>Profilim</translate>
+</string>
+<string>
+	<original>My Timezone</original>
+	<translate>Yerel zaman araligim</translate>
+</string>
+<string>
+	<original>N/A</original>
+	<translate>N/A</translate>
+</string>
+<string>
+	<original>Name</original>
+	<translate>Isim</translate>
+</string>
+<string>
+	<original>Nearest Availability</original>
+	<translate>En yakin tarihli rezervasyon</translate>
+</string>
+<string>
+	<original>New</original>
+	<translate>Yeni</translate>
+</string>
+<string>
+	<original>New Appointment</original>
+	<translate>Yeni Rezervasyon</translate>
+</string>
+<string>
+	<original>New Version</original>
+	<translate>Yeni Versiyon</translate>
+</string>
+<string>
+	<original>New Version Files Uploaded, Upgrade Procedure Required</original>
+	<translate>Versiyon güncelleme dosyalari yüklendi, güncelleme prosedürü gerekli</translate>
+</string>
+<string>
+	<original>New appointment has been created and automatically approved.</original>
+	<translate>Yeni rezervasyon olusturuldu ve otomatik olarak onaylandi.</translate>
+</string>
+<string>
+	<original>New to our site? Please take a moment to register!</original>
+	<translate>Sisteme ilk kez mi giriyorsunuz? Kayit olmak için bir dakikanizi ayrimaniz yeterli.</translate>
+</string>
+<string>
+	<original>Newly registered users will be asked to confirm their email by following a confirmation link in the email message</original>
+	<translate>Yeni kayitli kullanicilar hesaplarini, gönderilecek emailde yer alan linke tiklayarak konfirme edecektir.</translate>
+</string>
+<string>
+	<original>Newsletter</original>
+	<translate>Haber Bülteni</translate>
+</string>
+<string>
+	<original>Next Timeoffs</original>
+	<translate>Sonraki Izin Gün/Saatleri</translate>
+</string>
+<string>
+	<original>No</original>
+	<translate>Hayir</translate>
+</string>
+<string>
+	<original>No Access</original>
+	<translate>Giris yok</translate>
+</string>
+<string>
+	<original>No Email?</original>
+	<translate>Email istemiyor musunuz?</translate>
+</string>
+<string>
+	<original>No Selectable Times</original>
+	<translate>Rezervasyon yapilacak uygun zaman dilimi yok</translate>
+</string>
+<string>
+	<original>No Show</original>
+	<translate>No Show</translate>
+</string>
+<string>
+	<original>No Upgrade Procedure To Run</original>
+	<translate>Yürütülebilir güncelleme prosedürü yok</translate>
+</string>
+<string>
+	<original>No administrative users to manage appointments!</original>
+	<translate>Rezervasyonlari düzenleyecek Yönetici yok!</translate>
+</string>
+<string>
+	<original>No administrative users to manage schedules!</original>
+	<translate>Schedule'lari düzenleyecek Yönetici yok!</translate>
+</string>
+<string>
+	<original>No more available</original>
+	<translate>Artik uygun degil</translate>
+</string>
+<string>
+	<original>No payment gateways configured!</original>
+	<translate>Konfigüre edilmis ödeme gateway'i yok!</translate>
+</string>
+<string>
+	<original>No schedules configured!</original>
+	<translate>Konfigüre edilmis schedule yok!</translate>
+</string>
+<string>
+	<original>No users found matching your search</original>
+	<translate>Aramaniza uygun kullanici bulunamadi</translate>
+</string>
+<string>
+	<original>Non Registered Users</original>
+	<translate>Tanimsiz kullanicilar</translate>
+</string>
+<string>
+	<original>None</original>
+	<translate>Hiçbiri</translate>
+</string>
+<string>
+	<original>Not Allowed</original>
+	<translate>Giris yasak</translate>
+</string>
+<string>
+	<original>Not Approved</original>
+	<translate>Onaylanmadi</translate>
+</string>
+<string>
+	<original>Not Available Now</original>
+	<translate>Su anda uygun degil</translate>
+</string>
+<string>
+	<original>Not Paid</original>
+	<translate>Ödenmedi</translate>
+</string>
+<string>
+	<original>Not Registered</original>
+	<translate>Kayitli degil</translate>
+</string>
+<string>
+	<original>Not Shown</original>
+	<translate>Gösterilmedi</translate>
+</string>
+<string>
+	<original>Not Shown For Security Reasons</original>
+	<translate>Güvenlik gerekçesiyle gösterilmedi</translate>
+</string>
+<string>
+	<original>Not The First Option In Select List</original>
+	<translate>Seçim listesindeki ilk seçenek degil</translate>
+</string>
+<string>
+	<original>Not in list</original>
+	<translate>Listede yok</translate>
+</string>
+<string>
+	<original>Not you?</original>
+	<translate>Siz degil misiniz?</translate>
+</string>
+<string>
+	<original>Notification</original>
+	<translate>Bildirim</translate>
+</string>
+<string>
+	<original>Notifications</original>
+	<translate>Bildirimler</translate>
+</string>
+<string>
+	<original>Nov</original>
+	<translate>Kas</translate>
+</string>
+<string>
+	<original>Numbers only</original>
+	<translate>Sadece rakam</translate>
+</string>
+<string>
+	<original>OK</original>
+	<translate>Tamam</translate>
+</string>
+<string>
+	<original>Oct</original>
+	<translate>Eyl</translate>
+</string>
+<string>
+	<original>Old Appointment</original>
+	<translate>Eski Rezervasyon</translate>
+</string>
+<string>
+	<original>Old Appointments</original>
+	<translate>Eski Rezervasyonlar</translate>
+</string>
+<string>
+	<original>Old Timeoffs</original>
+	<translate>Eski Çalisma Izinleri</translate>
+</string>
+<string>
+	<original>One Appointment Free</original>
+	<translate>Bir ücretsiz rezervasyon</translate>
+</string>
+<string>
+	<original>One Entry Only</original>
+	<translate>Sadece tek giris</translate>
+</string>
+<string>
+	<original>Only View The Timezone</original>
+	<translate>Sadece zaman dilimlerini göster</translate>
+</string>
+<string>
+	<original>Only lowercase English letters, numbers, and underscores please!</original>
+	<translate>lutfen sadece kucuk ingilizce harfler, rakamlar ve alt tireler!</translate>
+</string>
+<string>
+	<original>Optional</original>
+	<translate>Opsiyonel</translate>
+</string>
+<string>
+	<original>Or Recurring Appointments?</original>
+	<translate>Yoksa ileri tarihli rezervasyonlar da mi?</translate>
+</string>
+<string>
+	<original>Or select one below</original>
+	<translate>Yada alttakilerden birini seçin</translate>
+</string>
+<string>
+	<original>Other Views &amp; Export</original>
+	<translate>Diger görünümler &amp; Export</translate>
+</string>
+<string>
+	<original>Other end time?</original>
+	<translate>Diger bitis zamani?</translate>
+</string>
+<string>
+	<original>Pages</original>
+	<translate>Sayfalar</translate>
+</string>
+<string>
+	<original>Paid Through</original>
+	<translate>ile ödendi</translate>
+</string>
+<string>
+	<original>Paid Value</original>
+	<translate>Ödeme Tutari</translate>
+</string>
+<string>
+	<original>Partially Booked</original>
+	<translate>Kismen Dolu</translate>
+</string>
+<string>
+	<original>Partially Paid</original>
+	<translate>Kismen ödendi</translate>
+</string>
+<string>
+	<original>Password</original>
+	<translate>Sifre</translate>
+</string>
+<string>
+	<original>Password Changed</original>
+	<translate>Sifre degistirildi</translate>
+</string>
+<string>
+	<original>Password Reset</original>
+	<translate>Sifre Sifirlama</translate>
+</string>
+<string>
+	<original>Passwords don't match!</original>
+	<translate>Sifreler uyumsuz!</translate>
+</string>
+<string>
+	<original>Payment</original>
+	<translate>Ödeme</translate>
+</string>
+<string>
+	<original>Payment Gateway</original>
+	<translate>Ödeme Gateway'i</translate>
+</string>
+<string>
+	<original>Payment Gateways</original>
+	<translate>Ödeme Gateway'leri</translate>
+</string>
+<string>
+	<original>Payment Options</original>
+	<translate>Ödeme Yöntemleri</translate>
+</string>
+<string>
+	<original>Payment Required</original>
+	<translate>Ödeme Gerekli</translate>
+</string>
+<string>
+	<original>Payments</original>
+	<translate>Ödemeler</translate>
+</string>
+<string>
+	<original>Paypal Email</original>
+	<translate>Paypal Email</translate>
+</string>
+<string>
+	<original>Pending</original>
+	<translate>Beklemede</translate>
+</string>
+<string>
+	<original>Period</original>
+	<translate>Periyod</translate>
+</string>
+<string>
+	<original>Periodic</original>
+	<translate>Periyodik</translate>
+</string>
+<string>
+	<original>Permission Denied</original>
+	<translate>Yetkisiz Giris</translate>
+</string>
+<string>
+	<original>Permissions</original>
+	<translate>Izinler</translate>
+</string>
+<string>
+	<original>Phone number should have at least {NUM} digits</original>
+	<translate>telefon numarasi en az {NUM} haneli olmali</translate>
+</string>
+<string>
+	<original>Please Confirm Your Email</original>
+	<translate>Lütfen Email'inizi teyit edin</translate>
+</string>
+<string>
+	<original>Please choose at least one option</original>
+	<translate>Lütfen en az bir opsiyon seçiniz</translate>
+</string>
+<string>
+	<original>Please choose whom to send your newsletter to</original>
+	<translate>Lütfen bültenin kime gönderilecegini seçin</translate>
+</string>
+<string>
+	<original>Please confirm the password</original>
+	<translate>Lütfen sifreyi teyit edin</translate>
+</string>
+<string>
+	<original>Please login</original>
+	<translate>Lütfen sisteme giris yapin</translate>
+</string>
+<string>
+	<original>Please provide the cancel reason</original>
+	<translate>Lütfen iptal gerekçenizi paylasiniz</translate>
+</string>
+<string>
+	<original>Please provide the reject reason</original>
+	<translate>Lütfen red gerekçenizi açiklayiniz</translate>
+</string>
+<string>
+	<original>Please provide your contact details</original>
+	<translate>Lütfen iletisim bilgilerinizi ekleyiniz</translate>
+</string>
+<string>
+	<original>Please register</original>
+	<translate>Lütfen kayit olun</translate>
+</string>
+<string>
+	<original>Please try again</original>
+	<translate>Tekrar deneyebilir misiniz?</translate>
+</string>
+<string>
+	<original>Plugin</original>
+	<translate>Plugin</translate>
+</string>
+<string>
+	<original>Plugins</original>
+	<translate>Plugins</translate>
+</string>
+<string>
+	<original>Price</original>
+	<translate>Ücret</translate>
+</string>
+<string>
+	<original>Price Format</original>
+	<translate>Ücret formati</translate>
+</string>
+<string>
+	<original>Pricing</original>
+	<translate>Ücretlendirme</translate>
+</string>
+<string>
+	<original>Print</original>
+	<translate>Yazdir</translate>
+</string>
+<string>
+	<original>Proceed</original>
+	<translate>Devam</translate>
+</string>
+<string>
+	<original>Purge</original>
+	<translate>Purge</translate>
+</string>
+<string>
+	<original>Purge Cancelled</original>
+	<translate>Purge Iptal edildi</translate>
+</string>
+<string>
+	<original>Purged</original>
+	<translate>Purged</translate>
+</string>
+<string>
+	<original>Recurring</original>
+	<translate>Tekrarlayan</translate>
+</string>
+<string>
+	<original>Recurring Options</original>
+	<translate>Tekrarlayan opsiyonlari</translate>
+</string>
+<string>
+	<original>Register</original>
+	<translate>Kayit</translate>
+</string>
+<string>
+	<original>Registered Users</original>
+	<translate>Kayitli Kullanici</translate>
+</string>
+<string>
+	<original>Reject</original>
+	<translate>Red</translate>
+</string>
+<string>
+	<original>Release No Show</original>
+	<translate>No Show serbest birak</translate>
+</string>
+<string>
+	<original>Remind Me To Backup</original>
+	<translate>Yedeklemeyi hatirlat</translate>
+</string>
+<string>
+	<original>Reminder</original>
+	<translate>Hatirlatici</translate>
+</string>
+<string>
+	<original>Reminders</original>
+	<translate>Hatirlaticilar</translate>
+</string>
+<string>
+	<original>Request (Automatically Approved)</original>
+	<translate>Istek (Automatically Approved)</translate>
+</string>
+<string>
+	<original>Request Permissions</original>
+	<translate>Talep Izinleri</translate>
+</string>
+<string>
+	<original>Require Clients Give Appointment Cancellation Reason</original>
+	<translate>Müsterilerin iptal gerekçelerini zorunlu kil</translate>
+</string>
+<string>
+	<original>Required field</original>
+	<translate>Zorunlu alan</translate>
+</string>
+<string>
+	<original>Reschedule</original>
+	<translate>Yeniden düzenle</translate>
+</string>
+<string>
+	<original>Resend Confirmation Code</original>
+	<translate>Teyit kodunu tekrar gönder</translate>
+</string>
+<string>
+	<original>Reset To Defaults</original>
+	<translate>Baslangiç ayarlarina geri dön</translate>
+</string>
+<string>
+	<original>Response</original>
+	<translate>Cevap</translate>
+</string>
+<string>
+	<original>Restore</original>
+	<translate>Tekrar kur</translate>
+</string>
+<string>
+	<original>Restore From Backup</original>
+	<translate>Yedekten tekrar kur</translate>
+</string>
+<string>
+	<original>Revise Search?</original>
+	<translate>Yeniden arama?</translate>
+</string>
+<string>
+	<original>Role</original>
+	<translate>Rol</translate>
+</string>
+<string>
+	<original>Run Upgrade Procedure</original>
+	<translate>Güncelleme prosedürünü baslat</translate>
+</string>
+<string>
+	<original>SMS</original>
+	<translate>SMS</translate>
+</string>
+<string>
+	<original>SMS Notifications Templates</original>
+	<translate>SMS Bildirim Sablonu</translate>
+</string>
+<string>
+	<original>SMTP Settings</original>
+	<translate>SMTP Ayarlari</translate>
+</string>
+<string>
+	<original>Sat</original>
+	<translate>Cts</translate>
+</string>
+<string>
+	<original>Saturday</original>
+	<translate>Cumartesi</translate>
+</string>
+<string>
+	<original>Save</original>
+	<translate>Kaydet</translate>
+</string>
+<string>
+	<original>Schedule</original>
+	<translate>Çizelge</translate>
+</string>
+<string>
+	<original>Schedules</original>
+	<translate>Çizelgeler</translate>
+</string>
+<string>
+	<original>Search</original>
+	<translate>Ara</translate>
+</string>
+<string>
+	<original>Seats</original>
+	<translate>Istasyonlar</translate>
+</string>
+<string>
+	<original>Secure</original>
+	<translate>Güvenli</translate>
+</string>
+<string>
+	<original>Select</original>
+	<translate>Seç</translate>
+</string>
+<string>
+	<original>Select Options</original>
+	<translate>Opsiyonlari seç</translate>
+</string>
+<string>
+	<original>Selectable Times</original>
+	<translate>Rezreve edilebilir saatler</translate>
+</string>
+<string>
+	<original>Selecting Now</original>
+	<translate>Buradasiniz</translate>
+</string>
+<string>
+	<original>Selection Display Style</original>
+	<translate>Seçim görüntüsü seçimi</translate>
+</string>
+<string>
+	<original>Send</original>
+	<translate>Gönder</translate>
+</string>
+<string>
+	<original>Send New Password</original>
+	<translate>Yeni sifre gönder</translate>
+</string>
+<string>
+	<original>Send Reminder Before</original>
+	<translate>Rezervasyon öncesi Hatirlatma yap</translate>
+</string>
+<string>
+	<original>Send To</original>
+	<translate>Suna gönder</translate>
+</string>
+<string>
+	<original>Sender Email</original>
+	<translate>Gönderen Email</translate>
+</string>
+<string>
+	<original>Sender Name</original>
+	<translate>Gönderen Ismi</translate>
+</string>
+<string>
+	<original>Sent At</original>
+	<translate>Gönderildi</translate>
+</string>
+<string>
+	<original>Sep</original>
+	<translate>Eki</translate>
+</string>
+<string>
+	<original>Service</original>
+	<translate>Hizmet</translate>
+</string>
+<string>
+	<original>Service selection should come before the date and time selection</original>
+	<translate>Hizmet seçimi tarih ve saat seçiminden önce gelmeli</translate>
+</string>
+<string>
+	<original>Services</original>
+	<translate>Hizmetler</translate>
+</string>
+<string>
+	<original>Settings</original>
+	<translate>Ayarlar</translate>
+</string>
+<string>
+	<original>Show</original>
+	<translate>Göster</translate>
+</string>
+<string>
+	<original>Show Session Duration For Clients</original>
+	<translate>Müsteriler için Seans sürelerini göster</translate>
+</string>
+<string>
+	<original>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</original>
+	<translate>Toplam {TOTAL_COUNT} için {SHOW_FROM} - {SHOW_TO} arasini göster </translate>
+</string>
+<string>
+	<original>Single Or Recurring Appointments?</original>
+	<translate>Sadece bir rezervasyon mu yapacaksiniz yoksa ileri tarihli rezervasyonlari da eklemek ister misiniz?</translate>
+</string>
+<string>
+	<original>Something short and descriptive, like Summer Schedule, etc</original>
+	<translate>Brüksel lahanasi gibi kisa bir açiklama </translate>
+</string>
+<string>
+	<original>Sort By</original>
+	<translate>Buna göre sirala</translate>
+</string>
+<string>
+	<original>Split</original>
+	<translate>Ayir</translate>
+</string>
+<string>
+	<original>Status</original>
+	<translate>Durum</translate>
+</string>
+<string>
+	<original>String(s) missing</original>
+	<translate>String(s) kayip</translate>
+</string>
+<string>
+	<original>Subject</original>
+	<translate>Konu</translate>
+</string>
+<string>
+	<original>Sun</original>
+	<translate>Paz</translate>
+</string>
+<string>
+	<original>Sunday</original>
+	<translate>Pazar</translate>
+</string>
+<string>
+	<original>Suspend</original>
+	<translate>Askiya al</translate>
+</string>
+<string>
+	<original>Suspended</original>
+	<translate>Askiya alindi</translate>
+</string>
+<string>
+	<original>System Access Level</original>
+	<translate>Sistem giris seviyesi</translate>
+</string>
+<string>
+	<original>System Name</original>
+	<translate>Sistem ismi</translate>
+</string>
+<string>
+	<original>Tags</original>
+	<translate>Tags</translate>
+</string>
+<string>
+	<original>Template</original>
+	<translate>Sablon</translate>
+</string>
+<string>
+	<original>Templates</original>
+	<translate>Sablonlar</translate>
+</string>
+<string>
+	<original>Terminology</original>
+	<translate>Terminoloji</translate>
+</string>
+<string>
+	<original>Text</original>
+	<translate>Metin</translate>
+</string>
+<string>
+	<original>Text Field Size</original>
+	<translate>Metin Alani boyutu</translate>
+</string>
+<string>
+	<original>Textarea</original>
+	<translate>metinalani</translate>
+</string>
+<string>
+	<original>Textarea Columns</original>
+	<translate>metinalani kolonlari</translate>
+</string>
+<string>
+	<original>Textarea Rows</original>
+	<translate>metinalani sütunlari</translate>
+</string>
+<string>
+	<original>Thank you for registering![br]Now we kindly ask you to confirm your email. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Kayit oldugunuz için tesekkür ederiz![br]Kaydinizin kesinlesmesi için sizden e-maili teyit etmenizi rica ederiz. Bunun için size gönderilen mailde yer alan konfirmasyon linkini tiklamaniz yeterli.</translate>
+</string>
+<string>
+	<original>The administrator will need to manually approve new user accounts before they can access the system</original>
+	<translate>Yeni kullanicilarin sisteme giris yapabilmeleri için Yöneticinin manuel olarak bu hesaplari onaylamasi gerekecek</translate>
+</string>
+<string>
+	<original>Theme</original>
+	<translate>Theme</translate>
+</string>
+<string>
+	<original>Themes</original>
+	<translate>Themes</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s)</original>
+	<translate>Toplam [b]{APPS_COUNT}[/b] rezervasyon var(s)</translate>
+</string>
+<string>
+	<original>There has been a problem with your payment</original>
+	<translate>Ödemenizle ilgili bir sorunla karsilastik</translate>
+</string>
+<string>
+	<original>There is a problem with your account</original>
+	<translate>Hesabinizla ilgili bir sorunla karsilastik</translate>
+</string>
+<string>
+	<original>These upgrade scripts have been executed</original>
+	<translate>Bu güncelleme scriptleri uygulanmis durumda</translate>
+</string>
+<string>
+	<original>This email is not registered</original>
+	<translate>Bu e-mail kayitlarimizda yer almamaktadir</translate>
+</string>
+<string>
+	<original>This may depend on your Excel regional settings</original>
+	<translate>Bu fonksiyon, kullandiginiz Excel ayarlarina göre degisiklik gösterebilir</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min advance booking</original>
+	<translate>Bu alan, En yakin tarihli rezervasyon girisi alanindan daha küçük olmamalidir </translate>
+</string>
+<string>
+	<original>Thu</original>
+	<translate>Per</translate>
+</string>
+<string>
+	<original>Thursday</original>
+	<translate>Persembe</translate>
+</string>
+<string>
+	<original>Time</original>
+	<translate>Saat</translate>
+</string>
+<string>
+	<original>Time Format</original>
+	<translate>Saat Formati</translate>
+</string>
+<string>
+	<original>Time Slot</original>
+	<translate>Saat Dilimi</translate>
+</string>
+<string>
+	<original>Time Slots</original>
+	<translate>Saat Dilimleri</translate>
+</string>
+<string>
+	<original>Time Unit, min</original>
+	<translate>Saat Birimi, dakika</translate>
+</string>
+<string>
+	<original>Timeoff</original>
+	<translate>Izin</translate>
+</string>
+<string>
+	<original>Times shown in [b]{TIME_ZONE}[/b] time zone</original>
+	<translate>Saatler [b]{TIME_ZONE}[/b] zaman diliminde gösterilmektedir</translate>
+</string>
+<string>
+	<original>Timezone</original>
+	<translate>Yerel Saat Araligi</translate>
+</string>
+<string>
+	<original>Title</original>
+	<translate>Ünvan</translate>
+</string>
+<string>
+	<original>To</original>
+	<translate>-</translate>
+</string>
+<string>
+	<original>Together</original>
+	<translate>Beraber</translate>
+</string>
+<string>
+	<original>Total</original>
+	<translate>Toplam</translate>
+</string>
+<string>
+	<original>Total Amount</original>
+	<translate>Toplam Tutar</translate>
+</string>
+<string>
+	<original>Total Duration</original>
+	<translate>Toplam Süre</translate>
+</string>
+<string>
+	<original>Total Price</original>
+	<translate>Toplam Tutar</translate>
+</string>
+<string>
+	<original>Tue</original>
+	<translate>Sal</translate>
+</string>
+<string>
+	<original>Tuesday</original>
+	<translate>Sali</translate>
+</string>
+<string>
+	<original>Type</original>
+	<translate>Tür</translate>
+</string>
+<string>
+	<original>URL To Return After Appointment Request</original>
+	<translate>Rezervasyondan sonra gidilecek URL</translate>
+</string>
+<string>
+	<original>Uncategorized</original>
+	<translate>Kategorize edilmemis</translate>
+</string>
+<string>
+	<original>Uninstall</original>
+	<translate>Uninstall</translate>
+</string>
+<string>
+	<original>Unique Email</original>
+	<translate>Tekil E-mail</translate>
+</string>
+<string>
+	<original>Unique Username</original>
+	<translate>Tekil Kullanici Ismi</translate>
+</string>
+<string>
+	<original>Until Closed</original>
+	<translate>Kapanana kadar</translate>
+</string>
+<string>
+	<original>Up</original>
+	<translate>Yukari</translate>
+</string>
+<string>
+	<original>Upcoming Appointments</original>
+	<translate>Yaklasan Randevular</translate>
+</string>
+<string>
+	<original>Update</original>
+	<translate>Güncelle</translate>
+</string>
+<string>
+	<original>Upgrade</original>
+	<translate>Yükselt</translate>
+</string>
+<string>
+	<original>Uploaded Version</original>
+	<translate>Yüklü Versiyon</translate>
+</string>
+<string>
+	<original>Use Email As Username</original>
+	<translate>Kullanici ismi yerine e-mail kullan</translate>
+</string>
+<string>
+	<original>User</original>
+	<translate>Kullanici</translate>
+</string>
+<string>
+	<original>User Login Required?</original>
+	<translate>Kullanci girisi zorunlu mu?</translate>
+</string>
+<string>
+	<original>User Registration</original>
+	<translate>Kullanici kaydi</translate>
+</string>
+<string>
+	<original>User Status</original>
+	<translate>Kullanici durumu</translate>
+</string>
+<string>
+	<original>Username</original>
+	<translate>Kullanici ismi</translate>
+</string>
+<string>
+	<original>Users</original>
+	<translate>Kullanicilar</translate>
+</string>
+<string>
+	<original>Valid</original>
+	<translate>Geçerli</translate>
+</string>
+<string>
+	<original>Valid From Date</original>
+	<translate>Su tarihten itibaren geçerli</translate>
+</string>
+<string>
+	<original>Valid To Date</original>
+	<translate>Su tarihe kadar geçerli</translate>
+</string>
+<string>
+	<original>Valid URL Syntax</original>
+	<translate>Geçerli URL Syntax'i</translate>
+</string>
+<string>
+	<original>Validation</original>
+	<translate>Geçerlilik Denetimi</translate>
+</string>
+<string>
+	<original>View</original>
+	<translate>Görüntüle</translate>
+</string>
+<string>
+	<original>View Only</original>
+	<translate>Sadece Görüntüle</translate>
+</string>
+<string>
+	<original>View and Update</original>
+	<translate>Görüntüle ve Güncelle</translate>
+</string>
+<string>
+	<original>Waiting For Approval</original>
+	<translate>Onay Bekliyor</translate>
+</string>
+<string>
+	<original>Warning: your current data will be deleted by restoring from backup file</original>
+	<translate>Dikkat: Yedek dosyadan yükleme sebebiyle mevcut kayitlariniz silinecek</translate>
+</string>
+<string>
+	<original>Web Page Title</original>
+	<translate>Web Sayfasi Basligi</translate>
+</string>
+<string>
+	<original>Wed</original>
+	<translate>Çar</translate>
+</string>
+<string>
+	<original>Wednesday</original>
+	<translate>Çarsamba</translate>
+</string>
+<string>
+	<original>Week</original>
+	<translate>Hafta</translate>
+</string>
+<string>
+	<original>Week Starts On</original>
+	<translate>Hafta Baslangiç Günü</translate>
+</string>
+<string>
+	<original>Weekday</original>
+	<translate>Is Günü</translate>
+</string>
+<string>
+	<original>Weeks</original>
+	<translate>Haftalar</translate>
+</string>
+<string>
+	<original>Welcome</original>
+	<translate>Hosgeldiniz</translate>
+</string>
+<string>
+	<original>When</original>
+	<translate>Ne zaman</translate>
+</string>
+<string>
+	<original>When enabling this, be sure you remember your own email address</original>
+	<translate>Bunu aktif ettiginizde girdiginiz e-mail adresini unutmayacaginizdan emin olun</translate>
+</string>
+<string>
+	<original>Working Time</original>
+	<translate>Çalisma Saatleri</translate>
+</string>
+<string>
+	<original>Wrong Confirmation Link</original>
+	<translate>Yanlis Konfirmasyon Linki</translate>
+</string>
+<string>
+	<original>Wrong username or password</original>
+	<translate>Yanlis Kullanici Ismi veya Kullanici Sifresi</translate>
+</string>
+<string>
+	<original>Yes</original>
+	<translate>Evet</translate>
+</string>
+<string>
+	<original>Yes/No</original>
+	<translate>Evet/Hayir</translate>
+</string>
+<string>
+	<original>You can use the * wildcard to match any set of characters</original>
+	<translate> * isaretini tüm karakterleri kapsamak üzere kullanabilirsiniz </translate>
+</string>
+<string>
+	<original>You cannot cancel or reschedule this appointment now</original>
+	<translate>Su anda bu rezervasyonu iptal edemez veya degistiremezsiniz</translate>
+</string>
+<string>
+	<original>You have nothing to manage</original>
+	<translate>Yönetilecek bir veri yok</translate>
+</string>
+<string>
+	<original>Your Name</original>
+	<translate>Adiniz</translate>
+</string>
+<string>
+	<original>Your account is temporarily suspended</original>
+	<translate>Hesabiniz geçici olarak askiya alindi</translate>
+</string>
+<string>
+	<original>Your email is not confirmed yet. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Emailiniz henüz teyit edilmedi. Lütfen posta kutunuzu açarak mesajinizdaki konfirmasyon linkine tiklayiniz.</translate>
+</string>
+<string>
+	<original>Your new password has been sent to your email</original>
+	<translate>Yeni sifreniz email adresinize gönderilmistir</translate>
+</string>
+<string>
+	<original>hitAppoint Path</original>
+	<translate>hitAppoint Path</translate>
+</string>
+<string>
+	<original>iCal Subscription</original>
+	<translate>iCal Subscription</translate>
+</string>
+
+<string>
+	<original>Add Another Appointment</original>
+	<translate>BaÅŸka bir rezervasyon ekle</translate>
+</string>
+<string>
+	<original>Add Appointment</original>
+	<translate>Rezervasyon ekle</translate>
+</string>
+<string>
+	<original>Add Filter</original>
+	<translate>Filtrele</translate>
+</string>
+<string>
+	<original>Add Package</original>
+	<translate>Paket ekle</translate>
+</string>
+<string>
+	<original>Add Payment</original>
+	<translate>Ã–deme ekle</translate>
+</string>
+<string>
+	<original>Add Timeslot</original>
+	<translate>Zaman aralÄ±ÄŸÄ± ekle</translate>
+</string>
+<string>
+	<original>Add To Customer</original>
+	<translate>MÃ¼ÅŸteriye ekle</translate>
+</string>
+<string>
+	<original>Add online payment options to enable this</original>
+	<translate>Aktif etmek iÃ§in online Ã¶deme yÃ¶ntemi ekle</translate>
+</string>
+<string>
+	<original>After Payment</original>
+	<translate>Ã–demeden sonra</translate>
+</string>
+<string>
+	<original>Agenda</original>
+	<translate>Ajanda</translate>
+</string>
+<string>
+	<original>All Upcoming</original>
+	<translate>TÃ¼m gelecek rezervasyonlar</translate>
+</string>
+<string>
+	<original>Already Completed</original>
+	<translate>Zaten tamamlanmÄ±ÅŸ</translate>
+</string>
+<string>
+	<original>Always</original>
+	<translate>Her zaman</translate>
+</string>
+<string>
+	<original>Any</original>
+	<translate>Herhangi</translate>
+</string>
+<string>
+	<original>Any From List</original>
+	<translate>Listeden herhangi biri</translate>
+</string>
+<string>
+	<original>Any Service</original>
+	<translate>Herhangi bir hizmet</translate>
+</string>
+<string>
+	<original>Apply</original>
+	<translate>Uygula</translate>
+</string>
+<string>
+	<original>Appointment Cart</original>
+	<translate>Rezervasyon sepeti</translate>
+</string>
+<string>
+	<original>Appointment Notes</original>
+	<translate>Rezervasyon notlarÄ±</translate>
+</string>
+<string>
+	<original>Appointment packages available</original>
+	<translate>Uygun rezervasyon paketleri</translate>
+</string>
+<string>
+	<original>Automatic Actions</original>
+	<translate>Otomatik aksiyonlar</translate>
+</string>
+<string>
+	<original>Automatic Reject</original>
+	<translate>Otomatik red</translate>
+</string>
+<string>
+	<original>Available In Package Only</original>
+	<translate>Sadece paketlerde geÃ§erli</translate>
+</string>
+<string>
+	<original>Backup Reminder</original>
+	<translate>Yedekleme hatÄ±rlatÄ±cÄ±sÄ±</translate>
+</string>
+<string>
+	<original>Bandle</original>
+	<translate>Deste</translate>
+</string>
+<string>
+	<original>Base Price</original>
+	<translate>Temel fiyat</translate>
+</string>
+<string>
+	<original>Booked Seats Less Than</original>
+	<translate>Åžundan daha az sayÄ±da rezerve edilmiÅŸ</translate>
+</string>
+<string>
+	<original>Bundle</original>
+	<translate>Deste</translate>
+</string>
+<string>
+	<original>Bundles</original>
+	<translate>Desteler</translate>
+</string>
+<string>
+	<original>Buy Now</original>
+	<translate>SatÄ±n al</translate>
+</string>
+<string>
+	<original>CC</original>
+	<translate>CC</translate>
+</string>
+<string>
+	<original>CSV Export</original>
+	<translate>CSV Export</translate>
+</string>
+<string>
+	<original>CSV File</original>
+	<translate>CSV File</translate>
+</string>
+<string>
+	<original>Calendar</original>
+	<translate>Takvim</translate>
+</string>
+<string>
+	<original>Cash</original>
+	<translate>Nakit</translate>
+</string>
+<string>
+	<original>Check</original>
+	<translate>Ã‡ek</translate>
+</string>
+<string>
+	<original>Class</original>
+	<translate>SÄ±nÄ±f</translate>
+</string>
+<string>
+	<original>Click on a date in calendar to add</original>
+	<translate>Eklemek iÃ§in takvimde geÃ§erli bir tarihe tÄ±klayÄ±n</translate>
+</string>
+<string>
+	<original>Click on a selected date to remove</original>
+	<translate>KaldÄ±rmak iÃ§in seÃ§ilmiÅŸ bir tarihe tÄ±kla</translate>
+</string>
+<string>
+	<original>Company</original>
+	<translate>Kurum</translate>
+</string>
+<string>
+	<original>Completed</original>
+	<translate>TamamlandÄ±</translate>
+</string>
+<string>
+	<original>Confirm</original>
+	<translate>Onayla</translate>
+</string>
+<string>
+	<original>Confirm Appointments</original>
+	<translate>RezervasyonlarÄ± onayla</translate>
+</string>
+<string>
+	<original>Confirm Package</original>
+	<translate>Paketi onayla</translate>
+</string>
+<string>
+	<original>Coupon Code</original>
+	<translate>Kupon kodu</translate>
+</string>
+<string>
+	<original>Coupon Code Required</original>
+	<translate>Kupon kodu gerekli</translate>
+</string>
+<string>
+	<original>Coupon Codes</original>
+	<translate>Kupon kodlarÄ±</translate>
+</string>
+<string>
+	<original>Coupons</original>
+	<translate>Kuponlar</translate>
+</string>
+<string>
+	<original>Create Invoice</original>
+	<translate>Fatura oluÅŸtur</translate>
+</string>
+<string>
+	<original>Create a package first</original>
+	<translate>Ã–nce paket oluÅŸtur</translate>
+</string>
+<string>
+	<original>Credit Card</original>
+	<translate>Kredi KartÄ±</translate>
+</string>
+<string>
+	<original>Cron Job Last Run</original>
+	<translate>Cron Job son Ã§alÄ±ÅŸma zamanÄ±</translate>
+</string>
+<string>
+	<original>Current Version</original>
+	<translate>GeÃ§erli versiyon</translate>
+</string>
+<string>
+	<original>Custom Dates</original>
+	<translate>Ã–zel tarihler</translate>
+</string>
+<string>
+	<original>Custom Price</original>
+	<translate>Ã–zel fiyat</translate>
+</string>
+<string>
+	<original>Customer Limits</original>
+	<translate>MÃ¼ÅŸteri limitleri</translate>
+</string>
+<string>
+	<original>Customer Notes</original>
+	<translate>MÃ¼ÅŸteri notlarÄ±</translate>
+</string>
+<string>
+	<original>Date Range</original>
+	<translate>Tarih aralÄ±ÄŸÄ±</translate>
+</string>
+<string>
+	<original>Days To Show</original>
+	<translate>GÃ¶sterilecek gÃ¼n sayÄ±sÄ±</translate>
+</string>
+<string>
+	<original>Due Amount</original>
+	<translate>GeÃ§erli miktar</translate>
+</string>
+<string>
+	<original>Due Date</original>
+	<translate>GeÃ§erli tarih</translate>
+</string>
+<string>
+	<original>Edit Invoice</original>
+	<translate>Fatura deÄŸiÅŸtir</translate>
+</string>
+<string>
+	<original>Enable</original>
+	<translate>Aktif et</translate>
+</string>
+<string>
+	<original>Enter 0 for no limit</original>
+	<translate>KÄ±sÄ±tlamayÄ± kaldÄ±rmak iÃ§in 0 girin</translate>
+</string>
+<string>
+	<original>Enter Code Shown</original>
+	<translate>Ekrandaki kodu girin</translate>
+</string>
+<string>
+	<original>Excel</original>
+	<translate>Excel</translate>
+</string>
+<string>
+	<original>Expired</original>
+	<translate>Tarihi geÃ§miÅŸ</translate>
+</string>
+<string>
+	<original>Expires</original>
+	<translate>Son geÃ§erlilik</translate>
+</string>
+<string>
+	<original>Expires In</original>
+	<translate>Tarihinde bitiyor</translate>
+</string>
+<string>
+	<original>Expires in</original>
+	<translate>Tarihinde bitiyor</translate>
+</string>
+<string>
+	<original>Export To Freshbooks</original>
+	<translate>Freshbook transfer et</translate>
+</string>
+<string>
+	<original>Fields Not Recognized</original>
+	<translate>Alanlar tanÄ±mlanamÄ±yor</translate>
+</string>
+<string>
+	<original>Finance</original>
+	<translate>Finans</translate>
+</string>
+<string>
+	<original>First Time Visitors Splash Screen</original>
+	<translate>Ä°lk kez ziyaretÃ§i iÃ§in hoÅŸgeldin ekranÄ±</translate>
+</string>
+<string>
+	<original>Fixed Dates</original>
+	<translate>Sabit tarihler</translate>
+</string>
+<string>
+	<original>Fixed Services</original>
+	<translate>Sabit hizmetler</translate>
+</string>
+<string>
+	<original>Fixed Time</original>
+	<translate>Sabit saatler</translate>
+</string>
+<string>
+	<original>Freshbooks</original>
+	<translate>Freshbooks</translate>
+</string>
+<string>
+	<original>Full</original>
+	<translate>Dolu</translate>
+</string>
+<string>
+	<original>Get Notified</original>
+	<translate>Bildirim al</translate>
+</string>
+<string>
+	<original>Import</original>
+	<translate>Import</translate>
+</string>
+<string>
+	<original>Info In Appointment Slot</original>
+	<translate>Rezervasyon dilimi iÃ§in bilgi</translate>
+</string>
+<string>
+	<original>Installation Path</original>
+	<translate>YÃ¼kleme yolu</translate>
+</string>
+<string>
+	<original>Instant Approval</original>
+	<translate>AnÄ±nda onay</translate>
+</string>
+<string>
+	<original>Interval</original>
+	<translate>Interval</translate>
+</string>
+<string>
+	<original>Invoice Footer</original>
+	<translate>Fatura alt baÅŸlÄ±ÄŸÄ±</translate>
+</string>
+<string>
+	<original>Invoice Header</original>
+	<translate>Fatura Ã¼st baÅŸlÄ±ÄŸÄ±</translate>
+</string>
+<string>
+	<original>Invoices</original>
+	<translate>Faturalar</translate>
+</string>
+<string>
+	<original>Is Active</original>
+	<translate>Aktif durumda</translate>
+</string>
+<string>
+	<original>Items</original>
+	<translate>Ã–ÄŸeler</translate>
+</string>
+<string>
+	<original>Leave this empty to return to the default start page</original>
+	<translate>Son kullanÄ±cÄ± baÅŸlangÄ±Ã§ sayfasÄ±na dÃ¶nmek iÃ§in bu alanÄ± boÅŸ bÄ±rakÄ±n</translate>
+</string>
+<string>
+	<original>License Code</original>
+	<translate>Lisans kodu</translate>
+</string>
+<string>
+	<original>Login Details</original>
+	<translate>Login detaylarÄ±</translate>
+</string>
+<string>
+	<original>Mandatory Fields Missing</original>
+	<translate>Zorunlu alan eksik</translate>
+</string>
+<string>
+	<original>Max Appointments In Cart</original>
+	<translate>Paketteki maksimum rezervasyon sayÄ±sÄ±</translate>
+</string>
+<string>
+	<original>Max Gap</original>
+	<translate>Maksimum aralÄ±k</translate>
+</string>
+<string>
+	<original>Max Measure For Duration Display</original>
+	<translate>SÃ¼re gÃ¶rÃ¼ntÃ¼sÃ¼ iÃ§in maksimum Ã¶lÃ§Ã¼t</translate>
+</string>
+<string>
+	<original>Max gap between appointments</original>
+	<translate>Rezervasyonlar arasÄ±nda maksimum aralÄ±k</translate>
+</string>
+<string>
+	<original>Months</original>
+	<translate>Ay</translate>
+</string>
+<string>
+	<original>Months To Show</original>
+	<translate>GÃ¶sterilecek aylar</translate>
+</string>
+<string>
+	<original>Move Down</original>
+	<translate>AÅŸaÄŸÄ±</translate>
+</string>
+<string>
+	<original>Move Up</original>
+	<translate>YukarÄ±</translate>
+</string>
+<string>
+	<original>My Packages</original>
+	<translate>Paketlerim</translate>
+</string>
+<string>
+	<original>My Payments</original>
+	<translate>Ã–demelerim</translate>
+</string>
+<string>
+	<original>Never Expires</original>
+	<translate>Son geÃ§erlilik tarihi yok</translate>
+</string>
+<string>
+	<original>New Appointment Custom Form</original>
+	<translate>Yeni Ã¶zel rezervasyon formu</translate>
+</string>
+<string>
+	<original>No Appointment</original>
+	<translate>Rezervasyon yok</translate>
+</string>
+<string>
+	<original>No Appointments</original>
+	<translate>Rezervasyon yok</translate>
+</string>
+<string>
+	<original>No Email</original>
+	<translate>Email yok</translate>
+</string>
+<string>
+	<original>No Packages Available</original>
+	<translate>Uygun paket bulunamadÄ±</translate>
+</string>
+<string>
+	<original>No Payment</original>
+	<translate>Ã–deme yok</translate>
+</string>
+<string>
+	<original>No Seats Left</original>
+	<translate>BoÅŸ rezervasyon alanÄ± yok</translate>
+</string>
+<string>
+	<original>No more options available</original>
+	<translate>BaÅŸka seÃ§enek bulunamadÄ±</translate>
+</string>
+<string>
+	<original>Not Available</original>
+	<translate>Uygun deÄŸil</translate>
+</string>
+<string>
+	<original>Not Changed</original>
+	<translate>DeÄŸiÅŸtirilmedi</translate>
+</string>
+<string>
+	<original>Not For Sale</original>
+	<translate>SatÄ±ÅŸ iÃ§in uygun deÄŸil</translate>
+</string>
+<string>
+	<original>Not Found</original>
+	<translate>BulunamadÄ±</translate>
+</string>
+<string>
+	<original>Not Limited</original>
+	<translate>SÄ±nÄ±rlandÄ±rma yok</translate>
+</string>
+<string>
+	<original>Not Scheduled</original>
+	<translate>Ã‡izelgeye alÄ±nmadÄ±</translate>
+</string>
+<string>
+	<original>Not Used</original>
+	<translate>KullanÄ±lmadÄ±</translate>
+</string>
+<string>
+	<original>Not Used Yet</original>
+	<translate>HenÃ¼z kullanÄ±lmadÄ±</translate>
+</string>
+<string>
+	<original>Not Valid</original>
+	<translate>GeÃ§erli deÄŸil</translate>
+</string>
+<string>
+	<original>Not found</original>
+	<translate>BulunamadÄ±</translate>
+</string>
+<string>
+	<original>Note</original>
+	<translate>Not</translate>
+</string>
+<string>
+	<original>Notes</original>
+	<translate>Notlar</translate>
+</string>
+<string>
+	<original>Notify Customer On Account Creation</original>
+	<translate>Hesap yaratÄ±ldÄ±ÄŸÄ±nda mÃ¼ÅŸteriyi bilgilendir</translate>
+</string>
+<string>
+	<original>Number of appointments</original>
+	<translate>Rezervasyon sayÄ±sÄ±</translate>
+</string>
+<string>
+	<original>Occupies Entire Location</original>
+	<translate>TÃ¼m lokasyonu doldurur</translate>
+</string>
+<string>
+	<original>Off</original>
+	<translate>Off</translate>
+</string>
+<string>
+	<original>Office</original>
+	<translate>Ofis</translate>
+</string>
+<string>
+	<original>Old</original>
+	<translate>Eski</translate>
+</string>
+<string>
+	<original>On</original>
+	<translate>On</translate>
+</string>
+<string>
+	<original>One option per line</original>
+	<translate>Her satÄ±rda bir opsiyon</translate>
+</string>
+<string>
+	<original>Or please register</original>
+	<translate>Yada lÃ¼tfen kaydolun</translate>
+</string>
+<string>
+	<original>Order</original>
+	<translate>SipariÅŸ</translate>
+</string>
+<string>
+	<original>Overview</original>
+	<translate>Genel bakÄ±ÅŸ</translate>
+</string>
+<string>
+	<original>Package</original>
+	<translate>Paket</translate>
+</string>
+<string>
+	<original>Package Details</original>
+	<translate>Paket detaylarÄ±</translate>
+</string>
+<string>
+	<original>Package Only</original>
+	<translate>Sadece paket</translate>
+</string>
+<string>
+	<original>Package Order</original>
+	<translate>Paket sipariÅŸi</translate>
+</string>
+<string>
+	<original>Package Orders</original>
+	<translate>Paket sipariÅŸleri</translate>
+</string>
+<string>
+	<original>Package Type</original>
+	<translate>Paket tÃ¼rÃ¼</translate>
+</string>
+<string>
+	<original>Packages</original>
+	<translate>Paketler</translate>
+</string>
+<string>
+	<original>Packs</original>
+	<translate>Toplu paketler</translate>
+</string>
+<string>
+	<original>Paid</original>
+	<translate>Ã–dendi</translate>
+</string>
+<string>
+	<original>Paid Amount</original>
+	<translate>Ã–dene tutar</translate>
+</string>
+<string>
+	<original>Pay Now</original>
+	<translate>Åžimdi Ã¶de</translate>
+</string>
+<string>
+	<original>Pending Approval</original>
+	<translate>Onayda bekleyen</translate>
+</string>
+<string>
+	<original>Please Enter Your License Code</original>
+	<translate>LÃ¼tfen lisans kodunuzu girin</translate>
+</string>
+<string>
+	<original>Please Upgrade</original>
+	<translate>LÃ¼tfen yÃ¼kseltin</translate>
+</string>
+<string>
+	<original>Please choose at least 1 option</original>
+	<translate>LÃ¼tfen en az 1 opsiyon seÃ§in</translate>
+</string>
+<string>
+	<original>Please choose at least 2 options</original>
+	<translate>LÃ¼tfen en az 2 opsiyon seÃ§in</translate>
+</string>
+<string>
+	<original>Please configure automatic actions first</original>
+	<translate>LÃ¼tfen Ã¶nce otomatik aksiyonlarÄ± konfigÃ¼re edin</translate>
+</string>
+<string>
+	<original>Please give a reason</original>
+	<translate>LÃ¼tfen aÃ§Ä±klama belirtin</translate>
+</string>
+<string>
+	<original>Please select the end date in calendar</original>
+	<translate>LÃ¼tfen takvimden hizmet bitim tarihini seÃ§in</translate>
+</string>
+<string>
+	<original>Please select the start date in calendar</original>
+	<translate>LÃ¼tfen takvimden hizmet baÅŸlangÄ±Ã§ tarihini seÃ§in</translate>
+</string>
+<string>
+	<original>Preferred Time</original>
+	<translate>Tercih edilen zaman</translate>
+</string>
+<string>
+	<original>Preferred time not available</original>
+	<translate>Tercih edilen zaman uygun deÄŸil</translate>
+</string>
+<string>
+	<original>Prepayment</original>
+	<translate>Ã–n Ã¶deme</translate>
+</string>
+<string>
+	<original>Preview</original>
+	<translate>Ã–n izleme</translate>
+</string>
+<string>
+	<original>Print View</original>
+	<translate>BaskÄ± gÃ¶rÃ¼nÃ¼mÃ¼</translate>
+</string>
+<string>
+	<original>Promotion</original>
+	<translate>Promosyon</translate>
+</string>
+<string>
+	<original>Promotions and Coupons</original>
+	<translate>Promosyonlar ve kuponlar</translate>
+</string>
+<string>
+	<original>Purchase</original>
+	<translate>SatÄ±n al</translate>
+</string>
+<string>
+	<original>Quantity</original>
+	<translate>Miktar</translate>
+</string>
+<string>
+	<original>Reassign From</original>
+	<translate>Formu yeniden iliÅŸkilendir</translate>
+</string>
+<string>
+	<original>Reassign To</original>
+	<translate>Åžununla iliÅŸkilendir</translate>
+</string>
+<string>
+	<original>Recurring Appointments</original>
+	<translate>Tekrarlayan rezervasyonlar</translate>
+</string>
+<string>
+	<original>Refno</original>
+	<translate>Refno</translate>
+</string>
+<string>
+	<original>Reject Before</original>
+	<translate>Åžundan Ã¶nce red et</translate>
+</string>
+<string>
+	<original>Remain</original>
+	<translate>Kalan</translate>
+</string>
+<string>
+	<original>Require Deposit</original>
+	<translate>Ã–n Ã¶deme iste</translate>
+</string>
+<string>
+	<original>Require Strong Passwords</original>
+	<translate>GÃ¼Ã§lÃ¼ ÅŸifre iste</translate>
+</string>
+<string>
+	<original>Required Field</original>
+	<translate>Zorunlu alan</translate>
+</string>
+<string>
+	<original>Resource</original>
+	<translate>Kaynak</translate>
+</string>
+<string>
+	<original>Restrictions</original>
+	<translate>KÄ±sÄ±tlamalar</translate>
+</string>
+<string>
+	<original>Returning</original>
+	<translate>Ä°ade</translate>
+</string>
+<string>
+	<original>Same As Above</original>
+	<translate>YukarÄ±dakiyle aynÄ±</translate>
+</string>
+<string>
+	<original>Schedule Now</original>
+	<translate>Åžimdi yap</translate>
+</string>
+<string>
+	<original>Seats Left</original>
+	<translate>Kalan rezervasyon</translate>
+</string>
+<string>
+	<original>Sell</original>
+	<translate>Sat</translate>
+</string>
+<string>
+	<original>Selling Price</original>
+	<translate>SatÄ±ÅŸ fiyatÄ±</translate>
+</string>
+<string>
+	<original>Send CC For Appointment</original>
+	<translate>Rezervasyon iÃ§in CC gÃ¶nder</translate>
+</string>
+<string>
+	<original>Send Email</original>
+	<translate>Email gÃ¶nder</translate>
+</string>
+<string>
+	<original>Send Invoice</original>
+	<translate>Fatura gÃ¶nder</translate>
+</string>
+<string>
+	<original>Services In Package</original>
+	<translate>Paketteki hizmetler</translate>
+</string>
+<string>
+	<original>Set Completed</original>
+	<translate>TamamlandÄ± iÅŸaretle</translate>
+</string>
+<string>
+	<original>Set For All Services</original>
+	<translate>TÃ¼m servisler iÃ§in geÃ§erli kÄ±l</translate>
+</string>
+<string>
+	<original>Setting this to 0 keeps the location available as long as there are resources available</original>
+	<translate>Bunu 0 olarak ayarlamak kaynaklar uygun olduÄŸu sÃ¼rece lokasyonu uygun kÄ±lar</translate>
+</string>
+<string>
+	<original>Show All Time</original>
+	<translate>TÃ¼m saatleri gÃ¶ster</translate>
+</string>
+<string>
+	<original>Show Appointment End Time For Clients</original>
+	<translate>MÃ¼ÅŸteri iÃ§in rezervasyon bitiÅŸ saatini gÃ¶ster</translate>
+</string>
+<string>
+	<original>Show Completed Appointments In Admin Calendar</original>
+	<translate>TamamlanmÄ±ÅŸ rezervasyonmlarÄ± admin takviminde gÃ¶ster</translate>
+</string>
+<string>
+	<original>Show Fields</original>
+	<translate>AlanlarÄ± gÃ¶ster</translate>
+</string>
+<string>
+	<original>Single Appointment</original>
+	<translate>Tekil rezervasyonlar</translate>
+</string>
+<string>
+	<original>Single Services</original>
+	<translate>Tekil hizmetler</translate>
+</string>
+<string>
+	<original>Slot Type</original>
+	<translate>AralÄ±k tÃ¼rÃ¼</translate>
+</string>
+<string>
+	<original>Subtotal</original>
+	<translate>Alt toplam</translate>
+</string>
+<string>
+	<original>Subtotal Due Now</original>
+	<translate>Åžu ana kadarki alt toplam</translate>
+</string>
+<string>
+	<original>Synchronization</original>
+	<translate>Senkronizasyon</translate>
+</string>
+<string>
+	<original>Tax Rate</original>
+	<translate>Vergi oranÄ±</translate>
+</string>
+<string>
+	<original>Tax Title</original>
+	<translate>Vergi ismi</translate>
+</string>
+<string>
+	<original>The appointment will be completely deleted including all related payments. No notifications will be sent.</original>
+	<translate>Bu kayÄ±t Ã¶demeler ve tÃ¼m diÄŸer bilgiler dahil olmak Ã¼zere tamamen silinecektir ve mÃ¼ÅŸteri bilgilendirilmeyecektir.</translate>
+</string>
+<string>
+	<original>The end time should be after the start</original>
+	<translate>BitiÅŸ zamanÄ± baÅŸlangÄ±Ã§ zamanÄ±ndan sonra olmalÄ±dÄ±r.</translate>
+</string>
+<string>
+	<original>This Date Only</original>
+	<translate>Sadece bu tarih</translate>
+</string>
+<string>
+	<original>Time Range</original>
+	<translate>Zaman dilimi</translate>
+</string>
+<string>
+	<original>Time Unit</original>
+	<translate>Zaman birimi</translate>
+</string>
+<string>
+	<original>Total Due</original>
+	<translate>Total geÃ§erlilik</translate>
+</string>
+<string>
+	<original>Total Due Now</original>
+	<translate>Åžu ana kadarki toplam geÃ§erlilik</translate>
+</string>
+<string>
+	<original>Total Paid</original>
+	<translate>Toplam Ã¶denen</translate>
+</string>
+<string>
+	<original>Total Seats</original>
+	<translate>Toplam istasyon</translate>
+</string>
+<string>
+	<original>Total Value</original>
+	<translate>Toplam</translate>
+</string>
+<string>
+	<original>Transactions</original>
+	<translate>Ä°ÅŸlemler</translate>
+</string>
+<string>
+	<original>Travel Time</original>
+	<translate>Seyahat sÃ¼resi</translate>
+</string>
+<string>
+	<original>URL For Customer</original>
+	<translate>mÃ¼ÅŸterile iÃ§in URL</translate>
+</string>
+<string>
+	<original>Unit Price</original>
+	<translate>Birim fiyat</translate>
+</string>
+<string>
+	<original>Unlimited</original>
+	<translate>SÄ±nÄ±rsÄ±z</translate>
+</string>
+<string>
+	<original>Unmark No Show</original>
+	<translate>No Show durumundan Ã§Ä±kar</translate>
+</string>
+<string>
+	<original>Usage</original>
+	<translate>KullanÄ±m</translate>
+</string>
+<string>
+	<original>Usage Count</original>
+	<translate>KullanÄ±m sayÄ±sÄ±</translate>
+</string>
+<string>
+	<original>Usage Limit</original>
+	<translate>KullanÄ±m limiti</translate>
+</string>
+<string>
+	<original>Use Captcha For Non-Registered Users</original>
+	<translate>KayÄ±tsÄ±z kullanÄ±cÄ±lar iÃ§in Captcha kullan</translate>
+</string>
+<string>
+	<original>Use Customer Packages</original>
+	<translate>MÃ¼ÅŸteri paketlerini kullan</translate>
+</string>
+<string>
+	<original>Use at least 8 characters</original>
+	<translate>En az 8 karakter</translate>
+</string>
+<string>
+	<original>Use both letters and numbers</original>
+	<translate>Harf ve sayÄ± kullanÄ±n</translate>
+</string>
+<string>
+	<original>Used</original>
+	<translate>KullanÄ±mda</translate>
+</string>
+<string>
+	<original>Valid Email Syntax</original>
+	<translate>GeÃ§erli Email Syntax</translate>
+</string>
+<string>
+	<original>Valid Phone Number (10 digits)</original>
+	<translate>GeÃ§erli mobil telefon numarasÄ± (10 hane)</translate>
+</string>
+<string>
+	<original>Valid Phone Number (11 digits)</original>
+	<translate>GeÃ§erli mobil telefon numarasÄ± (11 hane)</translate>
+</string>
+<string>
+	<original>Valid Till</original>
+	<translate>Åžuna kadar geÃ§erli</translate>
+</string>
+<string>
+	<original>Valid email required</original>
+	<translate>GeÃ§erli email zorunlu</translate>
+</string>
+<string>
+	<original>Value</original>
+	<translate>DeÄŸer</translate>
+</string>
+<string>
+	<original>We can recognize the following fields in your CSV file</original>
+	<translate>CSV dosyanÄ±zda takip eden alanlarÄ± tanÄ±mlayabiliyoruz</translate>
+</string>
+<string>
+	<original>Weekdays</original>
+	<translate>Hafta gÃ¼nleri</translate>
+</string>
+<string>
+	<original>Working Time End</original>
+	<translate>Ã‡alÄ±ÅŸma saati bitiÅŸi</translate>
+</string>
+<string>
+	<original>Working Time Start</original>
+	<translate>Ã‡alÄ±ÅŸma saati baÅŸlangÄ±cÄ±</translate>
+</string>
+<string>
+	<original>Wrong Code</original>
+	<translate>HatalÄ± kod</translate>
+</string>
+<string>
+	<original>Years</original>
+	<translate>YÄ±l</translate>
+</string>
+<string>
+	<original>Yes, I've configured the cron job</original>
+	<translate>Evet, cron job konfigÃ¼re edildi</translate>
+</string>
+<string>
+	<original>You can not select this service now</original>
+	<translate>Åžu anda bu hizmet seÃ§ilemez</translate>
+</string>
+<string>
+	<original>You have not yet added hitAppoint [hitappoint] shortcode to any of your posts or pages, some features may not work properly!</original>
+	<translate>HenÃ¼z hitAppoint [hitappoint] kÄ±sa kodunu gÃ¶nderi veya sayfalarÄ±nÄ±za eklemediniz. BazÄ± fonksiyonlar dÃ¼zgÃ¼n Ã§alÄ±ÅŸmayabilir!</translate>
+</string>
+
+</file>

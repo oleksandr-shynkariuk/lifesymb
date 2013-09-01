@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file>
+<language>Hrvatski</language>
+<author>Nenad Crnko</author>
+<lastUpdate>15 Mart, 2012</lastUpdate>
+<charset>utf-8</charset>
+
+<string>
+	<original>- Any -</original>
+	<translate>- Bilo koji -</translate>
+</string>
+<string>
+	<original>Access Denied</original>
+	<translate>Zabranjen pristup</translate>
+</string>
+<string>
+	<original>Actions</original>
+	<translate>Aktivnosti</translate>
+</string>
+<string>
+	<original>Activate</original>
+	<translate>Aktivirati</translate>
+</string>
+<string>
+	<original>Active</original>
+	<translate>Aktivan</translate>
+</string>
+<string>
+	<original>Add</original>
+	<translate>Dodaj</translate>
+</string>
+<string>
+	<original>Add a star sign (*) before the default value</original>
+	<translate>Dodaj znak zvjezdice (*) prije podrazumijevane vrijednosti</translate>
+</string>
+<string>
+	<original>Admin</original>
+	<translate>Administracija</translate>
+</string>
+<string>
+	<original>Admin Area</original>
+	<translate>Administracijsko područje</translate>
+</string>
+<string>
+	<original>Administrative User</original>
+	<translate>Administrator</translate>
+</string>
+<string>
+	<original>Administrative Users</original>
+	<translate>Korisnici administratori</translate>
+</string>
+<string>
+	<original>Advanced Search</original>
+	<translate>Napredno pretraživanje</translate>
+</string>
+<string>
+	<original>All</original>
+	<translate>Svi</translate>
+</string>
+<string>
+	<original>All Days</original>
+	<translate>Svi dani</translate>
+</string>
+<string>
+	<original>Allow Duplicate Emails</original>
+	<translate>Dozvoli ponavljanje e-mail adresa</translate>
+</string>
+<string>
+	<original>Allow No Email</original>
+	<translate>Ne dopusti e-mail</translate>
+</string>
+<string>
+	<original>Allow To Set Own Timezone</original>
+	<translate>Dozvoli postavljanje vlastite vremenske zone</translate>
+</string>
+<string>
+	<original>Already Approved</original>
+	<translate>Već odobreno</translate>
+</string>
+<string>
+	<original>Already Confirmed</original>
+	<translate>Već potvrđeno</translate>
+</string>
+<string>
+	<original>Already have an account?</original>
+	<translate>Već postoji korisnički račun?</translate>
+</string>
+<string>
+	<original>Already in use</original>
+	<translate>Već je u upotrebi</translate>
+</string>
+<string>
+	<original>Amount</original>
+	<translate>Iznos</translate>
+</string>
+<string>
+	<original>Applied On</original>
+	<translate>Primijenjen na</translate>
+</string>
+<string>
+	<original>Appointment</original>
+	<translate>Sastanak</translate>
+</string>
+<string>
+	<original>Appointment Details</original>
+	<translate>Detalji o sastanku</translate>
+</string>
+<string>
+	<original>Appointment Flow</original>
+	<translate>Tijek sastanka</translate>
+</string>
+<string>
+	<original>Appointment Form</original>
+	<translate>Oblik sastanka</translate>
+</string>
+<string>
+	<original>Appointment Forms</original>
+	<translate>Oblici sastanka</translate>
+</string>
+<string>
+	<original>Appointment Pack</original>
+	<translate>Paket sastanka</translate>
+</string>
+<string>
+	<original>Appointment Packs</original>
+	<translate>Paketi sastanka</translate>
+</string>
+<string>
+	<original>Appointments</original>
+	<translate>Sastanci</translate>
+</string>
+<string>
+	<original>Appointments In Total</original>
+	<translate>Ukupno sastanaka</translate>
+</string>
+<string>
+	<original>Approval Required</original>
+	<translate>Zahtjev za odobrenje</translate>
+</string>
+<string>
+	<original>Approve</original>
+	<translate>Odobrenje</translate>
+</string>
+<string>
+	<original>Approved</original>
+	<translate>Odobreno</translate>
+</string>
+<string>
+	<original>Apr</original>
+	<translate>Tra</translate>
+</string>
+<string>
+	<original>Are you sure?</original>
+	<translate>Jeste li sigurni?</translate>
+</string>
+<string>
+	<original>Assign</original>
+	<translate>Dodijeliti</translate>
+</string>
+<string>
+	<original>Attach Ical File To Notification Email</original>
+	<translate>Pričvrsti Ical datoteku u e-mail za obavijest</translate>
+</string>
+<string>
+	<original>Aug</original>
+	<translate>Kol</translate>
+</string>
+<string>
+	<original>Author</original>
+	<translate>Autor</translate>
+</string>
+<string>
+	<original>Auto Confirmed</original>
+	<translate>Automatska potvrda</translate>
+</string>
+<string>
+	<original>Automatically Select Any Available</original>
+	<translate>Automatski odaberi sve dostupno</translate>
+</string>
+<string>
+	<original>Availability</original>
+	<translate>Dostupnost</translate>
+</string>
+<string>
+	<original>Available</original>
+	<translate>Dostupno</translate>
+</string>
+<string>
+	<original>Available In Packs Only</original>
+	<translate>Dostupno samo u paketima</translate>
+</string>
+<string>
+	<original>Backup</original>
+	<translate>Backup</translate>
+</string>
+<string>
+	<original>Backup File</original>
+	<translate>Backup datoteka</translate>
+</string>
+<string>
+	<original>Bookable Resource</original>
+	<translate>Rezervirani resurs</translate>
+</string>
+<string>
+	<original>Bookable Resources</original>
+	<translate>Rezervirani resursi</translate>
+</string>
+<string>
+	<original>Browse</original>
+	<translate>Pogledati</translate>
+</string>
+<string>
+	<original>Bulk Actions</original>
+	<translate>Grupne akcije</translate>
+</string>
+<string>
+	<original>CSV Field Delimiter</original>
+	<translate>CSV znak za odjeljivanje</translate>
+</string>
+<string>
+	<original>Cancel</original>
+	<translate>Otkazi</translate>
+</string>
+<string>
+	<original>Cancellation/Reschedule Deadline</original>
+	<translate>Otkazivanje/Raspoređivanje roka</translate>
+</string>
+<string>
+	<original>Cancelled</original>
+	<translate>Otkazano</translate>
+</string>
+<string>
+	<original>Capacity</original>
+	<translate>Kapacitet</translate>
+</string>
+<string>
+	<original>Categories</original>
+	<translate>Kategorije</translate>
+</string>
+<string>
+	<original>Category</original>
+	<translate>Kategorija</translate>
+</string>
+<string>
+	<original>Change</original>
+	<translate>Promjena</translate>
+</string>
+<string>
+	<original>Change Appointment</original>
+	<translate>Promjena sastanka</translate>
+</string>
+<string>
+	<original>Change Password</original>
+	<translate>Promjena lozinke</translate>
+</string>
+<string>
+	<original>Checkbox On</original>
+	<translate>Uključen okvir za izbor</translate>
+</string>
+<string>
+	<original>Class/Lesson</original>
+	<translate>Razred/lekcija</translate>
+</string>
+<string>
+	<original>Click here to confirm your email</original>
+	<translate>Kliknite ovdje da bi potvrdili e-mail</translate>
+</string>
+<string>
+	<original>Click to activate</original>
+	<translate>Kliknite za aktiviranje</translate>
+</string>
+<string>
+	<original>Click to disable</original>
+	<translate>Kliknite za onesposobljavanje</translate>
+</string>
+<string>
+	<original>Close</original>
+	<translate>Zatvori</translate>
+</string>
+<string>
+	<original>Company Confirmation Required</original>
+	<translate>Zahtijevana potvrda poduzeća</translate>
+</string>
+<string>
+	<original>Company Timezone</original>
+	<translate>Vremenska zona poduzeća</translate>
+</string>
+<string>
+	<original>Confirm Appointment</original>
+	<translate>Potvrda sastanka</translate>
+</string>
+<string>
+	<original>Confirm Password</original>
+	<translate>Potvrda lozinke</translate>
+</string>
+<string>
+	<original>Confirm Reschedule</original>
+	<translate>Potvrda raspoređivanja</translate>
+</string>
+<string>
+	<original>Congratulations, your account has been created and activated</original>
+	<translate>Čestitamo Vaš korisnički račun je stvoren i aktiviran</translate>
+</string>
+<string>
+	<original>Contact Information</original>
+	<translate>Kontakt informacije</translate>
+</string>
+<string>
+	<original>Continue</original>
+	<translate>Nastavi</translate>
+</string>
+<string>
+	<original>Continue With Recurring Appointments</original>
+	<translate>Nastavak s ponavljanjem sastanka</translate>
+</string>
+<string>
+	<original>Continue With Single Appointment</original>
+	<translate>Nastavak s pojedinačnim sastankom</translate>
+</string>
+<string>
+	<original>Copy</original>
+	<translate>Kopiraj</translate>
+</string>
+<string>
+	<original>Create</original>
+	<translate>Stvori</translate>
+</string>
+<string>
+	<original>Create Appointment</original>
+	<translate>Stvori sastanak</translate>
+</string>
+<string>
+	<original>Created</original>
+	<translate>Stvoreno</translate>
+</string>
+<string>
+	<original>Currency</original>
+	<translate>Valuta</translate>
+</string>
+<string>
+	<original>Custom Form</original>
+	<translate>Prilagođena forma</translate>
+</string>
+<string>
+	<original>Customer</original>
+	<translate>Kupac</translate>
+</string>
+<string>
+	<original>Customers</original>
+	<translate>Kupci</translate>
+</string>
+<string>
+	<original>Date</original>
+	<translate>Datum</translate>
+</string>
+<string>
+	<original>Date Format</original>
+	<translate>Format datuma</translate>
+</string>
+<string>
+	<original>Date and Time</original>
+	<translate>Datum i vrijeme</translate>
+</string>
+<string>
+	<original>Dates</original>
+	<translate>Datumi</translate>
+</string>
+<string>
+	<original>Day</original>
+	<translate>Dan</translate>
+</string>
+<string>
+	<original>Days</original>
+	<translate>Dani</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For External User</original>
+	<translate>Dani koji se prikazuju u kalendaru za vanjske korisnike</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For Internal User</original>
+	<translate>Dani koji se prikazuju u kalendaru za unutarnje korisnike</translate>
+</string>
+<string>
+	<original>Dec</original>
+	<translate>Pro</translate>
+</string>
+<string>
+	<original>Default Value</original>
+	<translate>Podrazumijevana vrijednost</translate>
+</string>
+<string>
+	<original>Delete</original>
+	<translate>Obriši</translate>
+</string>
+<string>
+	<original>Deleted</original>
+	<translate>Obrisano</translate>
+</string>
+<string>
+	<original>Description</original>
+	<translate>Opis</translate>
+</string>
+<string>
+	<original>Desired Username</original>
+	<translate>Željeno korisničko ime</translate>
+</string>
+<string>
+	<original>Details</original>
+	<translate>Detalji</translate>
+</string>
+<string>
+	<original>Disable</original>
+	<translate>Onesposobi</translate>
+</string>
+<string>
+	<original>Discount</original>
+	<translate>Popust</translate>
+</string>
+<string>
+	<original>Do Not Show The Timezone</original>
+	<translate>Ne pokazuj vremenske zone</translate>
+</string>
+<string>
+	<original>Don't have a particular preference</original>
+	<translate>Nemate posebnu prednost</translate>
+</string>
+<string>
+	<original>Don't have an account yet?</original>
+	<translate>Jos nemate korisnički račun?</translate>
+</string>
+<string>
+	<original>Down</original>
+	<translate>Dolje</translate>
+</string>
+<string>
+	<original>Download Backup</original>
+	<translate>Preuzmi Backup</translate>
+</string>
+<string>
+	<original>Drop Down</original>
+	<translate>Padajući popis</translate>
+</string>
+<string>
+	<original>Due Value</original>
+	<translate>Zbog vrijednosti</translate>
+</string>
+<string>
+	<original>Duplicate</original>
+	<translate>Dupliciraj</translate>
+</string>
+<string>
+	<original>Duplicate To</original>
+	<translate>Dupliciraj do</translate>
+</string>
+<string>
+	<original>Duration</original>
+	<translate>Trajanje</translate>
+</string>
+<string>
+	<original>Each option on new line</original>
+	<translate>Svaka opcija u novi red</translate>
+</string>
+<string>
+	<original>Edit</original>
+	<translate>Uredi</translate>
+</string>
+<string>
+	<original>Email</original>
+	<translate>E-mail</translate>
+</string>
+<string>
+	<original>Email Confirmation Required</original>
+	<translate>Zahtijeva se potvrda e-mailom</translate>
+</string>
+<string>
+	<original>Email Not Confirmed</original>
+	<translate>E-mail nije potvrđen</translate>
+</string>
+<string>
+	<original>Email Notifications Templates</original>
+	<translate>Predlošci za e-mail obavijest</translate>
+</string>
+<string>
+	<original>Email Test Mode</original>
+	<translate>E-mail test</translate>
+</string>
+<string>
+	<original>Enable Registration</original>
+	<translate>Omogući registraciju</translate>
+</string>
+<string>
+	<original>Error Message If Validation Fails</original>
+	<translate>Poruka o greški ako ne uspije provjera</translate>
+</string>
+<string>
+	<original>Every</original>
+	<translate>Svaki</translate>
+</string>
+<string>
+	<original>Every 3 Weeks</original>
+	<translate>Svaka 3 tjedna</translate>
+</string>
+<string>
+	<original>Every 6 Weeks</original>
+	<translate>Svakih 6 tjedana</translate>
+</string>
+<string>
+	<original>Every Day</original>
+	<translate>Svaki dan</translate>
+</string>
+<string>
+	<original>Every Fortnight</original>
+	<translate>Svake dvije nedjelje</translate>
+</string>
+<string>
+	<original>Every Month</original>
+	<translate>Svaki mjesec</translate>
+</string>
+<string>
+	<original>Every Other Day</original>
+	<translate>Svaki drugi dan</translate>
+</string>
+<string>
+	<original>Every Week</original>
+	<translate>Svaki tjedan</translate>
+</string>
+<string>
+	<original>External User Access</original>
+	<translate>Pristup vanjskom korisniku</translate>
+</string>
+<string>
+	<original>Failed</original>
+	<translate>Nije uspio</translate>
+</string>
+<string>
+	<original>Feb</original>
+	<translate>Vel</translate>
+</string>
+<string>
+	<original>Fill in if required by your web hosting. You may need to consult your web hosting administrator or help documentation.</original>
+	<translate>Popuni ako to zahtijeva vaš web hosting. Možda ćete trebati konzultirati administratora ili dokumentaciju s uputama.</translate>
+</string>
+<string>
+	<original>Find</original>
+	<translate>Pronađi</translate>
+</string>
+<string>
+	<original>First Name</original>
+	<translate>Ime</translate>
+</string>
+<string>
+	<original>Fixed</original>
+	<translate>Fiksno</translate>
+</string>
+<string>
+	<original>Footer</original>
+	<translate>Podnožje</translate>
+</string>
+<string>
+	<original>Footer For All Emails</original>
+	<translate>Podnožje za sve e-mail poruke</translate>
+</string>
+<string>
+	<original>Forgot Your Password</original>
+	<translate>Zaboravili ste lozinku</translate>
+</string>
+<string>
+	<original>Form</original>
+	<translate>Forma</translate>
+</string>
+<string>
+	<original>Form Field</original>
+	<translate>Polje na formi</translate>
+</string>
+<string>
+	<original>Form Fields</original>
+	<translate>Polja na formi</translate>
+</string>
+<string>
+	<original>Forms</original>
+	<translate>Forme</translate>
+</string>
+<string>
+	<original>Free</original>
+	<translate>Slobodno</translate>
+</string>
+<string>
+	<original>Fri</original>
+	<translate>Pet</translate>
+</string>
+<string>
+	<original>Friday</original>
+	<translate>Petak</translate>
+</string>
+<string>
+	<original>From</original>
+	<translate>Od</translate>
+</string>
+<string>
+	<original>Frontend View</original>
+	<translate>Korisnički pogled</translate>
+</string>
+<string>
+	<original>Full Name</original>
+	<translate>Puno ime</translate>
+</string>
+<string>
+	<original>Fully Booked</original>
+	<translate>Potpuno rezerviran</translate>
+</string>
+<string>
+	<original>Fully Paid</original>
+	<translate>Potpuno plaćen</translate>
+</string>
+<string>
+	<original>Gateway</original>
+	<translate>Prolaz</translate>
+</string>
+<string>
+	<original>Gateway Reference</original>
+	<translate>Upućivanje na prolaz</translate>
+</string>
+<string>
+	<original>Gateway Response</original>
+	<translate>Odgovor prolaza</translate>
+</string>
+<string>
+	<original>Go</original>
+	<translate>Idi</translate>
+</string>
+<string>
+	<original>Go Back</original>
+	<translate>Vrati se</translate>
+</string>
+<string>
+	<original>Header</original>
+	<translate>Zaglavlje</translate>
+</string>
+<string>
+	<original>Header For All Emails</original>
+	<translate>Zaglavlje za sve e-mail poruke</translate>
+</string>
+<string>
+	<original>Help Text</original>
+	<translate>Tekst uputa</translate>
+</string>
+<string>
+	<original>Hidden</original>
+	<translate>Skriven</translate>
+</string>
+<string>
+	<original>Hide</original>
+	<translate>Sakrij</translate>
+</string>
+<string>
+	<original>Home</original>
+	<translate>Home</translate>
+</string>
+<string>
+	<original>Host</original>
+	<translate>Domaćin</translate>
+</string>
+<string>
+	<original>Hour</original>
+	<translate>Sat</translate>
+</string>
+<string>
+	<original>Hours</original>
+	<translate>Sati</translate>
+</string>
+<string>
+	<original>If more than one seat available, then all appointments should start at the same time. Otherwise, any overlapping allowed.</original>
+	<translate>Ako je dostupno više sjedišta, onda svi sastanci trebaju početi u isto vrijeme. U suprotnom dozvoljeno je preklapanje.</translate>
+</string>
+<string>
+	<original>If set correctly, your company time is now [b]{TIME_STRING}[/b]. If it is wrong, please set your company correct time zone.</original>
+	<translate>Ako je pravilno definirano, trenutno vrijeme u poduzeću je [b]{TIME_STRING}[/b]. Ako je definirano neispravno molimo vas da postavite vremensku zonu.</translate>
+</string>
+<string>
+	<original>If set to 1, the recurring option will be disabled</original>
+	<translate>Ako je postavljen na 1, ponavljanje će biti onesposobljeno</translate>
+</string>
+<string>
+	<original>If set to Minute for example, it will show 90 Minutes rather than 1 Hour 30 Minutes.</original>
+	<translate>Ako je postavljeno na minute, biti će prikazano 90 minuta umjesto 1 sat i 30 minuta.</translate>
+</string>
+<string>
+	<original>If set, email messages will be printed on screen rather than sent</original>
+	<translate>Ako je postavljeno, e-mail poruke će biti ispisane, a ne poslane.</translate>
+</string>
+<string>
+	<original>If you proceed, these appointments will be cancelled</original>
+	<translate>Ako nastavite, sastanci će biti otkazani</translate>
+</string>
+<string>
+	<original>Info</original>
+	<translate>Info</translate>
+</string>
+<string>
+	<original>Input Validation</original>
+	<translate>Provjera ispravnosti ulaza</translate>
+</string>
+<string>
+	<original>Install</original>
+	<translate>Instaliraj</translate>
+</string>
+<string>
+	<original>Installed Version</original>
+	<translate>Instalirana verzija</translate>
+</string>
+<string>
+	<original>Integers Only</original>
+	<translate>Samo cijeli brojevi</translate>
+</string>
+<string>
+	<original>Invoice</original>
+	<translate>Faktura</translate>
+</string>
+<string>
+	<original>Invoice Value</original>
+	<translate>Vrijednost fakture</translate>
+</string>
+<string>
+	<original>It seems that you have not made a backup for some time, it's highly recommended to do it now</original>
+	<translate>Čini se da niste izrađivali backup neko vrijeme, pa preporučamo da to napravite sada</translate>
+</string>
+<string>
+	<original>Jan</original>
+	<translate>Sij</translate>
+</string>
+<string>
+	<original>Jul</original>
+	<translate>Srp</translate>
+</string>
+<string>
+	<original>Jun</original>
+	<translate>Lip</translate>
+</string>
+<string>
+	<original>Keep Cancelled/Rejected Appointments In Database</original>
+	<translate>Zadrži otkazane/odbačene sastanke u bazi podataka</translate>
+</string>
+<string>
+	<original>Label</original>
+	<translate>Oznaka</translate>
+</string>
+<string>
+	<original>Language</original>
+	<translate>Jezik</translate>
+</string>
+<string>
+	<original>Languages</original>
+	<translate>Jezici</translate>
+</string>
+<string>
+	<original>Last Name</original>
+	<translate>Prezime</translate>
+</string>
+<string>
+	<original>Last Update</original>
+	<translate>Zadnja promjena</translate>
+</string>
+<string>
+	<original>Lead In</original>
+	<translate>Uvezi</translate>
+</string>
+<string>
+	<original>Lead Out</original>
+	<translate>Izvezi</translate>
+</string>
+<string>
+	<original>Leave these blank to autogenerate a random password</original>
+	<translate>Ostavi prazno za automatsko generiranje slučajne lozinke</translate>
+</string>
+<string>
+	<original>Leave this empty to return to hitAppoint start page</original>
+	<translate>Ostavi prazno za vraćanje na hitAppoint početnu stranu</translate>
+</string>
+<string>
+	<original>Legend</original>
+	<translate>Legenda</translate>
+</string>
+<string>
+	<original>Let Customer Select</original>
+	<translate>Dozvoli odabir korisniku</translate>
+</string>
+<string>
+	<original>Let Customer Select With Auto Assign Option</original>
+	<translate>Dozvli odabir korisniku s mogućnošću automatskog dodjeljivanja</translate>
+</string>
+<string>
+	<original>List</original>
+	<translate>Popis</translate>
+</string>
+<string>
+	<original>List Appointment Packs Above Regular Services</original>
+	<translate>Popis sastanaka iznad regularnih usluga</translate>
+</string>
+<string>
+	<original>Loading</original>
+	<translate>Učitavanje</translate>
+</string>
+<string>
+	<original>Location</original>
+	<translate>Lokacija</translate>
+</string>
+<string>
+	<original>Locations</original>
+	<translate>Lokacije</translate>
+</string>
+<string>
+	<original>Logged out</original>
+	<translate>Odjavljen</translate>
+</string>
+<string>
+	<original>Login</original>
+	<translate>Prijava</translate>
+</string>
+<string>
+	<original>Login details</original>
+	<translate>Detalji o prijavi</translate>
+</string>
+<string>
+	<original>Logout</original>
+	<translate>Odjava</translate>
+</string>
+<string>
+	<original>Logs</original>
+	<translate>Dnevnik</translate>
+</string>
+<string>
+	<original>Lowercase English Letters, Numbers, Underscores Only</original>
+	<translate>Samo mala slova, brojevi ili znak podcrtano</translate>
+</string>
+<string>
+	<original>Manage</original>
+	<translate>Upravljaj</translate>
+</string>
+<string>
+	<original>Mar</original>
+	<translate>Ožu</translate>
+</string>
+<string>
+	<original>Marked As No Show</original>
+	<translate>Označen kao neaktivan</translate>
+</string>
+<string>
+	<original>Max Advance Booking</original>
+	<translate>Najveći broj rezervacija</translate>
+</string>
+<string>
+	<original>Max Number Of Appointments In Pack</original>
+	<translate>Najveći broj sastanaka u paketu</translate>
+</string>
+<string>
+	<original>Max Number Of Recurring Appointments</original>
+	<translate>Najveći broj ponavljajučih sastanaka</translate>
+</string>
+<string>
+	<original>Max Time Measure In Duration Display</original>
+	<translate>Najveća mjera vremena u prikazu trajanja</translate>
+</string>
+<string>
+	<original>May</original>
+	<translate>Svi</translate>
+</string>
+<string>
+	<original>Message</original>
+	<translate>Poruka</translate>
+</string>
+<string>
+	<original>Min Advance Booking</original>
+	<translate>Najmanji broj rezervacija</translate>
+</string>
+<string>
+	<original>Minute</original>
+	<translate>Minuta</translate>
+</string>
+<string>
+	<original>Minutes</original>
+	<translate>Minute</translate>
+</string>
+<string>
+	<original>Misc</original>
+	<translate>Razno</translate>
+</string>
+<string>
+	<original>Mon</original>
+	<translate>Pon</translate>
+</string>
+<string>
+	<original>Monday</original>
+	<translate>Ponedjeljak</translate>
+</string>
+<string>
+	<original>Month</original>
+	<translate>Mjesec</translate>
+</string>
+<string>
+	<original>Months To Show In Calendar</original>
+	<translate>Mjeseci prikazani u kalendaru</translate>
+</string>
+<string>
+	<original>Moved Down</original>
+	<translate>Pomaknuto dolje</translate>
+</string>
+<string>
+	<original>Moved Up</original>
+	<translate>Pomaknuto gore</translate>
+</string>
+<string>
+	<original>My Appointments</original>
+	<translate>Moji sastanci</translate>
+</string>
+<string>
+	<original>My Profile</original>
+	<translate>Moj profil</translate>
+</string>
+<string>
+	<original>My Timezone</original>
+	<translate>Moja vremenska zona</translate>
+</string>
+<string>
+	<original>N/A</original>
+	<translate>Nedostupno</translate>
+</string>
+<string>
+	<original>Name</original>
+	<translate>Ime</translate>
+</string>
+<string>
+	<original>Nearest Availability</original>
+	<translate>Najbliže</translate>
+</string>
+<string>
+	<original>New</original>
+	<translate>Novi</translate>
+</string>
+<string>
+	<original>New Appointment</original>
+	<translate>Novi sastanak</translate>
+</string>
+<string>
+	<original>New Version</original>
+	<translate>Nova verzija</translate>
+</string>
+<string>
+	<original>New Version Files Uploaded, Upgrade Procedure Required</original>
+	<translate>Postavljene su nove verzije datoteka, zahtijeva se procedura nadogradnje</translate>
+</string>
+<string>
+	<original>New appointment has been created and automatically approved.</original>
+	<translate>Stvoren je novi sastanak i automatski odobren.</translate>
+</string>
+<string>
+	<original>New to our site? Please take a moment to register!</original>
+	<translate>Vi ste novi? Odvojite trenutak i registrirajte se!</translate>
+</string>
+<string>
+	<original>Newly registered users will be asked to confirm their email by following a confirmation link in the email message</original>
+	<translate>Od novih korisnika biti će zatraženo da potvrde e-mail preko veze za potvrdu u e-mail poruci </translate>
+</string>
+<string>
+	<original>Newsletter</original>
+	<translate>Bilten</translate>
+</string>
+<string>
+	<original>Next Timeoffs</original>
+	<translate>Slijedeći prekid</translate>
+</string>
+<string>
+	<original>No</original>
+	<translate>Ne</translate>
+</string>
+<string>
+	<original>No Access</original>
+	<translate>Nema pristupa</translate>
+</string>
+<string>
+	<original>No Email?</original>
+	<translate>Nema e-maila?</translate>
+</string>
+<string>
+	<original>No Selectable Times</original>
+	<translate>Nema izabranog vremena</translate>
+</string>
+<string>
+	<original>No Show</original>
+	<translate>Nema prikaza</translate>
+</string>
+<string>
+	<original>No Upgrade Procedure To Run</original>
+	<translate>Nema pokrenute procedure za nadogradnju</translate>
+</string>
+<string>
+	<original>No administrative users to manage appointments!</original>
+	<translate>Nema korisnika administratora za upravljanje sastancima!</translate>
+</string>
+<string>
+	<original>No administrative users to manage schedules!</original>
+	<translate>Nema korisnika administratora za upravljanje rasporedima!</translate>
+</string>
+<string>
+	<original>No more available</original>
+	<translate>Nije više dostupno</translate>
+</string>
+<string>
+	<original>No payment gateways configured!</original>
+	<translate>Nije konfiguriran prolaz za plaćanje!</translate>
+</string>
+<string>
+	<original>No schedules configured!</original>
+	<translate>Nije konfigurirano raspoređivanje!</translate>
+</string>
+<string>
+	<original>No users found matching your search</original>
+	<translate>Nema korisnika koji zadovoljavaju pretraživanje</translate>
+</string>
+<string>
+	<original>Non Registered Users</original>
+	<translate>Nema registriranih korisnika</translate>
+</string>
+<string>
+	<original>None</original>
+	<translate>Nijedan</translate>
+</string>
+<string>
+	<original>Not Allowed</original>
+	<translate>Nije dozvoljeno</translate>
+</string>
+<string>
+	<original>Not Approved</original>
+	<translate>Nije potvrđeno</translate>
+</string>
+<string>
+	<original>Not Available Now</original>
+	<translate>Nije dostupno trenutno</translate>
+</string>
+<string>
+	<original>Not Paid</original>
+	<translate>Nije plaćeno</translate>
+</string>
+<string>
+	<original>Not Registered</original>
+	<translate>Nije registrirano</translate>
+</string>
+<string>
+	<original>Not Shown</original>
+	<translate>Nije prikazano</translate>
+</string>
+<string>
+	<original>Not Shown For Security Reasons</original>
+	<translate>Nije prikazano iz sigurnosnih razloga</translate>
+</string>
+<string>
+	<original>Not The First Option In Select List</original>
+	<translate>Nije prva opcija u popisu</translate>
+</string>
+<string>
+	<original>Not in list</original>
+	<translate>Nije na popisu</translate>
+</string>
+<string>
+	<original>Not you?</original>
+	<translate>To niste vi?</translate>
+</string>
+<string>
+	<original>Notification</original>
+	<translate>Obavijest</translate>
+</string>
+<string>
+	<original>Notifications</original>
+	<translate>Obavijesti</translate>
+</string>
+<string>
+	<original>Nov</original>
+	<translate>Stu</translate>
+</string>
+<string>
+	<original>Numbers only</original>
+	<translate>Samo brojevi</translate>
+</string>
+<string>
+	<original>OK</original>
+	<translate>U redu</translate>
+</string>
+<string>
+	<original>Oct</original>
+	<translate>Lis</translate>
+</string>
+<string>
+	<original>Old Appointment</original>
+	<translate>Stari sastanak</translate>
+</string>
+<string>
+	<original>Old Appointments</original>
+	<translate>Stari sastanci</translate>
+</string>
+<string>
+	<original>Old Timeoffs</original>
+	<translate>Stari prekidi</translate>
+</string>
+<string>
+	<original>One Appointment Free</original>
+	<translate>Slobodan jedan sastanak</translate>
+</string>
+<string>
+	<original>One Entry Only</original>
+	<translate>Samo jedan unos</translate>
+</string>
+<string>
+	<original>Only View The Timezone</original>
+	<translate>Samo pogled vremenske zone</translate>
+</string>
+<string>
+	<original>Only lowercase English letters, numbers, and underscores please!</original>
+	<translate>Samo mala slova, brojevi i znak podcrtano molim!</translate>
+</string>
+<string>
+	<original>Optional</original>
+	<translate>Opcionalno</translate>
+</string>
+<string>
+	<original>Or Recurring Appointments?</original>
+	<translate>Ili ponavljajući sastanci?</translate>
+</string>
+<string>
+	<original>Or select one below</original>
+	<translate>Ili izaberite jedan ispod</translate>
+</string>
+<string>
+	<original>Other Views &amp; Export</original>
+	<translate>Ostali pogledi &amp; Izvoz</translate>
+</string>
+<string>
+	<original>Other end time?</original>
+	<translate>Drugo završno vrijeme?</translate>
+</string>
+<string>
+	<original>Pages</original>
+	<translate>Stranice</translate>
+</string>
+<string>
+	<original>Paid Through</original>
+	<translate>Plaćeno kroz</translate>
+</string>
+<string>
+	<original>Paid Value</original>
+	<translate>Plaćena vrijednost</translate>
+</string>
+<string>
+	<original>Partially Booked</original>
+	<translate>Djelomično rezervirano</translate>
+</string>
+<string>
+	<original>Partially Paid</original>
+	<translate>Djelomično plaćeno</translate>
+</string>
+<string>
+	<original>Password</original>
+	<translate>Lozinka</translate>
+</string>
+<string>
+	<original>Password Changed</original>
+	<translate>Izmijenjena lozinka</translate>
+</string>
+<string>
+	<original>Password Reset</original>
+	<translate>Resetirana lozinka</translate>
+</string>
+<string>
+	<original>Passwords don't match!</original>
+	<translate>Lozinke se ne podudaraju!</translate>
+</string>
+<string>
+	<original>Payment</original>
+	<translate>Plaćanje</translate>
+</string>
+<string>
+	<original>Payment Gateway</original>
+	<translate>Prolaz za plaćanje</translate>
+</string>
+<string>
+	<original>Payment Gateways</original>
+	<translate>Prolazi za plaćanje</translate>
+</string>
+<string>
+	<original>Payment Options</original>
+	<translate>Opcije za plaćanje</translate>
+</string>
+<string>
+	<original>Payment Required</original>
+	<translate>Zahtijevano plaćanje</translate>
+</string>
+<string>
+	<original>Payments</original>
+	<translate>Plaćanja</translate>
+</string>
+<string>
+	<original>Paypal Email</original>
+	<translate>E-mail za plaćanje</translate>
+</string>
+<string>
+	<original>Pending</original>
+	<translate>U tijeku</translate>
+</string>
+<string>
+	<original>Period</original>
+	<translate>Period</translate>
+</string>
+<string>
+	<original>Periodic</original>
+	<translate>Periodični</translate>
+</string>
+<string>
+	<original>Permission Denied</original>
+	<translate>Odbijena dozvola</translate>
+</string>
+<string>
+	<original>Permissions</original>
+	<translate>Dozvole</translate>
+</string>
+<string>
+	<original>Phone number should have at least {NUM} digits</original>
+	<translate>Telefonski broj treba imati najmanje {NUM} znamenki</translate>
+</string>
+<string>
+	<original>Please Confirm Your Email</original>
+	<translate>Molim potvrdite Vaš e-mail</translate>
+</string>
+<string>
+	<original>Please choose at least one option</original>
+	<translate>Molim izaberite najmanje jednu opciju</translate>
+</string>
+<string>
+	<original>Please choose whom to send your newsletter to</original>
+	<translate>Molim izaberite kome će se slati bilten</translate>
+</string>
+<string>
+	<original>Please confirm the password</original>
+	<translate>Molim potvrdite lozinku</translate>
+</string>
+<string>
+	<original>Please login</original>
+	<translate>Molim prijavite se</translate>
+</string>
+<string>
+	<original>Please provide the cancel reason</original>
+	<translate>Molim navedite razlog otkazivanja</translate>
+</string>
+<string>
+	<original>Please provide the reject reason</original>
+	<translate>Molim navedite razlog odbacivanja</translate>
+</string>
+<string>
+	<original>Please provide your contact details</original>
+	<translate>Molim navedite detalje o kontaktu</translate>
+</string>
+<string>
+	<original>Please register</original>
+	<translate>Molim registrirajte se</translate>
+</string>
+<string>
+	<original>Please try again</original>
+	<translate>Molim probajte ponovo</translate>
+</string>
+<string>
+	<original>Plugin</original>
+	<translate>Dodatak</translate>
+</string>
+<string>
+	<original>Plugins</original>
+	<translate>Dodaci</translate>
+</string>
+<string>
+	<original>Price</original>
+	<translate>Cijena</translate>
+</string>
+<string>
+	<original>Price Format</original>
+	<translate>Format cijene</translate>
+</string>
+<string>
+	<original>Pricing</original>
+	<translate>Cijene</translate>
+</string>
+<string>
+	<original>Print</original>
+	<translate>Ispisi</translate>
+</string>
+<string>
+	<original>Proceed</original>
+	<translate>Obradi</translate>
+</string>
+<string>
+	<original>Purge</original>
+	<translate>Očisti</translate>
+</string>
+<string>
+	<original>Purge Cancelled</original>
+	<translate>Otkazano čišćenje</translate>
+</string>
+<string>
+	<original>Purged</original>
+	<translate>Očišćeno</translate>
+</string>
+<string>
+	<original>Recurring</original>
+	<translate>Ponovi</translate>
+</string>
+<string>
+	<original>Recurring Options</original>
+	<translate>Opcije ponavljanja</translate>
+</string>
+<string>
+	<original>Register</original>
+	<translate>Registriraj</translate>
+</string>
+<string>
+	<original>Registered Users</original>
+	<translate>Registrirani korisnici</translate>
+</string>
+<string>
+	<original>Reject</original>
+	<translate>Odbaci</translate>
+</string>
+<string>
+	<original>Release No Show</original>
+	<translate>Ne pokazuj izvješće</translate>
+</string>
+<string>
+	<original>Remind Me To Backup</original>
+	<translate>Podsjeti me na backup</translate>
+</string>
+<string>
+	<original>Reminder</original>
+	<translate>Podsjetnik</translate>
+</string>
+<string>
+	<original>Reminders</original>
+	<translate>Podsjetnici</translate>
+</string>
+<string>
+	<original>Request (Automatically Approved)</original>
+	<translate>Zahtjev (Automatski odobren)</translate>
+</string>
+<string>
+	<original>Request Permissions</original>
+	<translate>Zahtijevaj dozvolu</translate>
+</string>
+<string>
+	<original>Require Clients Give Appointment Cancellation Reason</original>
+	<translate>Zahtijevaj da klijent navede razlog otkazivanja sastanka</translate>
+</string>
+<string>
+	<original>Required field</original>
+	<translate>Zahtijevano polje</translate>
+</string>
+<string>
+	<original>Reschedule</original>
+	<translate>Prerasporedi</translate>
+</string>
+<string>
+	<original>Resend Confirmation Code</original>
+	<translate>Ponovo pošalji kod za potvrdu</translate>
+</string>
+<string>
+	<original>Reset To Defaults</original>
+	<translate>Resetiraj na početnu vrijednost</translate>
+</string>
+<string>
+	<original>Response</original>
+	<translate>Odgovor</translate>
+</string>
+<string>
+	<original>Restore</original>
+	<translate>Obnovi</translate>
+</string>
+<string>
+	<original>Restore From Backup</original>
+	<translate>Obnovi s backupa</translate>
+</string>
+<string>
+	<original>Revise Search?</original>
+	<translate>Izmijeni pretraživanje?</translate>
+</string>
+<string>
+	<original>Role</original>
+	<translate>Uloga</translate>
+</string>
+<string>
+	<original>Run Upgrade Procedure</original>
+	<translate>Pokreni proceduru za nadogradnju</translate>
+</string>
+<string>
+	<original>SMS</original>
+	<translate>SMS</translate>
+</string>
+<string>
+	<original>SMS Notifications Templates</original>
+	<translate>Predložak za SMS obavijest</translate>
+</string>
+<string>
+	<original>SMTP Settings</original>
+	<translate>SMTP postavke</translate>
+</string>
+<string>
+	<original>Sat</original>
+	<translate>Sub</translate>
+</string>
+<string>
+	<original>Saturday</original>
+	<translate>Subota</translate>
+</string>
+<string>
+	<original>Save</original>
+	<translate>Spremi</translate>
+</string>
+<string>
+	<original>Schedule</original>
+	<translate>Raspored</translate>
+</string>
+<string>
+	<original>Schedules</original>
+	<translate>Rasporedi</translate>
+</string>
+<string>
+	<original>Search</original>
+	<translate>Pretraži</translate>
+</string>
+<string>
+	<original>Seats</original>
+	<translate>Sjedala</translate>
+</string>
+<string>
+	<original>Secure</original>
+	<translate>Osiguraj</translate>
+</string>
+<string>
+	<original>Select</original>
+	<translate>Odaberi</translate>
+</string>
+<string>
+	<original>Select Options</original>
+	<translate>Opcije za odabir</translate>
+</string>
+<string>
+	<original>Selectable Times</original>
+	<translate>Vremena za odabir</translate>
+</string>
+<string>
+	<original>Selecting Now</original>
+	<translate>Odaberi sada</translate>
+</string>
+<string>
+	<original>Selection Display Style</original>
+	<translate>Način prikaza odabira</translate>
+</string>
+<string>
+	<original>Send</original>
+	<translate>Pošalji</translate>
+</string>
+<string>
+	<original>Send New Password</original>
+	<translate>Pošalji novu lozinku</translate>
+</string>
+<string>
+	<original>Send Reminder Before</original>
+	<translate>Pošalji prvo podsjetnik</translate>
+</string>
+<string>
+	<original>Send To</original>
+	<translate>Pošalji za</translate>
+</string>
+<string>
+	<original>Sender Email</original>
+	<translate>E-mail pošiljatelja</translate>
+</string>
+<string>
+	<original>Sender Name</original>
+	<translate>Ime pošiljatelja</translate>
+</string>
+<string>
+	<original>Sent At</original>
+	<translate>Pošalji u</translate>
+</string>
+<string>
+	<original>Sep</original>
+	<translate>Ruj</translate>
+</string>
+<string>
+	<original>Service</original>
+	<translate>Servis</translate>
+</string>
+<string>
+	<original>Service selection should come before the date and time selection</original>
+	<translate>Odabir servisa dolazi prije odabira datuma i vremena</translate>
+</string>
+<string>
+	<original>Services</original>
+	<translate>Servisi</translate>
+</string>
+<string>
+	<original>Settings</original>
+	<translate>Postavke</translate>
+</string>
+<string>
+	<original>Show</original>
+	<translate>Pokaži</translate>
+</string>
+<string>
+	<original>Show Session Duration For Clients</original>
+	<translate>Pokaži trajanje sesije klijentu</translate>
+</string>
+<string>
+	<original>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</original>
+	<translate>Pokaži {SHOW_FROM} - {SHOW_TO} od {TOTAL_COUNT}</translate>
+</string>
+<string>
+	<original>Single Or Recurring Appointments?</original>
+	<translate>Jedinstveni ili ponavljajući sastanak?</translate>
+</string>
+<string>
+	<original>Something short and descriptive, like Summer Schedule, etc</original>
+	<translate>Nešto kratko i opisno kao ljetni raspored, itd.</translate>
+</string>
+<string>
+	<original>Sort By</original>
+	<translate>Sortiraj po</translate>
+</string>
+<string>
+	<original>Split</original>
+	<translate>Podijeli</translate>
+</string>
+<string>
+	<original>Status</original>
+	<translate>Status</translate>
+</string>
+<string>
+	<original>String(s) missing</original>
+	<translate>Nedostaje niz znakova</translate>
+</string>
+<string>
+	<original>Subject</original>
+	<translate>Subjekt</translate>
+</string>
+<string>
+	<original>Sun</original>
+	<translate>Ned</translate>
+</string>
+<string>
+	<original>Sunday</original>
+	<translate>Nedjelja</translate>
+</string>
+<string>
+	<original>Suspend</original>
+	<translate>Obustavi</translate>
+</string>
+<string>
+	<original>Suspended</original>
+	<translate>Obustavljeno</translate>
+</string>
+<string>
+	<original>System Access Level</original>
+	<translate>Razina sistemskog pristupa</translate>
+</string>
+<string>
+	<original>System Name</original>
+	<translate>Sistemski naziv</translate>
+</string>
+<string>
+	<original>Tags</original>
+	<translate>Oznake</translate>
+</string>
+<string>
+	<original>Template</original>
+	<translate>Predložak</translate>
+</string>
+<string>
+	<original>Templates</original>
+	<translate>Predlošci</translate>
+</string>
+<string>
+	<original>Terminology</original>
+	<translate>Terminologija</translate>
+</string>
+<string>
+	<original>Text</original>
+	<translate>Tekst</translate>
+</string>
+<string>
+	<original>Text Field Size</original>
+	<translate>Veličina tekstualnog polja</translate>
+</string>
+<string>
+	<original>Textarea</original>
+	<translate>Tekstualno područje</translate>
+</string>
+<string>
+	<original>Textarea Columns</original>
+	<translate>Kolone tekstualnog područja</translate>
+</string>
+<string>
+	<original>Textarea Rows</original>
+	<translate>Redovi tekstualnog područja</translate>
+</string>
+<string>
+	<original>Thank you for registering![br]Now we kindly ask you to confirm your email. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Zahvaljujemo na registraciji![br]Sada vas ljubazno molimo da potvrdite Vaš e-mail. Molimo otvorite poštanski sandučić i kliknite na vezu za potvrdu u našoj poruci.</translate>
+</string>
+<string>
+	<original>The administrator will need to manually approve new user accounts before they can access the system</original>
+	<translate>Administrator treba ručno potvrditi novog korisnika prije nego što on moze pristupiti sustavu</translate>
+</string>
+<string>
+	<original>Theme</original>
+	<translate>Tema</translate>
+</string>
+<string>
+	<original>Themes</original>
+	<translate>Teme</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s)</original>
+	<translate>Postoji [b]{APPS_COUNT}[/b] sastanak(a)</translate>
+</string>
+<string>
+	<original>There has been a problem with your payment</original>
+	<translate>Postoji problem s Vašim plaćanjem</translate>
+</string>
+<string>
+	<original>There is a problem with your account</original>
+	<translate>Postoji problem s Vašim korisničkim računom</translate>
+</string>
+<string>
+	<original>These upgrade scripts have been executed</original>
+	<translate>Izvedene su slijedeće skripte za nadogradnju</translate>
+</string>
+<string>
+	<original>This email is not registered</original>
+	<translate>Ovaj e-mail nije registriran</translate>
+</string>
+<string>
+	<original>This may depend on your Excel regional settings</original>
+	<translate>Ovo može ovisiti o regionalnim postavkama u Excelu</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min advance booking</original>
+	<translate>Ovo ne smije biti manje od najmanje dozvoljene rezervacije</translate>
+</string>
+<string>
+	<original>Thu</original>
+	<translate>Čet</translate>
+</string>
+<string>
+	<original>Thursday</original>
+	<translate>Četvrtak</translate>
+</string>
+<string>
+	<original>Time</original>
+	<translate>Vrijeme</translate>
+</string>
+<string>
+	<original>Time Format</original>
+	<translate>Format vremena</translate>
+</string>
+<string>
+	<original>Time Slot</original>
+	<translate>Vremenski isječak</translate>
+</string>
+<string>
+	<original>Time Slots</original>
+	<translate>Vremenski isječci</translate>
+</string>
+<string>
+	<original>Time Unit, min</original>
+	<translate>Vremenska jedinica, min</translate>
+</string>
+<string>
+	<original>Timeoff</original>
+	<translate>Prekid</translate>
+</string>
+<string>
+	<original>Times shown in [b]{TIME_ZONE}[/b] time zone</original>
+	<translate>Vrijeme prikazano u [b]{TIME_ZONE}[/b] vremenskoj zoni</translate>
+</string>
+<string>
+	<original>Timezone</original>
+	<translate>Vremenska zona</translate>
+</string>
+<string>
+	<original>Title</original>
+	<translate>Naslov</translate>
+</string>
+<string>
+	<original>To</original>
+	<translate>Za</translate>
+</string>
+<string>
+	<original>Together</original>
+	<translate>Zajedno</translate>
+</string>
+<string>
+	<original>Total</original>
+	<translate>Ukupno</translate>
+</string>
+<string>
+	<original>Total Amount</original>
+	<translate>Ukupni iznos</translate>
+</string>
+<string>
+	<original>Total Duration</original>
+	<translate>Ukupno trajanje</translate>
+</string>
+<string>
+	<original>Total Price</original>
+	<translate>Ukupna cijena</translate>
+</string>
+<string>
+	<original>Tue</original>
+	<translate>Uto</translate>
+</string>
+<string>
+	<original>Tuesday</original>
+	<translate>Utorak</translate>
+</string>
+<string>
+	<original>Type</original>
+	<translate>Tip</translate>
+</string>
+<string>
+	<original>URL To Return After Appointment Request</original>
+	<translate>URL vraćen nakon zahtjeva za sastanak</translate>
+</string>
+<string>
+	<original>Uncategorized</original>
+	<translate>Bez kategorije</translate>
+</string>
+<string>
+	<original>Uninstall</original>
+	<translate>Deinstaliraj</translate>
+</string>
+<string>
+	<original>Unique Email</original>
+	<translate>Jedinstveni e-mail</translate>
+</string>
+<string>
+	<original>Unique Username</original>
+	<translate>Jedinstveno korisničko ime</translate>
+</string>
+<string>
+	<original>Until Closed</original>
+	<translate>Do zatvaranja</translate>
+</string>
+<string>
+	<original>Up</original>
+	<translate>Gore</translate>
+</string>
+<string>
+	<original>Upcoming Appointments</original>
+	<translate>Nadolazeći sastanci</translate>
+</string>
+<string>
+	<original>Update</original>
+	<translate>Ažuriraj</translate>
+</string>
+<string>
+	<original>Upgrade</original>
+	<translate>Nadogradi</translate>
+</string>
+<string>
+	<original>Uploaded Version</original>
+	<translate>Poslana verzija</translate>
+</string>
+<string>
+	<original>Use Email As Username</original>
+	<translate>Koristi e-mail kao korisničko ime</translate>
+</string>
+<string>
+	<original>User</original>
+	<translate>Korisnik</translate>
+</string>
+<string>
+	<original>User Login Required?</original>
+	<translate>Zahtijeva se prijava korisnika?</translate>
+</string>
+<string>
+	<original>User Registration</original>
+	<translate>Registracija korisnika</translate>
+</string>
+<string>
+	<original>User Status</original>
+	<translate>Status korisnika</translate>
+</string>
+<string>
+	<original>Username</original>
+	<translate>Korisničko ime</translate>
+</string>
+<string>
+	<original>Users</original>
+	<translate>Korisnici</translate>
+</string>
+<string>
+	<original>Valid</original>
+	<translate>Važi</translate>
+</string>
+<string>
+	<original>Valid From Date</original>
+	<translate>Važi od datuma</translate>
+</string>
+<string>
+	<original>Valid To Date</original>
+	<translate>Važi do datuma</translate>
+</string>
+<string>
+	<original>Valid URL Syntax</original>
+	<translate>Važeća URL sintaksa</translate>
+</string>
+<string>
+	<original>Validation</original>
+	<translate>Važeći</translate>
+</string>
+<string>
+	<original>View</original>
+	<translate>Pogled</translate>
+</string>
+<string>
+	<original>View Only</original>
+	<translate>Samo pogledaj</translate>
+</string>
+<string>
+	<original>View and Update</original>
+	<translate>Pogledaj i ažuriraj</translate>
+</string>
+<string>
+	<original>Waiting For Approval</original>
+	<translate>Sačekaj potvrdu</translate>
+</string>
+<string>
+	<original>Warning: your current data will be deleted by restoring from backup file</original>
+	<translate>Upozorenje: Trenutni podaci biti će obrisani nakon obnavljanja iz backup datoteke</translate>
+</string>
+<string>
+	<original>Web Page Title</original>
+	<translate>Naslov Web stranice</translate>
+</string>
+<string>
+	<original>Wed</original>
+	<translate>Sri</translate>
+</string>
+<string>
+	<original>Wednesday</original>
+	<translate>Srijeda</translate>
+</string>
+<string>
+	<original>Week</original>
+	<translate>Tjedan</translate>
+</string>
+<string>
+	<original>Week Starts On</original>
+	<translate>Tjedan započinje s</translate>
+</string>
+<string>
+	<original>Weekday</original>
+	<translate>Dan u tjednu</translate>
+</string>
+<string>
+	<original>Weeks</original>
+	<translate>Tjedni</translate>
+</string>
+<string>
+	<original>Welcome</original>
+	<translate>Dobrodošli</translate>
+</string>
+<string>
+	<original>When</original>
+	<translate>Kada</translate>
+</string>
+<string>
+	<original>When enabling this, be sure you remember your own email address</original>
+	<translate>Ako dozvolite ovu opciju, budite sigurni da ste zapamtili vlastitu web adresu</translate>
+</string>
+<string>
+	<original>Working Time</original>
+	<translate>Radno vrijeme</translate>
+</string>
+<string>
+	<original>Wrong Confirmation Link</original>
+	<translate>Neispravna veza za potvrdu</translate>
+</string>
+<string>
+	<original>Wrong username or password</original>
+	<translate>Neispravno korisničko ime ili lozinka</translate>
+</string>
+<string>
+	<original>Yes</original>
+	<translate>Da</translate>
+</string>
+<string>
+	<original>Yes/No</original>
+	<translate>Da/Ne</translate>
+</string>
+<string>
+	<original>You can use the * wildcard to match any set of characters</original>
+	<translate>Zamjenski znak * možete koristiti umjesto bilo kojih znakova</translate>
+</string>
+<string>
+	<original>You cannot cancel or reschedule this appointment now</original>
+	<translate>Sastanak trenutno ne možete otkazati niti prerasporediti</translate>
+</string>
+<string>
+	<original>You have nothing to manage</original>
+	<translate>Nije dostupno ništa za upravljanje</translate>
+</string>
+<string>
+	<original>Your Name</original>
+	<translate>Vaše ime</translate>
+</string>
+<string>
+	<original>Your account is temporarily suspended</original>
+	<translate>Vaš korisnički račun je privremeno neaktivan</translate>
+</string>
+<string>
+	<original>Your email is not confirmed yet. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Vaš e-mail trenutno jos nije potvrđen. Molimo vas da otvorite poštanski sandučić i kliknete na vezu za potvrdu u našoj poruci.</translate>
+</string>
+<string>
+	<original>Your new password has been sent to your email</original>
+	<translate>Vaša nova loznka poslana je na e-mail</translate>
+</string>
+<string>
+	<original>hitAppoint Path</original>
+	<translate>hitAppoint putanja</translate>
+</string>
+<string>
+	<original>iCal Subscription</original>
+	<translate>iCal pretplata</translate>
+</string>
+
+</file>

@@ -1,0 +1,97 @@
+/* FONTS */
+#nts, #nts td {
+	font-family: verdana, tahoma, arial, sans-serif;
+	font-size: 13px;
+	}
+
+/* COLORS */
+body,
+#nts td,
+#nts th,
+#nts-appointment-list,
+#nts-user-menu,
+#nts div.nts-calendar td div
+	{
+	background-color: #000000;
+	color: #ffffff;
+	}
+#nts a{
+	color: #ffffff;
+	}
+
+#nts div.nts-calendar td div.available,
+#nts #nts-selector a, 
+#nts #nts-time-selector li,
+ul#nts-announce li {
+	background-color: #009933;
+	}
+
+#nts div.nts-calendar td div.not_available,
+#nts #nts-appointment-list table tr.odd td {
+	background-color: #666666;
+	}
+#nts div.nts-calendar td div.selected {
+	border-color: #000066;
+	}
+
+#nts #nts-selector a,
+#nts div.nts-calendar a,
+#nts #nts-time-selector a,
+#nts #nts-time-selector li
+	{
+	color: #ffffff;
+	border-color: #33cc99;
+	}
+
+ul#nts-announce li.error {
+	background-color: #ffcccc;
+	}
+	
+#nts div.nts-calendar td div.selected {
+	border: #006600 2px solid;
+	}
+#nts #nts-appointment-list table th {
+	color: #33cc66;
+	border-color: #009933;
+	}
+#nts #nts-appointment-list table td {
+	border-color: #666666;
+	}
+#nts #nts-appointment-list table td.selecting-now {
+	color: #bb0000;
+	}
+
+/* approved appointments */
+#nts .nts-approved, #nts #nts-appointment-list table tr.odd td.nts-approved {
+	background-color: #009933;
+	}
+/* completed appointments */
+#nts .nts-completed, #nts #nts-appointment-list table tr.odd td.nts-completed {
+	background-color: #003300;
+	}
+/* pending appointments */
+#nts .nts-pending, #nts #nts-appointment-list table tr.odd td.nts-pending {
+	background-color: #996600;
+	}
+/* no show appointments */
+#nts .nts-noshow, #nts #nts-appointment-list table tr.odd td.nts-noshow {
+	background-color: #ff3300;
+	}
+/* cancelled appointments */
+#nts .nts-cancelled, #nts #nts-appointment-list table tr.odd td.nts-cancelled {
+	background-color: #999999;
+	}
+
+/* COLORS FOR ERRORS AND OTHER MESSAGES */
+#nts .alert {
+	color: #cc0000;
+	}
+#nts .warning {
+	color: #ff9966;
+	}
+#nts .ok {
+	color: #00cc00;
+	}
+#nts .ntsFormLabel {
+	background-color: #666666;
+	}

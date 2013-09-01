@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<language>български</language>
+<author>Катя</author>
+<lastUpdate>28 май 2011</lastUpdate>
+<charset>UTF-8</charset>
+
+<string>
+	<original>- Any -</original>
+	<translate>- Всеки -</translate>
+</string>
+<string>
+	<original>Access Denied</original>
+	<translate>Отказан Достъп</translate>
+</string>
+<string>
+	<original>Actions</original>
+	<translate>Действия</translate>
+</string>
+<string>
+	<original>Activate</original>
+	<translate>Активизиране</translate>
+</string>
+<string>
+	<original>Active</original>
+	<translate>Активен</translate>
+</string>
+<string>
+	<original>Add</original>
+	<translate>Добавяне</translate>
+</string>
+<string>
+	<original>Add a star sign (*) before the default value</original>
+	<translate>Добавяне на звездичка (*) преди стойността по подразбиране</translate>
+</string>
+<string>
+	<original>Admin</original>
+	<translate>Админ</translate>
+</string>
+<string>
+	<original>Admin Area</original>
+	<translate>Административна Зона</translate>
+</string>
+<string>
+	<original>Administrative User</original>
+	<translate>Административен потребител</translate>
+</string>
+<string>
+	<original>Administrative Users</original>
+	<translate>Административни потребители</translate>
+</string>
+<string>
+	<original>Advanced Search</original>
+	<translate>Допълнително търсене</translate>
+</string>
+<string>
+	<original>All</original>
+	<translate>Всичко</translate>
+</string>
+<string>
+	<original>All Days</original>
+	<translate>Всички Дни</translate>
+</string>
+<string>
+	<original>Allow Duplicate Emails</original>
+	<translate>Позволяване дублирането на имейли </translate>
+</string>
+<string>
+	<original>Allow No Email</original>
+	<translate>Позволяване - без имейл</translate>
+</string>
+<string>
+	<original>Allow To Set Own Timezone</original>
+	<translate>Позволяване настройка на собствена времева зона</translate>
+</string>
+<string>
+	<original>Already Approved</original>
+	<translate>Вече Одобрено</translate>
+</string>
+<string>
+	<original>Already Confirmed</original>
+	<translate>Вече Потвърдено</translate>
+</string>
+<string>
+	<original>Already have an account?</original>
+	<translate>Имате създаден профил?</translate>
+</string>
+<string>
+	<original>Already in use</original>
+	<translate>Вече се използва</translate>
+</string>
+<string>
+	<original>Amount</original>
+	<translate>Количество</translate>
+</string>
+<string>
+	<original>Applied On</original>
+	<translate>Променено на</translate>
+</string>
+<string>
+	<original>Appointment</original>
+	<translate>Час</translate>
+</string>
+<string>
+	<original>Appointment Details</original>
+	<translate>Детайли за часа</translate>
+</string>
+<string>
+	<original>Appointment Flow</original>
+	<translate>Процес запазване на час</translate>
+</string>
+<string>
+	<original>Appointment Form</original>
+	<translate>Формуляр за часа</translate>
+</string>
+<string>
+	<original>Appointment Forms</original>
+	<translate>Формуляри за часа</translate>
+</string>
+<string>
+	<original>Appointment Pack</original>
+	<translate>Пакет</translate>
+</string>
+<string>
+	<original>Appointment Packs</original>
+	<translate>Пакети</translate>
+</string>
+<string>
+	<original>Appointment Types</original>
+	<translate>Видове часове</translate>
+</string>
+<string>
+	<original>Appointments</original>
+	<translate>Часове</translate>
+</string>
+<string>
+	<original>Appointments In Total</original>
+	<translate>Часове общо</translate>
+</string>
+<string>
+	<original>Approval Required</original>
+	<translate>Изисква се одобрение</translate>
+</string>
+<string>
+	<original>Approve</original>
+	<translate>Одобрение</translate>
+</string>
+<string>
+	<original>Approved</original>
+	<translate>Одобрено</translate>
+</string>
+<string>
+	<original>Apr</original>
+	<translate>Апр</translate>
+</string>
+<string>
+	<original>Are you sure?</original>
+	<translate>Сигурен ли си?</translate>
+</string>
+<string>
+	<original>Assign</original>
+	<translate>Присъедини</translate>
+</string>
+<string>
+	<original>Attach Ical File To Notification Email</original>
+	<translate>Прикачи Ical към имейл за уведомление</translate>
+</string>
+<string>
+	<original>Aug</original>
+	<translate>Авг</translate>
+</string>
+<string>
+	<original>Author</original>
+	<translate>Автор</translate>
+</string>
+<string>
+	<original>Auto Confirmed</original>
+	<translate>Автоматично потвърдено</translate>
+</string>
+<string>
+	<original>Availability</original>
+	<translate>Наличност</translate>
+</string>
+<string>
+	<original>Available</original>
+	<translate>Свободен</translate>
+</string>
+<string>
+	<original>Available In Packs Only</original>
+	<translate>Разрешено само в пакети</translate>
+</string>
+<string>
+	<original>Backup</original>
+	<translate>Backup</translate>
+</string>
+<string>
+	<original>Backup File</original>
+	<translate>Backup File</translate>
+</string>
+<string>
+	<original>Bookable Resource</original>
+	<translate>Ресурс за резервиране</translate>
+</string>
+<string>
+	<original>Bookable Resources</original>
+	<translate>Ресурси за резервиране</translate>
+</string>
+<string>
+	<original>Browse</original>
+	<translate>Разглеждане</translate>
+</string>
+<string>
+	<original>Bulk Actions</original>
+	<translate>Действия накуп</translate>
+</string>
+<string>
+	<original>CSV Field Delimiter</original>
+	<translate>CSV ограничител</translate>
+</string>
+<string>
+	<original>Cancel</original>
+	<translate>Отмяна</translate>
+</string>
+<string>
+	<original>Cancellation/Reschedule Deadline</original>
+	<translate>Отмяна/Презапазване на срока</translate>
+</string>
+<string>
+	<original>Cancelled</original>
+	<translate>Отменен</translate>
+</string>
+<string>
+	<original>Capacity</original>
+	<translate>Капацитет</translate>
+</string>
+<string>
+	<original>Categories</original>
+	<translate>Категории</translate>
+</string>
+<string>
+	<original>Category</original>
+	<translate>Категория</translate>
+</string>
+<string>
+	<original>Change</original>
+	<translate>Промяна</translate>
+</string>
+<string>
+	<original>Change Appointment</original>
+	<translate>Промяна на час</translate>
+</string>
+<string>
+	<original>Change Password</original>
+	<translate>Промяна на парола</translate>
+</string>
+<string>
+	<original>Checkbox On</original>
+	<translate>Checkbox On</translate>
+</string>
+<string>
+	<original>Class/Lesson</original>
+	<translate>Час/Урок</translate>
+</string>
+<string>
+	<original>Click here to confirm your email</original>
+	<translate>Кликни за потвърждаване на своя имейл</translate>
+</string>
+<string>
+	<original>Click to activate</original>
+	<translate>Кликни за активация</translate>
+</string>
+<string>
+	<original>Click to disable</original>
+	<translate>Кликни за деактивация</translate>
+</string>
+<string>
+	<original>Close</original>
+	<translate>Затвори</translate>
+</string>
+<string>
+	<original>Company Confirmation Required</original>
+	<translate>Изисква се потвърждение от администратор</translate>
+</string>
+<string>
+	<original>Company Timezone</original>
+	<translate>Фирмена часова зона</translate>
+</string>
+<string>
+	<original>Confirm Appointment</original>
+	<translate>Потвърждаване на час</translate>
+</string>
+<string>
+	<original>Confirm Password</original>
+	<translate>Потвърждаване на парола</translate>
+</string>
+<string>
+	<original>Confirm Reschedule</original>
+	<translate>Потвърждаване на презаписване</translate>
+</string>
+<string>
+	<original>Congratulations, your account has been created and activated</original>
+	<translate>Поздравления, Вашият профил беше създаден и активиран</translate>
+</string>
+<string>
+	<original>Contact Information</original>
+	<translate>Информация за контакти</translate>
+</string>
+<string>
+	<original>Continue</original>
+	<translate>Продължи</translate>
+</string>
+<string>
+	<original>Continue With Recurring Appointments</original>
+	<translate>Продължи с повтаряши се часове</translate>
+</string>
+<string>
+	<original>Continue With Single Appointment</original>
+	<translate>Продължи със само една среща</translate>
+</string>
+<string>
+	<original>Copy</original>
+	<translate>Копиране</translate>
+</string>
+<string>
+	<original>Create</original>
+	<translate>Създаване</translate>
+</string>
+<string>
+	<original>Create Appointment</original>
+	<translate>Записване на час</translate>
+</string>
+<string>
+	<original>Created</original>
+	<translate>Записан</translate>
+</string>
+<string>
+	<original>Currency</original>
+	<translate>Валута</translate>
+</string>
+<string>
+	<original>Custom Form</original>
+	<translate>Custom Form</translate>
+</string>
+<string>
+	<original>Customer</original>
+	<translate>Клиент</translate>
+</string>
+<string>
+	<original>Customers</original>
+	<translate>Клиенти</translate>
+</string>
+<string>
+	<original>Date</original>
+	<translate>Дата</translate>
+</string>
+<string>
+	<original>Date Format</original>
+	<translate>Формат дата</translate>
+</string>
+<string>
+	<original>Date and Time</original>
+	<translate>Дата и час</translate>
+</string>
+<string>
+	<original>Dates</original>
+	<translate>Дати</translate>
+</string>
+<string>
+	<original>Day</original>
+	<translate>Ден</translate>
+</string>
+<string>
+	<original>Days</original>
+	<translate>Дни</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For External User</original>
+	<translate>Дни за показване в календара за външен потребител</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For Internal User</original>
+	<translate>Дни за показване в календара за вътрешен потребител</translate>
+</string>
+<string>
+	<original>Dec</original>
+	<translate>Дек</translate>
+</string>
+<string>
+	<original>Default Value</original>
+	<translate>Стойност по подразбиране</translate>
+</string>
+<string>
+	<original>Delete</original>
+	<translate>Изтриване</translate>
+</string>
+<string>
+	<original>Deleted</original>
+	<translate>Изтрит</translate>
+</string>
+<string>
+	<original>Description</original>
+	<translate>Описание</translate>
+</string>
+<string>
+	<original>Desired Username</original>
+	<translate>Желано потребителско име</translate>
+</string>
+<string>
+	<original>Details</original>
+	<translate>Детайли</translate>
+</string>
+<string>
+	<original>Disable</original>
+	<translate>Деактивиране</translate>
+</string>
+<string>
+	<original>Discount</original>
+	<translate>Отстъпка</translate>
+</string>
+<string>
+	<original>Do Not Show The Timezone</original>
+	<translate>Не показвай часовата зона</translate>
+</string>
+<string>
+	<original>Don't have an account yet?</original>
+	<translate>Все още нямате профил?</translate>
+</string>
+<string>
+	<original>Down</original>
+	<translate>Надолу</translate>
+</string>
+<string>
+	<original>Download Backup</original>
+	<translate>Download Backup</translate>
+</string>
+<string>
+	<original>Drop Down</original>
+	<translate>Падащо меню</translate>
+</string>
+<string>
+	<original>Due Value</original>
+	<translate>Due стойност</translate>
+</string>
+<string>
+	<original>Duplicate</original>
+	<translate>Копирай</translate>
+</string>
+<string>
+	<original>Duplicate To</original>
+	<translate>Копирай в</translate>
+</string>
+<string>
+	<original>Duration</original>
+	<translate>Продължителност</translate>
+</string>
+<string>
+	<original>Each option on new line</original>
+	<translate>Всяка опция на нов ред</translate>
+</string>
+<string>
+	<original>Edit</original>
+	<translate>Редактирай</translate>
+</string>
+<string>
+	<original>Email</original>
+	<translate>Имейл</translate>
+</string>
+<string>
+	<original>Email Confirmation Required</original>
+	<translate>Изисква се имейл за потвърждение</translate>
+</string>
+<string>
+	<original>Email Not Confirmed</original>
+	<translate>Имейл не е потвърден</translate>
+</string>
+<string>
+	<original>Email Notifications Templates</original>
+	<translate>Шаблони за имейл известяване</translate>
+</string>
+<string>
+	<original>Email Test Mode</original>
+	<translate>Имейл тестов режим</translate>
+</string>
+<string>
+	<original>Enable Registration</original>
+	<translate>Позволяване на регистрация</translate>
+</string>
+<string>
+	<original>Error Message If Validation Fails</original>
+	<translate>Съобщение за грешка при неуспешна валидация</translate>
+</string>
+<string>
+	<original>Every</original>
+	<translate>Всеки</translate>
+</string>
+<string>
+	<original>Every 3 Weeks</original>
+	<translate>Всеки 3 седмици</translate>
+</string>
+<string>
+	<original>Every Day</original>
+	<translate>Всеки ден</translate>
+</string>
+<string>
+	<original>Every Fortnight</original>
+	<translate>На всеки две седмици</translate>
+</string>
+<string>
+	<original>Every Month</original>
+	<translate>Всеки месец</translate>
+</string>
+<string>
+	<original>Every Other Day</original>
+	<translate>Всеки друг ден</translate>
+</string>
+<string>
+	<original>Every Week</original>
+	<translate>Всяка седмица</translate>
+</string>
+<string>
+	<original>External User Access</original>
+	<translate>Достъп за външен потребител</translate>
+</string>
+<string>
+	<original>Failed</original>
+	<translate>Провален</translate>
+</string>
+<string>
+	<original>Feb</original>
+	<translate>Фев</translate>
+</string>
+<string>
+	<original>Fill in if required by your web hosting. You may need to consult your web hosting administrator or help documentation.</original>
+	<translate>Попълнете, ако се изисква от Вашия уеб хостинг. Може да се наложи консултация с Вашия уеб хостинг администратор или с помощната документация.</translate>
+</string>
+<string>
+	<original>Find</original>
+	<translate>Намиране</translate>
+</string>
+<string>
+	<original>First Name</original>
+	<translate>Име</translate>
+</string>
+<string>
+	<original>Fixed</original>
+	<translate>Фиксиран</translate>
+</string>
+<string>
+	<original>Footer</original>
+	<translate>Коментар под линия</translate>
+</string>
+<string>
+	<original>Footer For All Emails</original>
+	<translate>Коментар под линия за всики имейли</translate>
+</string>
+<string>
+	<original>Forgot Your Password</original>
+	<translate>Забравена парола</translate>
+</string>
+<string>
+	<original>Form</original>
+	<translate>Формуляр</translate>
+</string>
+<string>
+	<original>Form Field</original>
+	<translate>Поле на формуляра</translate>
+</string>
+<string>
+	<original>Form Fields</original>
+	<translate>Полета на формуляра</translate>
+</string>
+<string>
+	<original>Forms</original>
+	<translate>Формуляри</translate>
+</string>
+<string>
+	<original>Free</original>
+	<translate>Свободно</translate>
+</string>
+<string>
+	<original>Fri</original>
+	<translate>Пет</translate>
+</string>
+<string>
+	<original>Friday</original>
+	<translate>Петък</translate>
+</string>
+<string>
+	<original>From</original>
+	<translate>От</translate>
+</string>
+<string>
+	<original>Frontend View</original>
+	<translate>Клиентски изглед</translate>
+</string>
+<string>
+	<original>Full Name</original>
+	<translate>Пълно име</translate>
+</string>
+<string>
+	<original>Fully Booked</original>
+	<translate>Изцяло заето</translate>
+</string>
+<string>
+	<original>Fully Paid</original>
+	<translate>Изцяло платено</translate>
+</string>
+<string>
+	<original>Gateway</original>
+	<translate>Платежно средство</translate>
+</string>
+<string>
+	<original>Gateway Reference</original>
+	<translate>Относно платежо средство</translate>
+</string>
+<string>
+	<original>Gateway Response</original>
+	<translate>Отговор на платежното средство</translate>
+</string>
+<string>
+	<original>Go</original>
+	<translate>Отиди</translate>
+</string>
+<string>
+	<original>Go Back</original>
+	<translate>Върни се</translate>
+</string>
+<string>
+	<original>Header</original>
+	<translate>Шапка</translate>
+</string>
+<string>
+	<original>Header For All Emails</original>
+	<translate>Шапка за всички имейли</translate>
+</string>
+<string>
+	<original>Help Text</original>
+	<translate>Помощен текст</translate>
+</string>
+<string>
+	<original>Hidden</original>
+	<translate>Скрит</translate>
+</string>
+<string>
+	<original>Hide</original>
+	<translate>Скрий</translate>
+</string>
+<string>
+	<original>Home</original>
+	<translate>Начало</translate>
+</string>
+<string>
+	<original>Host</original>
+	<translate>Хост</translate>
+</string>
+<string>
+	<original>Hour</original>
+	<translate>час</translate>
+</string>
+<string>
+	<original>Hours</original>
+	<translate>часове</translate>
+</string>
+<string>
+	<original>If more than one seat available, then all appointments should start at the same time. Otherwise, any overlapping allowed.</original>
+	<translate>Ако повече от едно места са налични, тогава всички часове ще стартират едновременно. В противен случай е разршено припокриване.</translate>
+</string>
+<string>
+	<original>If set correctly, your company time is now [b]{TIME_STRING}[/b]. If it is wrong, please set your company correct time zone.</original>
+	<translate>Ако е конфигурирано правилно времето във вашата компания сега е [b]{TIME_STRING}[/b]. Ако е грешно, моля конфигурирайте правилната часова зона за вашата компания.</translate>
+</string>
+<string>
+	<original>If set to 1, the recurring option will be disabled</original>
+	<translate>Ако е 1, опцията за повторен час е забранеена</translate>
+</string>
+<string>
+	<original>If set to Minute for example, it will show 90 Minutes rather than 1 Hour 30 Minutes.</original>
+	<translate>Ако е избрано Minute например, ще се изписва 90 минути вместо 1 час и 30 минути.</translate>
+</string>
+<string>
+	<original>If set, email messages will be printed on screen rather than sent</original>
+	<translate>Ако е избрано имейл съобщенията ще се пачатат на екрана вместо да се изпращат</translate>
+</string>
+<string>
+	<original>If you proceed, these appointments will be cancelled</original>
+	<translate>Ако продължите тези срещи ще бъдат отменени</translate>
+</string>
+<string>
+	<original>Info</original>
+	<translate>Инфо</translate>
+</string>
+<string>
+	<original>Input Validation</original>
+	<translate>Повторете</translate>
+</string>
+<string>
+	<original>Install</original>
+	<translate>Инсталиране</translate>
+</string>
+<string>
+	<original>Installed Version</original>
+	<translate>Инсталирана версия</translate>
+</string>
+<string>
+	<original>Integers Only</original>
+	<translate>Само цели числа</translate>
+</string>
+<string>
+	<original>Invoice</original>
+	<translate>Фактура</translate>
+</string>
+<string>
+	<original>Invoice Value</original>
+	<translate>Стойност на фактурата</translate>
+</string>
+<string>
+	<original>Jan</original>
+	<translate>Ян</translate>
+</string>
+<string>
+	<original>Jul</original>
+	<translate>Юли</translate>
+</string>
+<string>
+	<original>Jun</original>
+	<translate>Юни</translate>
+</string>
+<string>
+	<original>Keep Cancelled/Rejected Appointments In Database</original>
+	<translate>Запази Отменените срещи в базата данни</translate>
+</string>
+<string>
+	<original>Label</original>
+	<translate>Етикет</translate>
+</string>
+<string>
+	<original>Language</original>
+	<translate>Език</translate>
+</string>
+<string>
+	<original>Languages</original>
+	<translate>Езици</translate>
+</string>
+<string>
+	<original>Last Name</original>
+	<translate>Фамилия</translate>
+</string>
+<string>
+	<original>Last Update</original>
+	<translate>Последно обновяване</translate>
+</string>
+<string>
+	<original>Lead In</original>
+	<translate>Започване на резервацията</translate>
+</string>
+<string>
+	<original>Lead Out</original>
+	<translate>Приключване на резервацията</translate>
+</string>
+<string>
+	<original>Leave these blank to autogenerate a random password</original>
+	<translate>Оставете празно за автоматично генериране на парола</translate>
+</string>
+<string>
+	<original>Leave this empty to return to hitAppoint start page</original>
+	<translate>Оставете празно за връщане към стартова страница на hitAppoint</translate>
+</string>
+<string>
+	<original>Legend</original>
+	<translate>Легенда</translate>
+</string>
+<string>
+	<original>List</original>
+	<translate>Списък</translate>
+</string>
+<string>
+	<original>Loading</original>
+	<translate>Зареждане</translate>
+</string>
+<string>
+	<original>Location</original>
+	<translate>Място</translate>
+</string>
+<string>
+	<original>Locations</original>
+	<translate>Места</translate>
+</string>
+<string>
+	<original>Logged out</original>
+	<translate>Изход</translate>
+</string>
+<string>
+	<original>Login</original>
+	<translate>Вход</translate>
+</string>
+<string>
+	<original>Login details</original>
+	<translate>Детейли на потребителя</translate>
+</string>
+<string>
+	<original>Logout</original>
+	<translate>Изход</translate>
+</string>
+<string>
+	<original>Logs</original>
+	<translate>Отчети</translate>
+</string>
+<string>
+	<original>Lowercase English Letters, Numbers, Underscores Only</original>
+	<translate>Латински малки букви, цифри и _</translate>
+</string>
+<string>
+	<original>Manage</original>
+	<translate>Конфигуриране</translate>
+</string>
+<string>
+	<original>Mar</original>
+	<translate>Март</translate>
+</string>
+<string>
+	<original>Marked As No Show</original>
+	<translate>Избрано да не се показва</translate>
+</string>
+<string>
+	<original>Max Advance Booking</original>
+	<translate>Максимално предварително запазване</translate>
+</string>
+<string>
+	<original>Max Number Of Appointments In Pack</original>
+	<translate>Максимален брой срещи в един пакет</translate>
+</string>
+<string>
+	<original>Max Number Of Recurring Appointments</original>
+	<translate>Максимален брой повтарящи се срещи</translate>
+</string>
+<string>
+	<original>Max Time Measure In Duration Display</original>
+	<translate>Максимално време за показване</translate>
+</string>
+<string>
+	<original>May</original>
+	<translate>Май</translate>
+</string>
+<string>
+	<original>Message</original>
+	<translate>Съобщение</translate>
+</string>
+<string>
+	<original>Min Advance Booking</original>
+	<translate>Минимално предварително запазване</translate>
+</string>
+<string>
+	<original>Minute</original>
+	<translate>Минута</translate>
+</string>
+<string>
+	<original>Minutes</original>
+	<translate>Минути</translate>
+</string>
+<string>
+	<original>Misc</original>
+	<translate>Други</translate>
+</string>
+<string>
+	<original>Mon</original>
+	<translate>Пон</translate>
+</string>
+<string>
+	<original>Monday</original>
+	<translate>Понеделник</translate>
+</string>
+<string>
+	<original>Month</original>
+	<translate>Месец</translate>
+</string>
+<string>
+	<original>Months To Show In Calendar</original>
+	<translate>Брой месеци за показване в календара</translate>
+</string>
+<string>
+	<original>Moved Down</original>
+	<translate>Преместен надолу</translate>
+</string>
+<string>
+	<original>Moved Up</original>
+	<translate>Преместен нагоре</translate>
+</string>
+<string>
+	<original>My Appointments</original>
+	<translate>Моите срещи</translate>
+</string>
+<string>
+	<original>My Profile</original>
+	<translate>Моят профил</translate>
+</string>
+<string>
+	<original>My Timezone</original>
+	<translate>Моята часова зона</translate>
+</string>
+<string>
+	<original>N/A</original>
+	<translate>Недостъпен</translate>
+</string>
+<string>
+	<original>Name</original>
+	<translate>Име</translate>
+</string>
+<string>
+	<original>Nearest Availability</original>
+	<translate>Най близка възможност</translate>
+</string>
+<string>
+	<original>New</original>
+	<translate>Нов</translate>
+</string>
+<string>
+	<original>New Appointment</original>
+	<translate>Нова среща</translate>
+</string>
+<string>
+	<original>New Version</original>
+	<translate>Нова версия</translate>
+</string>
+<string>
+	<original>New Version Files Uploaded, Upgrade Procedure Required</original>
+	<translate>Качени са файлове за нова версия, Нужено е изпълнение на Обновяване</translate>
+</string>
+<string>
+	<original>New appointment has been created and automatically approved.</original>
+	<translate>Създадената нова среща е автоматично одобрена.</translate>
+</string>
+<string>
+	<original>New to our site? Please take a moment to register!</original>
+	<translate>Нов потребител? Моля регистрирайте се!</translate>
+</string>
+<string>
+	<original>Newly registered users will be asked to confirm their email by following a confirmation link in the email message</original>
+	<translate>Новорегистрираните потребители трябва да потвърдат своя имейл. Използвайте линка изпратен в имейла за потвърждение.</translate>
+</string>
+<string>
+	<original>Newsletter</original>
+	<translate>Бюлетин</translate>
+</string>
+<string>
+	<original>Next Timeoffs</original>
+	<translate>Следваща почивка</translate>
+</string>
+<string>
+	<original>No</original>
+	<translate>Не</translate>
+</string>
+<string>
+	<original>No Access</original>
+	<translate>Няма достъп</translate>
+</string>
+<string>
+	<original>No Email?</original>
+	<translate>Без Имейл?</translate>
+</string>
+<string>
+	<original>No Selectable Times</original>
+	<translate>Няма избираеми интервали</translate>
+</string>
+<string>
+	<original>No Show</original>
+	<translate>Да не се показва</translate>
+</string>
+<string>
+	<original>No Upgrade Procedure To Run</original>
+	<translate>Няма процедура за обновяване за изпълнение</translate>
+</string>
+<string>
+	<original>No administrative users to manage appointments!</original>
+	<translate>Няма административни потребители за управление на срещи!</translate>
+</string>
+<string>
+	<original>No administrative users to manage schedules!</original>
+	<translate>Няма административни потребители за управление на графици!</translate>
+</string>
+<string>
+	<original>No more available</original>
+	<translate>Няма своводни</translate>
+</string>
+<string>
+	<original>No schedules configured!</original>
+	<translate>Няма конфигуриран график!</translate>
+</string>
+<string>
+	<original>No users found matching your search</original>
+	<translate>Не са намерени търсените потребители</translate>
+</string>
+<string>
+	<original>Non Registered Users</original>
+	<translate>Нерегистрирани потребители</translate>
+</string>
+<string>
+	<original>None</original>
+	<translate>Не</translate>
+</string>
+<string>
+	<original>Not Allowed</original>
+	<translate>Непозволен</translate>
+</string>
+<string>
+	<original>Not Approved</original>
+	<translate>Непотвърден</translate>
+</string>
+<string>
+	<original>Not Available Now</original>
+	<translate>Не е достъпен в момента</translate>
+</string>
+<string>
+	<original>Not Paid</original>
+	<translate>Неплатен</translate>
+</string>
+<string>
+	<original>Not Registered</original>
+	<translate>Нерегистриран</translate>
+</string>
+<string>
+	<original>Not Shown</original>
+	<translate>Не се показва</translate>
+</string>
+<string>
+	<original>Not Shown For Security Reasons</original>
+	<translate>Не се показва поради причини за сигурност</translate>
+</string>
+<string>
+	<original>Not The First Option In Select List</original>
+	<translate>Не е първа опция в списъка</translate>
+</string>
+<string>
+	<original>Not in list</original>
+	<translate>Не е в списъка</translate>
+</string>
+<string>
+	<original>Not you?</original>
+	<translate>Не сте Вие?</translate>
+</string>
+<string>
+	<original>Notification</original>
+	<translate>Уведомление</translate>
+</string>
+<string>
+	<original>Notifications</original>
+	<translate>Уведомления</translate>
+</string>
+<string>
+	<original>Nov</original>
+	<translate>Ноем</translate>
+</string>
+<string>
+	<original>Numbers only</original>
+	<translate>Само цифри</translate>
+</string>
+<string>
+	<original>OK</original>
+	<translate>OK</translate>
+</string>
+<string>
+	<original>Oct</original>
+	<translate>Окт</translate>
+</string>
+<string>
+	<original>Old Appointment</original>
+	<translate>Стара среща</translate>
+</string>
+<string>
+	<original>Old Appointments</original>
+	<translate>Стари срещи</translate>
+</string>
+<string>
+	<original>Old Timeoffs</original>
+	<translate>Стари почивки</translate>
+</string>
+<string>
+	<original>One Appointment Free</original>
+	<translate>Една безплатна среща</translate>
+</string>
+<string>
+	<original>One Entry Only</original>
+	<translate>Само един избор</translate>
+</string>
+<string>
+	<original>Only View The Timezone</original>
+	<translate>Покажи само часовата зона</translate>
+</string>
+<string>
+	<original>Only lowercase English letters, numbers, and underscores please!</original>
+	<translate>Латински малки букви, цифри, _!</translate>
+</string>
+<string>
+	<original>Optional</original>
+	<translate>По избор</translate>
+</string>
+<string>
+	<original>Or Recurring Appointments?</original>
+	<translate>Или повтарящи се срещи?</translate>
+</string>
+<string>
+	<original>Other Views &amp; Export</original>
+	<translate>Друг изглед &amp; Експорт</translate>
+</string>
+<string>
+	<original>Other end time?</original>
+	<translate>Друго време за край?</translate>
+</string>
+<string>
+	<original>Pages</original>
+	<translate>Страници</translate>
+</string>
+<string>
+	<original>Paid Through</original>
+	<translate>Платен през</translate>
+</string>
+<string>
+	<original>Paid Value</original>
+	<translate>Платена стойност</translate>
+</string>
+<string>
+	<original>Partially Booked</original>
+	<translate>Частично зает</translate>
+</string>
+<string>
+	<original>Partially Paid</original>
+	<translate>Частично платен</translate>
+</string>
+<string>
+	<original>Password</original>
+	<translate>Парола</translate>
+</string>
+<string>
+	<original>Password Changed</original>
+	<translate>Паролата е сменена</translate>
+</string>
+<string>
+	<original>Password Reset</original>
+	<translate>Паролата е нулирана</translate>
+</string>
+<string>
+	<original>Passwords don't match!</original>
+	<translate>Паролите на съвпадат!</translate>
+</string>
+<string>
+	<original>Payment</original>
+	<translate>Плащане</translate>
+</string>
+<string>
+	<original>Payment Gateway</original>
+	<translate>Средство за плащане</translate>
+</string>
+<string>
+	<original>Payment Gateways</original>
+	<translate>Средства за плащане</translate>
+</string>
+<string>
+	<original>Payment Options</original>
+	<translate>Възможности за плащане</translate>
+</string>
+<string>
+	<original>Payment Required</original>
+	<translate>Изисква се плащане</translate>
+</string>
+<string>
+	<original>Payments</original>
+	<translate>Плащания</translate>
+</string>
+<string>
+	<original>Paypal Email</original>
+	<translate>Paypal Имейл</translate>
+</string>
+<string>
+	<original>Pending</original>
+	<translate>В очакване</translate>
+</string>
+<string>
+	<original>Period</original>
+	<translate>Период</translate>
+</string>
+<string>
+	<original>Periodic</original>
+	<translate>Периодичен</translate>
+</string>
+<string>
+	<original>Permission Denied</original>
+	<translate>Забранен достъп</translate>
+</string>
+<string>
+	<original>Permissions</original>
+	<translate>Права</translate>
+</string>
+<string>
+	<original>Phone number should have at least {NUM} digits</original>
+	<translate>Телефонните номера трябва да имат минимум {NUM} цифри</translate>
+</string>
+<string>
+	<original>Please Confirm Your Email</original>
+	<translate>Моля потвърдете своя имейл</translate>
+</string>
+<string>
+	<original>Please choose at least one option</original>
+	<translate>Моля изберете поне една опция</translate>
+</string>
+<string>
+	<original>Please choose whom to send your newsletter to</original>
+	<translate>Моля изберете ня кого да изпратите бюлетина</translate>
+</string>
+<string>
+	<original>Please confirm the password</original>
+	<translate>Моля потвърдете паролата</translate>
+</string>
+<string>
+	<original>Please login</original>
+	<translate>Моля влезте в системата</translate>
+</string>
+<string>
+	<original>Please provide the cancel reason</original>
+	<translate>Моля представете причнина за отказването</translate>
+</string>
+<string>
+	<original>Please provide the reject reason</original>
+	<translate>Моля представете причнина за отказването2</translate>
+</string>
+<string>
+	<original>Please provide your contact details</original>
+	<translate>Моля да предоставите контакт детайли</translate>
+</string>
+<string>
+	<original>Please register</original>
+	<translate>Моля регистрирайте се</translate>
+</string>
+<string>
+	<original>Please try again</original>
+	<translate>Моля опитайте отново</translate>
+</string>
+<string>
+	<original>Plugin</original>
+	<translate>Добавка</translate>
+</string>
+<string>
+	<original>Plugins</original>
+	<translate>Добавки</translate>
+</string>
+<string>
+	<original>Price</original>
+	<translate>Цена</translate>
+</string>
+<string>
+	<original>Price Format</original>
+	<translate>Формат на цената</translate>
+</string>
+<string>
+	<original>Pricing</original>
+	<translate>Цени</translate>
+</string>
+<string>
+	<original>Print</original>
+	<translate>Печат</translate>
+</string>
+<string>
+	<original>Proceed</original>
+	<translate>Действай</translate>
+</string>
+<string>
+	<original>Purge</original>
+	<translate>Изтрий</translate>
+</string>
+<string>
+	<original>Purge Cancelled</original>
+	<translate>Изтриването отменено</translate>
+</string>
+<string>
+	<original>Purged</original>
+	<translate>Изтрито</translate>
+</string>
+<string>
+	<original>Recurring</original>
+	<translate>Повтаряне</translate>
+</string>
+<string>
+	<original>Recurring Options</original>
+	<translate>Опции за повтаряне</translate>
+</string>
+<string>
+	<original>Register</original>
+	<translate>Регистрирай се</translate>
+</string>
+<string>
+	<original>Registered Users</original>
+	<translate>Регистрирани потребители</translate>
+</string>
+<string>
+	<original>Reject</original>
+	<translate>Отмени</translate>
+</string>
+<string>
+	<original>Release No Show</original>
+	<translate>Отмени - без показване</translate>
+</string>
+<string>
+	<original>Reminder</original>
+	<translate>Напомняне</translate>
+</string>
+<string>
+	<original>Reminders</original>
+	<translate>Напомняния</translate>
+</string>
+<string>
+	<original>Request (Automatically Approved)</original>
+	<translate>Заявката (Автоматично одобрена)</translate>
+</string>
+<string>
+	<original>Request Permissions</original>
+	<translate>Изисквай права</translate>
+</string>
+<string>
+	<original>Require Clients Give Appointment Cancellation Reason</original>
+	<translate>Клиентите трябва да преоставят прична за отмяна</translate>
+</string>
+<string>
+	<original>Required field</original>
+	<translate>Задължителни полета</translate>
+</string>
+<string>
+	<original>Reschedule</original>
+	<translate>Промени срещата</translate>
+</string>
+<string>
+	<original>Resend Confirmation Code</original>
+	<translate>Препарати кода за потвърждение</translate>
+</string>
+<string>
+	<original>Reset To Defaults</original>
+	<translate>Върни в основни настройки</translate>
+</string>
+<string>
+	<original>Response</original>
+	<translate>Отговор</translate>
+</string>
+<string>
+	<original>Restore</original>
+	<translate>Възстанови</translate>
+</string>
+<string>
+	<original>Restore From Backup</original>
+	<translate>Възстанови от бекъп</translate>
+</string>
+<string>
+	<original>Revise Search?</original>
+	<translate>Промени търсенето?</translate>
+</string>
+<string>
+	<original>Role</original>
+	<translate>Роля</translate>
+</string>
+<string>
+	<original>Run Upgrade Procedure</original>
+	<translate>Стартирай процедура за обновяване</translate>
+</string>
+<string>
+	<original>SMS</original>
+	<translate>SMS</translate>
+</string>
+<string>
+	<original>SMS Notifications Templates</original>
+	<translate>SMS шаблони за уведомление</translate>
+</string>
+<string>
+	<original>SMTP Settings</original>
+	<translate>SMTP настройкии</translate>
+</string>
+<string>
+	<original>Sat</original>
+	<translate>Съб</translate>
+</string>
+<string>
+	<original>Saturday</original>
+	<translate>Събота</translate>
+</string>
+<string>
+	<original>Save</original>
+	<translate>Запомни</translate>
+</string>
+<string>
+	<original>Schedule</original>
+	<translate>График</translate>
+</string>
+<string>
+	<original>Schedules</original>
+	<translate>Графици</translate>
+</string>
+<string>
+	<original>Search</original>
+	<translate>Търси</translate>
+</string>
+<string>
+	<original>Seats</original>
+	<translate>Места</translate>
+</string>
+<string>
+	<original>Secure</original>
+	<translate>Сигурен</translate>
+</string>
+<string>
+	<original>Select</original>
+	<translate>Избери</translate>
+</string>
+<string>
+	<original>Select Options</original>
+	<translate>Избери опции</translate>
+</string>
+<string>
+	<original>Selectable Times</original>
+	<translate>Избираеми интервали</translate>
+</string>
+<string>
+	<original>Selecting Now</original>
+	<translate>Сега избери</translate>
+</string>
+<string>
+	<original>Selection Display Style</original>
+	<translate>Стил на избирането</translate>
+</string>
+<string>
+	<original>Send</original>
+	<translate>Изпрати</translate>
+</string>
+<string>
+	<original>Send New Password</original>
+	<translate>Изпрати нова парола</translate>
+</string>
+<string>
+	<original>Send Reminder Before</original>
+	<translate>Изпрати напомняне преди</translate>
+</string>
+<string>
+	<original>Send To</original>
+	<translate>Изпрати на</translate>
+</string>
+<string>
+	<original>Sender Email</original>
+	<translate>Имейл на изпращача</translate>
+</string>
+<string>
+	<original>Sender Name</original>
+	<translate>Име на изпращача</translate>
+</string>
+<string>
+	<original>Sent At</original>
+	<translate>Изпратено на</translate>
+</string>
+<string>
+	<original>Sep</original>
+	<translate>Сеп</translate>
+</string>
+<string>
+	<original>Service</original>
+	<translate>Услуга</translate>
+</string>
+<string>
+	<original>Service selection should come before the date and time selection</original>
+	<translate>Избора на услуга трябва да става преди избора на дата</translate>
+</string>
+<string>
+	<original>Services</original>
+	<translate>Услуги</translate>
+</string>
+<string>
+	<original>Settings</original>
+	<translate>Настройки</translate>
+</string>
+<string>
+	<original>Show</original>
+	<translate>Покажи</translate>
+</string>
+<string>
+	<original>Show Session Duration For Clients</original>
+	<translate>Покажи продължителността на сесиите за клиенти</translate>
+</string>
+<string>
+	<original>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</original>
+	<translate>Показва {SHOW_FROM} - {SHOW_TO} от {TOTAL_COUNT}</translate>
+</string>
+<string>
+	<original>Single Or Recurring Appointments?</original>
+	<translate>Единична или периодична среща?</translate>
+</string>
+<string>
+	<original>Something short and descriptive, like Summer Schedule, etc</original>
+	<translate>Нещо кратко и описателно, като Летен график, и т.н.</translate>
+</string>
+<string>
+	<original>Sort By</original>
+	<translate>Сортирай по</translate>
+</string>
+<string>
+	<original>Split</original>
+	<translate>Раздели</translate>
+</string>
+<string>
+	<original>Status</original>
+	<translate>Статус</translate>
+</string>
+<string>
+	<original>String(s) missing</original>
+	<translate>Липсва стринг</translate>
+</string>
+<string>
+	<original>Subject</original>
+	<translate>Относно</translate>
+</string>
+<string>
+	<original>Sun</original>
+	<translate>Нед</translate>
+</string>
+<string>
+	<original>Sunday</original>
+	<translate>Неделя</translate>
+</string>
+<string>
+	<original>Suspend</original>
+	<translate>Отмени</translate>
+</string>
+<string>
+	<original>Suspended</original>
+	<translate>Отменен</translate>
+</string>
+<string>
+	<original>System Access Level</original>
+	<translate>Ново за достъп</translate>
+</string>
+<string>
+	<original>System Name</original>
+	<translate>Име на системата</translate>
+</string>
+<string>
+	<original>Tags</original>
+	<translate>тагове</translate>
+</string>
+<string>
+	<original>Template</original>
+	<translate>Шаблон</translate>
+</string>
+<string>
+	<original>Templates</original>
+	<translate>Шаблони</translate>
+</string>
+<string>
+	<original>Terminology</original>
+	<translate>Терминология</translate>
+</string>
+<string>
+	<original>Text</original>
+	<translate>Текст</translate>
+</string>
+<string>
+	<original>Text Field Size</original>
+	<translate>Размер на текстовото поле</translate>
+</string>
+<string>
+	<original>Textarea</original>
+	<translate>Текстово поле</translate>
+</string>
+<string>
+	<original>Textarea Columns</original>
+	<translate>Колони на текстовото поле</translate>
+</string>
+<string>
+	<original>Textarea Rows</original>
+	<translate>Редове на текстовото поле</translate>
+</string>
+<string>
+	<original>Thank you for registering![br]Now we kindly ask you to confirm your email. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Благодаря за регистрирането![br]Молим ви да потвърдите Вашия имейл. Моля отворете изпратеното от нас съобшени в пощенската си кутия и кликнете линка за потвърждение.</translate>
+</string>
+<string>
+	<original>The administrator will need to manually approve new user accounts before they can access the system</original>
+	<translate>Администраторът трябва да потвърди новите клиентски профили преди те да могат да достъпват системата</translate>
+</string>
+<string>
+	<original>Theme</original>
+	<translate>Тема</translate>
+</string>
+<string>
+	<original>Themes</original>
+	<translate>Теми</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s)</original>
+	<translate>Има [b]{APPS_COUNT}[/b] срещи</translate>
+</string>
+<string>
+	<original>There has been a problem with your payment</original>
+	<translate>Има проблем с Вашето плащане</translate>
+</string>
+<string>
+	<original>There is a problem with your account</original>
+	<translate>Има проблем с Вашия профил</translate>
+</string>
+<string>
+	<original>These upgrade scripts have been executed</original>
+	<translate>Изпълнени са тези скриптове за обновяване</translate>
+</string>
+<string>
+	<original>This email is not registered</original>
+	<translate>Този имейл не е регистриран</translate>
+</string>
+<string>
+	<original>This may depend on your Excel regional settings</original>
+	<translate>Резултатът може да варира в зависимост от регионалните ви Excel настройки</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min advance booking</original>
+	<translate>Не може да бъде по-малко от минималното предварително време за резервиране</translate>
+</string>
+<string>
+	<original>Thu</original>
+	<translate>Чет</translate>
+</string>
+<string>
+	<original>Thursday</original>
+	<translate>Четвъртък</translate>
+</string>
+<string>
+	<original>Time</original>
+	<translate>Време</translate>
+</string>
+<string>
+	<original>Time Format</original>
+	<translate>Формат време</translate>
+</string>
+<string>
+	<original>Time Slot</original>
+	<translate>Времеви интервал</translate>
+</string>
+<string>
+	<original>Time Slots</original>
+	<translate>Времеви интервали</translate>
+</string>
+<string>
+	<original>Time Unit, min</original>
+	<translate>Времева мерна единица, мин</translate>
+</string>
+<string>
+	<original>Timeoff</original>
+	<translate>Почивка</translate>
+</string>
+<string>
+	<original>Times shown in [b]{TIME_ZONE}[/b] time zone</original>
+	<translate>Времето се показва в [b]{TIME_ZONE}[/b] времева зона</translate>
+</string>
+<string>
+	<original>Timezone</original>
+	<translate>Времева зона</translate>
+</string>
+<string>
+	<original>Title</original>
+	<translate>Заглавие</translate>
+</string>
+<string>
+	<original>To</original>
+	<translate>До</translate>
+</string>
+<string>
+	<original>Together</original>
+	<translate>Заедно</translate>
+</string>
+<string>
+	<original>Total</original>
+	<translate>Общо</translate>
+</string>
+<string>
+	<original>Total Amount</original>
+	<translate>Обща сума</translate>
+</string>
+<string>
+	<original>Total Duration</original>
+	<translate>Обща продължителност</translate>
+</string>
+<string>
+	<original>Total Price</original>
+	<translate>Цена онщо</translate>
+</string>
+<string>
+	<original>Tue</original>
+	<translate>Вто</translate>
+</string>
+<string>
+	<original>Tuesday</original>
+	<translate>Вторник</translate>
+</string>
+<string>
+	<original>Type</original>
+	<translate>Тип</translate>
+</string>
+<string>
+	<original>URL To Return After Appointment Request</original>
+	<translate>Линк за пренасочване след запазване на среща</translate>
+</string>
+<string>
+	<original>Uncategorized</original>
+	<translate>Некатегоризиран</translate>
+</string>
+<string>
+	<original>Uninstall</original>
+	<translate>Деинсталиране</translate>
+</string>
+<string>
+	<original>Unique Email</original>
+	<translate>Уникален имейл</translate>
+</string>
+<string>
+	<original>Unique Username</original>
+	<translate>Уникално потребителско име</translate>
+</string>
+<string>
+	<original>Until Closed</original>
+	<translate>До края на работния ден</translate>
+</string>
+<string>
+	<original>Up</original>
+	<translate>Нагоре</translate>
+</string>
+<string>
+	<original>Upcoming Appointments</original>
+	<translate>Следващи срещи</translate>
+</string>
+<string>
+	<original>Update</original>
+	<translate>Обновяване</translate>
+</string>
+<string>
+	<original>Upgrade</original>
+	<translate>Обновяване</translate>
+</string>
+<string>
+	<original>Uploaded Version</original>
+	<translate>Заредена версия</translate>
+</string>
+<string>
+	<original>Use Email As Username</original>
+	<translate>Използвай имейла за потребителско име</translate>
+</string>
+<string>
+	<original>User</original>
+	<translate>Потребител</translate>
+</string>
+<string>
+	<original>User Login Required?</original>
+	<translate>Изисква се логване?</translate>
+</string>
+<string>
+	<original>User Registration</original>
+	<translate>Регистриране</translate>
+</string>
+<string>
+	<original>User Status</original>
+	<translate>Статус на потребителя</translate>
+</string>
+<string>
+	<original>Username</original>
+	<translate>Потребителско име</translate>
+</string>
+<string>
+	<original>Users</original>
+	<translate>Потребители</translate>
+</string>
+<string>
+	<original>Valid</original>
+	<translate>Валиден</translate>
+</string>
+<string>
+	<original>Valid From Date</original>
+	<translate>Валиден от дата</translate>
+</string>
+<string>
+	<original>Valid To Date</original>
+	<translate>Валиден до дата</translate>
+</string>
+<string>
+	<original>Valid URL Syntax</original>
+	<translate>Валиден URL синтаксис</translate>
+</string>
+<string>
+	<original>Validation</original>
+	<translate>Валидация</translate>
+</string>
+<string>
+	<original>View</original>
+	<translate>Изглед</translate>
+</string>
+<string>
+	<original>View Only</original>
+	<translate>Само за гледане</translate>
+</string>
+<string>
+	<original>View and Update</original>
+	<translate>Гледане и промяна</translate>
+</string>
+<string>
+	<original>Waiting For Approval</original>
+	<translate>Изчаква одобрение</translate>
+</string>
+<string>
+	<original>Warning: your current data will be deleted by restoring from backup file</original>
+	<translate>Внимание: текущото съдържание ще бъде изтрито при възстановяване от backup файла</translate>
+</string>
+<string>
+	<original>Wed</original>
+	<translate>Сря</translate>
+</string>
+<string>
+	<original>Wednesday</original>
+	<translate>Сряда</translate>
+</string>
+<string>
+	<original>Week</original>
+	<translate>Седмица</translate>
+</string>
+<string>
+	<original>Week Starts On</original>
+	<translate>Седмицата започва от</translate>
+</string>
+<string>
+	<original>Weekday</original>
+	<translate>Седмично</translate>
+</string>
+<string>
+	<original>Weeks</original>
+	<translate>Седмици</translate>
+</string>
+<string>
+	<original>When</original>
+	<translate>Кога</translate>
+</string>
+<string>
+	<original>When enabling this, be sure you remember your own email address</original>
+	<translate>При разрешаване бъдете сигурни, че помните своя имейл адрес</translate>
+</string>
+<string>
+	<original>Working Time</original>
+	<translate>Работно време</translate>
+</string>
+<string>
+	<original>Wrong Confirmation Link</original>
+	<translate>Грешен линк за потвърждение</translate>
+</string>
+<string>
+	<original>Wrong username or password</original>
+	<translate>Грешно потребителско име или праола</translate>
+</string>
+<string>
+	<original>Yes</original>
+	<translate>Да</translate>
+</string>
+<string>
+	<original>Yes/No</original>
+	<translate>Да/Не</translate>
+</string>
+<string>
+	<original>You can use the * wildcard to match any set of characters</original>
+	<translate>Може да използвате * wildcard което съответства на всички знаци</translate>
+</string>
+<string>
+	<original>You cannot cancel or reschedule this appointment now</original>
+	<translate>Не можа да отмените или промените тази среща сега</translate>
+</string>
+<string>
+	<original>You have nothing to manage</original>
+	<translate>Нямате какво да управлявате</translate>
+</string>
+<string>
+	<original>Your Name</original>
+	<translate>Вашето име</translate>
+</string>
+<string>
+	<original>Your account is temporarily suspended</original>
+	<translate>Вашият профил е временно недостъпен</translate>
+</string>
+<string>
+	<original>Your email is not confirmed yet. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Вашият имейл не е все още потвърден. Моля отворете пощенската си кутия и кликнете на линка за потвърждание.</translate>
+</string>
+<string>
+	<original>Your new password has been sent to your email</original>
+	<translate>Вашата нова парола е изпратена на вашия имейл</translate>
+</string>
+<string>
+	<original>hitAppoint Path</original>
+	<translate>hitAppoint Път</translate>
+</string>
+
+</file>

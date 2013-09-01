@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Âàø çàïðîñ îæèäàåò ïîäòâåðæäåíèÿ</subject>
+<body>
+Ñïàñèáî çà Âàø çàïðîñ.
+Ìû ïðîñèì Âàñ íåìíîãî ïîäîæäàòü ïîêà ìû åãî ðàññìàòðèâàåì. Ìû Âàñ óâåäîìèì, êîãäà Âàø çàïðîñ áóäåò ïîäòâåðæäåí.
+
+Âàø çàïðîñ:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Âàø çàïðîñ ïîäòâåðæäåí</subject>
+<body>
+Ñïàñèáî çà Âàø çàïðîñ. Âàøà çàïèñü íà ïðèåì ïîäòâåðæäåíà.
+
+Âàøà çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Âàø çàïðîñ îòêëîíåí</subject>
+<body>
+Ñïàñèáî çà Âàø çàïðîñ. Ê ñîæàëåíèþ, Âàø çàïðîñ áûë îòêëîíåí.
+
+Ïðè÷èíà îòêëîíåíèÿ:
+{REJECT_REASON}
+
+Âàø çàïðîñ:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>Âàø Çàïðîñ</subject>
+<body>
+Ñïàñèáî çà Âàø çàïðîñ. Âàø çàïðîñ ïîäòâåðæäåí.
+
+Âàøà çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Âàø çàïðîñ îòìåíåí</subject>
+<body>
+Ïîäòâåðæäàåì ÷òî Âàøà çàïèñü íà ïðèåì áûëà îòìåíåíà ïî Âàøåìó çàïðîñó.
+
+Ïðè÷èíà îòìåíû:
+{CANCEL_REASON}
+
+Âàøà çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-move-customer</key>
+<subject>Âàøà çàïèñü íà ïðèåì áûëà ïåðåíåñåíà â äðóãîå ìåñòî</subject>
+<body>
+Âàøà çàïèñü íà ïðèåì áûëà ïåðåíåñåíà â äðóãîå ìåñòî.
+
+Âàøà çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign-customer</key>
+<subject>Âàøà çàïèñü íà ïðèåì áûëà ïåðåíàçíà÷åíà äðóãîìó ñîòðóäíèêó</subject>
+<body>
+Âàøà çàïèñü íà ïðèåì áûëà ïåðåíàçíà÷åíà äðóãîìó ñîòðóäíèêó.
+
+Âàøà çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>Íîâûé çàïðîñ íà ïðèåì, íåîáõîäèìî ïîäòâåðæäåíèå</subject>
+<body>
+Ïîÿâèëñÿ íîâûé çàïðîñ íà ïðèåì.
+
+Çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+
+Äàííûå êëèåíòà:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Íîâûé çàïðîñ íà ïðèåì</subject>
+<body>
+Ïîÿâèëñÿ íîâûé çàïðîñ íà ïðèåì, îí àâòîìàòè÷åñêè ïîäòâåðæäåí.
+
+Çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+
+Äàííûå êëèåíòà:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Âàøà çàïèñü íà ïðèåì áûëà îòìåíåíà êëèåíòîì</subject>
+<body>
+Ïîäòâåðæäàåì ÷òî Âàøà çàïèñü íà ïðèåì áûëà îòìåíåíà êëèåíòîì.
+
+Ïðè÷èíà îòìåíû:
+{CANCEL_REASON}
+
+Çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+
+Äàííûå êëèåíòà:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Âàøà çàïèñü íà ïðèåì ïîäòâåðæäåíà</subject>
+<body>
+Âàøà çàïèñü íà ïðèåì ïîäòâåðæäåíà.
+
+Çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-move-provider</key>
+<subject>Âàøà çàïèñü íà ïðèåì áûëà ïåðåíåñåíà â äðóãîå ìåñòî</subject>
+<body>
+Âàøà çàïèñü íà ïðèåì áûëà ïåðåíåñåíà â äðóãîå ìåñòî.
+
+Çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign-provider</key>
+<subject>Íîâàÿ çàïèñü íà ïðèåì áûëà ïåðåíàçíà÷åíà Âàì</subject>
+<body>
+Íîâàÿ çàïèñü íà ïðèåì áûëà ïåðåíàçíà÷åíà Âàì îò äðóãîãî ñîòðóäíèêà.
+
+Çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign_from-provider</key>
+<subject>Âàøà çàïèñü íà ïðèåì áûëà ïåðåíàçíà÷åíà äðóãîìó ñîòðóäíèêó</subject>
+<body>
+Âàøà çàïèñü íà ïðèåì áûëà ïåðåíàçíà÷åíà äðóãîìó ñîòðóäíèêó.
+
+Çàïèñü íà ïðèåì:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>user-require_email_confirmaion-user</key>
+<subject>Íåîáõîäèìî ïîäòâåðæäåíèå àäðåñà ýëåêòðîííîé ïî÷òû</subject>
+<body>
+Ñïàñèáî çà ðåãèñòðàöèþ! Ïðîñèì Âàñ ïîäòâåðäèòü Âàø àäðåñ ýëåêòðîííîé ïî÷òû.
+
+Ïîæàëóéñòà êëèêíèòå íà ýòó ññûëêó äëÿ ïîäòâåðæäåíèÿ Âàøåãî àäðåñà ýëåêòðîííîé ïî÷òû:
+{USER.CONFIRMATION_LINK}
+
+Âàøå èìÿ ïîëüçîâàòåëÿ: {USER.USERNAME}
+Âàø ïàðîëü: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Âàøà ó÷åòíàÿ çàïèñü òðåáóåò ïîäòâåðæäåíèÿ</subject>
+<body>
+Ñïàñèáî çà ðåãèñòðàöèþ!
+Ìû ïðîñèì Âàñ íåìíîãî ïîäîæäàòü ïîêà ìû ðàññìîòðèì Âàøó ó÷åòíóþ çàïèñü. Ìû Âàñ óâåäîìèì, êîãäà Âàøà ó÷åòíàÿ çàïèñü áóäåò ïîäòâåðæäåíà.
+
+Âàøå èìÿ ïîëüçîâàòåëÿ: {USER.USERNAME}
+Âàø ïàðîëü: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Çàðåãåñòðèðîâàëñÿ íîâûé ïîëüçîâàòåëü, íåîáõîäèìî Âàøå ïîäòâåðæäåíèå</subject>
+<body>
+íîâûé ïîëüçîâàòåëü çàðåãåñòðèðîâàëñÿ íà Âàøåì ñàéòå hitAppoint. Ïîæàëóéñòà çàéäèòå â ïàíåëü óïðàâëåíèÿ è ïîäòâåðäèòå èëè îòêëîíèòå ýòîãî ïîëüçîâàòåëÿ.
+
+Èíôîðìàöèÿ íîâîãî ïîëüçîâàòåëÿ:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Âàøà ó÷åòíàÿ çàïèñü àêòèâèðîâàíà</subject>
+<body>
+Ïîçäðàâëÿåì!
+Âàøà ó÷åòíàÿ çàïèñü àêòèâèðîâàíà.
+
+Èìÿ ïîëüçîâàòåëÿ: {USER.USERNAME}
+Ïàðîëü: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Ñáðîñ ïàðîëÿ</subject>
+<body>
+ïî Âàøåìó çàïðîñó, âàø ïàðîëü áûë ñîçäàí çàíîâî. Âîò âàøè èìÿ ïîëüçîâàòåëÿ è ïàðîëü:
+
+Èìÿ ïîëüçîâàòåëÿ: {USER.USERNAME}
+Ïàðîëü: {USER.PASSWORD}
+</body>
+</message>
+
+</emails>

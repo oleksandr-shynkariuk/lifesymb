@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Vaša prijava na sestanek čaka na odobritev</subject>
+<body>
+Zahvaljujemo se vam za vašo prijavo na sestanek.
+Vljudno vas prosim za malo potrpežljivosti, da preverimo vašo prijavo. Ko bo vaša prijava sprejeta, vas bomo o tem naknadno obvestili.
+
+Podrobnosti vase prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Vaša prijava je odobrena</subject>
+<body>
+Zahvaljujemo se vam za vašo prijavo na sestanek. Sestanek je sedaj odobren.
+
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Vaša prijava je bila zavrnjena</subject>
+<body>
+Zahvaljujemo se vam za vašo prijavo. Žal vas moramo obvestiti, da je bila vaša prijava zavrnjena.
+
+Razlog za zavrnitev:
+{APPOINTMENT.REJECT_REASON}
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-customer</key>
+<subject>Vaša prijava je označena kot Ni vidna</subject>
+<body>
+Žal nam je, da je bila vaša prijava označena kot Ni vidna.
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>Vaša prijava</subject>
+<body>
+Zahvaljujemo se vam za vašo prijavo. Vaša prijava je odobrena.
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Vaša prijava je preklicana</subject>
+<body>
+Obveščamo vas, da je bila prijava na vašo željo preklicana.
+
+Razlog za preklic:
+{APPOINTMENT.CANCEL_REASON}
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-customer</key>
+<subject>Vaša prijava se je spremenila</subject>
+<body>
+Vaša prijava je bila spremenjena, tukaj so podatki nove prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>Nova prijava zahteva odobritev</subject>
+<body>
+Prejeli ste novo prijavo na vašo storitev.
+
+Podrobnosti prijave:
+{APPOINTMENT.-ALL-}
+
+Podatki naročnika:
+{APPOINTMENT.CUSTOMER.-ALL-}
+
+Hitra povezava do prijave:
+{APPOINTMENT.QUICK_LINK_APPROVE} {APPOINTMENT.QUICK_LINK_REJECT}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Prejeli ste novo prijavo</subject>
+<body>
+Pošiljamo vam novo prijavo na vašo storitev. Prijava je bila že samodejno odobrena.
+
+Podrobnosti prijave:
+{APPOINTMENT.-ALL-}
+
+Podatki naročnika:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Prijava je bila odpovedana s strani naročnika</subject>
+<body>
+Pošiljamo vam obvestilo, da je bila prijava na vašo storitev preklicana s strani naročnika.
+
+Razlog preklica:
+{APPOINTMENT.CANCEL_REASON}
+
+Podrobnosti prijave::
+{APPOINTMENT.-ALL-}
+
+Podatki naročnika:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-provider</key>
+<subject>Prijava je bila zavrnjena</subject>
+<body>
+Prijava na storitev je bila preklicana
+
+Razlog zavrnitve:
+{APPOINTMENT.REJECT_REASON}
+
+Podrobnosti prijave::
+{APPOINTMENT.-ALL-}
+
+Podrobnosti naročnika:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-provider</key>
+<subject>Prijava je bila označena kot Ni vidna</subject>
+<body>
+Prijava na storitev je bila označena kot Ni vidna.
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+
+Podrobnosti naročnika:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Prijava na storitev je odobrena</subject>
+<body>
+Obveščamo vas, da je bila prijava na storitev odobrena.
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+
+Podrobnosti naročnika:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-provider</key>
+<subject>Prijava na storitev je bila spremenjena</subject>
+<body>
+Prijava na vašo storitev je bila spremenjena, tukaj so podatki o novi prijavi:
+{APPOINTMENT.-ALL-}
+
+Podrobnosti naročnika:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-require_email_confirmation-user</key>
+<subject>Prosimo, potrdite vaš elektronski naslov</subject>
+<body>
+Zahvaljujemo se vam za registracijo. Sedaj vas vljudno prosimo, da potrdite vaš elektronski naslov.
+
+{USER.CONFIRMATION_LINK}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Vaš uporabniški račun čaka na odobritev</subject>
+<body>
+Zahvaljujemo se vam za registracijo!
+Vljudno vas prosimo za malenkost potrpežljivosti, da vam potrdimo vaš uporabniški račun. Ko bo račun aktiven, vas bomo o tem naknadno obvestili.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Nova registracija, potrebna odobritev</subject>
+<body>
+Na vaši strani se je registriral nov uporabnik. Prosimo pojdite v administracijo in odobrite oz. zavrnite uporabnika.
+
+Podrobnosti novega uporabnika:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Vaš rašun je aktiven</subject>
+<body>
+Čestitemo!
+Vaš uporabniški račun je sedaj aktiviran. Tukaj so vaši podatki za prijavo:
+
+Uporabniško ime: {USER.USERNAME}
+Geslo: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Vaše geslo je bilo ponastavljeno</subject>
+<body>
+Glede na vašo željo je bilo vaše geslo ponastavljeno. Tukaj so vaši novi podatki za prijavo:
+
+Uporabniško ime: {USER.USERNAME}
+Geslo: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-customer</key>
+<subject>Opomnik o vaši prijavi na storitev</subject>
+<body>
+Pošiljamo vam opomnik o vaši prijavi na storitev.
+
+Podrobnosti vaše prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-provider</key>
+<subject>Opomnik o prijavi na vašo storitev</subject>
+<body>
+Pošiljamo vam opomnik o prijavi na vašo storitev.
+
+
+Podrobnosti prijave:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+</emails>

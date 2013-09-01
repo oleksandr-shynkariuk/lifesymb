@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="component" version="1.5.0">
+	<name>hitAppoint</name>
+	<creationDate>May 2010</creationDate>
+	<author>hitAppoint</author>
+	<copyright></copyright>
+	<authorEmail>support@hitappoint.com</authorEmail>
+	<authorUrl>www.hitappoint.com</authorUrl>
+	<version>4.1.0</version>
+	<description>hitAppoint Component</description>
+
+	<installfile>hitappoint-install.php</installfile>
+	<uninstallfile>hitappoint-uninstall.php</uninstallfile>
+
+	<files>
+		<filename>_conf.php</filename>
+		<filename>hitappoint.php</filename>
+	</files>
+
+	<administration>
+		<menu>hitAppoint</menu>
+
+		<files>
+			<filename>admin.hitappoint.php</filename>
+		</files>
+	</administration>
+</install>

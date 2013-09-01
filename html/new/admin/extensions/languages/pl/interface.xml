@@ -1,0 +1,2541 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<file>
+<language>Polish</language>
+<author>Michal 'Kotek' Kotnowski</author>
+<lastUpdate>12 October, 2010</lastUpdate>
+<charset>utf-8</charset>
+
+<string>
+	<original>Required field</original>
+	<translate>Pole wymagane</translate>
+</string>
+<string>
+	<original>Free</original>
+	<translate>Wolny</translate>
+</string>
+<string>
+	<original>- Any Value -</original>
+	<translate>- Dowolna wartość -</translate>
+</string>
+<string>
+	<original>Sunday</original>
+	<translate>Niedziela</translate>
+</string>
+<string>
+	<original>Monday</original>
+	<translate>Poniedziałek</translate>
+</string>
+<string>
+	<original>Tuesday</original>
+	<translate>Wtorek</translate>
+</string>
+<string>
+	<original>Wednesday</original>
+	<translate>Środa</translate>
+</string>
+<string>
+	<original>Thursday</original>
+	<translate>Czwartek</translate>
+</string>
+<string>
+	<original>Friday</original>
+	<translate>Piątek</translate>
+</string>
+<string>
+	<original>Saturday</original>
+	<translate>Sobota</translate>
+</string>
+<string>
+	<original>Sun</original>
+	<translate>Nie</translate>
+</string>
+<string>
+	<original>Mon</original>
+	<translate>Pon</translate>
+</string>
+<string>
+	<original>Tue</original>
+	<translate>Wto</translate>
+</string>
+<string>
+	<original>Wed</original>
+	<translate>Śro</translate>
+</string>
+<string>
+	<original>Thu</original>
+	<translate>Czw</translate>
+</string>
+<string>
+	<original>Fri</original>
+	<translate>Pią</translate>
+</string>
+<string>
+	<original>Sat</original>
+	<translate>Sob</translate>
+</string>
+<string>
+	<original>Days</original>
+	<translate>Dni</translate>
+</string>
+<string>
+	<original>Day</original>
+	<translate>Dzień</translate>
+</string>
+<string>
+	<original>Hours</original>
+	<translate>Godziny</translate>
+</string>
+<string>
+	<original>Hour</original>
+	<translate>Godzina</translate>
+</string>
+<string>
+	<original>Minutes</original>
+	<translate>Minuty</translate>
+</string>
+<string>
+	<original>Minute</original>
+	<translate>Minuta</translate>
+</string>
+<string>
+	<original>Please Note: (*) Denotes Required Field</original>
+	<translate>Uwaga: (*) oznacza pole wymagane</translate>
+</string>
+<string>
+	<original>View &amp; Update</original>
+	<translate>Pokaż &amp; aktualizuj</translate>
+</string>
+<string>
+	<original>View Only</original>
+	<translate>Tylko pokaż</translate>
+</string>
+<string>
+	<original>Hidden</original>
+	<translate>Ukryte</translate>
+</string>
+<string>
+	<original>Text</original>
+	<translate>Tekst</translate>
+</string>
+<string>
+	<original>Yes/No</original>
+	<translate>Tak/Nie</translate>
+</string>
+<string>
+	<original>Textarea</original>
+	<translate>Obszar tekstowy</translate>
+</string>
+<string>
+	<original>Select</original>
+	<translate>Wybierz</translate>
+</string>
+<string>
+	<original>Textarea Columns</original>
+	<translate>Kolumn tekstu</translate>
+</string>
+<string>
+	<original>Textarea Rows</original>
+	<translate>Wierszy tekstu</translate>
+</string>
+<string>
+	<original>Text Field Size</original>
+	<translate>Długość pola tekstowego</translate>
+</string>
+<string>
+	<original>Please use numbers only</original>
+	<translate>Proszę używać wyłącznie cyfr</translate>
+</string>
+<string>
+	<original>Select Options</original>
+	<translate>Wybierz opcje</translate>
+</string>
+<string>
+	<original>Each option on new line</original>
+	<translate>Każda opcja w nowej linii</translate>
+</string>
+<string>
+	<original>Close</original>
+	<translate>Zamknij</translate>
+</string>
+<string>
+	<original>Weeks</original>
+	<translate>Tygodni(e)</translate>
+</string>
+<string>
+	<original>Please enter whole numbers only</original>
+	<translate>Proszę używać wyłącznie liczb całkowitych</translate>
+</string>
+<string>
+	<original>Unique Email</original>
+	<translate>Niepowtarzalny adres email</translate>
+</string>
+<string>
+	<original>Unique Username</original>
+	<translate>Niepowtarzalna nazwa użytkownika</translate>
+</string>
+<string>
+	<original>Integers Only</original>
+	<translate>Tylko liczby</translate>
+</string>
+<string>
+	<original>English Letters, Numbers, Underscores Only</original>
+	<translate>Tylko litery alfabetu łacińskiego, cyfry i podkreślenie</translate>
+</string>
+<string>
+	<original>Lowercase English Letters, Numbers, Underscores Only</original>
+	<translate>Tylko małe litery alfabetu łacińskiego, cyfry i podkreślenie</translate>
+</string>
+<string>
+	<original>Required Field</original>
+	<translate>Pole wymagane</translate>
+</string>
+<string>
+	<original>Not The First Option In Select List</original>
+	<translate>Poza pierwszą opcją na liście wyboru</translate>
+</string>
+<string>
+	<original>Numbers Only</original>
+	<translate>Tylko cyfry</translate>
+</string>
+<string>
+	<original>Valid URL Syntax</original>
+	<translate>Poprawna składnia URL</translate>
+</string>
+<string>
+	<original>Yes</original>
+	<translate>Tak</translate>
+</string>
+<string>
+	<original>No</original>
+	<translate>Nie</translate>
+</string>
+<string>
+	<original>Date &amp; Time</original>
+	<translate>Data &amp; Godzina</translate>
+</string>
+<string>
+	<original>Service</original>
+	<translate>Usługa</translate>
+</string>
+<string>
+	<original>Location</original>
+	<translate>Lokalizacja</translate>
+</string>
+<string>
+	<original>Provider</original>
+	<translate>Usługodawca</translate>
+</string>
+<string>
+	<original>Appointment aleady approved</original>
+	<translate>Rezerwacja już potwierdzona</translate>
+</string>
+<string>
+	<original>Not Shown For Security Reasons</original>
+	<translate>Niewyświetlone ze względów bezpieczeństwa</translate>
+</string>
+<string>
+	<original>Click here to confirm your email</original>
+	<translate>Kliknij tutaj, aby potwierdzić adres email</translate>
+</string>
+<string>
+	<original>Wrong username or password</original>
+	<translate>Nieprawidłowa nazwa użytkownika lub hasło</translate>
+</string>
+<string>
+	<original>New Version Files Uploaded, Upgrade Procedure Required</original>
+	<translate>Załadowano nowe wersje plików, wymagana procedura aktualizacji</translate>
+</string>
+<string>
+	<original>Appointments</original>
+	<translate>Rezerwacje</translate>
+</string>
+<string>
+	<original>Bulk Actions</original>
+	<translate>Operacje grupowe</translate>
+</string>
+<string>
+	<original>Approve</original>
+	<translate>Potwierdź</translate>
+</string>
+<string>
+	<original>Reject</original>
+	<translate>Odrzuć</translate>
+</string>
+<string>
+	<original>Go</original>
+	<translate>Start</translate>
+</string>
+<string>
+	<original>Status</original>
+	<translate>Status</translate>
+</string>
+<string>
+	<original>When</original>
+	<translate>Termin</translate>
+</string>
+<string>
+	<original>Customer</original>
+	<translate>Klient</translate>
+</string>
+<string>
+	<original>Approved</original>
+	<translate>Potwierdzona</translate>
+</string>
+<string>
+	<original>Pending</original>
+	<translate>Oczekuje na potwierdzenie</translate>
+</string>
+<string>
+	<original>Search From [b]{FROM_DATE}[/b] To [b]{TO_DATE}[/b]</original>
+	<translate>Wyszukiwanie w zakresie od [b]{FROM_DATE}[/b] do [b]{TO_DATE}[/b]</translate>
+</string>
+<string>
+	<original>Old Appointments</original>
+	<translate>Stare rezerwacje</translate>
+</string>
+<string>
+	<original>Show upcoming appointments</original>
+	<translate>Pokaż przyszłe rezerwacje</translate>
+</string>
+<string>
+	<original>Upcoming Appointments</original>
+	<translate>Przyszłe rezerwacje</translate>
+</string>
+<string>
+	<original>Show old appointments</original>
+	<translate>Pokaż stare rezerwacje</translate>
+</string>
+<string>
+	<original>Other Views &amp; Export</original>
+	<translate>Inne widoki &amp; Eksport</translate>
+</string>
+<string>
+	<original>Print</original>
+	<translate>Drukowanie</translate>
+</string>
+<string>
+	<original>No Appointments Found</original>
+	<translate>Nie znaleziono rezerwacji</translate>
+</string>
+<string>
+	<original>Legend</original>
+	<translate>Legenda</translate>
+</string>
+<string>
+	<original>Reschedule</original>
+	<translate>Zmień termin</translate>
+</string>
+<string>
+	<original>Browse</original>
+	<translate>Przeglądaj</translate>
+</string>
+<string>
+	<original>Create</original>
+	<translate>Utwórz</translate>
+</string>
+<string>
+	<original>Reschedule Appointment</original>
+	<translate>Zmień rezerwację</translate>
+</string>
+<string>
+	<original>Create Appointment</original>
+	<translate>Utwórz rezerwację</translate>
+</string>
+<string>
+	<original>New Appointment</original>
+	<translate>Nowa rezerwacja</translate>
+</string>
+<string>
+	<original>Old Appointment</original>
+	<translate>Stara rezerwacja</translate>
+</string>
+<string>
+	<original>Change</original>
+	<translate>Zmień</translate>
+</string>
+<string>
+	<original>Start Over</original>
+	<translate>Start TBC</translate>
+</string>
+<string>
+	<original>Appointment Created</original>
+	<translate>Rezerwacja utworzona</translate>
+</string>
+<string>
+	<original>New appointment has been created and automatically approved.</original>
+	<translate>Nowa rezerwacja została utworzona i automatycznie potwierdzona.</translate>
+</string>
+<string>
+	<original>Manage Appointments</original>
+	<translate>Zarządzaj rezerwacjami</translate>
+</string>
+<string>
+	<original>Confirm Appointment</original>
+	<translate>Potwierdź rezerwację</translate>
+</string>
+<string>
+	<original>Confirm</original>
+	<translate>Potwierdź</translate>
+</string>
+<string>
+	<original>Appointment Rescheduled</original>
+	<translate>Rezerwacja zmieniona</translate>
+</string>
+<string>
+	<original>Your appointment has been rescheduled.</original>
+	<translate>Państwa rezerwacja została zmieniona.</translate>
+</string>
+<string>
+	<original>Other Appointments During This Time</original>
+	<translate>Inne rezerwacje w tym terminie</translate>
+</string>
+<string>
+	<original>Appointment Details</original>
+	<translate>Szczegóły rezerwacji</translate>
+</string>
+<string>
+	<original>Appointment Not Allowed</original>
+	<translate>Rezerwacja niedozwolona</translate>
+</string>
+<string>
+	<original>Choose Provider</original>
+	<translate>Wybierz usługodawcę</translate>
+</string>
+<string>
+	<original>[b]{LOCATION_NAME}[/b] Is Occupied</original>
+	<translate>Lokalizacja [b]{LOCATION_NAME}[/b] jest zajęta</translate>
+</string>
+<string>
+	<original>Fully Booked</original>
+	<translate>Brak miejsc</translate>
+</string>
+<string>
+	<original>Timeoff</original>
+	<translate>Niedostępny</translate>
+</string>
+<string>
+	<original>Not Working Time</original>
+	<translate>Poza godzinami pracy</translate>
+</string>
+<string>
+	<original>Detailed View</original>
+	<translate>Widok szczegółowy</translate>
+</string>
+<string>
+	<original>Review</original>
+	<translate>Przegląd TBC</translate>
+</string>
+<string>
+	<original>Provider Partially Booked</original>
+	<translate>Usługodawca częściowo zarezerwowany</translate>
+</string>
+<string>
+	<original>Appointment Not Recommended</original>
+	<translate>Termin nierekomendowany</translate>
+</string>
+<string>
+	<original>Choose Location</original>
+	<translate>Wybór lokalizacji TBC</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] Is Fully Booked</original>
+	<translate>Usługodawca [b]{PROVIDER_NAME}[/b] nie dysponuje wolnymi miejscami</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] Timeoff</original>
+	<translate>Usługodawca [b]{PROVIDER_NAME}[/b] jest niedostępny</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] can not provide [b]{SERVICE_NAME}[/b] at [b]{TIME}[/b]</original>
+	<translate>Usługodawca [b]{PROVIDER_NAME}[/b] nie oferuje usługi [b]{SERVICE_NAME}[/b] w terminie [b]{TIME}[/b]</translate>
+</string>
+<string>
+	<original>Occupied</original>
+	<translate>Zajęte TBC</translate>
+</string>
+<string>
+	<original>[b]{LOCATION_NAME}[/b] Is Partially Occupied</original>
+	<translate>Lokalizacja [b]{LOCATION_NAME}[/b] jest częściowo zajęta</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] can not provide [b]{SERVICE_NAME}[/b] in [b]{LOCATION_NAME}[/b] at [b]{TIME}[/b]</original>
+	<translate>Usługodawca [b]{PROVIDER_NAME}[/b] nie oferuje usługi [b]{SERVICE_NAME}[/b] w lokalizacji [b]{LOCATION_NAME}[/b] w terminie [b]{TIME}[/b]</translate>
+</string>
+<string>
+	<original>Create Appointment Anyway</original>
+	<translate>Utwórz rezerwację</translate>
+</string>
+<string>
+	<original>Customer Account Created</original>
+	<translate>Utworzono konto klienta</translate>
+</string>
+<string>
+	<original>You can use the * wildcard to match any set of characters</original>
+	<translate>Należy skorzystać z symbolu *, aby wyszukać dowolny ciąg znaków</translate>
+</string>
+<string>
+	<original>Search</original>
+	<translate>Szukaj TBC</translate>
+</string>
+<string>
+	<original>Find an existing customer</original>
+	<translate>Znajdź istniejącego klienta</translate>
+</string>
+<string>
+	<original>Create a new customer</original>
+	<translate>Utwórz nowego klienta</translate>
+</string>
+<string>
+	<original>Select Customer</original>
+	<translate>Wybierz klienta</translate>
+</string>
+<string>
+	<original>User Status</original>
+	<translate>Status użytkownika</translate>
+</string>
+<string>
+	<original>Email Not Confirmed</original>
+	<translate>Adres email jest niepotwierdzony</translate>
+</string>
+<string>
+	<original>Not Approved</original>
+	<translate>Brak potwierdzenia</translate>
+</string>
+<string>
+	<original>Suspended</original>
+	<translate>Wstrzymany</translate>
+</string>
+<string>
+	<original>Role</original>
+	<translate>Rola</translate>
+</string>
+<string>
+	<original>Admin</original>
+	<translate>Administrator</translate>
+</string>
+<string>
+	<original>No users found matching your search</original>
+	<translate>Brak użytkowników spełniających kryterium wyszukiwania</translate>
+</string>
+<string>
+	<original>Revise Search?</original>
+	<translate>Ponowne wyszukiwanie?</translate>
+</string>
+<string>
+	<original>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</original>
+	<translate>Pokazywane: {SHOW_FROM} - {SHOW_TO} z {TOTAL_COUNT}</translate>
+</string>
+<string>
+	<original>Pages</original>
+	<translate>Stron</translate>
+</string>
+<string>
+	<original>N/A</original>
+	<translate>N/D</translate>
+</string>
+<string>
+	<original>Active</original>
+	<translate>Aktywny TBC</translate>
+</string>
+<string>
+	<original>Uncategorized</original>
+	<translate>Kategoria nieokreślona</translate>
+</string>
+<string>
+	<original>Select Service</original>
+	<translate>Wybór usługi</translate>
+</string>
+<string>
+	<original>Jan</original>
+	<translate>Sty</translate>
+</string>
+<string>
+	<original>Feb</original>
+	<translate>Lut</translate>
+</string>
+<string>
+	<original>Mar</original>
+	<translate>Mar</translate>
+</string>
+<string>
+	<original>Apr</original>
+	<translate>Kwi</translate>
+</string>
+<string>
+	<original>May</original>
+	<translate>Maj</translate>
+</string>
+<string>
+	<original>Jun</original>
+	<translate>Cze</translate>
+</string>
+<string>
+	<original>Jul</original>
+	<translate>Lip</translate>
+</string>
+<string>
+	<original>Aug</original>
+	<translate>Sie</translate>
+</string>
+<string>
+	<original>Sep</original>
+	<translate>Wrz</translate>
+</string>
+<string>
+	<original>Oct</original>
+	<translate>Paź</translate>
+</string>
+<string>
+	<original>Nov</original>
+	<translate>Lis</translate>
+</string>
+<string>
+	<original>Dec</original>
+	<translate>Gru</translate>
+</string>
+<string>
+	<original>You are about to schedule appointment at a time that is not available for customers. Are you sure to proceed?</original>
+	<translate>Zamierzasz zarezerwować temrin niedostępny dla klientów. Kontynuować?</translate>
+</string>
+<string>
+	<original>Working Time</original>
+	<translate>Godziny pracy</translate>
+</string>
+<string>
+	<original>Non Working Time</original>
+	<translate>Poza godzinami pracy</translate>
+</string>
+<string>
+	<original>Partially Booked</original>
+	<translate>Częściowo zarezerwowany</translate>
+</string>
+<string>
+	<original>Location Occupied</original>
+	<translate>Lokalizacja zajęta</translate>
+</string>
+<string>
+	<original>Selectable Time</original>
+	<translate>Termin dostępny</translate>
+</string>
+<string>
+	<original>Display By Location</original>
+	<translate>Wg lokalizacji</translate>
+</string>
+<string>
+	<original>Detailed Display</original>
+	<translate>Wyświetlanie szczegółów</translate>
+</string>
+<string>
+	<original>Display By Provider</original>
+	<translate>Wg usługodawcy</translate>
+</string>
+<string>
+	<original>Select Date &amp; Time</original>
+	<translate>Wybierz datę &amp; godzinę</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Approved</original>
+	<translate>{APPS_COUNT} rezerwacji zaakceptowanych</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Already Approved</original>
+	<translate>{APPS_COUNT} rezerwacji już zaakceptowanych</translate>
+</string>
+<string>
+	<original>Appointment Details Updated</original>
+	<translate>Szczegóły rezerwacji zostały zaktualizowane</translate>
+</string>
+<string>
+	<original>Update</original>
+	<translate>Aktualizuj</translate>
+</string>
+<string>
+	<original>Payment</original>
+	<translate>Płatność</translate>
+</string>
+<string>
+	<original>Fully Paid</original>
+	<translate>W pełni opłacone</translate>
+</string>
+<string>
+	<original>Partially Paid</original>
+	<translate>Częściowo opłacone</translate>
+</string>
+<string>
+	<original>Not Paid</original>
+	<translate>Nieopłacone</translate>
+</string>
+<string>
+	<original>Edit</original>
+	<translate>Edtuj</translate>
+</string>
+<string>
+	<original>Details</original>
+	<translate>Szczegóły</translate>
+</string>
+<string>
+	<original>Appointment Moved To New Location</original>
+	<translate>Rezerwacja przeniesiona do nowej lokalizacji</translate>
+</string>
+<string>
+	<original>Move To This Location</original>
+	<translate>Przenieś do tej lokalizacji</translate>
+</string>
+<string>
+	<original>Move</original>
+	<translate>Przenieś</translate>
+</string>
+<string>
+	<original>Payment Added</original>
+	<translate>Płatność została dodana</translate>
+</string>
+<string>
+	<original>Add Payment</original>
+	<translate>Dodaj płatność</translate>
+</string>
+<string>
+	<original>Invoice {INVOICE_REF_NO} Fully Paid</original>
+	<translate>Faktura nr {INVOICE_REF_NO} została w pełni opłacona</translate>
+</string>
+<string>
+	<original>Invoice {INVOICE_REF_NO} Partially Paid</original>
+	<translate>Faktura nr {INVOICE_REF_NO} została częściowo opłacona</translate>
+</string>
+<string>
+	<original>Invoice Value</original>
+	<translate>Wartość faktury</translate>
+</string>
+<string>
+	<original>Paid Value</original>
+	<translate>Wartość opłacona</translate>
+</string>
+<string>
+	<original>Due Value</original>
+	<translate>Do zapłaty</translate>
+</string>
+<string>
+	<original>Payments</original>
+	<translate>Płatności</translate>
+</string>
+<string>
+	<original>Date</original>
+	<translate>Data</translate>
+</string>
+<string>
+	<original>Amount</original>
+	<translate>Kwota</translate>
+</string>
+<string>
+	<original>Paid Through</original>
+	<translate>Sposób zapłaty</translate>
+</string>
+<string>
+	<original>Gateway Reference</original>
+	<translate>Nr ref. bramki</translate>
+</string>
+<string>
+	<original>Gateway Response</original>
+	<translate>Wynik autoryzacji</translate>
+</string>
+<string>
+	<original>No payments for this appointment</original>
+	<translate>Brak płatności dla tej rezerwacji</translate>
+</string>
+<string>
+	<original>Appointment Reassigned To Another Provider</original>
+	<translate>Rezerwacja przeniesiona do innego usługodawcy</translate>
+</string>
+<string>
+	<original>Reassign To This Provider</original>
+	<translate>Przenieś rezerwację do tego usługodawcy</translate>
+</string>
+<string>
+	<original>Reassign</original>
+	<translate>Przenieś</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Rejected</original>
+	<translate>{APPS_COUNT} rezerwacji zostąło odrzuconych</translate>
+</string>
+<string>
+	<original>Please provide the reject reason</original>
+	<translate>Podaj przyczynę odrzucenia</translate>
+</string>
+<string>
+	<original>Really Reject</original>
+	<translate>Naprawdę odrzuć rezerwację</translate>
+</string>
+<string>
+	<original>Cancel</original>
+	<translate>Anuluj</translate>
+</string>
+<string>
+	<original>Are you sure to reject this appointment?</original>
+	<translate>Czy na pewno odrzucić tą rezerwację?</translate>
+</string>
+<string>
+	<original>Custom Forms</original>
+	<translate>Własne formularze</translate>
+</string>
+<string>
+	<original>Appointment Forms</original>
+	<translate>Formularze rezerwacji</translate>
+</string>
+<string>
+	<original>New Form Assigned To Service</original>
+	<translate>Nowy formularz został przypisany do usługi</translate>
+</string>
+<string>
+	<original>None</original>
+	<translate>Brak</translate>
+</string>
+<string>
+	<original>Custom Form</original>
+	<translate>Własny formularz</translate>
+</string>
+<string>
+	<original>Assign</original>
+	<translate>Przydziel</translate>
+</string>
+<string>
+	<original>Title</original>
+	<translate>Tytuł</translate>
+</string>
+<string>
+	<original>Fields</original>
+	<translate>Pola</translate>
+</string>
+<string>
+	<original>Assigned To Services</original>
+	<translate>Przypisany do usług</translate>
+</string>
+<string>
+	<original>Delete</original>
+	<translate>Usuń</translate>
+</string>
+<string>
+	<original>Current Forms</original>
+	<translate>Bieżące formularze</translate>
+</string>
+<string>
+	<original>Form Created</original>
+	<translate>Formularz utworzony</translate>
+</string>
+<string>
+	<original>Another form with this title already exists</original>
+	<translate>Istnieje już inny formularz o tym samym tytule</translate>
+</string>
+<string>
+	<original>Create New Form</original>
+	<translate>Utwórz nowy formularz</translate>
+</string>
+<string>
+	<original>New Form</original>
+	<translate>Nowy formularz</translate>
+</string>
+<string>
+	<original>Form Field Moved Up</original>
+	<translate>Pole formularza przeniesione w górę</translate>
+</string>
+<string>
+	<original>Create New Field</original>
+	<translate>Utwórz nowe pole</translate>
+</string>
+<string>
+	<original>No fields defined for this form</original>
+	<translate>Nie zdefiniowano pól dla tego formularza</translate>
+</string>
+<string>
+	<original>Field Name</original>
+	<translate>Nazwa pola</translate>
+</string>
+<string>
+	<original>Field Type</original>
+	<translate>Typ pola</translate>
+</string>
+<string>
+	<original>Customer Access</original>
+	<translate>Dostęp klienta</translate>
+</string>
+<string>
+	<original>Validation</original>
+	<translate>Walidacja</translate>
+</string>
+<string>
+	<original>Actions</original>
+	<translate>Działania</translate>
+</string>
+<string>
+	<original>Up</original>
+	<translate>W górę</translate>
+</string>
+<string>
+	<original>Down</original>
+	<translate>W dół</translate>
+</string>
+<string>
+	<original>Form Field Created</original>
+	<translate>Utworzono pole formularza</translate>
+</string>
+<string>
+	<original>System Name</original>
+	<translate>Nazwa systemowa</translate>
+</string>
+<string>
+	<original>Only lowercase English letters, numbers, and underscores please!</original>
+	<translate>Proszę używać wyłącznie małych liter łacińskich, cyfr i podkreślników!</translate>
+</string>
+<string>
+	<original>This field system name is already in use</original>
+	<translate>Ta nazwa systemowa pola jest już używana</translate>
+</string>
+<string>
+	<original>Descriptive Title</original>
+	<translate>Opis</translate>
+</string>
+<string>
+	<original>This field title is already in use</original>
+	<translate>Ten opis pola jest już używany</translate>
+</string>
+<string>
+	<original>Form Field Type and Options</original>
+	<translate>Typ i opcje pola formularza</translate>
+</string>
+<string>
+	<original>Create New Form Field</original>
+	<translate>Utwórz nowe pole formularza</translate>
+</string>
+<string>
+	<original>Edit Form Field</original>
+	<translate>Edycja pola formularza</translate>
+</string>
+<string>
+	<original>Custom Form Deleted</original>
+	<translate>Usunięto pole formularza</translate>
+</string>
+<string>
+	<original>Form Updated</original>
+	<translate>Formularz zaktualizowany</translate>
+</string>
+<string>
+	<original>Manage</original>
+	<translate>Zarządzaj</translate>
+</string>
+<string>
+	<original>From</original>
+	<translate>Fromularz</translate>
+</string>
+<string>
+	<original>To</original>
+	<translate>Do</translate>
+</string>
+<string>
+	<original>Settings</original>
+	<translate>Ustawienia</translate>
+</string>
+<string>
+	<original>Settings Updated</original>
+	<translate>Ustawienia zaktualizowane</translate>
+</string>
+<string>
+	<original>Time Unit, min</original>
+	<translate>Jednostka czasu, min</translate>
+</string>
+<string>
+	<original>Company Timezone</original>
+	<translate>Strefa czasowa</translate>
+</string>
+<string>
+	<original>If set correctly, your company time is now [b]{TIME_STRING}[/b]. If it is wrong, please set your company correct time zone.</original>
+	<translate>Jeżeli strefa jest poprawna, aktualny czas w firmie to [b]{TIME_STRING}[/b]. Jeżeli czas jest błędny, należy ustawić poprawną strefę czasową firmy.</translate>
+</string>
+<string>
+	<original>Date Format</original>
+	<translate>Format daty</translate>
+</string>
+<string>
+	<original>Time Format</original>
+	<translate>Format czasu</translate>
+</string>
+<string>
+	<original>Week Starts On</original>
+	<translate>Tydzień zaczyna się w</translate>
+</string>
+<string>
+	<original>Months To Show In Calendar</original>
+	<translate>Liczba miesięcy do pokazania w kalendarzu</translate>
+</string>
+<string>
+	<original>Days To Show When Selecting Times</original>
+	<translate>Liczba dni do pokazania przy wyborze</translate>
+</string>
+<string>
+	<original>Max Time Measure In Duration Display</original>
+	<translate>Maksymalna miara czasu</translate>
+</string>
+<string>
+	<original>If set to Minute for example, it will show 90 Minutes rather than 1 Hour 30 Minutes.</original>
+	<translate>W przypadku ustawienia minut, wyświetlone zostanie 90 minut, zamiast 1 godziny i 30 minut.</translate>
+</string>
+<string>
+	<original>Save</original>
+	<translate>Zapisz</translate>
+</string>
+<string>
+	<original>Date &amp; Time Settings</original>
+	<translate>Ustawienia dat &amp; godzin</translate>
+</string>
+<string>
+	<original>Sender Email</original>
+	<translate>Adres email nadawcy</translate>
+</string>
+<string>
+	<original>Sender Name</original>
+	<translate>Nazwa nadawcy</translate>
+</string>
+<string>
+	<original>Email Test Mode</original>
+	<translate>Tryb testowy emailingu</translate>
+</string>
+<string>
+	<original>If set, email messages will be printed on screen rather than sent</original>
+	<translate>Po zaznaczeniu, wiadomości pocztowe będą wyświetlane na ekranie, a nie wysyłane</translate>
+</string>
+<string>
+	<original>Disable Email</original>
+	<translate>Wyłącz powiadomienia mailowe</translate>
+</string>
+<string>
+	<original>Header For All Emails</original>
+	<translate>Nagłówek dla wszytkich maili</translate>
+</string>
+<string>
+	<original>Tags</original>
+	<translate>Tagi</translate>
+</string>
+<string>
+	<original>Footer For All Emails</original>
+	<translate>Stopka dla wszystkich maili</translate>
+</string>
+<string>
+	<original>SMTP Settings</original>
+	<translate>Ustawienia SMTP</translate>
+</string>
+<string>
+	<original>Fill in if required by your web hosting. You may need to consult your web hosting administrator or help documentation.</original>
+	<translate>Należy wypełnić, jeżeli są wymagane. W razie wątpliwości, proszę sprawdzić z administratorem hostingu lub dokumentacją.</translate>
+</string>
+<string>
+	<original>SMTP Host</original>
+	<translate>Serwer SMTP</translate>
+</string>
+<string>
+	<original>SMTP Username</original>
+	<translate>Nazwa użytkownika SMTP</translate>
+</string>
+<string>
+	<original>SMTP Password</original>
+	<translate>Hasło użytkownika SMTP</translate>
+</string>
+<string>
+	<original>Email Settings</original>
+	<translate>Ustawienia poczty elektronicznej</translate>
+</string>
+<string>
+	<original>Email Notifications Templates</original>
+	<translate>Szablony powiadomień mailowych</translate>
+</string>
+<string>
+	<original>Customer Notifications</original>
+	<translate>Powiadomienia dla klientów</translate>
+</string>
+<string>
+	<original>Provider Notifications</original>
+	<translate>Powiadomienia dla usługodawców</translate>
+</string>
+<string>
+	<original>Appointment Approval Required</original>
+	<translate>Wymagana akceptacja rezerwacji</translate>
+</string>
+<string>
+	<original>Appointment Approved</original>
+	<translate>Rezerwacje potwierdzone</translate>
+</string>
+<string>
+	<original>Appointment Request (Automatically Approved)</original>
+	<translate>Zgłoszenia rezerwacji (potwierdzone automatycznie)</translate>
+</string>
+<string>
+	<original>Appointment Rejected</original>
+	<translate>Rezerwacje odrzucone</translate>
+</string>
+<string>
+	<original>Appointment Cancelled By Customer</original>
+	<translate>Rezerwacje anulowane przez klienta</translate>
+</string>
+<string>
+	<original>Appointment Moved To Another Location</original>
+	<translate>Rezerwacje przeniesione do innej lokalizacji</translate>
+</string>
+<string>
+	<original>Appointment Reasigned To You</original>
+	<translate>Rezerwacje przeniesione do Ciebie</translate>
+</string>
+<string>
+	<original>Appointment Reasigned From You</original>
+	<translate>Rezerwacje przeniesione od Ciebie</translate>
+</string>
+<string>
+	<original>User Registration</original>
+	<translate>Rejestracja uzytkownika</translate>
+</string>
+<string>
+	<original>User Notifications</original>
+	<translate>Powiadomienia użytkowników</translate>
+</string>
+<string>
+	<original>Admin Notifications</original>
+	<translate>Powiadomienia administratorów</translate>
+</string>
+<string>
+	<original>Email Confirmation Required</original>
+	<translate>Wymagane potwierdzenie mailowe</translate>
+</string>
+<string>
+	<original>Admin Approval Required</original>
+	<translate>Wymagana akceptacja administratora</translate>
+</string>
+<string>
+	<original>Waiting For Approval</original>
+	<translate>Oczekiwanie na potwierdzenie</translate>
+</string>
+<string>
+	<original>User Account Activated</original>
+	<translate>Aktywacja konta użytkownika</translate>
+</string>
+<string>
+	<original>User Password Reset</original>
+	<translate>Reset hasła użytkownika</translate>
+</string>
+<string>
+	<original>Email Templates</original>
+	<translate>Szablony powiadomień</translate>
+</string>
+<string>
+	<original>Template has been reset to default</original>
+	<translate>Szablony zostąły przywrócone do domyślnych</translate>
+</string>
+<string>
+	<original>Language</original>
+	<translate>Język</translate>
+</string>
+<string>
+	<original>Subject</original>
+	<translate>Temat</translate>
+</string>
+<string>
+	<original>Message Text</original>
+	<translate>Treść wiadomości</translate>
+</string>
+<string>
+	<original>Edit Header</original>
+	<translate>Edycja nagłówka</translate>
+</string>
+<string>
+	<original>Edit Footer</original>
+	<translate>Edycja stopki</translate>
+</string>
+<string>
+	<original>Reset To Defaults</original>
+	<translate>Przywrócenie ustawień domyślnych</translate>
+</string>
+<string>
+	<original>Service selection should come before date &amp; time selection</original>
+	<translate>Wybór usługi powinien nastąpić przed wyborem daty &amp; godziny</translate>
+</string>
+<string>
+	<original>The order to choose service, date and time, location, and provider. Please note that service selection should come before date and time selection.</original>
+	<translate>Kolejność rezerwacji: wybór usługi, daty i godziny, lokalizacji i usługodawcy. Wybór usługi powinien nastąpić przed wyborem daty i godziny.</translate>
+</string>
+<string>
+	<original>Appointment Flow</original>
+	<translate>Proces rezerwacji (kolejność)</translate>
+</string>
+<string>
+	<original>Language Activated</original>
+	<translate>Język został aktywowany</translate>
+</string>
+<string>
+	<original>Active Language</original>
+	<translate>Język aktywny</translate>
+</string>
+<string>
+	<original>Last Update</original>
+	<translate>Ostatnia aktualizacja</translate>
+</string>
+<string>
+	<original>Author</original>
+	<translate>Autor</translate>
+</string>
+<string>
+	<original>Disable</original>
+	<translate>Wyłącz</translate>
+</string>
+<string>
+	<original>Available Languages</original>
+	<translate>Dostępne języki</translate>
+</string>
+<string>
+	<original>Create New Language File</original>
+	<translate>Utwórz nowy plik językowy</translate>
+</string>
+<string>
+	<original>Languages</original>
+	<translate>Języki</translate>
+</string>
+<string>
+	<original>Show Session Duration For Clients</original>
+	<translate>Długość sesji dla klientów</translate>
+</string>
+<string>
+	<original>CSV Field Delimiter</original>
+	<translate>Rozdzielacz pól - CSV</translate>
+</string>
+<string>
+	<original>This may depend on your Excel regional settings</original>
+	<translate>To może zależeć od ustawień regionalnych Excela</translate>
+</string>
+<string>
+	<original>Misc</original>
+	<translate>Różne</translate>
+</string>
+<string>
+	<original>Theme Activated</original>
+	<translate>Temat aktywowany</translate>
+</string>
+<string>
+	<original>Current Theme</original>
+	<translate>Aktualny temat</translate>
+</string>
+<string>
+	<original>Available Themes</original>
+	<translate>Dostępne tematy</translate>
+</string>
+<string>
+	<original>Activate</original>
+	<translate>Aktywuj</translate>
+</string>
+<string>
+	<original>Themes</original>
+	<translate>Tematy</translate>
+</string>
+<string>
+	<original>hitAppoint Path</original>
+	<translate>Ścieżka hitAppoint</translate>
+</string>
+<string>
+	<original>Installed Version</original>
+	<translate>Zainstalowana wersja</translate>
+</string>
+<string>
+	<original>Uploaded Version</original>
+	<translate>Wersja załadowana</translate>
+</string>
+<string>
+	<original>Run Upgrade Procedure</original>
+	<translate>Uruchom procedurę aktualizacji</translate>
+</string>
+<string>
+	<original>No Upgrade Procedure To Run</original>
+	<translate>Brak procedury aktualizacji do uruchomenia</translate>
+</string>
+<string>
+	<original>Info &amp; Upgrade</original>
+	<translate>Informacje &amp; aktualizacja</translate>
+</string>
+<string>
+	<original>Application Upgraded</original>
+	<translate>Aplikacja została zaktualizowana</translate>
+</string>
+<string>
+	<original>New Version</original>
+	<translate>Nowa wersja</translate>
+</string>
+<string>
+	<original>These upgrade scripts have been executed</original>
+	<translate>Skrypty aktualizacyjne zostały wykonane</translate>
+</string>
+<string>
+	<original>Payment Settings</original>
+	<translate>Ustawienia płatności</translate>
+</string>
+<string>
+	<original>Currency</original>
+	<translate>Waluta</translate>
+</string>
+<string>
+	<original>Price Format</original>
+	<translate>Format ceny</translate>
+</string>
+<string>
+	<original>Currency and Price Formatting</original>
+	<translate>Format cen i waluty</translate>
+</string>
+<string>
+	<original>Payment Gateways</original>
+	<translate>Bramki płatnicze</translate>
+</string>
+<string>
+	<original>Active Payment Gateways</original>
+	<translate>Aktywne bramki płatnicze</translate>
+</string>
+<string>
+	<original>None. Please activate at least one from the below list.</original>
+	<translate>Brak. Aktywuj proszę przynajmniej jedną pozycję z poniższej listy.</translate>
+</string>
+<string>
+	<original>Available Payment Gateways</original>
+	<translate>Dostępne bramki płatnicze</translate>
+</string>
+<string>
+	<original>[b]{CURRENCY}[/b] is not supported by this payment gateway</original>
+	<translate>[b]{CURRENCY}[/b] nie jest obsługiwana przez tą bramkę płatniczą</translate>
+</string>
+<string>
+	<original>Locations</original>
+	<translate>Lokalizacje</translate>
+</string>
+<string>
+	<original>Description</original>
+	<translate>Opis</translate>
+</string>
+<string>
+	<original>Location Created</original>
+	<translate>Lokalizacja została utworzona</translate>
+</string>
+<string>
+	<original>Another location with this title already exists</original>
+	<translate>Istnieje już lokalizacja o tej nazwie</translate>
+</string>
+<string>
+	<original>New Location</original>
+	<translate>Nowa lokalizacja</translate>
+</string>
+<string>
+	<original>Location Deleted</original>
+	<translate>Lokalizacja została usunięta</translate>
+</string>
+<string>
+	<original>Really Delete</original>
+	<translate>Potwierdzasz usunięcie</translate>
+</string>
+<string>
+	<original>Are you sure to delete this location?</original>
+	<translate>Czy na pewno usunąć tą lokalizację?</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s) in this location. If you delete the location, these appointments will be cancelled.</original>
+	<translate>W tej lokalizacji aktualnych jest [b]{APPS_COUNT}[/b] rezerwacji. Jeżeli usuniesz tą lokalizację, te rezerwacje zostaną anulowane.</translate>
+</string>
+<string>
+	<original>Location Updated</original>
+	<translate>Lokalizacja została zaktualizowana</translate>
+</string>
+<string>
+	<original>Schedules</original>
+	<translate>Kalendarze</translate>
+</string>
+<string>
+	<original>Valid From Date</original>
+	<translate>Aktualne od</translate>
+</string>
+<string>
+	<original>Valid To Date</original>
+	<translate>Aktualne do</translate>
+</string>
+<string>
+	<original>Schedule Created</original>
+	<translate>Kalendarz został utworzony</translate>
+</string>
+<string>
+	<original>Something short and descriptive, like Summer Schedule, etc</original>
+	<translate>Krótko i opisowo, np. Kalendarz letni, itp.</translate>
+</string>
+<string>
+	<original>Another schedule with this title already exists</original>
+	<translate>Istnieje już kalendarz o tej nazwie</translate>
+</string>
+<string>
+	<original>New Schedule For</original>
+	<translate>Nowy kalendarz dla</translate>
+</string>
+<string>
+	<original>New Schedule</original>
+	<translate>Nowy kalendarz</translate>
+</string>
+<string>
+	<original>Schedule Deleted</original>
+	<translate>Kalendarz został usunięty</translate>
+</string>
+<string>
+	<original>Schedules Duplicated</original>
+	<translate>Kalenderz został powielony</translate>
+</string>
+<string>
+	<original>Duplicate</original>
+	<translate>Duplikuj</translate>
+</string>
+<string>
+	<original>Schedule Updated</original>
+	<translate>Kalendarz został zaktualizowany</translate>
+</string>
+<string>
+	<original>Please choose the session duration</original>
+	<translate>Wybierz długość trwania sesji</translate>
+</string>
+<string>
+	<original>Please numbers only</original>
+	<translate>Proszę wprowadzić wyłacznie cyfry</translate>
+</string>
+<string>
+	<original>Delete?</original>
+	<translate>Usunąć?</translate>
+</string>
+<string>
+	<original>Weekday</original>
+	<translate>Dni robocze</translate>
+</string>
+<string>
+	<original>Working Hours</original>
+	<translate>Godziny robocze</translate>
+</string>
+<string>
+	<original>Services</original>
+	<translate>Usługi</translate>
+</string>
+<string>
+	<original>Add Time Slot</original>
+	<translate>Dodaj slot czasowy</translate>
+</string>
+<string>
+	<original>Every</original>
+	<translate>Każdy</translate>
+</string>
+<string>
+	<original>Delete Time Slot</original>
+	<translate>Usuń slot czasowy</translate>
+</string>
+<string>
+	<original>Availability</original>
+	<translate>Dostępność</translate>
+</string>
+<string>
+	<original>Time Slot Created</original>
+	<translate>Slot został utworzony</translate>
+</string>
+<string>
+	<original>Applied On</original>
+	<translate>Zastosowano do</translate>
+</string>
+<string>
+	<original>Selectable Times</original>
+	<translate>Dostępne godziny</translate>
+</string>
+<string>
+	<original>Please choose at least one service for this schedule</original>
+	<translate>Wybierz przynajmniej jedną usługę dla tego kalendarza</translate>
+</string>
+<string>
+	<original>Please choose at least one location for this schedule</original>
+	<translate>Wybierz przynajmniej jedną lokalizację dla tego kalendarza</translate>
+</string>
+<string>
+	<original>New Time Slot</original>
+	<translate>Nowy slot czasowy</translate>
+</string>
+<string>
+	<original>Time Slot Deleted</original>
+	<translate>Slot został usunięty</translate>
+</string>
+<string>
+	<original>Time Slot Updated</original>
+	<translate>Slot został zaktualizowany</translate>
+</string>
+<string>
+	<original>Edit Time Slot</original>
+	<translate>Edytuj slot czasowy</translate>
+</string>
+<string>
+	<original>Service Moved Down</original>
+	<translate>Usługa przeniesiona niżej</translate>
+</string>
+<string>
+	<original>Service Moved Up</original>
+	<translate>Usługa przeniesiona wyżej</translate>
+</string>
+<string>
+	<original>Total Seats</original>
+	<translate>Liczba miejsc</translate>
+</string>
+<string>
+	<original>Sessions</original>
+	<translate>Sesje</translate>
+</string>
+<string>
+	<original>Queue Allowed?</original>
+	<translate>Kolejka dozwolona?</translate>
+</string>
+<string>
+	<original>Category Moved Down</original>
+	<translate>Kategoria przeniesiona niżej</translate>
+</string>
+<string>
+	<original>Category Moved Up</original>
+	<translate>Kategoria przeniesiona wyżej</translate>
+</string>
+<string>
+	<original>Create Service Category</original>
+	<translate>Utwóz kategorię usług</translate>
+</string>
+<string>
+	<original>Categories</original>
+	<translate>Kategorie</translate>
+</string>
+<string>
+	<original>Service Category Created</original>
+	<translate>Kategoria została utworzona</translate>
+</string>
+<string>
+	<original>Another service category with this title already exists</original>
+	<translate>Istnieje już kategoria usług o tej nazwie</translate>
+</string>
+<string>
+	<original>Service Category Deleted</original>
+	<translate>Kategoria została usunięta</translate>
+</string>
+<string>
+	<original>Category</original>
+	<translate>Kategoria</translate>
+</string>
+<string>
+	<original>Service Category Updated</original>
+	<translate>Kategoria została zaktualizowana</translate>
+</string>
+<string>
+	<original>Category Services Updated</original>
+	<translate>Usługi kategorii zostały zaktualizowane</translate>
+</string>
+<string>
+	<original>Service Created</original>
+	<translate>Usługa została utworzona</translate>
+</string>
+<string>
+	<original>Another service with this title already exists</original>
+	<translate>Istnieje już usługa o tej nazwie</translate>
+</string>
+<string>
+	<original>Seats</original>
+	<translate>Liczba miejsc</translate>
+</string>
+<string>
+	<original>Total</original>
+	<translate>Razem</translate>
+</string>
+<string>
+	<original>Min For One Booking</original>
+	<translate>Minimum na jedną rezerwację</translate>
+</string>
+<string>
+	<original>This should not be greater than the total seats value</original>
+	<translate>Ta wartość nie może być większa od łącznej liczby miejsc</translate>
+</string>
+<string>
+	<original>Max For One Booking</original>
+	<translate>Maksimum na jedą rezerwację</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min seats value</original>
+	<translate>Ta wartość nie może być mniejsza niż minimum na jedną rezerwację</translate>
+</string>
+<string>
+	<original>Time Frame</original>
+	<translate>Przedział czasu</translate>
+</string>
+<string>
+	<original>Min Advance Booking</original>
+	<translate>Minimalna wcześniejsza rezerwacja</translate>
+</string>
+<string>
+	<original>Max Advance Booking</original>
+	<translate>Maksymalna wcześniejsza rezerwacja</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min advance booking</original>
+	<translate>Ta wartość nie może być mniejsza niż minimalna wcześniejsza rezerwacja</translate>
+</string>
+<string>
+	<original>Cancellation/Reschedule Deadline</original>
+	<translate>Termin anulowania/zmiany rezerwacji</translate>
+</string>
+<string>
+	<original>Provider Presence Required</original>
+	<translate>Wymagana obecność usługodawcy</translate>
+</string>
+<string>
+	<original>Uncheck this if the service books location only</original>
+	<translate>Odznacz, jeżeli ta usługa dotyczy wyłącznie rezerwacji sali/lokalizacji</translate>
+</string>
+<string>
+	<original>Location Can Be Shared With Other Providers</original>
+	<translate>Lokalizacja może być współdzielona z innymi usługodawcami</translate>
+</string>
+<string>
+	<original>Check this if an appointment of this service allows other appointments at the same time in the same locaiton. Otherwise, the location will be blocked for other providers.</original>
+	<translate>Zaznacz, jeżeli rezerwacja usługi może być realizowana jednocześnie, w tym samym czasie, w tej samej lokalizacji. W przeciwnym wypadku, lokalizacja zostanie zablokowana dla innych usługodawców.</translate>
+</string>
+<string>
+	<original>Allow Queued Appointments</original>
+	<translate>Pozwól na kolejkę rezerwacji</translate>
+</string>
+<string>
+	<original>Allow your customers to reserve appointments without time selection, then the staff assigns the exact date and time</original>
+	<translate>Pozwól klientom na rezerwację bez wyboru terminu. W tym przypadku obsługa przypisze dokładną datę i godzinę rezerwacji</translate>
+</string>
+<string>
+	<original>New Service</original>
+	<translate>Nowa usługa</translate>
+</string>
+<string>
+	<original>Service Categories Updated</original>
+	<translate>Kategorie usług zostały zaktualizowane</translate>
+</string>
+<string>
+	<original>Service Deleted</original>
+	<translate>Usługa została usunięta</translate>
+</string>
+<string>
+	<original>Are you sure to delete this service?</original>
+	<translate>Czy na pewno usunąć tą usługę?</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s) for this service. If you delete the service, these appointments will be cancelled.</original>
+	<translate>Zarezerwowano [b]{APPS_COUNT}[/b] terminów dla tej usługi. Jeżeli usuniesz tą usługę, te rezerwacje zostaną anulowane.</translate>
+</string>
+<string>
+	<original>Service Updated</original>
+	<translate>Usługa została zaktualizowana</translate>
+</string>
+<string>
+	<original>Permissions Updated</original>
+	<translate>Uprawnienia zostały zaktualizowane</translate>
+</string>
+<string>
+	<original>Non Registered Customers</original>
+	<translate>Klienci niezarejestrowani</translate>
+</string>
+<string>
+	<original>Registered Customers</original>
+	<translate>Klienci zarejestrowani</translate>
+</string>
+<string>
+	<original>Not Allowed</original>
+	<translate>Niedozwolone</translate>
+</string>
+<string>
+	<original>Company Confirmation Required</original>
+	<translate>Wymagane potwierdzenie firmy</translate>
+</string>
+<string>
+	<original>Auto Confirmed</original>
+	<translate>Automatycznie potwierdzone</translate>
+</string>
+<string>
+	<original>Request Permissions</original>
+	<translate>Uprawnienia zgłoszenia TBC</translate>
+</string>
+<string>
+	<original>Permissions</original>
+	<translate>Uprawnienia</translate>
+</string>
+<string>
+	<original>Max Number Of Recurring Appointments</original>
+	<translate>Maksymalna liczba rezerwacji cyklicznych</translate>
+</string>
+<string>
+	<original>If set to 1, the recurring appointments option will be disabled</original>
+	<translate>Ustawienie 1 wyłączy opcję cyklicznych rezerwacji</translate>
+</string>
+<string>
+	<original>Recurrent Appointments</original>
+	<translate>Rezerwacje cykliczne</translate>
+</string>
+<string>
+	<original>Session Created</original>
+	<translate>Sesja została utworzona</translate>
+</string>
+<string>
+	<original>Session Updated</original>
+	<translate>Sesja została zaktualizowana</translate>
+</string>
+<string>
+	<original>Duration</original>
+	<translate>Długość</translate>
+</string>
+<string>
+	<original>Lead In</original>
+	<translate>Przerwa przed</translate>
+</string>
+<string>
+	<original>Lead Out</original>
+	<translate>Przerwa po</translate>
+</string>
+<string>
+	<original>Price</original>
+	<translate>Cena</translate>
+</string>
+<string>
+	<original>Create New Session</original>
+	<translate>Utwórz nową sesję</translate>
+</string>
+<string>
+	<original>Session Deleted</original>
+	<translate>Sesja została usunięta</translate>
+</string>
+<string>
+	<original>Are you sure to delete this session?</original>
+	<translate>Czy na pewno usunąć tą sesję?</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s) for this session. If you delete the session, these appointments will be cancelled.</original>
+	<translate>Istnieje [b]{APPS_COUNT}[/b] rezerwacji dla tej sesji. Usunięcie tej sesji, spowoduje anulowanie tych rezerwacji.</translate>
+</string>
+<string>
+	<original>Users</original>
+	<translate>Użytkownicy</translate>
+</string>
+<string>
+	<original>Suspend</original>
+	<translate>Zablokuj</translate>
+</string>
+<string>
+	<original>Filter</original>
+	<translate>Filtr</translate>
+</string>
+<string>
+	<original>All</original>
+	<translate>Wszyscy</translate>
+</string>
+<string>
+	<original>Customers</original>
+	<translate>Klienci</translate>
+</string>
+<string>
+	<original>Providers</original>
+	<translate>Usługodawcy</translate>
+</string>
+<string>
+	<original>Provider Account Created</original>
+	<translate>Utworzono konto usługodawcy</translate>
+</string>
+<string>
+	<original>User Account Created</original>
+	<translate>Utworzono konto użytkownika</translate>
+</string>
+<string>
+	<original>Contact Information</original>
+	<translate>Informacje kontaktowe</translate>
+</string>
+<string>
+	<original>Timezone</original>
+	<translate>Strefa czasowa</translate>
+</string>
+<string>
+	<original>Paypal Email</original>
+	<translate>Adres email (Paypal)</translate>
+</string>
+<string>
+	<original>Password</original>
+	<translate>Hasło</translate>
+</string>
+<string>
+	<original>Leave these blank to autogenerate a random password</original>
+	<translate>Pozostaw puste, aby automatycznie wygenerować losowe hasło</translate>
+</string>
+<string>
+	<original>Confirm Password</original>
+	<translate>Potwierdź hasło</translate>
+</string>
+<string>
+	<original>New Customer</original>
+	<translate>Nowy klient</translate>
+</string>
+<string>
+	<original>New Provider</original>
+	<translate>Nowy usługodawca</translate>
+</string>
+<string>
+	<original>{USER_COUNT} User Account(s) Deleted</original>
+	<translate>Usunięto {USER_COUNT} kont użytkowników</translate>
+</string>
+<string>
+	<original>{USER_COUNT} User Account(s) Suspended</original>
+	<translate>Zablokowano {USER_COUNT} kont użytkowników</translate>
+</string>
+<string>
+	<original>{USER_COUNT} User Account(s) Activated</original>
+	<translate>Aktywowano {USER_COUNT} kont użytkowników</translate>
+</string>
+<string>
+	<original>Edit User</original>
+	<translate>Edycja użytkownika</translate>
+</string>
+<string>
+	<original>Delete this user?</original>
+	<translate>Usunąć tego użytkownika?</translate>
+</string>
+<string>
+	<original>Change Password</original>
+	<translate>Zmiana hasła</translate>
+</string>
+<string>
+	<original>Edit Provider</original>
+	<translate>Edycja usługodawcy</translate>
+</string>
+<string>
+	<original>{SERVICES_COUNT} service(s) for this provider</original>
+	<translate>Istnieje {SERVICES_COUNT} usług przydzielonych do tego usługodawcy</translate>
+</string>
+<string>
+	<original>No services assigned for this provider yet</original>
+	<translate>Brak usług przydzielonych do tego usługodawcy</translate>
+</string>
+<string>
+	<original>Create Schedule</original>
+	<translate>Utwórz kalendarz</translate>
+</string>
+<string>
+	<original>Please confirm the password</original>
+	<translate>Potwierdź proszę hasło</translate>
+</string>
+<string>
+	<original>Passwords don't match!</original>
+	<translate>Hasła nie są ze sobą zgodne!</translate>
+</string>
+<string>
+	<original>Are you sure to delete this customer?</original>
+	<translate>Czy na pewno usunąć tego klienta?</translate>
+</string>
+<string>
+	<original>Password Changed</original>
+	<translate>Hasło zostało zmienione</translate>
+</string>
+<string>
+	<original>Are you sure to delete this provider?</original>
+	<translate>Czy na peno usunąć tego usługodawcę?</translate>
+</string>
+<string>
+	<original>Remove From Admins</original>
+	<translate>Usuń z administratorów</translate>
+</string>
+<string>
+	<original>Add To Admins</original>
+	<translate>Dodaj do administratorów</translate>
+</string>
+<string>
+	<original>No schedules yet</original>
+	<translate>Brak kalendarzy</translate>
+</string>
+<string>
+	<original>Create Timeoff</original>
+	<translate>Utwórz nieobecność</translate>
+</string>
+<string>
+	<original>Next Timeoffs</original>
+	<translate>Następne nieobecności</translate>
+</string>
+<string>
+	<original>Old Timeoffs</original>
+	<translate>Stare nieobecności</translate>
+</string>
+<string>
+	<original>New timeoff created</original>
+	<translate>Utworzono nową nieobecność</translate>
+</string>
+<string>
+	<original>Time</original>
+	<translate>Czas TBC</translate>
+</string>
+<string>
+	<original>New Timeoff</original>
+	<translate>nowa nieobecność</translate>
+</string>
+<string>
+	<original>Custom Form Updated</original>
+	<translate>Zaktualizowano formularz</translate>
+</string>
+<string>
+	<original>Form Field Moved Down</original>
+	<translate>Pole formularza przeniesiono niżej</translate>
+</string>
+<string>
+	<original>Customer Form Fields</original>
+	<translate>Pola formularza</translate>
+</string>
+<string>
+	<original>Customize Form</original>
+	<translate>Dostosuj formularz</translate>
+</string>
+<string>
+	<original>Newsletter sent to {USER_COUNT} user(s)</original>
+	<translate>Newsletter wysłany do {USER_COUNT} użytkowników</translate>
+</string>
+<string>
+	<original>Send To</original>
+	<translate>Wyślij do</translate>
+</string>
+<string>
+	<original>Please choose whom to send your newsletter to</original>
+	<translate>Wybierz proszę, do kogo wysłać Twój newsletter</translate>
+</string>
+<string>
+	<original>Send</original>
+	<translate>Wyślij</translate>
+</string>
+<string>
+	<original>Newsletter</original>
+	<translate>Newsletter</translate>
+</string>
+<string>
+	<original>Enable Customer Registration?</original>
+	<translate>Pozwolić na samodzielną rejestrację klientów?</translate>
+</string>
+<string>
+	<original>Can your customers register themselves in the system?</original>
+	<translate>Czy klienci mogą się sami rejestrować w systemie?</translate>
+</string>
+<string>
+	<original>Email Confirmation Required?</original>
+	<translate>Czy wymagane jest potwierdzenie emailowe?</translate>
+</string>
+<string>
+	<original>Newly registered users will be asked to confirm their email by following a confirmation link in the email message</original>
+	<translate>Nowo zarejestrowani użytkownicy zostaną poproszeni o potwierdzenie swojego adresu email poprzez kliknięcie na linku otrzymanym w wiadomości pocztowej</translate>
+</string>
+<string>
+	<original>Admin Approval Required?</original>
+	<translate>Czy wymagana jest akceptacja administratora?</translate>
+</string>
+<string>
+	<original>The administrator will need to manually approve new customer accounts before they can access the system</original>
+	<translate>Administrator będzie musiał ręcznie zaakceptować konto nowego klienta, zanim będzie on mógł zalogować się do systemu</translate>
+</string>
+<string>
+	<original>User Login Required?</original>
+	<translate>Wymagane zalogowanie użytkownika?</translate>
+</string>
+<string>
+	<original>User login required to use the system?</original>
+	<translate>Czy wymagane jest zalogowanie się użytkownika, aby mógł on skorzystać z systemu?</translate>
+</string>
+<string>
+	<original>Your new password has been sent to your email</original>
+	<translate>Nowe hasło zostało wysłane na adres emailowy</translate>
+</string>
+<string>
+	<original>This email is not registered</original>
+	<translate>Ten adres email nie jest zarejestrowany w systemie</translate>
+</string>
+<string>
+	<original>Email</original>
+	<translate>Email</translate>
+</string>
+<string>
+	<original>Send New Password</original>
+	<translate>Wyślij nowe hasło</translate>
+</string>
+<string>
+	<original>Forgot Your Password?</original>
+	<translate>Zapomniałeś hasła?</translate>
+</string>
+<string>
+	<original>There is an error with your account.</original>
+	<translate>Wystąpił błąd dotyczący Twojego konta.</translate>
+</string>
+<string>
+	<original>Your email is not confirmed yet. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Twój adres email nie został jeszcze potwierdzony. Otwórz proszę swoją aplikację pocztową i kliknij na łączu z potwierdzeniem konta w wiadomości od nas.</translate>
+</string>
+<string>
+	<original>Home</original>
+	<translate>Start</translate>
+</string>
+<string>
+	<original>Username</original>
+	<translate>Użytkownik</translate>
+</string>
+<string>
+	<original>Login</original>
+	<translate>Zaloguj</translate>
+</string>
+<string>
+	<original>Forgot your password?</original>
+	<translate>Zapomniałeś hasła?</translate>
+</string>
+<string>
+	<original>Please login</original>
+	<translate>Zaloguj się</translate>
+</string>
+<string>
+	<original>New to our site? Please take a moment to register!</original>
+	<translate>Nie masz konta? Zarejestruj się, to zajmuje dosłownie chwilę!</translate>
+</string>
+<string>
+	<original>Please register</original>
+	<translate>Zarejestruj się</translate>
+</string>
+<string>
+	<original>Account Suspended</original>
+	<translate>Konto zablokowane</translate>
+</string>
+<string>
+	<original>Your account is temporarily suspended</original>
+	<translate>Twoje konto zostało czasowo zablokowane</translate>
+</string>
+<string>
+	<original>Congratulations, your account has been created and activated</original>
+	<translate>Gratulujemy, konto zostało utworzone i aktywowane</translate>
+</string>
+<string>
+	<original>Please Confirm Your Email</original>
+	<translate>Potwierdź proszę swój adres email</translate>
+</string>
+<string>
+	<original>Thank you for registering![br]Now we kindly ask you to confirm your email. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Dziękujemy za rejestrację![br]Prosimy teraz o potwierdzenie swojego maila. W tym celu należy kliknąć na łącze aktywacyjne w wiadomości otrzymanej od nas pocztą elektroniczną.</translate>
+</string>
+<string>
+	<original>Login details</original>
+	<translate>Szczegóły logowania</translate>
+</string>
+<string>
+	<original>Desired Username</original>
+	<translate>Wybrana nazwa użytkownika</translate>
+</string>
+<string>
+	<original>This username is already in use</original>
+	<translate>Ta nazwa użytkownika już istnieje w systemie</translate>
+</string>
+<string>
+	<original>Register</original>
+	<translate>Zarejestruj</translate>
+</string>
+<string>
+	<original>Customer Registration</original>
+	<translate>Rejestracja klienta</translate>
+</string>
+<string>
+	<original>Sorry, you seen to have followed an invalid confirmation link</original>
+	<translate>Przykro nam, ale wygląda na to, że kliknąłeś na nieprawidłowym linku z potwierdzeniem konta</translate>
+</string>
+<string>
+	<original>My Old Appointments</original>
+	<translate>Moje poprzednie rezerwacje</translate>
+</string>
+<string>
+	<original>My Upcoming Appointments</original>
+	<translate>Moje przyszłe rezerwacje</translate>
+</string>
+<string>
+	<original>You cannot cancel or reschedule this appointment now</original>
+	<translate>Nie można teraz anulować lub zmienić tej rezerwacji</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Cancelled</original>
+	<translate>Anulowano {APPS_COUNT} rezerwacji</translate>
+</string>
+<string>
+	<original>Please provide the cancel reason</original>
+	<translate>Proszę podać przyczynę anulowania</translate>
+</string>
+<string>
+	<original>Really Cancel This Appointment</original>
+	<translate>Chcę naprawdę anulować tą rezerwację</translate>
+</string>
+<string>
+	<original>Go Back</original>
+	<translate>Powrót</translate>
+</string>
+<string>
+	<original>Are you sure to cancel this appointment?</original>
+	<translate>Czy na pewno anulować tą rezerwację?</translate>
+</string>
+<string>
+	<original>Sorry, you are not allowed to view this appointment</original>
+	<translate>Przykro nam, nie można zobaczyć tej rezerwacji</translate>
+</string>
+<string>
+	<original>Sorry, appointment is not allowed at this time</original>
+	<translate>Przykro nam, nie można dokonać rezerwacji w tym terminie</translate>
+</string>
+<string>
+	<original>Your Name</original>
+	<translate>Twoje dane TBC</translate>
+</string>
+<string>
+	<original>Not you?</original>
+	<translate>To nie Ty?</translate>
+</string>
+<string>
+	<original>Confirm Reschedule</original>
+	<translate>Potwierdź zmianę rezerwacji</translate>
+</string>
+<string>
+	<original>Confirm Appointment Request</original>
+	<translate>Potwierdź zgłoszenie rezerwacji</translate>
+</string>
+<string>
+	<original>Don't have an account yet?</original>
+	<translate>Nie masz jeszcze konta?</translate>
+</string>
+<string>
+	<original>Continue</original>
+	<translate>Dalej</translate>
+</string>
+<string>
+	<original>Already have an account?</original>
+	<translate>Masz już konto?</translate>
+</string>
+<string>
+	<original>Please provide your contact details</original>
+	<translate>Proszę podać swoje dane</translate>
+</string>
+<string>
+	<original>Sorry, this service is not available now</original>
+	<translate>Przepraszamy, ta usługa jest niedostępna</translate>
+</string>
+<string>
+	<original>Select Date</original>
+	<translate>Wybór daty</translate>
+</string>
+<string>
+	<original>Sorry, this service is not available</original>
+	<translate>Przepraszamy, ta usługa jest niedostępna</translate>
+</string>
+<string>
+	<original>Sorry, no available locations this day</original>
+	<translate>Przepraszamy, w tym dniu nie ma dostępnych lokalizacji</translate>
+</string>
+<string>
+	<original>Select Location</original>
+	<translate>Wybór lokalizacji</translate>
+</string>
+<string>
+	<original>Sorry, no available providers this day</original>
+	<translate>Przepraszamy, w tym dniu nie ma dostęnych usługodawców</translate>
+</string>
+<string>
+	<original>Select Provider</original>
+	<translate>Wybór usługodawcy</translate>
+</string>
+<string>
+	<original>Continue With Single Appointment</original>
+	<translate>Kontynuacja rezerwacji jednorazowej</translate>
+</string>
+<string>
+	<original>Recurring</original>
+	<translate>Cykliczna</translate>
+</string>
+<string>
+	<original>Every Day</original>
+	<translate>Codziennie</translate>
+</string>
+<string>
+	<original>Every Other Day</original>
+	<translate>Co x dzień</translate>
+</string>
+<string>
+	<original>Every Week</original>
+	<translate>Co tydzień</translate>
+</string>
+<string>
+	<original>Appointments In Total</original>
+	<translate>Razem rezerwacji TBC</translate>
+</string>
+<string>
+	<original>Continue With Recurring Appointments</original>
+	<translate>Kontynuacja rezerwacji cyklicznej</translate>
+</string>
+<string>
+	<original>Single Or Recurring Appointments?</original>
+	<translate>Rezerwacja jednokrotna czy cykliczna?</translate>
+</string>
+<string>
+	<original>Selected Date</original>
+	<translate>Wybrana data</translate>
+</string>
+<string>
+	<original>Or Recurring Appointments?</original>
+	<translate>Rezerwacja cykliczna?</translate>
+</string>
+<string>
+	<original>Sorry, no available time this day</original>
+	<translate>Przepraszamy, brak dostępych terminów tego dnia</translate>
+</string>
+<string>
+	<original>Please choose your times for every date</original>
+	<translate>Proszę wybrać termin dla każdego dnia</translate>
+</string>
+<string>
+	<original>Select Time</original>
+	<translate>Wybór czasu</translate>
+</string>
+<string>
+	<original>Invoice {INVOICE_NO}</original>
+	<translate>Faktura nr {INVOICE_NO}</translate>
+</string>
+<string>
+	<original>Payment Required</original>
+	<translate>Wymagana płatność</translate>
+</string>
+<string>
+	<original>Total Amount</original>
+	<translate>Kwota całkowita</translate>
+</string>
+<string>
+	<original>There has been a problem with your payment</original>
+	<translate>Wystąpił problem z Twoją płatnością</translate>
+</string>
+<string>
+	<original>Try again</original>
+	<translate>Spróbuj ponownie</translate>
+</string>
+<string>
+	<original>Logged out</original>
+	<translate>Wylogowanie zakończone</translate>
+</string>
+<string>
+	<original>Password Updated</original>
+	<translate>Hasło zostało zaktualizowane</translate>
+</string>
+<string>
+	<original>My Timezone</original>
+	<translate>Moja strefa czasowa</translate>
+</string>
+<string>
+	<original>My Profile</original>
+	<translate>Mój profil</translate>
+</string>
+<string>
+	<original>Switch To Customer View</original>
+	<translate>Przełącz do perspektywy klienta</translate>
+</string>
+<string>
+	<original>Admin Area</original>
+	<translate>Strefa administracyjna</translate>
+</string>
+<string>
+	<original>Provider Area</original>
+	<translate>Strefa usługodawcy</translate>
+</string>
+<string>
+	<original>My Appointments</original>
+	<translate>Mojerezerwacje</translate>
+</string>
+<string>
+	<original>Logout</original>
+	<translate>Wyloguj</translate>
+</string>
+<string>
+	<original>Label For Customers</original>
+	<translate>Etykieta dla klientów</translate>
+</string>
+<string>
+	<original>You can also provide individual Paypal accounts for every provider. If no Paypal email is given for a provider, this global account will be used.</original>
+	<translate>Można również udostępnić indywidualne konta Paypal dla kazdego usługodawcy. Jeżeli nie zostaie podany adres mailowy Paypal dla usługodawcy, zostanie użyte konto globalne.</translate>
+</string>
+<string>
+	<original>Activate Anyway</original>
+	<translate>Aktywuj mimo wszystko</translate>
+</string>
+<string>
+	<original>Activated</original>
+	<translate>Aktywowano</translate>
+</string>
+<string>
+	<original>Add To Managers</original>
+	<translate>Dodaj do Managerów</translate>
+</string>
+<string>
+	<original>Add Validation</original>
+	<translate>Dodaj walidację</translate>
+</string>
+<string>
+	<original>Advanced Search</original>
+	<translate>Wyszukiwanie zaawansowane</translate>
+</string>
+<string>
+	<original>Already in use</original>
+	<translate>Już wykorzystany</translate>
+</string>
+<string>
+	<original>Apply to all other providers too</original>
+	<translate>Zastosuj także do wszystkich pozostałych dostawców</translate>
+</string>
+<string>
+	<original>Appointment</original>
+	<translate>Termin</translate>
+</string>
+<string>
+	<original>Appointment No Show</original>
+	<translate>Termin niezrealizowany</translate>
+</string>
+<string>
+	<original>Available</original>
+	<translate>Dostępny</translate>
+</string>
+<string>
+	<original>CC To Managers/Admins</original>
+	<translate>CC do Managerów/Administratorów</translate>
+</string>
+<string>
+	<original>Click to activate</original>
+	<translate>Kliknij, aby aktywować</translate>
+</string>
+<string>
+	<original>Click to disable</original>
+	<translate>Kliknij, aby wyłączyć</translate>
+</string>
+<string>
+	<original>Created</original>
+	<translate>Utworzono</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For Admin/Provider</original>
+	<translate>Dni do pokazania w kalendarzu dla admina/dostawcy</translate>
+</string>
+<string>
+	<original>Days To Show In Calendar For Customer</original>
+	<translate>Dni do pokazania w kalendarzu dla klienta</translate>
+</string>
+<string>
+	<original>Deleted</original>
+	<translate>Usunięto</translate>
+</string>
+<string>
+	<original>Do you really want to delete?</original>
+	<translate>Czy na pewno usunąć?</translate>
+</string>
+<string>
+	<original>Do you really want to mark this appointment as no show?</original>
+	<translate>Czy na pewno zaznaczyć ten termin jako niezrealizowany?</translate>
+</string>
+<string>
+	<original>Drop Down Box</original>
+	<translate>Lista rozwijana</translate>
+</string>
+<string>
+	<original>Duplicated</original>
+	<translate>Zduplikowany</translate>
+</string>
+<string>
+	<original>Enable Customer Registration</original>
+	<translate>Zezwól na rejestrację klientów</translate>
+</string>
+<string>
+	<original>Error Message If Validation Fails</original>
+	<translate>Wyślij wiadomość o błędzie, jeżeli walidacja nie powiedzie się</translate>
+</string>
+<string>
+	<original>Extra Seat Price</original>
+	<translate>Cena za dodatkowe miejsce</translate>
+</string>
+<string>
+	<original>Forgot Your Password</original>
+	<translate>Zapomniane hasło</translate>
+</string>
+<string>
+	<original>Form</original>
+	<translate>Od</translate>
+</string>
+<string>
+	<original>Form Field</original>
+	<translate>Pole formularza</translate>
+</string>
+<string>
+	<original>From {COUNT} seats</original>
+	<translate>Od {COUNT} miejsc</translate>
+</string>
+<string>
+	<original>How Many Seats?</original>
+	<translate>Ile miejsc?</translate>
+</string>
+<string>
+	<original>Input Validation</original>
+	<translate>Walidacja wprowadzonego tekstu</translate>
+</string>
+<string>
+	<original>Invoice</original>
+	<translate>Faktura</translate>
+</string>
+<string>
+	<original>List</original>
+	<translate>Lista</translate>
+</string>
+<string>
+	<original>Manager</original>
+	<translate>Manager</translate>
+</string>
+<string>
+	<original>Managers have access to everything but the system settings</original>
+	<translate>Managerowie mają dostęp do wszystkiego oprócz ustawień systemu</translate>
+</string>
+<string>
+	<original>Max Number Of Appointments In Pack</original>
+	<translate>Maksymalna liczba terminów w pakiecie</translate>
+</string>
+<string>
+	<original>Nnumbers only</original>
+	<translate>Tylko liczby</translate>
+</string>
+<string>
+	<original>No Show</original>
+	<translate>Niezrealizowany</translate>
+</string>
+<string>
+	<original>Notification Activated</original>
+	<translate>Powiadomienia aktywne</translate>
+</string>
+<string>
+	<original>Notification Disabled</original>
+	<translate>Powiadomienia nieaktywne</translate>
+</string>
+<string>
+	<original>Numbers only</original>
+	<translate>Tylko liczby</translate>
+</string>
+<string>
+	<original>Partially Occupied</original>
+	<translate>Częściowo zajęte</translate>
+</string>
+<string>
+	<original>Password Reset</original>
+	<translate>Reset hasła</translate>
+</string>
+<string>
+	<original>Payment Gateway</original>
+	<translate>Bramka płatności</translate>
+</string>
+<string>
+	<original>Payment Options</original>
+	<translate>Opcje płatności</translate>
+</string>
+<string>
+	<original>Please choose at least one location</original>
+	<translate>Należy wybrac co najmniej jedną lokalizację</translate>
+</string>
+<string>
+	<original>Proceed</original>
+	<translate>Dalej</translate>
+</string>
+<string>
+	<original>Release No Show</original>
+	<translate>Odzyskaj termin</translate>
+</string>
+<string>
+	<original>Remove From Managers</original>
+	<translate>Usuń z Managerów</translate>
+</string>
+<string>
+	<original>Schedule</original>
+	<translate>Terminarz/Zaplanuj</translate>
+</string>
+<string>
+	<original>Seat Price</original>
+	<translate>Cena za miejsce</translate>
+</string>
+<string>
+	<original>Service Categories</original>
+	<translate>Kategorie usług</translate>
+</string>
+<string>
+	<original>Service Category</original>
+	<translate>Kategoria usługi</translate>
+</string>
+<string>
+	<original>Service Selection Display Style</original>
+	<translate>Styl wyświetlania wyboru usługi</translate>
+</string>
+<string>
+	<original>Session</original>
+	<translate>Sesja</translate>
+</string>
+<string>
+	<original>String(s) missing</original>
+	<translate>Brakujące wyraz(y)</translate>
+</string>
+<string>
+	<original>This title already exists</original>
+	<translate>Ten tytuł/nazwa już istnieje</translate>
+</string>
+<string>
+	<original>This title is already in use</original>
+	<translate>Ten tytuł/nazwa już jest używana</translate>
+</string>
+<string>
+	<original>Time Slot</original>
+	<translate>Przedział czasowy</translate>
+</string>
+<string>
+	<original>Time Slots</original>
+	<translate>Przedziały czasowe</translate>
+</string>
+<string>
+	<original>Total Duration</original>
+	<translate>Czas trwania</translate>
+</string>
+<string>
+	<original>Up to {COUNT} seats</original>
+	<translate>Do {COUNT} miejsc</translate>
+</string>
+<string>
+	<original>Updated</original>
+	<translate>Zaktualizowano</translate>
+</string>
+<string>
+	<original>Use Email As Username</original>
+	<translate>Użyj adresu email jako nazwy użytkownika</translate>
+</string>
+<string>
+	<original>User</original>
+	<translate>Użytkownik</translate>
+</string>
+<string>
+	<original>View and Update</original>
+	<translate>Pokaż i zaktualizuj</translate>
+</string>
+<string>
+	<original>When enabling this, be sure you remenber your own email address</original>
+	<translate>Przed zaznaczeniem tej opcji, zapamiętaj swój własny adres email</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointment(s) Marked As No Show</original>
+	<translate>{APPS_COUNT} terminów oznaczono jako niezrealizowane</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointment(s) Released From No Show</original>
+	<translate>{APPS_COUNT} terminów odznaczono jako niezrealizowane</translate>
+</string>
+<string>
+	<original>{PRICE} per seat</original>
+	<translate>{PRICE} za miejsce</translate>
+</string>
+<string>
+	<original>{PRICE} per seat up to {SEATS} seats, {EXTRA_PRICE} extra seat</original>
+	<translate>{PRICE} za miejsce, do {SEATS} miejsc, nastepnie {EXTRA_PRICE} za każde dodatkowe miejsce</translate>
+</string>
+<string>
+	<original>{PRICE} per seat, {EXTRA_PRICE} extra seat</original>
+	<translate>{PRICE} za miejsce, {EXTRA_PRICE} za każde dodatkowe miejsce</translate>
+</string>
+
+</file>

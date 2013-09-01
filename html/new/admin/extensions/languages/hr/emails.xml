@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="ISO-8859-1"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Vaš sastanak čeka na odobrenje</subject>
+<body>
+Zahvaljujemo za Vaš zahtjev za sastanak.
+Ljubazno Vas molimo da malo sačekate prije nego što pregledamo zahtjev. Obavjestit ćemo Vas čim prihvatimo ugovoreni sastanak.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Odobrenje sastanka</subject>
+<body>
+Zahvaljujemo za Vaš zahtjev za sastanak. Ugovoreni sastanak sada je odobren.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Odbacivanje sastanka</subject>
+<body>
+Zahvaljujemo za Vaš zahtjev za sastanak. Žao nam je, ali Vas sastanak je odbačen.
+
+Razlog odbacivanja:
+{APPOINTMENT.REJECT_REASON}
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-customer</key>
+<subject>Sastanak je označen kao neaktivan</subject>
+<body>
+Žao nam je, sastanak je označen kao neaktivan.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>Zahtjev za sastanak</subject>
+<body>
+Zahvaljujemo za zahtjev za sastanak. Sastanak je sada odobren.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Otkazivanje sastanka</subject>
+<body>
+Ovo je potvrda da je sastanak otkazan na Vaš zahtjev.
+
+Razlog otkazivanja:
+{APPOINTMENT.CANCEL_REASON}
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-customer</key>
+<subject>Promjena sastanka</subject>
+<body>
+Vaš sastanak je izmijenjen, ovo su novi detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>Novi zahtjev za sastanak koji zahtijeva odobrenje</subject>
+<body>
+Ovo je novi zahtjev za sastanak.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+
+Detalji o kupcu:
+{APPOINTMENT.CUSTOMER.-ALL-}
+
+Brza veza za ovaj sastanak:
+{APPOINTMENT.QUICK_LINK_APPROVE} {APPOINTMENT.QUICK_LINK_REJECT}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Novi zahtjev za sastanak</subject>
+<body>
+Novi zahtjev za sastanak s Vama, a on je automatski odobren.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+
+Detalji o kupcu:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Vaš sastanak otkazan je od strane kupca</subject>
+<body>
+Ovo je potvrda da je Vaš sastanak otkazan od strane kupca.
+
+Razlog otkazivanja:
+{APPOINTMENT.CANCEL_REASON}
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+
+Detalji o kupcu:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-provider</key>
+<subject>Sastanak je odbačen</subject>
+<body>
+Vas sastanak je odbačen.
+
+Razlog odbacivanja:
+{APPOINTMENT.REJECT_REASON}
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+
+Detalji o kupcu:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-provider</key>
+<subject>Sastanak je označen kao neaktivan</subject>
+<body>
+Vaš sastanak je označen kao neaktivan.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+
+Detalji o kupcu:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Vaš sastanak je odobren</subject>
+<body>
+Vaš sastanak sada je odobren.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+
+Detalji o kupcu:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-provider</key>
+<subject>Promjena sastanka</subject>
+<body>
+Vaš sastanak je izmijenjen, ovo su novi detalji o sastanku:
+{APPOINTMENT.-ALL-}
+
+Detalji o kupcu:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-require_email_confirmation-user</key>
+<subject>Molimo Vas da potvrdite E-mail adresu</subject>
+<body>
+Zahvaljujemo na registraciji! Sada Vas ljubazno molimo da potvrdite Vaš e-mail.
+
+{USER.CONFIRMATION_LINK}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Vas korisnicki racun ceka na odobrenje</subject>
+<body>
+Zahvaljujemo na registraciji!
+Sada Vas ljubazno molimo da malo sačekate, jer trebamo ručno odobriti Vas korisnički račun. Obavijestit ćemo Vas kad korisnički račun postane aktivan.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Registiran je novi korisnik, zahtijeva se Vaše odobrenje</subject>
+<body>
+Novi korisnik je registriran na Vašoj web stranici. Molimo Vas da otvorite stranicu za administratora i odobrite ili odbacite korisnika.
+
+Nove informacije o korisniku:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Vas korisnički racun sada je aktivan</subject>
+<body>
+Čestitamo!
+Čestitamo Vaš korisnički račun je sada aktivan. Ovo su novi podaci za prijavu:
+
+Korisničko ime: {USER.USERNAME}
+Lozinka: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Vasa lozinka je resetirana</subject>
+<body>
+Prema Vašem zahtjevu lozinka je resetirana. Ovo su novi podaci za prijavu:
+
+Korisničko ime: {USER.USERNAME}
+Lozinka: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-customer</key>
+<subject>Appointment Reminder</subject>
+<body>
+Ovo je podsjetnik za sastanak.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-provider</key>
+<subject>Podsjetnik na sastanak</subject>
+<body>
+Ovo je podsjetnik za sastanak.
+
+Detalji o sastanku:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+</emails>

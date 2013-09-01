@@ -1,0 +1,1 @@
+Cufon.replace('h1.cufon', { fontFamily: 'VAGRoundedStd-Bold' });

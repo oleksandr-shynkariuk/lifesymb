@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Państwa rezerwacja oczekuje na potwierdzenie</subject>
+<body>
+Dziękujemy za zgłoszenie Państwa rezerwacji.
+Prosimy zaczekać na potwierdzenie rezerwacji. Po potwierdzeniu terminu otrzymacie Państwo oddzielną wiadomość pocztową.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Państwa rezerwacja została potwierdzona</subject>
+<body>
+Dziękujemy za zgłoszenie Państwa rezerwacji. Rezerwacja została potwierdzona.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Państwa rezerwacja nie została potwierdzona</subject>
+<body>
+Dziekujemy za zgłoszenie Państwa rezerwacji. Niestety nie możemy potwierdzić wybrango terminu.
+
+Przyczyna braku akceptacji:
+{REJECT_REASON}
+
+Szczegóły pierwotnej rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>Państwa zgłoszenie rezerwacji</subject>
+<body>
+Dziękujemy za Państwa zgłoszenie rezerwacji. Rezerwacja została potwierdzona.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Państwa zgłsozenie rezerwacji zostało anulowane</subject>
+<body>
+Niniejsza wiadomość jest potwierdzeniem anulowania Państwa rezerwacji zgodnie z Państwa prośbą.
+
+Przyczyna anulowania:
+{CANCEL_REASON}
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-move-customer</key>
+<subject>Zmiana lokalizacji Państwa rezerwacji</subject>
+<body>
+Państwa rezerwacja została przeniesiona do innej lokalizacji.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reschedule-customer</key>
+<subject>Zmiana terminu Państwa rezerwacji</subject>
+<body>
+Państwa rezerwacja została przeniesiona z {OLD_APPOINTMENT.STARTS_AT} na {APPOINTMENT.STARTS_AT}.
+
+Aktualne szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign-customer</key>
+<subject>Państwa rezerwacja została przeniesiona do innego usługodawcy</subject>
+<body>
+Pańtwa rezerwacja została przeniesiona do innego usługodawcy.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>Nowa rezerwacja terminu, wymagane potwierdzenia</subject>
+<body>
+Otrzymano nową rezerwację terminu.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+
+Szczegóły klienta:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Nowa rezerwacja</subject>
+<body>
+Otrzymano nową rezerwację terminu, która została automatycznie potwierdzona.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+
+Szczegóły klienta:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Rezerwacja została odwołana przez klienta</subject>
+<body>
+To jest potwierdzenie odwołania rezerwacji przez klienta.
+
+Przyczyna anulowania:
+{CANCEL_REASON}
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+
+Szczegóły klienta:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Potwierdzenie rezerwacji</subject>
+<body>
+Państwa rezerwacja została potwierdzona.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-move-provider</key>
+<subject>Rezerwacja przeniesiona do innej lokalizacji</subject>
+<body>
+Państwa lokalizacja została przeniesiona do innej lokalizacji.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reschedule-provider</key>
+<subject>Zmiana terminu rezerwacji</subject>
+<body>
+Państwa rezerwacja została zmieniona z {OLD_APPOINTMENT.STARTS_AT} na {APPOINTMENT.STARTS_AT}.
+
+Szczegóły nowej rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign-provider</key>
+<subject>Przydzielono nową rezerwację</subject>
+<body>
+Przydzielono nową rezerwację.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign_from-provider</key>
+<subject>Rezerwacja została przydzielona innemu usługodawcy</subject>
+<body>
+Państwa rezerwacja została przydzielona innemu usługodawcy.
+
+Szczegóły rezerwacji:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>user-require_email_confirmaion-user</key>
+<subject>Prosimy o potwierdzenie Państwa adresu email</subject>
+<body>
+Dziękujemy za rejestrację! Prosimy teraz o potwierdzenie Państwa adresu email.
+
+{USER.CONFIRMATION_LINK}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Państwa konto oczekuje na potwierdzenie</subject>
+<body>
+Dziękujemy za rejestrację!
+W tej chwili prowadzimy akceptację nowego konta użytkownika. W momencie aktywowania konta, poinformujemy Państwa o tym osobnym komunikatem.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Nowy użytkownik, wymagana akceptacja</subject>
+<body>
+Na stronie zarejestrował się nowy klient. Teraz należy przejść do panelu administracyjnego, aby zaakceptować lub odrzucić użytkownika.
+
+Informacje o nowym kliencie:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Konto jest teraz aktywne</subject>
+<body>
+Gratulujemy!
+Państwa konto użytkowniak zostało aktywowane. Informacje niezbędne do zalogowania:
+
+Nazwa użytkownika: {USER.USERNAME}
+Hasło: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Reset hasła użytkownika</subject>
+<body>
+Zgodnie z Państwa prośbą, hasło użytkownika zostało ustawione ponownie. Informacje niezbędne do zalogowania:
+
+Nazwa użytkownika: {USER.USERNAME}
+Hasło: {USER.PASSWORD}
+</body>
+</message>
+
+</emails>

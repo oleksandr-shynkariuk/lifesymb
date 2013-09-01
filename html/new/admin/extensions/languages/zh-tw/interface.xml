@@ -1,0 +1,4139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<file>
+
+  <language>語言選擇</language>
+
+  <author>esupport</author>
+
+  <lastUpdate>
+
+    2010年9月12日
+
+  </lastUpdate>
+
+  <charset>utf-8</charset>
+
+  <string>
+
+    <original>- Any -</original>
+
+    <translate>- 任何 -</translate>
+
+  </string>
+
+  <string>
+
+    <original>Account Suspended</original>
+
+    <translate>帳戶暫停</translate>
+
+  </string>
+
+  <string>
+
+    <original>Actions</original>
+
+    <translate>行動</translate>
+
+  </string>
+
+  <string>
+
+    <original>Activate</original>
+
+    <translate>啟用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Activated</original>
+
+    <translate>活性</translate>
+
+  </string>
+
+  <string>
+
+    <original>Active</original>
+
+    <translate>啟用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Add Payment</original>
+
+    <translate>新增付費</translate>
+
+  </string>
+
+  <string>
+
+    <original>Add Time Slot</original>
+
+    <translate>添加時段</translate>
+
+  </string>
+
+  <string>
+
+    <original>Add To Admins</original>
+
+    <translate>添加到管理員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Admin</original>
+
+    <translate>管理員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Admin Approval Required</original>
+
+    <translate>管理員需要批准</translate>
+
+  </string>
+
+  <string>
+
+    <original>Admin Area</original>
+
+    <translate>管理後台</translate>
+
+  </string>
+
+  <string>
+
+    <original>Admin Notifications</original>
+
+    <translate>管理通知</translate>
+
+  </string>
+
+  <string>
+
+    <original>All</original>
+
+    <translate>所有</translate>
+
+  </string>
+
+  <string>
+
+    <original>Allow Queued Appointments</original>
+
+    <translate>允許排隊預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Allow your customers to reserve Appointments without time selection, then the staff assigns the exact date and time</original>
+
+    <translate>讓您的使用者預留任用沒有時間選擇，然後分配給工作人員的確切日期和時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>Already have an account?</original>
+
+    <translate>請問您已經有一個帳戶了嗎？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Already in use</original>
+
+    <translate>已在使用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Amount</original>
+
+    <translate>額</translate>
+
+  </string>
+
+  <string>
+
+    <original>Application Upgraded</original>
+
+    <translate>申請升級</translate>
+
+  </string>
+
+  <string>
+
+    <original>Applied On</original>
+
+    <translate>應用於</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment</original>
+
+    <translate>預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Approval Required</original>
+
+    <translate>預約需要批准</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Approved</original>
+
+    <translate>批准預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Cancelled By Customer</original>
+
+    <translate>通過使用者預約取消</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Details</original>
+
+    <translate>預約詳情</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Flow</original>
+
+    <translate>預約流程</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Forms</original>
+
+    <translate>預約表格</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Moved To Another Location</original>
+
+    <translate>預約移動到另一個位置</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment No Show</original>
+
+    <translate>預約沒有顯示</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Not Allowed</original>
+
+    <translate>預約不允許</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Not Recommended</original>
+
+    <translate>預約不推薦</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Pack</original>
+
+    <translate>預約包</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Packs</original>
+
+    <translate>預約包</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Reasigned From You</original>
+
+    <translate>從您的申請Reasigned</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Reasigned To You</original>
+
+    <translate>預約Reasigned為了您</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Reassigned To Another Provider</original>
+
+    <translate>將預約調到另一個管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Rejected</original>
+
+    <translate>拒絕預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Request (Automatically Approved)</original>
+
+    <translate>預約申請[自動批准]</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment Rescheduled</original>
+
+    <translate>預約改期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointment aleady approved</original>
+
+    <translate>已經批准預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointments</original>
+
+    <translate>預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointments In Pack</original>
+
+    <translate>預約程序包</translate>
+
+  </string>
+
+  <string>
+
+    <original>Appointments In Total</original>
+
+    <translate>預約總額</translate>
+
+  </string>
+
+  <string>
+
+    <original>Approve</original>
+
+    <translate>批准</translate>
+
+  </string>
+
+  <string>
+
+    <original>Approved</original>
+
+    <translate>核准通過</translate>
+
+  </string>
+
+  <string>
+
+    <original>Apr</original>
+
+    <translate>4月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Assign</original>
+
+    <translate>分配</translate>
+
+  </string>
+
+  <string>
+
+    <original>Assigned To Services</original>
+
+    <translate>分配申請項目</translate>
+
+  </string>
+
+  <string>
+
+    <original>Aug</original>
+
+    <translate>8月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Author</original>
+
+    <translate>作者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Auto Confirmed</original>
+
+    <translate>自動確認</translate>
+
+  </string>
+
+  <string>
+
+    <original>Available</original>
+
+    <translate>可用的</translate>
+
+  </string>
+
+  <string>
+
+    <original>Available In Packs Only</original>
+
+    <translate>僅提供包</translate>
+
+  </string>
+
+  <string>
+
+    <original>Browse</original>
+
+    <translate>瀏覽</translate>
+
+  </string>
+
+  <string>
+
+    <original>Bulk Actions</original>
+
+    <translate>批量操作</translate>
+
+  </string>
+
+  <string>
+
+    <original>CC To Admin</original>
+
+    <translate>cc給管理員</translate>
+
+  </string>
+
+  <string>
+
+    <original>CSV Field Delimiter</original>
+
+    <translate>CSV格式字段分隔符</translate>
+
+  </string>
+
+  <string>
+
+    <original>Cancel</original>
+
+    <translate>取消</translate>
+
+  </string>
+
+  <string>
+
+    <original>Cancellation/Reschedule Deadline</original>
+
+    <translate>取消/重新安排截止日期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Categories</original>
+
+    <translate>分類</translate>
+
+  </string>
+
+  <string>
+
+    <original>Category</original>
+
+    <translate>類別</translate>
+
+  </string>
+
+  <string>
+
+    <original>Change Password</original>
+
+    <translate>更改密碼</translate>
+
+  </string>
+
+  <string>
+
+    <original>Check this if an appointment of this service allows other Appointments at the same time in the same location. Otherwise, the location will be blocked for other providers.</original>
+
+    <translate>請在此預約這項申請項目允許其他預約在同一時間同一地點。否則，該位置將被阻止其他管理人員。</translate>
+
+  </string>
+
+  <string>
+
+    <original>Choose Location</original>
+
+    <translate>選擇位置</translate>
+
+  </string>
+
+  <string>
+
+    <original>Choose Provider</original>
+
+    <translate>選擇管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Click here to confirm your email</original>
+
+    <translate>點選此處確認您的電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Click to activate</original>
+
+    <translate>點選開啟</translate>
+
+  </string>
+
+  <string>
+
+    <original>Click to disable</original>
+
+    <translate>點選關閉</translate>
+
+  </string>
+
+  <string>
+
+    <original>Close</original>
+
+    <translate>關閉</translate>
+
+  </string>
+
+  <string>
+
+    <original>Company Confirmation Required</original>
+
+    <translate>管理員要求確認</translate>
+
+  </string>
+
+  <string>
+
+    <original>Company Timezone</original>
+
+    <translate>單位/組織的時區</translate>
+
+  </string>
+
+  <string>
+
+    <original>Confirm</original>
+
+    <translate>確認</translate>
+
+  </string>
+
+  <string>
+
+    <original>Confirm Appointment</original>
+
+    <translate>確認預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Confirm Password</original>
+
+    <translate>密碼確認</translate>
+
+  </string>
+
+  <string>
+
+    <original>Confirm Reschedule</original>
+
+    <translate>確認重新安排</translate>
+
+  </string>
+
+  <string>
+
+    <original>Congratulations, your account has been created and activated</original>
+
+    <translate>祝賀您，您的帳戶已建立並啟用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Contact Information</original>
+
+    <translate>聯繫訊息</translate>
+
+  </string>
+
+  <string>
+
+    <original>Continue</original>
+
+    <translate>繼續</translate>
+
+  </string>
+
+  <string>
+
+    <original>Continue With Recurring Appointments</original>
+
+    <translate>繼續進行定期預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Continue With Single Appointment</original>
+
+    <translate>繼續與單一的預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create</original>
+
+    <translate>建立</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create Appointment</original>
+
+    <translate>建立預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create Appointment Anyway</original>
+
+    <translate>建立預約無論如何</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create Appointment Pack</original>
+
+    <translate>建立預約包</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create New Field</original>
+
+    <translate>建立新領域</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create New Form</original>
+
+    <translate>建立新形式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create New Form Field</original>
+
+    <translate>建立新的表格區域</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create New Language File</original>
+
+    <translate>建立新的語言文件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create New Session</original>
+
+    <translate>建立新會話</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create Schedule</original>
+
+    <translate>建立時間表</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create Service Category</original>
+
+    <translate>建立申請項目分類</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create Timeoff</original>
+
+    <translate>建立 Timeoff</translate>
+
+  </string>
+
+  <string>
+
+    <original>Create a new customer</original>
+
+    <translate>建立一個新的使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Created</original>
+
+    <translate>建立</translate>
+
+  </string>
+
+  <string>
+
+    <original>Currency</original>
+
+    <translate>貨幣</translate>
+
+  </string>
+
+  <string>
+
+    <original>Currency and Price Formatting</original>
+
+    <translate>幣別與價格顯示方式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Custom Form</original>
+
+    <translate>自定義表單</translate>
+
+  </string>
+
+  <string>
+
+    <original>Custom Forms</original>
+
+    <translate>自定義窗體</translate>
+
+  </string>
+
+  <string>
+
+    <original>Customer</original>
+
+    <translate>申請人</translate>
+
+  </string>
+
+  <string>
+
+    <original>Customer Access</original>
+
+    <translate>使用者訪問</translate>
+
+  </string>
+
+  <string>
+
+    <original>Customer Form Fields</original>
+
+    <translate>使用者表格區域</translate>
+
+  </string>
+
+  <string>
+
+    <original>Customer Notifications</original>
+
+    <translate>使用者通知</translate>
+
+  </string>
+
+  <string>
+
+    <original>Customer Registration</original>
+
+    <translate>註冊</translate>
+
+  </string>
+
+  <string>
+
+    <original>Customers</original>
+
+    <translate>使用者管理</translate>
+
+  </string>
+
+  <string>
+
+    <original>Customize Form</original>
+
+    <translate>自定義表單</translate>
+
+  </string>
+
+  <string>
+
+    <original>Date</original>
+
+    <translate>日期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Date Format</original>
+
+    <translate>日期格式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Date and Time</original>
+
+    <translate>日期和時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>Dates</original>
+
+    <translate>日期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Day</original>
+
+    <translate>天</translate>
+
+  </string>
+
+  <string>
+
+    <original>Days</original>
+
+    <translate>天數</translate>
+
+  </string>
+
+  <string>
+
+    <original>Days To Show In Calendar For Admin/Provider</original>
+
+    <translate>天要顯示在日曆管理/管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Days To Show In Calendar For Customer</original>
+
+    <translate>天要顯示在日曆使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Dec</original>
+
+    <translate>12月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Define possible services for every appointment in your pack</original>
+
+    <translate>定義為每個可能的申請項目包中的預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Delete</original>
+
+    <translate>進行刪除</translate>
+
+  </string>
+
+  <string>
+
+    <original>Deleted</original>
+
+    <translate>已刪除</translate>
+
+  </string>
+
+  <string>
+
+    <original>Description</original>
+
+    <translate>描述</translate>
+
+  </string>
+
+  <string>
+
+    <original>Desired Username</original>
+
+    <translate>使用者名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>Detailed View</original>
+
+    <translate>詳細查看</translate>
+
+  </string>
+
+  <string>
+
+    <original>Details</original>
+
+    <translate>詳情</translate>
+
+  </string>
+
+  <string>
+
+    <original>Disable</original>
+
+    <translate>禁用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Disable Email</original>
+
+    <translate>禁用電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Discount</original>
+
+    <translate>折扣</translate>
+
+  </string>
+
+  <string>
+
+    <original>Display By Location</original>
+
+    <translate>顯示按地點</translate>
+
+  </string>
+
+  <string>
+
+    <original>Display By Provider</original>
+
+    <translate>顯示由管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Do you really want to cancel this appointment?</original>
+
+    <translate>您是否真的想取消這項預約？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Do you really want to delete?</original>
+
+    <translate>您是否真的要刪除嗎？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Do you really want to mark this appointment as no show?</original>
+
+    <translate>您是否真正地想要標記此項申請為No Show？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Do you really want to reject this appointment?</original>
+
+    <translate>您是否真的想拒絕這一預約？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Don't have an account yet?</original>
+
+    <translate>還沒有帳號嗎？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Down</original>
+
+    <translate>向下</translate>
+
+  </string>
+
+  <string>
+
+    <original>Due Value</original>
+
+    <translate>價格</translate>
+
+  </string>
+
+  <string>
+
+    <original>Duplicate</original>
+
+    <translate>重複</translate>
+
+  </string>
+
+  <string>
+
+    <original>Duplicate To All Days</original>
+
+    <translate>每一天重覆</translate>
+
+  </string>
+
+  <string>
+
+    <original>Duplicated</original>
+
+    <translate>重複</translate>
+
+  </string>
+
+  <string>
+
+    <original>Duration</original>
+
+    <translate>為期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Each option on new line</original>
+
+    <translate>每個選項的新行</translate>
+
+  </string>
+
+  <string>
+
+    <original>Edit</original>
+
+    <translate>編輯</translate>
+
+  </string>
+
+  <string>
+
+    <original>Edit Footer</original>
+
+    <translate>編輯頁腳</translate>
+
+  </string>
+
+  <string>
+
+    <original>Edit Header</original>
+
+    <translate>編輯頁眉</translate>
+
+  </string>
+
+  <string>
+
+    <original>Email</original>
+
+    <translate>電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Email Confirmation Required</original>
+
+    <translate>電子郵件確認需要</translate>
+
+  </string>
+
+  <string>
+
+    <original>Email Not Confirmed</original>
+
+    <translate>電子郵件未確認</translate>
+
+  </string>
+
+  <string>
+
+    <original>Email Notifications Templates</original>
+
+    <translate>電子郵件通知範本</translate>
+
+  </string>
+
+  <string>
+
+    <original>Email Settings</original>
+
+    <translate>電子郵件設定</translate>
+
+  </string>
+
+  <string>
+
+    <original>Email Templates</original>
+
+    <translate>電子郵件模板</translate>
+
+  </string>
+
+  <string>
+
+    <original>Email Test Mode</original>
+
+    <translate>電子郵件測試模式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Enable Customer Registration</original>
+
+    <translate>啟用註冊</translate>
+
+  </string>
+
+  <string>
+
+    <original>English Letters, Numbers, Underscores Only</original>
+
+    <translate>請使用英文字母，數字，下劃線</translate>
+
+  </string>
+
+  <string>
+
+    <original>Every</original>
+
+    <translate>每</translate>
+
+  </string>
+
+  <string>
+
+    <original>Every 3 Weeks</original>
+
+    <translate>每3週</translate>
+
+  </string>
+
+  <string>
+
+    <original>Every Day</original>
+
+    <translate>每一天</translate>
+
+  </string>
+
+  <string>
+
+    <original>Every Fortnight</original>
+
+    <translate>每雙週</translate>
+
+  </string>
+
+  <string>
+
+    <original>Every Month</original>
+
+    <translate>每個月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Every Other Day</original>
+
+    <translate>每一天</translate>
+
+  </string>
+
+  <string>
+
+    <original>Every Week</original>
+
+    <translate>每週</translate>
+
+  </string>
+
+  <string>
+
+    <original>Feb</original>
+
+    <translate>二月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Field Name</original>
+
+    <translate>字段名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>Field Type</original>
+
+    <translate>字段類型</translate>
+
+  </string>
+
+  <string>
+
+    <original>Fields</original>
+
+    <translate>區域</translate>
+
+  </string>
+
+  <string>
+
+    <original>Fill in if required by your web hosting. You may need to consult your web hosting administrator or help documentation.</original>
+
+    <translate>如果需要填寫您的虛擬主機。您可能需要諮詢您的網路託管理員或幫助文檔。</translate>
+
+  </string>
+
+  <string>
+
+    <original>Filter</original>
+
+    <translate>過濾器</translate>
+
+  </string>
+
+  <string>
+
+    <original>Find an existing customer</original>
+
+    <translate>搜尋現有的使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Footer For All Emails</original>
+
+    <translate>電子郵件簽名檔</translate>
+
+  </string>
+
+  <string>
+
+    <original>Forgot Your Password</original>
+
+    <translate>忘記密碼</translate>
+
+  </string>
+
+  <string>
+
+    <original>Form</original>
+
+    <translate>表格</translate>
+
+  </string>
+
+  <string>
+
+    <original>Form Field</original>
+
+    <translate>表格區域</translate>
+
+  </string>
+
+  <string>
+
+    <original>Form Field Type and Options</original>
+
+    <translate>表格區域類型和選項</translate>
+
+  </string>
+
+  <string>
+
+    <original>Free</original>
+
+    <translate>免費</translate>
+
+  </string>
+
+  <string>
+
+    <original>Fri</original>
+
+    <translate>五</translate>
+
+  </string>
+
+  <string>
+
+    <original>Friday</original>
+
+    <translate>星期五</translate>
+
+  </string>
+
+  <string>
+
+    <original>From</original>
+
+    <translate>從</translate>
+
+  </string>
+
+  <string>
+
+    <original>Fully Booked</original>
+
+    <translate>已滿</translate>
+
+  </string>
+
+  <string>
+
+    <original>Fully Paid</original>
+
+    <translate>已付清</translate>
+
+  </string>
+
+  <string>
+
+    <original>Gateway Reference</original>
+
+    <translate>付款閘道</translate>
+
+  </string>
+
+  <string>
+
+    <original>Gateway Response</original>
+
+    <translate>閘道回應</translate>
+
+  </string>
+
+  <string>
+
+    <original>Go</original>
+
+    <translate>Go</translate>
+
+  </string>
+
+  <string>
+
+    <original>Go Back</original>
+
+    <translate>返回</translate>
+
+  </string>
+
+  <string>
+
+    <original>Header For All Emails</original>
+
+    <translate>電子郵件標題</translate>
+
+  </string>
+
+  <string>
+
+    <original>Hidden</original>
+
+    <translate>隱蔽</translate>
+
+  </string>
+
+  <string>
+
+    <original>Home</original>
+
+    <translate>回首頁</translate>
+
+  </string>
+
+  <string>
+
+    <original>Hour</original>
+
+    <translate>小時</translate>
+
+  </string>
+
+  <string>
+
+    <original>Hours</original>
+
+    <translate>時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>If set correctly, your company time is now [b]{TIME_STRING}[/b]. If it is wrong, please set your company correct time zone.
+
+</original>
+
+    <translate>如果設定正確，您的單位/組織現在是時候[b]{TIME_STRING}[/b]。如果它是錯誤的，請設定您的單位/組織在正確的時區。</translate>
+
+  </string>
+
+  <string>
+
+    <original>If set to 1, the recurring Appointments option will be disabled</original>
+
+    <translate>如果設定為 1，定期預約選項將被禁用</translate>
+
+  </string>
+
+  <string>
+
+    <original>If set to Minute for example, it will show 90 Minutes rather than 1 Hour 30 Minutes.</original>
+
+    <translate>如果設定為分鐘，例如，它會顯示 90分鐘，而超過 1小時 30分鐘。</translate>
+
+  </string>
+
+  <string>
+
+    <original>If set, email messages will be printed on screen rather than sent</original>
+
+    <translate>如果設定，電子郵件訊息顯示在螢幕上，而不是發送</translate>
+
+  </string>
+
+  <string>
+
+    <original>Info &amp; Upgrade</original>
+
+    <translate>訊息&amp;升級</translate>
+
+  </string>
+
+  <string>
+
+    <original>Installed Version</original>
+
+    <translate>安裝版本</translate>
+
+  </string>
+
+  <string>
+
+    <original>Integers Only</original>
+
+    <translate>限為整數</translate>
+
+  </string>
+
+  <string>
+
+    <original>Invoice</original>
+
+    <translate>發票</translate>
+
+  </string>
+
+  <string>
+
+    <original>Invoice Value</original>
+
+    <translate>發票價值</translate>
+
+  </string>
+
+  <string>
+
+    <original>Jan</original>
+
+    <translate>8月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Jul</original>
+
+    <translate>7月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Jun</original>
+
+    <translate>6月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Label For Customers</original>
+
+    <translate>標籤為使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Language</original>
+
+    <translate>語言</translate>
+
+  </string>
+
+  <string>
+
+    <original>Languages</original>
+
+    <translate>語言</translate>
+
+  </string>
+
+  <string>
+
+    <original>Last Update</original>
+
+    <translate>最後更新</translate>
+
+  </string>
+
+  <string>
+
+    <original>Lead In</original>
+
+    <translate>鉛</translate>
+
+  </string>
+
+  <string>
+
+    <original>Lead Out</original>
+
+    <translate>鉛出</translate>
+
+  </string>
+
+  <string>
+
+    <original>Leave these blank to autogenerate a random password</original>
+
+    <translate>給這些空白，以自動生成一個隨機密碼</translate>
+
+  </string>
+
+  <string>
+
+    <original>Legend</original>
+
+    <translate>圖例說明</translate>
+
+  </string>
+
+  <string>
+
+    <original>Location</original>
+
+    <translate>地點</translate>
+
+  </string>
+
+  <string>
+
+    <original>Location Can Be Shared With Other Providers</original>
+
+    <translate>地點可以向其他管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Location Occupied</original>
+
+    <translate>使用中</translate>
+
+  </string>
+
+  <string>
+
+    <original>Locations</original>
+
+    <translate>地點設定</translate>
+
+  </string>
+
+  <string>
+
+    <original>Logged out</original>
+
+    <translate>登出</translate>
+
+  </string>
+
+  <string>
+
+    <original>Login</original>
+
+    <translate>登入</translate>
+
+  </string>
+
+  <string>
+
+    <original>Login details</original>
+
+    <translate>登入資料</translate>
+
+  </string>
+
+  <string>
+
+    <original>Logout</original>
+
+    <translate>登出</translate>
+
+  </string>
+
+  <string>
+
+    <original>Lowercase English Letters, Numbers, Underscores Only</original>
+
+    <translate>限為小寫英文字母，數字和下劃線請！</translate>
+
+  </string>
+
+  <string>
+
+    <original>Manage</original>
+
+    <translate>管理</translate>
+
+  </string>
+
+  <string>
+
+    <original>Manage Appointments</original>
+
+    <translate>管理預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Mar</original>
+
+    <translate>3月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Max Advance Booking</original>
+
+    <translate>最長多久可以提前預訂</translate>
+
+  </string>
+
+  <string>
+
+    <original>Max For One Booking</original>
+
+    <translate>一次最多可預定數量</translate>
+
+  </string>
+
+  <string>
+
+    <original>Max Number Of Recurring Appointments</original>
+
+    <translate>最大數量的定期預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Max Time Measure In Duration Display</original>
+
+    <translate>最大時間測量在時間顯示</translate>
+
+  </string>
+
+  <string>
+
+    <original>May</original>
+
+    <translate>五月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Message Text</original>
+
+    <translate>消息文本</translate>
+
+  </string>
+
+  <string>
+
+    <original>至少要多久提前預訂</original>
+
+    <translate>閔提前預訂</translate>
+
+  </string>
+
+  <string>
+
+    <original>Min For One Booking</original>
+
+    <translate>最少申請數</translate>
+
+  </string>
+
+  <string>
+
+    <original>Minute</original>
+
+    <translate>分鐘</translate>
+
+  </string>
+
+  <string>
+
+    <original>Minutes</original>
+
+    <translate>分鐘</translate>
+
+  </string>
+
+  <string>
+
+    <original>Misc</original>
+
+    <translate>雜項</translate>
+
+  </string>
+
+  <string>
+
+    <original>Mon</original>
+
+    <translate>一</translate>
+
+  </string>
+
+  <string>
+
+    <original>Monday</original>
+
+    <translate>星期一</translate>
+
+  </string>
+
+  <string>
+
+    <original>Months To Show In Calendar</original>
+
+    <translate>個月顯示在日曆</translate>
+
+  </string>
+
+  <string>
+
+    <original>Move</original>
+
+    <translate>移動</translate>
+
+  </string>
+
+  <string>
+
+    <original>Move To This Location</original>
+
+    <translate>移動到這個位置</translate>
+
+  </string>
+
+  <string>
+
+    <original>Moved Down</original>
+
+    <translate>下移</translate>
+
+  </string>
+
+  <string>
+
+    <original>Moved Up</original>
+
+    <translate>提前</translate>
+
+  </string>
+
+  <string>
+
+    <original>My Appointments</original>
+
+    <translate>我的預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>My Old Appointments</original>
+
+    <translate>我的舊預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>My Profile</original>
+
+    <translate>我的個人資料</translate>
+
+  </string>
+
+  <string>
+
+    <original>My Timezone</original>
+
+    <translate>我的時區</translate>
+
+  </string>
+
+  <string>
+
+    <original>My Upcoming Appointments</original>
+
+    <translate>近期的申請</translate>
+
+  </string>
+
+  <string>
+
+    <original>N/A</original>
+
+    <translate>N/A</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Appointment</original>
+
+    <translate>新的申請</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Customer</original>
+
+    <translate>新使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Form</original>
+
+    <translate>新表單</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Form Assigned To Service</original>
+
+    <translate>分配對象申請項目的新形式</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Location</original>
+
+    <translate>新定位</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Provider</original>
+
+    <translate>新管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Schedule</original>
+
+    <translate>新的行事例</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Schedule For</original>
+
+    <translate>新的時間表</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Service</original>
+
+    <translate>新增新的申請項目</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Time Slot</original>
+
+    <translate>新時段</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Timeoff</original>
+
+    <translate>新Timeoff</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Version</original>
+
+    <translate>新版本</translate>
+
+  </string>
+
+  <string>
+
+    <original>New Version Files Uploaded, Upgrade Procedure Required</original>
+
+    <translate>新版本的文件上傳，升級程序需要</translate>
+
+  </string>
+
+  <string>
+
+    <original>New appointment has been created and automatically approved.</original>
+
+    <translate>已建立新的預約，並自動獲得批准。</translate>
+
+  </string>
+
+  <string>
+
+    <original>New to our site? Please take a moment to register!</original>
+
+    <translate>註冊！</translate>
+
+  </string>
+
+  <string>
+
+    <original>Newly registered users will be asked to confirm their email by following a confirmation link in the email message</original>
+
+    <translate>新登入使用者將被要求確認他們的電子郵件被確認後，電子郵件中的連結</translate>
+
+  </string>
+
+  <string>
+
+    <original>Newsletter</original>
+
+    <translate>通訊</translate>
+
+  </string>
+
+  <string>
+
+    <original>Newsletter sent to {USER_COUNT} user(s)</original>
+
+    <translate>通訊發送到使用者{USER_COUNT}</translate>
+
+  </string>
+
+  <string>
+
+    <original>Next Timeoffs</original>
+
+    <translate>下一步Timeoffs</translate>
+
+  </string>
+
+  <string>
+
+    <original>Nnumbers only</original>
+
+    <translate>Nnumbers只</translate>
+
+  </string>
+
+  <string>
+
+    <original>No</original>
+
+    <translate>沒有</translate>
+
+  </string>
+
+  <string>
+
+    <original>No Appointments Found</original>
+
+    <translate>沒有找到</translate>
+
+  </string>
+
+  <string>
+
+    <original>No Show</original>
+
+    <translate>No Show</translate>
+
+  </string>
+
+  <string>
+
+    <original>No Upgrade Procedure To Run</original>
+
+    <translate>沒有升級過程來運行</translate>
+
+  </string>
+
+  <string>
+
+    <original>No fields defined for this form</original>
+
+    <translate>沒有字段定義為這種形式</translate>
+
+  </string>
+
+  <string>
+
+    <original>No payments for this appointment</original>
+
+    <translate>這項預約沒有付費</translate>
+
+  </string>
+
+  <string>
+
+    <original>No schedules yet</original>
+
+    <translate>還沒有時間表</translate>
+
+  </string>
+
+  <string>
+
+    <original>No users found matching your search</original>
+
+    <translate>沒有找到符合您的搜尋使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Non Registered Customers</original>
+
+    <translate>未註冊使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Non Working Time</original>
+
+    <translate>非工作時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>None</original>
+
+    <translate>無</translate>
+
+  </string>
+
+  <string>
+
+    <original>Not Allowed</original>
+
+    <translate>不允許</translate>
+
+  </string>
+
+  <string>
+
+    <original>Not Approved</original>
+
+    <translate>不批准</translate>
+
+  </string>
+
+  <string>
+
+    <original>Not Paid</original>
+
+    <translate>沒有支付</translate>
+
+  </string>
+
+  <string>
+
+    <original>Not Shown For Security Reasons</original>
+
+    <translate>基於安全考慮未顯示</translate>
+
+  </string>
+
+  <string>
+
+    <original>Not The First Option In Select List</original>
+
+    <translate>在選擇名單不是第一個選項</translate>
+
+  </string>
+
+  <string>
+
+    <original>Not Working Time</original>
+
+    <translate>不工作時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>Not you?</original>
+
+    <translate>不是嗎？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Notification Activated</original>
+
+    <translate>通知已啟用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Notification Disabled</original>
+
+    <translate>通知暫停</translate>
+
+  </string>
+
+  <string>
+
+    <original>Nov</original>
+
+    <translate>11月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Numbers only</original>
+
+    <translate>限數字</translate>
+
+  </string>
+
+  <string>
+
+    <original>Occupied</original>
+
+    <translate>佔領</translate>
+
+  </string>
+
+  <string>
+
+    <original>Oct</original>
+
+    <translate>10月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Old Appointment</original>
+
+    <translate>舊的申請</translate>
+
+  </string>
+
+  <string>
+
+    <original>Old Appointments</original>
+
+    <translate>舊申請</translate>
+
+  </string>
+
+  <string>
+
+    <original>Old Timeoffs</original>
+
+    <translate>舊 Timeoffs</translate>
+
+  </string>
+
+  <string>
+
+    <original>One Appointment Free</original>
+
+    <translate>這是免費的</translate>
+
+  </string>
+
+  <string>
+
+    <original>Only lowercase English letters, numbers, and underscores please!</original>
+
+    <translate>限為小寫英文字母，數字和下劃線請！</translate>
+
+  </string>
+
+  <string>
+
+    <original>Or Recurring Appointments?</original>
+
+    <translate>或定期預約？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Other Appointments During This Time</original>
+
+    <translate>在此期間其他預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Other Views &amp; Export</original>
+
+    <translate>其它方式瀏覽 &amp; 匯出檔案</translate>
+
+  </string>
+
+  <string>
+
+    <original>Pages</original>
+
+    <translate>頁面</translate>
+
+  </string>
+
+  <string>
+
+    <original>Paid Through</original>
+
+    <translate>付款方式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Paid Value</original>
+
+    <translate>完稅價格</translate>
+
+  </string>
+
+  <string>
+
+    <original>Partially Booked</original>
+
+    <translate>部分已訂</translate>
+
+  </string>
+
+  <string>
+
+    <original>Partially Occupied</original>
+
+    <translate>部分被佔領</translate>
+
+  </string>
+
+  <string>
+
+    <original>Partially Paid</original>
+
+    <translate>部分支付</translate>
+
+  </string>
+
+  <string>
+
+    <original>Password</original>
+
+    <translate>密碼</translate>
+
+  </string>
+
+  <string>
+
+    <original>Password Changed</original>
+
+    <translate>密碼更改</translate>
+
+  </string>
+
+  <string>
+
+    <original>Password Reset</original>
+
+    <translate>密碼重設</translate>
+
+  </string>
+
+  <string>
+
+    <original>Passwords don't match!</original>
+
+    <translate>密碼不匹配！</translate>
+
+  </string>
+
+  <string>
+
+    <original>Payment</original>
+
+    <translate>付款</translate>
+
+  </string>
+
+  <string>
+
+    <original>Payment Added</original>
+
+    <translate>新增付費</translate>
+
+  </string>
+
+  <string>
+
+    <original>Payment Gateway</original>
+
+    <translate>支付閘道</translate>
+
+  </string>
+
+  <string>
+
+    <original>Payment Gateways</original>
+
+    <translate>支付閘道</translate>
+
+  </string>
+
+  <string>
+
+    <original>Payment Required</original>
+
+    <translate>這個設備需要付費才能使用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Payment Settings</original>
+
+    <translate>付費設定</translate>
+
+  </string>
+
+  <string>
+
+    <original>Payments</original>
+
+    <translate>帳戶</translate>
+
+  </string>
+
+  <string>
+
+    <original>Paypal Email</original>
+
+    <translate>PayPal電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Pending</original>
+
+    <translate>等候管理員批准</translate>
+
+  </string>
+
+  <string>
+
+    <original>Permissions</original>
+
+    <translate>權限</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please Confirm Your Email</original>
+
+    <translate>請確認您的電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please choose at least one location</original>
+
+    <translate>請至少選擇一個位置</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please choose at least one option</original>
+
+    <translate>請至少選擇一個選項</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please choose at least one service</original>
+
+    <translate>請至少選擇一個申請項目</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please choose the session duration</original>
+
+    <translate>請選擇session期間</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please choose whom to send your newsletter to</original>
+
+    <translate>請選擇誰送您的通訊</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please confirm the password</original>
+
+    <translate>請確認密碼</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please login</original>
+
+    <translate>登入</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please provide the cancel reason</original>
+
+    <translate>請提供取消的原因</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please provide the reject reason</original>
+
+    <translate>請提供拒絕的理由</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please provide your contact details</original>
+
+    <translate>請提供您的聯繫方式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Please register</original>
+
+    <translate>註冊</translate>
+
+  </string>
+
+  <string>
+
+    <original>Price</original>
+
+    <translate>費用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Price Format</original>
+
+    <translate>格式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Pricing</original>
+
+    <translate>定價</translate>
+
+  </string>
+
+  <string>
+
+    <original>Print</original>
+
+    <translate>列印</translate>
+
+  </string>
+
+  <string>
+
+    <original>Proceed</original>
+
+    <translate>繼續進行</translate>
+
+  </string>
+
+  <string>
+
+    <original>Provider</original>
+
+    <translate>設備管理人</translate>
+
+  </string>
+
+  <string>
+
+    <original>Provider Area</original>
+
+    <translate>管理人員專區</translate>
+
+  </string>
+
+  <string>
+
+    <original>Provider Notifications</original>
+
+    <translate>管理人員通知</translate>
+
+  </string>
+
+  <string>
+
+    <original>Provider Presence Required</original>
+
+    <translate>提供必需的存在</translate>
+
+  </string>
+
+  <string>
+
+    <original>Providers</original>
+
+    <translate>管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Really Cancel This Appointment</original>
+
+    <translate>真的取消這一預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Really Delete</original>
+
+    <translate>真的刪除</translate>
+
+  </string>
+
+  <string>
+
+    <original>Really Reject</original>
+
+    <translate>真的可以不要</translate>
+
+  </string>
+
+  <string>
+
+    <original>Reassign</original>
+
+    <translate>重新分配</translate>
+
+  </string>
+
+  <string>
+
+    <original>Reassign To This Provider</original>
+
+    <translate>為了重新分配此提供</translate>
+
+  </string>
+
+  <string>
+
+    <original>Recurring</original>
+
+    <translate>定期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Recurring Appointments</original>
+
+    <translate>定期預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Recurring Options</original>
+
+    <translate>定期選項</translate>
+
+  </string>
+
+  <string>
+
+    <original>Register</original>
+
+    <translate>登入</translate>
+
+  </string>
+
+  <string>
+
+    <original>Registered Customers</original>
+
+    <translate>註冊使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Reject</original>
+
+    <translate>拒絕</translate>
+
+  </string>
+
+  <string>
+
+    <original>Release No Show</original>
+
+    <translate>發布No Show</translate>
+
+  </string>
+
+  <string>
+
+    <original>Remove From Admins</original>
+
+    <translate>從管理員刪除</translate>
+
+  </string>
+
+  <string>
+
+    <original>Request Permissions</original>
+
+    <translate>請求權限</translate>
+
+  </string>
+
+  <string>
+
+    <original>Required field</original>
+
+    <translate>必填</translate>
+
+  </string>
+
+  <string>
+
+    <original>Reschedule</original>
+
+    <translate>重新安排</translate>
+
+  </string>
+
+  <string>
+
+    <original>Reschedule Appointment</original>
+
+    <translate>重新安排預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Resend Confirmation Code</original>
+
+    <translate>密碼重發</translate>
+
+  </string>
+
+  <string>
+
+    <original>Reset To Defaults</original>
+
+    <translate>重設為預設值</translate>
+
+  </string>
+
+  <string>
+
+    <original>Review</original>
+
+    <translate>使用記錄</translate>
+
+  </string>
+
+  <string>
+
+    <original>Revise Search?</original>
+
+    <translate>修改搜尋？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Role</original>
+
+    <translate>角色</translate>
+
+  </string>
+
+  <string>
+
+    <original>Run Upgrade Procedure</original>
+
+    <translate>運行升級程序</translate>
+
+  </string>
+
+  <string>
+
+    <original>SMTP Host</original>
+
+    <translate>SMTP主機</translate>
+
+  </string>
+
+  <string>
+
+    <original>SMTP Password</original>
+
+    <translate>SMTP密碼</translate>
+
+  </string>
+
+  <string>
+
+    <original>SMTP Settings</original>
+
+    <translate>SMTP設定</translate>
+
+  </string>
+
+  <string>
+
+    <original>SMTP Username</original>
+
+    <translate>SMTP使用者名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sat</original>
+
+    <translate>六</translate>
+
+  </string>
+
+  <string>
+
+    <original>Saturday</original>
+
+    <translate>星期六</translate>
+
+  </string>
+
+  <string>
+
+    <original>Save</original>
+
+    <translate>儲存</translate>
+
+  </string>
+
+  <string>
+
+    <original>Schedule</original>
+
+    <translate>時間表</translate>
+
+  </string>
+
+  <string>
+
+    <original>Schedules</original>
+
+    <translate>管理行事例</translate>
+
+  </string>
+
+  <string>
+
+    <original>Schedules Duplicated</original>
+
+    <translate>重複行事例</translate>
+
+  </string>
+
+  <string>
+
+    <original>Search</original>
+
+    <translate>搜尋</translate>
+
+  </string>
+
+  <string>
+
+    <original>Seats</original>
+
+    <translate>座位</translate>
+
+  </string>
+
+  <string>
+
+    <original>Select</original>
+
+    <translate>選擇</translate>
+
+  </string>
+
+  <string>
+
+    <original>Select Customer</original>
+
+    <translate>選擇使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Select Date &amp; Time</original>
+
+    <translate>選擇日期及時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>Select Location</original>
+
+    <translate>選擇地區</translate>
+
+  </string>
+
+  <string>
+
+    <original>Select Options</original>
+
+    <translate>選擇選項</translate>
+
+  </string>
+
+  <string>
+
+    <original>Select Provider</original>
+
+    <translate>選擇管理人員</translate>
+
+  </string>
+
+  <string>
+
+    <original>Select Service</original>
+
+    <translate>選擇申請項目</translate>
+
+  </string>
+
+  <string>
+
+    <original>Selectable Times</original>
+
+    <translate>可選</translate>
+
+  </string>
+
+  <string>
+
+    <original>Selecting Now</original>
+
+    <translate>請選擇下方選項</translate>
+
+  </string>
+
+  <string>
+
+    <original>Send</original>
+
+    <translate>發送</translate>
+
+  </string>
+
+  <string>
+
+    <original>Send New Password</original>
+
+    <translate>發送新密碼</translate>
+
+  </string>
+
+  <string>
+
+    <original>Send To</original>
+
+    <translate>發送到</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sender Email</original>
+
+    <translate>發件人的電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sender Nam</original>
+
+    <translate>發件人名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sep</original>
+
+    <translate>9月</translate>
+
+  </string>
+
+  <string>
+
+    <original>Service</original>
+
+    <translate>申請項目設定</translate>
+
+  </string>
+
+  <string>
+
+    <original>Service Categories</original>
+
+    <translate>申請項目分類</translate>
+
+  </string>
+
+  <string>
+
+    <original>Service Category</original>
+
+    <translate>申請項目分類</translate>
+
+  </string>
+
+  <string>
+
+    <original>Service selection should come before date &amp; time selection</original>
+
+    <translate>申請項目的選擇應該先於日期和時間選擇</translate>
+
+  </string>
+
+  <string>
+
+    <original>Services</original>
+
+    <translate>申請項目管理</translate>
+
+  </string>
+
+  <string>
+
+    <original>Session</original>
+
+    <translate>session</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sessions</original>
+
+    <translate>session</translate>
+
+  </string>
+
+  <string>
+
+    <original>Settings</original>
+
+    <translate>一般設定</translate>
+
+  </string>
+
+  <string>
+
+    <original>Show Session Duration For Clients</original>
+
+    <translate>session時間為使用者展示</translate>
+
+  </string>
+
+  <string>
+
+    <original>Show old Appointments</original>
+
+    <translate>顯示舊的申請</translate>
+
+  </string>
+
+  <string>
+
+    <original>Show upcoming Appointments</original>
+
+    <translate>顯示近期的申請</translate>
+
+  </string>
+
+  <string>
+
+    <original>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</original>
+
+    <translate>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</translate>
+
+  </string>
+
+  <string>
+
+    <original>Single Or Recurring Appointments?</original>
+
+    <translate>單或定期預約？</translate>
+
+  </string>
+
+  <string>
+
+    <original>Something short and descriptive, like Summer Schedule, etc</original>
+
+    <translate>一些簡短描述，如夏季行事例等</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sorry, appointment is not allowed at this time</original>
+
+    <translate>對不起，預約不允許在這個時候</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sorry, this service is not available now</original>
+
+    <translate>很抱歉，此申請項目目前不提供</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sorry, you are not allowed to view this appointment</original>
+
+    <translate>對不起，您無權查看此預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sorry, you seen to have followed an invalid confirmation link</original>
+
+    <translate>對不起，您見過有一個無效的確認連結後</translate>
+
+  </string>
+
+  <string>
+
+    <original>Status</original>
+
+    <translate>狀態</translate>
+
+  </string>
+
+  <string>
+
+    <original>Subject</original>
+
+    <translate>主題</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sun</original>
+
+    <translate>日</translate>
+
+  </string>
+
+  <string>
+
+    <original>Sunday</original>
+
+    <translate>星期日</translate>
+
+  </string>
+
+  <string>
+
+    <original>Suspend</original>
+
+    <translate>暫停</translate>
+
+  </string>
+
+  <string>
+
+    <original>Suspended</original>
+
+    <translate>懸</translate>
+
+  </string>
+
+  <string>
+
+    <original>Switch To Customer View</original>
+
+    <translate>切換到使用者介面</translate>
+
+  </string>
+
+  <string>
+
+    <original>System Name</original>
+
+    <translate>系統名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>Tags</original>
+
+    <translate>標籤</translate>
+
+  </string>
+
+  <string>
+
+    <original>Template has been reset to default</original>
+
+    <translate>模板已被重設為預設值</translate>
+
+  </string>
+
+  <string>
+
+    <original>Text</original>
+
+    <translate>文本</translate>
+
+  </string>
+
+  <string>
+
+    <original>Text Field Size</original>
+
+    <translate>文本字段大小</translate>
+
+  </string>
+
+  <string>
+
+    <original>Textarea</original>
+
+    <translate>多行文本</translate>
+
+  </string>
+
+  <string>
+
+    <original>Textarea Columns</original>
+
+    <translate>多行文本列</translate>
+
+  </string>
+
+  <string>
+
+    <original>Textarea Rows</original>
+
+    <translate>textarea的行</translate>
+
+  </string>
+
+  <string>
+
+    <original>Thank you for registering![br]Now we kindly ask you to confirm your email. Please open your inbox and click the confirmation link in our message.</original>
+
+    <translate>您的密碼已寄到您當時註冊的信箱。</translate>
+
+  </string>
+
+  <string>
+
+    <original>The administrator will need to manually approve new customer accounts before they can access the system</original>
+
+    <translate>管理員必須手動批准新的使用者帳戶才能訪問系統</translate>
+
+  </string>
+
+  <string>
+
+    <original>The order to choose service, date and time, location, and provider. Please note that service selection should come before date and time selection.</original>
+
+    <translate>請依續選擇 設備 > 日期 > 時間 > 地點 > 管理人員。請注意，申請項目的選擇應先於日期和時間選擇。</translate>
+
+  </string>
+
+  <string>
+
+    <original>Theme Activated</original>
+
+    <translate>主題已啟用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Themes</original>
+
+    <translate>主題</translate>
+
+  </string>
+
+  <string>
+
+    <original>There are [b]{APPS_COUNT}[/b] appointment(s) for this service. If you delete the service, these Appointments will be cancelled.</original>
+
+    <translate>目前[b]{APPS_COUNT}[/b]預約為這項申請項目。如果您刪除該申請項目，這些預約將被取消。</translate>
+
+  </string>
+
+  <string>
+
+    <original>There are [b]{APPS_COUNT}[/b] appointment(s) for this session. If you delete the session, these Appointments will be cancelled.</original>
+
+    <translate>目前[b]{APPS_COUNT}[/b]預約為本屆session。如果您刪除了本session，這些預約將被取消。</translate>
+
+  </string>
+
+  <string>
+
+    <original>There are [b]{APPS_COUNT}[/b] appointment(s) in this location. If you delete the location, these Appointments will be cancelled.</original>
+
+    <translate>目前[b]{APPS_COUNT}[/b]預約在此位置。如果您刪除的地點，這些預約將被取消。</translate>
+
+  </string>
+
+  <string>
+
+    <original>There has been a problem with your payment</original>
+
+    <translate>有一個問題與您的付費</translate>
+
+  </string>
+
+  <string>
+
+    <original>There is an error with your account.</original>
+
+    <translate>有一個錯誤與您的帳戶。</translate>
+
+  </string>
+
+  <string>
+
+    <original>These upgrade scripts have been executed</original>
+
+    <translate>這些升級腳本已經被處決</translate>
+
+  </string>
+
+  <string>
+
+    <original>This email is already confirmed</original>
+
+    <translate>此電子郵件已確認</translate>
+
+  </string>
+
+  <string>
+
+    <original>This email is not registered</original>
+
+    <translate>此郵件是未登入</translate>
+
+  </string>
+
+  <string>
+
+    <original>This may depend on your Excel regional settings</original>
+
+    <translate>這可能取決於您的Excel中的區域設定</translate>
+
+  </string>
+
+  <string>
+
+    <original>This should not be greater than the total seats value</original>
+
+    <translate>這應不大於總席位的價值</translate>
+
+  </string>
+
+  <string>
+
+    <original>This should not be smaller than the min advance booking</original>
+
+    <translate>這不應小於最小預約</translate>
+
+  </string>
+
+  <string>
+
+    <original>This should not be smaller than the min seats value</original>
+
+    <translate>這不應小於最小席位的價值</translate>
+
+  </string>
+
+  <string>
+
+    <original>This title already exists</original>
+
+    <translate>此項目已存在</translate>
+
+  </string>
+
+  <string>
+
+    <original>This title is already in use</original>
+
+    <translate>此項目已被使用</translate>
+
+  </string>
+
+  <string>
+
+    <original>This username is already in use</original>
+
+    <translate>此使用者名稱已被使用</translate>
+
+  </string>
+
+  <string>
+
+    <original>Thu</original>
+
+    <translate>四</translate>
+
+  </string>
+
+  <string>
+
+    <original>Thursday</original>
+
+    <translate>星期四</translate>
+
+  </string>
+
+  <string>
+
+    <original>Time</original>
+
+    <translate>時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>Time Format</original>
+
+    <translate>時間格式</translate>
+
+  </string>
+
+  <string>
+
+    <original>Time Frame</original>
+
+    <translate>時限</translate>
+
+  </string>
+
+  <string>
+
+    <original>Time Slot</original>
+
+    <translate>時段</translate>
+
+  </string>
+
+  <string>
+
+    <original>Time Slots</original>
+
+    <translate>時段</translate>
+
+  </string>
+
+  <string>
+
+    <original>Time Unit, min</original>
+
+    <translate>時間單位，分</translate>
+
+  </string>
+
+  <string>
+
+    <original>Timeoff</original>
+
+    <translate>Timeoff</translate>
+
+  </string>
+
+  <string>
+
+    <original>Timezone</original>
+
+    <translate>時區</translate>
+
+  </string>
+
+  <string>
+
+    <original>Title</original>
+
+    <translate>項目</translate>
+
+  </string>
+
+  <string>
+
+    <original>To</original>
+
+    <translate>至</translate>
+
+  </string>
+
+  <string>
+
+    <original>Total</original>
+
+    <translate>總</translate>
+
+  </string>
+
+  <string>
+
+    <original>Total Amount</original>
+
+    <translate>金額</translate>
+
+  </string>
+
+  <string>
+
+    <original>Total Price</original>
+
+    <translate>總價格</translate>
+
+  </string>
+
+  <string>
+
+    <original>Total Seats</original>
+
+    <translate>全部數量</translate>
+
+  </string>
+
+  <string>
+
+    <original>Try again</original>
+
+    <translate>再試一次</translate>
+
+  </string>
+
+  <string>
+
+    <original>Tue</original>
+
+    <translate>二</translate>
+
+  </string>
+
+  <string>
+
+    <original>Tuesday</original>
+
+    <translate>星期二</translate>
+
+  </string>
+
+  <string>
+
+    <original>Uncategorized</original>
+
+    <translate>未歸類</translate>
+
+  </string>
+
+  <string>
+
+    <original>Uncheck this if the service books location only</original>
+
+    <translate>如果不選這項申請項目只書籍位置</translate>
+
+  </string>
+
+  <string>
+
+    <original>Unique Email</original>
+
+    <translate>唯一的電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>Unique Username</original>
+
+    <translate>唯一的使用者名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>Up</original>
+
+    <translate>向上</translate>
+
+  </string>
+
+  <string>
+
+    <original>Upcoming Appointments</original>
+
+    <translate>近期的申請</translate>
+
+  </string>
+
+  <string>
+
+    <original>Update</original>
+
+    <translate>更新</translate>
+
+  </string>
+
+  <string>
+
+    <original>Updated</original>
+
+    <translate>已更新</translate>
+
+  </string>
+
+  <string>
+
+    <original>Uploaded Version</original>
+
+    <translate>上傳版本</translate>
+
+  </string>
+
+  <string>
+
+    <original>Use Email As Username</original>
+
+    <translate>使用電子郵件作為使用者名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>User</original>
+
+    <translate>使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>User Account Activated)</original>
+
+    <translate>使用者帳號啟用}</translate>
+
+  </string>
+
+  <string>
+
+    <original>User Login Required?</original>
+
+    <translate>使用者登錄必需？</translate>
+
+  </string>
+
+  <string>
+
+    <original>User Notifications</original>
+
+    <translate>使用者通知</translate>
+
+  </string>
+
+  <string>
+
+    <original>User Registration</original>
+
+    <translate>使用者登入</translate>
+
+  </string>
+
+  <string>
+
+    <original>User Status</original>
+
+    <translate>使用者狀態</translate>
+
+  </string>
+
+  <string>
+
+    <original>Username</original>
+
+    <translate>使用者名稱</translate>
+
+  </string>
+
+  <string>
+
+    <original>Users</original>
+
+    <translate>使用者</translate>
+
+  </string>
+
+  <string>
+
+    <original>Valid From Date</original>
+
+    <translate>開始日期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Valid To Date</original>
+
+    <translate>結束日期</translate>
+
+  </string>
+
+  <string>
+
+    <original>Valid URL Syntax</original>
+
+    <translate>URL語法</translate>
+
+  </string>
+
+  <string>
+
+    <original>Validation</original>
+
+    <translate>驗證</translate>
+
+  </string>
+
+  <string>
+
+    <original>View Only</original>
+
+    <translate>僅查看</translate>
+
+  </string>
+
+  <string>
+
+    <original>View and Update</original>
+
+    <translate>查看和更新</translate>
+
+  </string>
+
+  <string>
+
+    <original>Waiting For Approval</original>
+
+    <translate>等待核准</translate>
+
+  </string>
+
+  <string>
+
+    <original>Wed</original>
+
+    <translate>三</translate>
+
+  </string>
+
+  <string>
+
+    <original>Wednesday</original>
+
+    <translate>星期三</translate>
+
+  </string>
+
+  <string>
+
+    <original>Week Starts On</original>
+
+    <translate>每週的開始設在</translate>
+
+  </string>
+
+  <string>
+
+    <original>Weekday</original>
+
+    <translate>平日</translate>
+
+  </string>
+
+  <string>
+
+    <original>Weeks</original>
+
+    <translate>週</translate>
+
+  </string>
+
+  <string>
+
+    <original>When</original>
+
+    <translate>何時</translate>
+
+  </string>
+
+  <string>
+
+    <original>When enabling this, be sure you remenber your own email address</original>
+
+    <translate>當啟用此，請確保您自己的電子郵件地址remenber</translate>
+
+  </string>
+
+  <string>
+
+    <original>Working Time</original>
+
+    <translate>工作時間</translate>
+
+  </string>
+
+  <string>
+
+    <original>Wrong username or password</original>
+
+    <translate>使用者名稱或密碼錯誤</translate>
+
+  </string>
+
+  <string>
+
+    <original>Yes</original>
+
+    <translate>是的</translate>
+
+  </string>
+
+  <string>
+
+    <original>Yes/No</original>
+
+    <translate>是/否</translate>
+
+  </string>
+
+  <string>
+
+    <original>You are about to schedule appointment at a time that is not available for customers. Do you really want to proceed?</original>
+
+    <translate>您要申請的時間並未開放。您是否真的要繼續嗎？</translate>
+
+  </string>
+
+  <string>
+
+    <original>You can also provide individual Paypal accounts for every provider. If no Paypal email is given for a provider, this global account will be used.</original>
+
+    <translate>您還可以提供個人的PayPal賬戶每提供商。如果沒有 PayPal電子郵件，給出了一個管理人員，這一全球性帳戶將被使用。</translate>
+
+  </string>
+
+  <string>
+
+    <original>You can use the * wildcard to match any set of characters</original>
+
+    <translate>您可以使用*通配符匹配任何字符集</translate>
+
+  </string>
+
+  <string>
+
+    <original>You cannot cancel or reschedule this appointment now</original>
+
+    <translate>您可以不取消或重新安排這項預約現</translate>
+
+  </string>
+
+  <string>
+
+    <original>Your Name</original>
+
+    <translate>您的名字</translate>
+
+  </string>
+
+  <string>
+
+    <original>Your account is temporarily suspended</original>
+
+    <translate>您的帳戶暫停</translate>
+
+  </string>
+
+  <string>
+
+    <original>Your appointment has been rescheduled.</original>
+
+    <translate>您的申請已經改期。</translate>
+
+  </string>
+
+  <string>
+
+    <original>Your email is not confirmed yet. Please open your inbox and click the confirmation link in our message.</original>
+
+    <translate>您的電子郵件還沒有得到確認。請打開您的電子郵件，點選確認連結。</translate>
+
+  </string>
+
+  <string>
+
+    <original>Your new password has been sent to your email</original>
+
+    <translate>您的新密碼已發送到您的電子郵件</translate>
+
+  </string>
+
+  <string>
+
+    <original>[b]{CURRENCY}[/b] is not supported by this payment gateway</original>
+
+    <translate>[b]{貨幣}[/b]的不支持此支付閘道</translate>
+
+  </string>
+
+  <string>
+
+    <original>[b]{PROVIDER_NAME}[/b] Timeoff</original>
+
+    <translate>[b]{provider_name}[/b] Timeoff</translate>
+
+  </string>
+
+  <string>
+
+    <original>[b]{PROVIDER_NAME}[/b] can not provide [b]{SERVICE_NAME}[/b] at [b]{TIME}[/b]</original>
+
+    <translate>[b]{provider_name}[/b]可以不提供[b]{SERVICE_NAME}[/b]於[b]{TIME}[/b]</translate>
+
+  </string>
+
+  <string>
+
+    <original>[b]{PROVIDER_NAME}[/b] can not provide [b]{SERVICE_NAME}[/b] in [b]{LOCATION_NAME}[/b] at [b]{TIME}[/b]</original>
+
+    <translate>[b]{provider_name}[/b]可以不提供[b]{SERVICE_NAME}[/b]在[b]{LOCATION_NAME}[/b]於[b]{TIME}[/b]</translate>
+
+  </string>
+
+  <string>
+
+    <original>hitAppoint Path</original>
+
+    <translate>hitAppoint路徑</translate>
+
+  </string>
+
+  <string>
+
+    <original>{APPS_COUNT} Appointment(s) Marked As No Show</original>
+
+    <translate>{APPS_COUNT}預約標記為No Show</translate>
+
+  </string>
+
+  <string>
+
+    <original>{APPS_COUNT} Appointment(s) Released From No Show</original>
+
+    <translate>{APPS_COUNT}預約釋放沒有顯示</translate>
+
+  </string>
+
+  <string>
+
+    <original>{APPS_COUNT} Appointments(s) Already Approved</original>
+
+    <translate>{APPS_COUNT}預約已核准</translate>
+
+  </string>
+
+  <string>
+
+    <original>{APPS_COUNT} Appointments(s) Approved</original>
+
+    <translate>{APPS_COUNT}預約核准</translate>
+
+  </string>
+
+  <string>
+
+    <original>{APPS_COUNT} Appointments(s) Cancelled</original>
+
+    <translate>{APPS_COUNT}預約取消</translate>
+
+  </string>
+
+  <string>
+
+    <original>{APPS_COUNT} Appointments(s) Rejected</original>
+
+    <translate>{APPS_COUNT}預約拒絕</translate>
+
+  </string>
+
+  <string>
+
+    <original>{USER_COUNT} User Account(s) Activated</original>
+
+    <translate>{USER_COUNT}使用者賬戶已啟用</translate>
+
+  </string>
+
+  <string>
+
+    <original>{USER_COUNT} User Account(s) Suspended</original>
+
+    <translate>{USER_COUNT}使用者賬戶已被停止</translate>
+
+  </string>
+
+</file>

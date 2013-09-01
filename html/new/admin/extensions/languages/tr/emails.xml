@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Rezervasyon talebiniz henüz onay asamasinda</subject>
+<body>
+Rezervasyonuzun için tesekkür ederiz.
+Rezervasyonunuzun onaylanmasi kisa bir zaman sürebilir. Rezervasyonunuz onaylandiginda sizi bilgilendiriyor olacagiz.
+
+Rezervasyon detaylariniz asagida yer almaktadir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Rezervasyonunuz onaylandi</subject>
+<body>
+Ilginizden dolayi tesekkür ederiz. Rezervasyonunuz onaylanmistir.
+
+Onayalanan rezervasyon detaylariniz asagida yer almaktadir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Rezervasyonunuz red edilmistir</subject>
+<body>
+Rezervasyonunuzun red olmasi sebebiyle anlyaisinizdan dolayi tesekkür ediyoruz.
+
+Rezervasyonunuzun red edilme gerekçesi asagida yer almaktadir:
+{APPOINTMENT.REJECT_REASON}
+
+Red edilen rezervasyon detaylariniz ise asagidaki gibidir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-customer</key>
+<subject>Rezervasyonunuzu kaçiridiniz</subject>
+<body>
+Üzgünüz, rezervasyonunuzu kaçirdiniz. Önemli bir sey olmadigini umar ve bir sonraki rezervasyonunuzda tekrar görüsmeyi dileriz.
+
+Kaçirdiginiz rezervasyonunuz asagidaki gibidir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>Rezervasyonunuz onaylandi</subject>
+<body>
+Rezervasyonunuz için tesekkür ederiz. Rezervasyonunuz onaylanmistir.
+
+Onaylanan rezervasyon detaylariniz asagida yer almaktadir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Rezervasyonunuz iptal edildi</subject>
+<body>
+Rezervasyonunuz, talebiniz üzerine iptal edilmistir.
+
+Rezervasyonunuzun iptal edilme gerekçesi asagida yer almaktadir:
+{APPOINTMENT.CANCEL_REASON}
+
+Iptal edilen rezervasyon detaylariniz ise asagidaki gibidir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-customer</key>
+<subject>Rezervasyonunuz degistirildi</subject>
+<body>
+Rezervasyonunuz degistirilmistir. Yeni rezervasyon bilgileriniz asagidaki gibidir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>Rezervasyon Yapildi, onay gerekiyor!</subject>
+<body>
+Yeni bir rezervasyon yapildi.
+
+Rezervasyon detaylari:
+{APPOINTMENT.-ALL-}
+
+Müsteri detaylari:
+{APPOINTMENT.CUSTOMER.-ALL-}
+
+Rezervasyon için hizli erisim:
+{APPOINTMENT.QUICK_LINK_APPROVE} {APPOINTMENT.QUICK_LINK_REJECT}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Yeni Rezervasyon Onaylandi</subject>
+<body>
+Sistem atarafindsn onaylanmis yeni bir rezervasyon var
+
+Rezervasyon detaylari:
+{APPOINTMENT.-ALL-}
+
+Müsteri detaylari:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Müsteri kendi rezervasyonunu iptal etti</subject>
+<body>
+Bir müsteri yapmis oldugu rezervasyon kendi istgiyle iptal etti.
+
+Iptal etme gerekçesi:
+{APPOINTMENT.CANCEL_REASON}
+
+Rezervasyon detaylari:
+{APPOINTMENT.-ALL-}
+
+Müsteri detaylari:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-provider</key>
+<subject>Rezervasyonunuz red edildi</subject>
+<body>
+Rezervasyonunuz red edilmistir.
+
+Red edilme gerekçesi:
+{APPOINTMENT.REJECT_REASON}
+
+Rezervasyon detaylari:
+{APPOINTMENT.-ALL-}
+
+Müsteri detaylari:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-provider</key>
+<subject>No Show</subject>
+<body>
+Rezervasyonunuz No Show olarak isaretlendi.
+
+Rezervasyon detaylari:
+{APPOINTMENT.-ALL-}
+
+Müsteri detaylari:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Rezervasyon onaylandi</subject>
+<body>
+Rezervasyonunuz onaylandi.
+
+Rezervasyon detaylari:
+{APPOINTMENT.-ALL-}
+
+Müsteri detaylari:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-provider</key>
+<subject>Rezervasyon degisikligi var</subject>
+<body>
+Bir rezervasyon degisikligi yapildi. Yeni rezervasyon bilgileri asagidaki gibidir:
+{APPOINTMENT.-ALL-}
+
+Müsteri detaylari:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-require_email_confirmation-user</key>
+<subject>Lütfen E-mail adresinizi teyit edin</subject>
+<body>
+Sisteme kayit oldugunuz için tesekkür ederiz! Kaydinizin tamamlanmasi için e-mailinizi teyit etmenizi rica ediyoruz..
+
+{USER.CONFIRMATION_LINK}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Hesabiniz onay asamasinda</subject>
+<body>
+Sisteme kayit oldugunuz için tesekkür ederiz!
+Hesabinizi onaylamamiz kisa bir süre alabilir. Hesabiniz aktif edildiginde sizi bilgilendiriyor olacagiz.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Yeni kullanci kaydi olustu, onayiniz gerekiyor</subject>
+<body>
+Yeni Kullanici kaydini islemek için lütfen rezervasyon sistemi yönetici panelinden giris yapiniz 
+
+Yeni kullanici bilgisi:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Hesabiniz aktif edilmistir</subject>
+<body>
+Aramiza hosgeldiniz!
+Kullanici kaydiniz aktif edilmistir. Rezervasyon sistemine erisim bilgileriniz asagida yer almaktadir:
+
+Kullanci Adi: {USER.USERNAME}
+Kullanici Sifresi: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Sifreniz sifirlanmistir</subject>
+<body>
+Sifreniz, isteginiz üzerine sifirlanmistir. Hesabiniza giris için yeni kullanici bilgileri asagida yer almaktadir:
+
+Kullanici Adi: {USER.USERNAME}
+Kullanici Sifresi: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-customer</key>
+<subject>Rezervasyonunuz var!</subject>
+<body>
+Yerinde Masaj için randevunuz oldugunu hatirlatmak isteriz.
+
+Rezervasyon bilgileriniz asagidaki gibidir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-provider</key>
+<subject>Rezervasyonunuz var!</subject>
+<body>
+Yerinde Masaj için randevunuz oldugunu hatirlatmak isteriz.
+
+Rezervasyon bilgileriniz asagidaki gibidir:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+</emails>

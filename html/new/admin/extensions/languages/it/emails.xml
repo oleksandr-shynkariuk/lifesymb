@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Il Tuo Appuntamento è in Attesa di Approvazione</subject>
+<body>
+Grazie per la tua richiesta di appuntamento.
+Ti preghiamo di attendere mentre processiamo la tua richiesta. Ti invieremo una email non appena il tuo appuntamento sarà confermato.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Il Tuo Appuntamento E' Stato Confermato</subject>
+<body>
+Grazie per la tua richiesta di appuntamento. Il tuo appuntamento adesso è confermato.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Il Tuo Appuntamento E' Stato Rifiutato</subject>
+<body>
+
+Grazie per la tua richiesta di appuntamento. Ci dispiace, il tuo appuntamento è stato rifiutato.
+
+Motivo del rifiuto:
+{REJECT_REASON}
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-customer</key>
+<subject>Il Tuo Appuntamento E' Stato Marcato Come Mancato</subject>
+<body>
+Ci dispiace, il tuo appuntamento è stato marcato come saltato.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>La Tua Richiesta Per Un Appuntamento</subject>
+<body>
+Grazie per la tua richiesta di appuntamento. Il tuo appuntamento adesso è confermato.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Il Tuo Appuntamento E' Stato Cancellato</subject>
+<body>
+Questa è una conferma che il tuo appuntamento, su tua richiesta, è stato cancellato.
+
+Motivo della cancellazione:
+{CANCEL_REASON}
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-move-customer</key>
+<subject>Il Tuo Appuntamento E' Stato Spostato In Altro Luogo</subject>
+<body>
+Il tuo appuntamento è stato spostato in un altro luogo.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reschedule-customer</key>
+<subject>Il Tuo Appuntamento E' Stato Cambiato</subject>
+<body>
+Il tuo appuntamento è stato cambiato da {OLD_APPOINTMENT.STARTS_AT} a {APPOINTMENT.STARTS_AT}.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign-customer</key>
+<subject>Il Tuo Appuntamento E' Stato Assegnato A Un Altro Fornitore</subject>
+<body>
+Il Tuo Appuntamento è stato ri-assegnato a un altro fornitore.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>Richiesta di Approvazione per un Nuovo Appuntamento</subject>
+<body>
+C'è una richiesta per un nuovo appuntamento con te.
+
+Dettagli appuntamento:
+{APPOINTMENT.-ALL-}
+
+Dettagli Cliente:
+{APPOINTMENT.CUSTOMER.-ALL-}
+
+Link veloci per questo appuntamento:
+{APPOINTMENT.QUICK_LINK_APPROVE} {APPOINTMENT.QUICK_LINK_REJECT}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Nuova Richiesta di Appuntamento</subject>
+<body>
+C'è una nuova richiesta di appuntamento per te, è stata approvata automaticamente.
+
+Dettagli appuntamento:
+{APPOINTMENT.-ALL-}
+
+Dettagli Cliente:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Il Tuo Appuntamento E' Stato Cancellato Dal Cliente</subject>
+<body>
+Questa è la conferma che il tuo appuntamento è stato cancellato dal cliente.
+
+Motivo della cancellazione:
+{CANCEL_REASON}
+
+Dettagli appuntamento:
+{APPOINTMENT.-ALL-}
+
+Dettagli Cliente:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-provider</key>
+<subject>Il Tuo Appuntamento E' Stato Rifiutato</subject>
+<body>
+Il tuo appuntamento è stato rifiutato.
+
+Motivo del rifiuto:
+{REJECT_REASON}
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+
+Dettagli Cliente:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-provider</key>
+<subject>Il Tuo Appuntamento E' Stato Marcato Come Mancato</subject>
+<body>
+Il tuo appuntamento è stato marcato come mancato.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+
+Dettagli Cliente:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Il Tuo Appuntamento E' Stato Approvato</subject>
+<body>
+Il tuo appuntamento adesso è confermato.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-move-provider</key>
+<subject>Il Tuo Appuntmento E' Stato Spostato Ad Altro Luogo</subject>
+<body>
+Il tuo appuntamento è stato spostato in un altro luogo.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reschedule-provider</key>
+<subject>Il Tuo Appuntamento E' Stato Cambiato</subject>
+<body>
+Il tuo appuntamento è stato cambiato da {OLD_APPOINTMENT.STARTS_AT} a {APPOINTMENT.STARTS_AT}.
+
+I nuovi dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign-provider</key>
+<subject>Un Nuovo Appuntamento E' Stato Ri-Assegnato A Te</subject>
+<body>
+Un nuovo appuntamento ti è stato riassegnato.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reassign_from-provider</key>
+<subject>Il Tuo Appuntamento E' Stato Assegnato Ad Altro Fornitore</subject>
+<body>
+Il tuo appuntamento è stato riassegnato a un altro fornitore.
+
+Dettagli appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>user-require_email_confirmaion-user</key>
+<subject>Per Favore Conferma Il Tuo Indirizzo Email</subject>
+<body>
+Grazie per esserti registrato! Adesso ti chiediamo, per favore, di confermare il tuo indirizzo di email. Fai click sul link qui sotto per confermare la tua email.
+
+{USER.CONFIRMATION_LINK}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Il Tuo Account E' In Attesa Di Approvazione</subject>
+<body>
+Grazie per esserti regiastrato!
+Per favore attendi la nostra conferma, dobbiamo approvare manualmente i nuovi account. Ti invieremo una email di notifica non appena il tuo Account sarà attivo.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Nuovo Utente Registrato, Serve La Tua Approvazione</subject>
+<body>
+Un nuovo utente si è registrato al sito. Per favore vai al pannello di amministrazione per approvare o rifiutare questo utente.
+
+Informazioni sul nuovo utente:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Il Tuo Account Adesso E' Attivo</subject>
+<body>
+Congratulazioni!
+Il tuo account utente adesso è attivo. Ecco le tue credenziali per il login:
+
+Nome Utente: {USER.USERNAME}
+Password: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Reimpostazione Della Tua Password</subject>
+<body>
+Su tua richiesta, la tua password  stata reimpostata. Ecco le tue nuove credenziali per il login:
+
+Nome Utente: {USER.USERNAME}
+Password: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-customer</key>
+<subject>Promemoria Appuntamento</subject>
+<body>
+Questo è un promemoria per il tuo appuntamento.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-provider</key>
+<subject>Promemoria Appuntamento</subject>
+<body>
+Questo è un promemoria per il tuo appuntamento.
+
+I dettagli del tuo appuntamento:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+</emails>

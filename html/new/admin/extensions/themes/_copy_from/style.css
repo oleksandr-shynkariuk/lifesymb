@@ -1,0 +1,203 @@
+/* MAIN WRAPPER */
+#nts {
+	padding: 0.5em 0.5em;
+	width: auto;
+	
+	}
+
+/* FONTS */
+#nts, #nts td {
+	font-family: verdana, tahoma, arial, sans-serif;
+	font-size: 13px;width:600px; margin:auto;
+	}
+
+/* USER MENU ON TOP */
+#nts-user-menu {
+	margin: 0;
+	padding: 0.5em 1em;
+	font-size: 75%;
+	width: auto;
+	}
+#nts-user-menu li {
+	margin: 0 0.5em 0 0;
+	display: inline;
+	line-height: 150%;
+	list-style: none;
+	text-align: center;
+	}
+
+/* ACTION RESULT ANNOUNCEMENT */
+ul#nts-announce {
+	margin: 0.5em 0;
+	}
+ul#nts-announce {
+	padding: 0;
+	}
+ul#nts-announce li {
+	margin: 0.25em 0;
+	padding: 0.25em 1em;
+	list-style-type: none;
+	border-width: 0px;
+	}
+
+/* FORM AND TABLES */
+#nts table, #nts form table {
+	border-collapse: separate;
+	}
+#nts table td, #nts form table td {
+	padding: 0.25em 1em;
+	}
+#nts table th, #nts form table th {
+	padding: 0.5em 1em;
+	font-size: 90%;
+	text-align: left;
+	}
+
+/* SERVICES, PROVIDERS, LOCATIONS AVAILABLE FOR REQUEST */
+#nts #nts-selector {
+	}
+#nts #nts-selector ul li {
+	margin: 0.5em 0 1em 0;
+	display: block;
+	}
+#nts #nts-selector h3 {
+	margin: 0.25em 0;
+	}
+#nts #nts-selector a {
+	border-style: solid;
+	border-width: 1px;
+	padding: 0.25em 0.5em;
+	margin: 0 0.25em;
+	white-space: nowrap;
+	line-height: 2em;
+	}
+
+/* APPOINTMENT TIMES AVAILABLE FOR REQUEST */
+#nts #nts-time-selector ul {
+	overflow: auto;
+	width: 100%;
+	padding: 0;
+	margin: 0.5em 0;
+	}
+#nts #nts-time-selector li {
+	border-width: 1px;
+	border-style: solid;
+	padding: 0;
+	margin: 0.25em 0.25em;
+	line-height: 1.5em;
+	white-space: nowrap;
+	width: 7em;
+	display: block;
+	float: left;
+	text-align: center;
+	}
+
+/* CALENDAR */
+#nts div.nts-calendar {
+	margin: 5px 5px;
+	width: 220px;
+	}
+#nts div.nts-calendar table {
+	margin: 0 auto;
+	}
+#nts div.nts-calendar td {
+	padding: 1px;
+	width: 30px;
+	text-align: center;
+	}
+#nts div.nts-calendar td div {
+	padding: 0.4em 0.2em;
+	text-align: center;
+	font-size: 0.9em;
+	}
+#nts div.nts-calendar td div.not_available {
+	}
+#nts div.nts-calendar td div.available {
+	}
+#nts div.nts-calendar td div.selected {
+	border-width: 2px;
+	border-style: solid;
+	}
+#nts div.nts-calendar tr.months td {
+	font-weight: bold;
+	padding-top: 1em;
+	}
+#nts div.nts-calendar tr.months td a {
+	text-decoration: none;
+	}
+#nts div.nts-calendar tr.days td {
+	padding: 0.25em 0 0.5em 0;
+	}
+#nts div.nts-calendar tr.days td div {
+	font-size: 0.75em;
+	}
+/* END OF CALENDAR */
+
+/* APPOINTMENT LIST */
+#nts #nts-appointment-list {
+	margin: 0.5em 0;
+	}
+#nts #nts-appointment-list table {
+	width: auto;
+	border-collapse: separate;
+	border-spacing: 0 0.5em;
+	}
+#nts #nts-appointment-list table th {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	}
+#nts #nts-appointment-list table td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	padding: 0.3em 1em;
+	vertical-align: middle;
+	}
+#nts #nts-appointment-list table tr.odd td	{
+	}
+#nts #nts-appointment-list table td.selecting-now {
+	font-weight: bold;
+	font-size: 1.1em;
+	}
+
+/* LOGIN AND REGISTER FORMS */
+#nts #nts-register-form {
+	float: left; 
+	width: 30em;
+	}
+#nts #nts-login-form {
+	float: left; 
+	width: 30em;
+	}
+#nts input, #nts select {
+	padding: 2px;
+	}
+
+#ntsCredit {
+	margin: 20px 0;
+	font-size: 10px;
+	color: #999999;
+	display: none;
+	}
+#ntsCredit a {
+	color: #999999;
+	}
+	
+#nts .nts-appointment-flow {
+	}
+#nts .nts-appointment-flow table {
+	border-collapse: separate;
+	}
+#nts .ntsFormLabel {
+	text-align: right;
+	}
+#nts .ntsFormControl a {
+	padding: 0 0.25em;
+	}
+
+#nts .nts-appointment-cart {
+	border-width: 1px;
+	border-style: solid;
+	padding: 1em 1em;
+	margin: 0.5em 0;
+	width: 12em;
+	}

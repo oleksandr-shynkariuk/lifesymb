@@ -1,0 +1,2189 @@
+ï»¿<?xml version="1.0" encoding="ISO-8859-1"?>
+<file>
+<language>Russian</language>
+<author>Andrey Egorov</author>
+<lastUpdate>26 Apr, 2010</lastUpdate>
+<charset>utf-8</charset>
+
+<string>
+	<original>Free</original>
+	<translate>Áåñïëàòíî</translate>
+</string>
+<string>
+	<original>- Any Value -</original>
+	<translate>- Ëþáîå çíà÷åíèå -</translate>
+</string>
+<string>
+	<original>Username</original>
+	<translate>Èìÿ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>Email</original>
+	<translate>Email</translate>
+</string>
+<string>
+	<original>First Name</original>
+	<translate>Èìÿ</translate>
+</string>
+<string>
+	<original>Last Name</original>
+	<translate>Ôàìèëèÿ</translate>
+</string>
+<string>
+	<original>Description</original>
+	<translate>Îïèñàíèå</translate>
+</string>
+<string>
+	<original>Sunday</original>
+	<translate>Âîñêðåñåíèå</translate>
+</string>
+<string>
+	<original>Monday</original>
+	<translate>Ïîíåäåëüíèê</translate>
+</string>
+<string>
+	<original>Tuesday</original>
+	<translate>Âòîðíèê</translate>
+</string>
+<string>
+	<original>Wednesday</original>
+	<translate>Ñðåäà</translate>
+</string>
+<string>
+	<original>Thursday</original>
+	<translate>×åòâåðã</translate>
+</string>
+<string>
+	<original>Friday</original>
+	<translate>Ïÿòíèöà</translate>
+</string>
+<string>
+	<original>Saturday</original>
+	<translate>Ñóááîòà</translate>
+</string>
+<string>
+	<original>Sun</original>
+	<translate>Âñ</translate>
+</string>
+<string>
+	<original>Mon</original>
+	<translate>Ïí</translate>
+</string>
+<string>
+	<original>Tue</original>
+	<translate>Âò</translate>
+</string>
+<string>
+	<original>Wed</original>
+	<translate>Ñð</translate>
+</string>
+<string>
+	<original>Thu</original>
+	<translate>×ò</translate>
+</string>
+<string>
+	<original>Fri</original>
+	<translate>Ïò</translate>
+</string>
+<string>
+	<original>Sat</original>
+	<translate>Ñá</translate>
+</string>
+<string>
+	<original>Days</original>
+	<translate>Äíåé</translate>
+</string>
+<string>
+	<original>Day</original>
+	<translate>Äåíü</translate>
+</string>
+<string>
+	<original>Hours</original>
+	<translate>×àñîâ</translate>
+</string>
+<string>
+	<original>Hour</original>
+	<translate>×àñ</translate>
+</string>
+<string>
+	<original>Minutes</original>
+	<translate>Ìèíóò</translate>
+</string>
+<string>
+	<original>Minute</original>
+	<translate>Ìèíóòà</translate>
+</string>
+<string>
+	<original>Please Note: (*) Denotes Required Field</original>
+	<translate>Îáðàòèòå âíèìàíèå: (*) îçíà÷àåò îáÿçàòåëüíîå ïîëå</translate>
+</string>
+<string>
+	<original>View &amp; Update</original>
+	<translate>Ïðîñìîòð è èçìåíåíèå</translate>
+</string>
+<string>
+	<original>View Only</original>
+	<translate>Òîëüêî ïðîñìîòð</translate>
+</string>
+<string>
+	<original>Hidden</original>
+	<translate>Íåäîñòóïíî</translate>
+</string>
+<string>
+	<original>Text</original>
+	<translate>Òåêñò</translate>
+</string>
+<string>
+	<original>Yes/No</original>
+	<translate>Äà/Íåò</translate>
+</string>
+<string>
+	<original>Textarea</original>
+	<translate>Òåêñòîâîå ïîëå</translate>
+</string>
+<string>
+	<original>Select</original>
+	<translate>Âûáðàòü</translate>
+</string>
+<string>
+	<original>Textarea Columns</original>
+	<translate>Êîëîíêè</translate>
+</string>
+<string>
+	<original>Textarea Rows</original>
+	<translate>Ñòðîêè</translate>
+</string>
+<string>
+	<original>Text Field Size</original>
+	<translate>Ðàçìåð òåêñòîâîãî ïîëÿ</translate>
+</string>
+<string>
+	<original>Select Options</original>
+	<translate>Âàðèàíòû âûáîðà</translate>
+</string>
+<string>
+	<original>Each option on new line</original>
+	<translate>Êàæäûé âàðèàíò íà íîâîé ñòðîêå</translate>
+</string>
+<string>
+	<original>Close</original>
+	<translate>Çàêðûòü</translate>
+</string>
+<string>
+	<original>Weeks</original>
+	<translate>Íåäåëè</translate>
+</string>
+<string>
+	<original>Please enter whole numbers only</original>
+	<translate>Òîëüêî öåëûå ÷èñëà</translate>
+</string>
+<string>
+	<original>Unique Email</original>
+	<translate>Óíèêàëüíûé Email</translate>
+</string>
+<string>
+	<original>Unique Username</original>
+	<translate>Óíèêàëüíîå èìÿ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>Integers Only</original>
+	<translate>Òîëüêî öåëûå ÷èñëà</translate>
+</string>
+<string>
+	<original>English Letters, Numbers, Underscores Only</original>
+	<translate>Òîëüêî àíãëèéñêèå áóêâû, öèôðû è ñèìâîë ïîä÷åðêèâàíèÿ</translate>
+</string>
+<string>
+	<original>Lowercase English Letters, Numbers, Underscores Only</original>
+	<translate>Òîëüêî ìàëåíüêèå àíãëèéñêèå áóêâû, öèôðû è ñèìâîë ïîä÷åðêèâàíèÿ</translate>
+</string>
+<string>
+	<original>Required Field</original>
+	<translate>Íåîáõîäèìîå ïîëå</translate>
+</string>
+<string>
+	<original>Not The First Option In Select List</original>
+	<translate>Òîëüêî íå ïåðâûé âàðèàíò â ñïèñêå</translate>
+</string>
+<string>
+	<original>Numbers Only</original>
+	<translate>Òîëüêî ÷èñëà</translate>
+</string>
+<string>
+	<original>Valid URL Syntax</original>
+	<translate>Êîððåêòíûé èíòåðíåò àäðåñ</translate>
+</string>
+<string>
+	<original>Date &amp; Time</original>
+	<translate>Äàòà è âðåìÿ</translate>
+</string>
+<string>
+	<original>Service</original>
+	<translate>Óñëóãà</translate>
+</string>
+<string>
+	<original>Location</original>
+	<translate>Ìåñòîïîëîæåíèå</translate>
+</string>
+<string>
+	<original>Provider</original>
+	<translate>Ñîòðóäíèê</translate>
+</string>
+<string>
+	<original>Yes</original>
+	<translate>Äà</translate>
+</string>
+<string>
+	<original>No</original>
+	<translate>Íåò</translate>
+</string>
+<string>
+	<original>Appointment aleady approved</original>
+	<translate>Ïðèåì óæå ïîäòâåðæäåí</translate>
+</string>
+<string>
+	<original>Not Shown For Security Reasons</original>
+	<translate>Íå ïîêàçûâàåòñÿ èç ñîîáðàæåíèé áåçîïàñíîñòè</translate>
+</string>
+<string>
+	<original>New Version Files Uploaded, Upgrade Procedure Required</original>
+	<translate>Çàêà÷àíû íîâûå ôàéëû, íåîáõîäèìî ïðîâåñòè ïðîöåäóðó àïãðåéäà</translate>
+</string>
+<string>
+	<original>Up</original>
+	<translate>Ââåðõ</translate>
+</string>
+<string>
+	<original>Appointments</original>
+	<translate>Çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>Bulk Actions</original>
+	<translate>Äåéñòâèÿ</translate>
+</string>
+<string>
+	<original>Approve</original>
+	<translate>Ïîäòâåðäèòü</translate>
+</string>
+<string>
+	<original>Reject</original>
+	<translate>Îòêàçàòü</translate>
+</string>
+<string>
+	<original>Go</original>
+	<translate>Ïîåõàëè</translate>
+</string>
+<string>
+	<original>Search From [b]{FROM_DATE}[/b] To [b]{TO_DATE}[/b]</original>
+	<translate>Èñêàòü îò [b]{FROM_DATE}[/b] äî [b]{TO_DATE}[/b]</translate>
+</string>
+<string>
+	<original>No Appointments Found</original>
+	<translate>Çàïèñè íå íàéäåíû</translate>
+</string>
+<string>
+	<original>Other Views &amp; Export</original>
+	<translate>Äðóãèå âèäû è ýêïîðò</translate>
+</string>
+<string>
+	<original>Print</original>
+	<translate>Ïå÷àòü</translate>
+</string>
+<string>
+	<original>Legend</original>
+	<translate>Ëåãåíäà</translate>
+</string>
+<string>
+	<original>Approved</original>
+	<translate>Ïîäòâåðæäåíî</translate>
+</string>
+<string>
+	<original>Pending</original>
+	<translate>Íå ïîäòâåðæäåíî</translate>
+</string>
+<string>
+	<original>When</original>
+	<translate>Êîãäà</translate>
+</string>
+<string>
+	<original>Customer</original>
+	<translate>Êëèåíò</translate>
+</string>
+<string>
+	<original>Browse</original>
+	<translate>Îáçîð</translate>
+</string>
+<string>
+	<original>Create</original>
+	<translate>Ñîçäàòü</translate>
+</string>
+<string>
+	<original>Create Appointment</original>
+	<translate>Ñîçäàòü çàïèñü</translate>
+</string>
+<string>
+	<original>Change</original>
+	<translate>Èçìåíèòü</translate>
+</string>
+<string>
+	<original>Start Over</original>
+	<translate>Íà÷àòü ñíîâà</translate>
+</string>
+<string>
+	<original>Appointment Created</original>
+	<translate>Çàïèñü íà ïðèåì ñîçäàíà</translate>
+</string>
+<string>
+	<original>New appointment has been created and automatically approved.</original>
+	<translate>Íîâàÿ çàïèñü íà ïðèåì áûëà ñîçäàíà è àâòîìàòè÷åñêè ïîäòâåðæäåíà.</translate>
+</string>
+<string>
+	<original>Manage Appointments</original>
+	<translate>çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>Confirm Appointment</original>
+	<translate>Ïîäòâåðäèòü çàïèñü íà ïðèåì</translate>
+</string>
+<string>
+	<original>Confirm</original>
+	<translate>Ïîäòâåðäèòü</translate>
+</string>
+<string>
+	<original>Other Appointments During This Time</original>
+	<translate>Äðóãèå ïðèåìû â òå÷åíèå ýòîãî âðåìåíè</translate>
+</string>
+<string>
+	<original>Appointment Details</original>
+	<translate>Èíôîðìàöèÿ î çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>Appointment Not Allowed</original>
+	<translate>Çàïèñü íà ïðèåì íåâîçìîæíà</translate>
+</string>
+<string>
+	<original>Choose Provider</original>
+	<translate>Âûáîð ïåðñîíàëà</translate>
+</string>
+<string>
+	<original>[b]{LOCATION_NAME}[/b] Is Occupied</original>
+	<translate>[b]{LOCATION_NAME}[/b] çàíÿòî</translate>
+</string>
+<string>
+	<original>Status</original>
+	<translate>Ñòàòóñ</translate>
+</string>
+<string>
+	<original>Fully Booked</original>
+	<translate>Ïîëíîñòüþ çàíÿò</translate>
+</string>
+<string>
+	<original>Timeoff</original>
+	<translate>Âûõîäíîé</translate>
+</string>
+<string>
+	<original>Not Working Time</original>
+	<translate>Íåðàáî÷åå âðåìÿ</translate>
+</string>
+<string>
+	<original>Detailed View</original>
+	<translate>Ïîäðîáíàÿ èíôîðìàöèÿ</translate>
+</string>
+<string>
+	<original>Review</original>
+	<translate>Ïðîñìîòð</translate>
+</string>
+<string>
+	<original>Provider Partially Booked</original>
+	<translate>Ïåðñîíàë ÷àñòè÷íî çàíÿò</translate>
+</string>
+<string>
+	<original>Appointment Not Recommended</original>
+	<translate>Çàïèñü íà ïðèåì íå ðåêîìåíäóåòñÿ</translate>
+</string>
+<string>
+	<original>Choose Location</original>
+	<translate>Âûáîð ìåñòà</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] Is Fully Booked</original>
+	<translate>[b]{PROVIDER_NAME}[/b] ïîëíîñòüþ çàíÿò</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] Timeoff</original>
+	<translate>[b]{PROVIDER_NAME}[/b] âûõîäíîé</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] can not provide [b]{SERVICE_NAME}[/b] at [b]{TIME}[/b]</original>
+	<translate>[b]{PROVIDER_NAME}[/b] íå ìîæåò äåëàòü [b]{SERVICE_NAME}[/b] â [b]{TIME}[/b]</translate>
+</string>
+<string>
+	<original>[b]{PROVIDER_NAME}[/b] can not provide [b]{SERVICE_NAME}[/b] in [b]{LOCATION_NAME}[/b] at [b]{TIME}[/b]</original>
+	<translate>[b]{PROVIDER_NAME}[/b] íå ìîæåò äåëàòü [b]{SERVICE_NAME}[/b] â [b]{LOCATION_NAME}[/b] â [b]{TIME}[/b]</translate>
+</string>
+<string>
+	<original>Occupied</original>
+	<translate>Çàíÿò</translate>
+</string>
+<string>
+	<original>Create Appointment Anyway</original>
+	<translate>Âñå-ðàâíî ñîçäàòü çàïèñü íà ïðèåì</translate>
+</string>
+<string>
+	<original>Customer Account Created</original>
+	<translate>Ñîçäàíà ó÷åòíàÿ çàïèñü êëèåíòà</translate>
+</string>
+<string>
+	<original>Find an existing customer</original>
+	<translate>Íàéòè ñóùåñòâóþùåãî êëèåíòà</translate>
+</string>
+<string>
+	<original>Create a new customer</original>
+	<translate>Ñîçäàòü íîâîãî êëèåíòà</translate>
+</string>
+<string>
+	<original>Select Customer</original>
+	<translate>Âûáðàòü êëèåíòà</translate>
+</string>
+<string>
+	<original>User Status</original>
+	<translate>Ñòàòóñ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>Email Not Confirmed</original>
+	<translate>Email íå ïîäòâåðæäåí</translate>
+</string>
+<string>
+	<original>Not Approved</original>
+	<translate>Íå îäîáðåí</translate>
+</string>
+<string>
+	<original>Suspended</original>
+	<translate>Âðåìåííî äåàêòèâèðîâàí</translate>
+</string>
+<string>
+	<original>Role</original>
+	<translate>Òèï</translate>
+</string>
+<string>
+	<original>Admin</original>
+	<translate>Àäìèí</translate>
+</string>
+<string>
+	<original>Search</original>
+	<translate>Ïîèñê</translate>
+</string>
+<string>
+	<original>No users found matching your search</original>
+	<translate>Íå íàéäåíî ïîëüçîâàòåëåé ïî Âàøåìó çàïðîñó</translate>
+</string>
+<string>
+	<original>Revise Search?</original>
+	<translate>Èñêàòü ñíîâà?</translate>
+</string>
+<string>
+	<original>N/A</original>
+	<translate>N/A</translate>
+</string>
+<string>
+	<original>Active</original>
+	<translate>Àêòèâíûé</translate>
+</string>
+<string>
+	<original>Choose Session</original>
+	<translate>Âûáîð ñåññèè</translate>
+</string>
+<string>
+	<original>Select Service</original>
+	<translate>Âûáîð óñëóãè</translate>
+</string>
+<string>
+	<original>Jan</original>
+	<translate>ßíâ</translate>
+</string>
+<string>
+	<original>Feb</original>
+	<translate>Ôåâ</translate>
+</string>
+<string>
+	<original>Mar</original>
+	<translate>Ìàð</translate>
+</string>
+<string>
+	<original>Apr</original>
+	<translate>Àïð</translate>
+</string>
+<string>
+	<original>May</original>
+	<translate>Ìàé</translate>
+</string>
+<string>
+	<original>Jun</original>
+	<translate>Èþí</translate>
+</string>
+<string>
+	<original>Jul</original>
+	<translate>Èþë</translate>
+</string>
+<string>
+	<original>Aug</original>
+	<translate>Àâã</translate>
+</string>
+<string>
+	<original>Sep</original>
+	<translate>Ñåí</translate>
+</string>
+<string>
+	<original>Oct</original>
+	<translate>Îêò</translate>
+</string>
+<string>
+	<original>Nov</original>
+	<translate>Íîÿ</translate>
+</string>
+<string>
+	<original>Dec</original>
+	<translate>Äåê</translate>
+</string>
+<string>
+	<original>You are about to schedule appointment at a time that is not available for customers. Are you sure to proceed?</original>
+	<translate>Âû ñîáèðàåòåñü ñîçäàòü çàïèñü íà ïðèåì âî âðåìÿ íåäîñòóïíîå äëÿ êëèåíòîâ. Ïðîäîëæèòü?</translate>
+</string>
+<string>
+	<original>Working Time</original>
+	<translate>Ðàáî÷åå âðåìÿ</translate>
+</string>
+<string>
+	<original>Non Working Time</original>
+	<translate>Íåðàáî÷åå âðåìÿ</translate>
+</string>
+<string>
+	<original>Partially Booked</original>
+	<translate>×àñòè÷íî çàíÿò</translate>
+</string>
+<string>
+	<original>Location Occupied</original>
+	<translate>Ìåñòî çàíÿòî</translate>
+</string>
+<string>
+	<original>Selectable Time</original>
+	<translate>Âðåìÿ êîòîðîå ìîæíî âûáðàòü</translate>
+</string>
+<string>
+	<original>Display By Location</original>
+	<translate>Ãðóïïèðîâàòü ïî ìåñòó</translate>
+</string>
+<string>
+	<original>Detailed Display</original>
+	<translate>Ïîäðîáíûé âèäe</translate>
+</string>
+<string>
+	<original>Display By Provider</original>
+	<translate>Ãðóïïèðîâàòü ïî ïåðñîíàëó</translate>
+</string>
+<string>
+	<original>Select Date &amp; Time</original>
+	<translate>Âûáîð äàòû è âðåìåíè</translate>
+</string>
+<string>
+	<original>Appointment Details Updated</original>
+	<translate>Çàïèñü íà ïðèåì èçìåíåíà</translate>
+</string>
+<string>
+	<original>Update</original>
+	<translate>Ñîõðàíèòü</translate>
+</string>
+<string>
+	<original>Payment</original>
+	<translate>Îïëàòà</translate>
+</string>
+<string>
+	<original>Fully Paid</original>
+	<translate>Ïîëíîñòü îïëà÷åíî</translate>
+</string>
+<string>
+	<original>Partially Paid</original>
+	<translate>×àñòè÷íî îïëà÷åíî</translate>
+</string>
+<string>
+	<original>Not Paid</original>
+	<translate>Íå îïëà÷åíî</translate>
+</string>
+<string>
+	<original>Edit</original>
+	<translate>Ðåäàêòèðîâàòü</translate>
+</string>
+<string>
+	<original>Details</original>
+	<translate>Äåòàëè</translate>
+</string>
+<string>
+	<original>Appointment Moved To New Location</original>
+	<translate>Çàïèñü íà ïðèåì ïåðåíåñåíà â íîâîå ìåñòî</translate>
+</string>
+<string>
+	<original>Move To This Location</original>
+	<translate>Ïåðåíåñòè â ýòî ìåñòî</translate>
+</string>
+<string>
+	<original>Move</original>
+	<translate>Ïåðåíåñòè â äðóãîå ìåñòî</translate>
+</string>
+<string>
+	<original>Payment Added</original>
+	<translate>Äîáàâëåíà îïëàòà</translate>
+</string>
+<string>
+	<original>Please use numbers only</original>
+	<translate>Èñïîëüçóéòå òîëüêî öèôðû</translate>
+</string>
+<string>
+	<original>Add Payment</original>
+	<translate>Äîáàâèòü îïëàòó</translate>
+</string>
+<string>
+	<original>Invoice {INVOICE_REF_NO} Fully Paid</original>
+	<translate>Ñ÷åò {INVOICE_REF_NO} ïîëíîñòüþ îïëà÷åí</translate>
+</string>
+<string>
+	<original>Invoice {INVOICE_REF_NO} Partially Paid</original>
+	<translate>Ñ÷åò {INVOICE_REF_NO} ÷àñòè÷íî îïëà÷åí</translate>
+</string>
+<string>
+	<original>Invoice Value</original>
+	<translate>Ñóììà ñ÷åòà</translate>
+</string>
+<string>
+	<original>Paid Value</original>
+	<translate>Îïëà÷åíî</translate>
+</string>
+<string>
+	<original>Due Value</original>
+	<translate>Åùå îïëàòèòü</translate>
+</string>
+<string>
+	<original>Payments</original>
+	<translate>Ïëàòåæè</translate>
+</string>
+<string>
+	<original>Date</original>
+	<translate>Äàòà</translate>
+</string>
+<string>
+	<original>Amount</original>
+	<translate>Ñóììà</translate>
+</string>
+<string>
+	<original>Paid Through</original>
+	<translate>Îïëà÷åíî ÷åðåç</translate>
+</string>
+<string>
+	<original>Gateway Reference</original>
+	<translate>Êîä îïëàòû</translate>
+</string>
+<string>
+	<original>No payments for this appointment</original>
+	<translate>Íåò ïëàòåæåé äëÿ ýòîé çàïèñè</translate>
+</string>
+<string>
+	<original>Appointment Reassigned To Another Provider</original>
+	<translate>Çàïèñü íàçíà÷åíà ê äðóãîìó ñîòðóäíèêó</translate>
+</string>
+<string>
+	<original>Reassign To This Provider</original>
+	<translate>Íàçíà÷èòü ýòîìó ñîòðóäíèêó</translate>
+</string>
+<string>
+	<original>Reassign</original>
+	<translate>Íàçíà÷èòü äðóãîìó ñîòðóäíèêó</translate>
+</string>
+<string>
+	<original>Please provide the reject reason</original>
+	<translate>Ââåäèòå ïðè÷èíó îòêàçà</translate>
+</string>
+<string>
+	<original>Really Reject</original>
+	<translate>Ïîäòâåðäèòü îòêàç</translate>
+</string>
+<string>
+	<original>Custom Forms</original>
+	<translate>Ðåäàêòèðîâàòü ôîðìû</translate>
+</string>
+<string>
+	<original>Appointment Forms</original>
+	<translate>Ôîðìà çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>New Form Assigned To Service</original>
+	<translate>Óñëóãå íàçíà÷åíà íîâàÿ ôîðìà</translate>
+</string>
+<string>
+	<original>None</original>
+	<translate>Íåò</translate>
+</string>
+<string>
+	<original>Custom Form</original>
+	<translate>Îñîáàÿ ôîðìà</translate>
+</string>
+<string>
+	<original>Assign</original>
+	<translate>Íàçíà÷èòü</translate>
+</string>
+<string>
+	<original>Title</original>
+	<translate>Íàçâàíèå</translate>
+</string>
+<string>
+	<original>Fields</original>
+	<translate>Ïîëÿ</translate>
+</string>
+<string>
+	<original>Assigned To Services</original>
+	<translate>Íàçíà÷åíà ê óñëóãàì</translate>
+</string>
+<string>
+	<original>Delete</original>
+	<translate>Óäàëèòü</translate>
+</string>
+<string>
+	<original>Current Forms</original>
+	<translate>Ñóùåñòâóþùèå ôîðìû</translate>
+</string>
+<string>
+	<original>Form Created</original>
+	<translate>Ôîðìà ñîçäàíà</translate>
+</string>
+<string>
+	<original>Another form with this title already exists</original>
+	<translate>Ôîðìà ñ òàêèì íàçâàíèåì óæå ñóùåñòâóå</translate>
+</string>
+<string>
+	<original>Create New Form</original>
+	<translate>Ñîçäàòü íîâóþ ôîðìó</translate>
+</string>
+<string>
+	<original>New Form</original>
+	<translate>Íîâàÿ ôîðìà</translate>
+</string>
+<string>
+	<original>Form Field Moved Up</original>
+	<translate>Ïîëå ïåðåìåùåíî ââåðõ</translate>
+</string>
+<string>
+	<original>Create New Field</original>
+	<translate>Ñîçäàòü íîâîå ïîëå</translate>
+</string>
+<string>
+	<original>No fields defined for this form</original>
+	<translate>Íåò ïîëåé äëÿ ýòî ôîðìû</translate>
+</string>
+<string>
+	<original>Form Field Created</original>
+	<translate>Ïîëå ñîçäàíî</translate>
+</string>
+<string>
+	<original>System Name</original>
+	<translate>Cèñòåìíîå èìÿ</translate>
+</string>
+<string>
+	<original>This field system name is already in use</original>
+	<translate>Ýòî ñèñòåìíîå èìÿ óæå èñïîëüçóåòñÿ</translate>
+</string>
+<string>
+	<original>Only lowercase English letters, numbers, and underscores please!</original>
+	<translate>Èñïîëüçóéòå òîëüêî ìàëåíüêèå àíãëèéñêèå áóêâû, öèôðû è çíàê ïîä÷åðêèâàíèÿ</translate>
+</string>
+<string>
+	<original>Create New Form Field</original>
+	<translate>Ñîçäàòü íîâîå ïîëå</translate>
+</string>
+<string>
+	<original>Edit Form Field</original>
+	<translate>Ðåäàêòèðîâàòü ïîëå</translate>
+</string>
+<string>
+	<original>Custom Form Deleted</original>
+	<translate>Ïîëå óäàëåíî</translate>
+</string>
+<string>
+	<original>Form Updated</original>
+	<translate>Ôîðìà èçìåíåíà</translate>
+</string>
+<string>
+	<original>Manage</original>
+	<translate>Óïðàâëÿòü</translate>
+</string>
+<string>
+	<original>From</original>
+	<translate>Îò</translate>
+</string>
+<string>
+	<original>To</original>
+	<translate>Ê</translate>
+</string>
+<string>
+	<original>Settings Updated</original>
+	<translate>Íàñòðîéêè ñîõðàíåíû</translate>
+</string>
+<string>
+	<original>Time Unit, min</original>
+	<translate>Åäèíèöà âðåìåíè, ìèí</translate>
+</string>
+<string>
+	<original>Company Timezone</original>
+	<translate>Îñíîâíîé ÷àñîâîé ïîÿñ</translate>
+</string>
+<string>
+	<original>Date Format</original>
+	<translate>Ôîðìàò äàòû</translate>
+</string>
+<string>
+	<original>Time Format</original>
+	<translate>Ôîðìàò âðåìåíè</translate>
+</string>
+<string>
+	<original>Week Starts On</original>
+	<translate>Íà÷àëî íåäåëè</translate>
+</string>
+<string>
+	<original>Months To Show In Calendar</original>
+	<translate>Ñêîëüêî ìåñÿöåâ ïîêàçûâàòü â êàëåíäàðå</translate>
+</string>
+<string>
+	<original>Days To Show When Selecting Times</original>
+	<translate>Ñêîëüêî äíåé ïîêàçûâàòü äëÿ âûáîðà âðåìåíè</translate>
+</string>
+<string>
+	<original>Date &amp; Time Settings</original>
+	<translate>Óñòàíîâêè äàòû è âðåìåíè</translate>
+</string>
+<string>
+	<original>Disable Email</original>
+	<translate>Îòêëþ÷èòü Email</translate>
+</string>
+<string>
+	<original>Email Settings</original>
+	<translate>Íàñòðîéêè Email</translate>
+</string>
+<string>
+	<original>Customer Notifications</original>
+	<translate>Óâåäîìëåíèÿ êëèåíòîâ</translate>
+</string>
+<string>
+	<original>Provider Notifications</original>
+	<translate>Óâåäîìëåíèÿ ïåðñîíàëà</translate>
+</string>
+<string>
+	<original>Appointment Approval Required</original>
+	<translate>Íåîáõîäèìî ïîäòâåðæäåíèå çàïèñè</translate>
+</string>
+<string>
+	<original>Appointment Approved</original>
+	<translate>Çàïèñü íà ïðèåì ïîäòâåðæäåíà</translate>
+</string>
+<string>
+	<original>Appointment Request (Automatically Approved)</original>
+	<translate>Çàïðîñ íà çàïèñü (àâòîìàòè÷åñêè ïîäòâåðæäàåìàÿ)</translate>
+</string>
+<string>
+	<original>Appointment Rejected</original>
+	<translate>Çàïèñü íà ïðèåì îòêëîíåíà</translate>
+</string>
+<string>
+	<original>Appointment Cancelled By Customer</original>
+	<translate>Çàïèñü íà ïðèåì îòìåíåíà êëèåíòîì</translate>
+</string>
+<string>
+	<original>Appointment Moved To Another Location</original>
+	<translate>Çàïèñü íà ïðèåì ïåðåíåñåíà â äðóãîå ìåñòî</translate>
+</string>
+<string>
+	<original>Appointment Reasigned To You</original>
+	<translate>Çàïèñü íà ïðèåì ïåðåíàçíà÷åíà Âàì</translate>
+</string>
+<string>
+	<original>Appointment Reasigned From You</original>
+	<translate>Çàïèñü íà ïðèåì ïåðåíàçíà÷åíà äðóãîìó ñîòðóäíèêó</translate>
+</string>
+<string>
+	<original>Email Confirmation Required</original>
+	<translate>Íåîáõîäèìî ïîäòâåðæäåíèå ýëåêòðîííîé ïî÷òû</translate>
+</string>
+<string>
+	<original>Admin Approval Required</original>
+	<translate>Íåîáõîäèìî ïîäòâåðæäåíèå àäìèíèñòðàòîðà</translate>
+</string>
+<string>
+	<original>Waiting For Approval</original>
+	<translate>Îæèäàíèå ïîäòâåðæäåíèÿ</translate>
+</string>
+<string>
+	<original>User Account Activated</original>
+	<translate>Ó÷åòíàÿ çàïèñü àêòèâèðîâàíà</translate>
+</string>
+<string>
+	<original>User Password Reset</original>
+	<translate>Ñáðîñ ïàðîëÿ</translate>
+</string>
+<string>
+	<original>Email Templates</original>
+	<translate>Øàáëîíû ïèñåì</translate>
+</string>
+<string>
+	<original>Template has been reset to default</original>
+	<translate>Øàáëîí áûë âîññòàíîâëåí íà çíà÷åíèå ïî óìîë÷àíèþ</translate>
+</string>
+<string>
+	<original>Service selection should come before date &amp; time selection</original>
+	<translate>Âûáîð óñëóãè äîëæåí èäòè ïåðåä âûáîðîì äàòû ì âðåìåíè</translate>
+</string>
+<string>
+	<original>The order to choose service, date and time, location, and provider. Please note that service selection should come before date and time selection.</original>
+	<translate>Ïîðÿäîê â êîòîðîì çàïðàøèâàåòñÿ çàïèñü íà ïðèåì.</translate>
+</string>
+<string>
+	<original>Down</original>
+	<translate>Âíèç</translate>
+</string>
+<string>
+	<original>Appointment Flow</original>
+	<translate>Ïîðÿäîê çàïðîñà</translate>
+</string>
+<string>
+	<original>Theme Activated</original>
+	<translate>Òåìà àêòèâèðîâàíà</translate>
+</string>
+<string>
+	<original>Current Theme</original>
+	<translate>Òåêóùàÿ òåìà</translate>
+</string>
+<string>
+	<original>Available Themes</original>
+	<translate>Äîñòóïíûå òåìû</translate>
+</string>
+<string>
+	<original>Activate</original>
+	<translate>Àêòèâèðîâàòü</translate>
+</string>
+<string>
+	<original>Themes</original>
+	<translate>Òåìû</translate>
+</string>
+<string>
+	<original>hitAppoint Path</original>
+	<translate>Ïàïêà hitAppoint</translate>
+</string>
+<string>
+	<original>Installed Version</original>
+	<translate>Óñòàíîâëåííàÿ âåðñèÿ</translate>
+</string>
+<string>
+	<original>Uploaded Version</original>
+	<translate>Çàêà÷àííàÿ âåðñèÿ</translate>
+</string>
+<string>
+	<original>Run Upgrade Procedure</original>
+	<translate>Çàïóñòèòü ïðîöåäóðó àïãðåéäà</translate>
+</string>
+<string>
+	<original>No Upgrade Procedure To Run</original>
+	<translate>Íåò ïðîöåäóðû àïãðåéäà</translate>
+</string>
+<string>
+	<original>Info &amp; Upgrade</original>
+	<translate>Èíôî è îáíîâëåíèÿ</translate>
+</string>
+<string>
+	<original>Application Upgraded</original>
+	<translate>Ïðèëîæåíèå îáíîâëåíî</translate>
+</string>
+<string>
+	<original>New Version</original>
+	<translate>Íîâàÿ âåðñèÿ</translate>
+</string>
+<string>
+	<original>These upgrade scripts have been executed</original>
+	<translate>Áûëè ïðîâåäåíû ýòè ïðîöåäóðû àïãðåéäà</translate>
+</string>
+<string>
+	<original>Currency</original>
+	<translate>Âàëþòà</translate>
+</string>
+<string>
+	<original>[b]{CURRENCY}[/b] is not supported by this payment gateway</original>
+	<translate>[b]{CURRENCY}[/b] íå ïîääåðæèâàåòñÿ ýòîé ïëàòåæíîé ñèñòåìîé</translate>
+</string>
+<string>
+	<original>Payment Gateways</original>
+	<translate>Ïëàòåæíûå ñèñòåìû</translate>
+</string>
+<string>
+	<original>Locations</original>
+	<translate>Ìåñòîïîëîæåíèÿ</translate>
+</string>
+<string>
+	<original>Location Created</original>
+	<translate>Ñîçäàíî ìåñòîïîëîæåíèå</translate>
+</string>
+<string>
+	<original>Another location with this title already exists</original>
+	<translate>Óæå ñóùåñòâóåò ìåñòîïîëîæåíèå ñ òàêèì íàçâàíèåì</translate>
+</string>
+<string>
+	<original>New Location</original>
+	<translate>Íîâîå ìåñòîïîëîæåíèå</translate>
+</string>
+<string>
+	<original>Location Deleted</original>
+	<translate>Ìåñòîïîëîæåíèå óäàëåíî</translate>
+</string>
+<string>
+	<original>Really Delete</original>
+	<translate>Ïîäòâåðäèòü óäàëåíèå</translate>
+</string>
+<string>
+	<original>Are you sure to delete this location?</original>
+	<translate>Óâåðåíû, ÷òî õîòèòå óäàëèòü ýòî ìåñòîïîëîæåíèå?</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s) in this location. If you delete the location, these appointments will be cancelled.</original>
+	<translate>Åñòü [b]{APPS_COUNT}[/b] çàïèñåé íà ïðèåì â ýòî ìåñòî. Åñëè âû óäàëèòå ýòî ìåñòî, ýòè çàïèñè áóäóò îòìåíåíû.</translate>
+</string>
+<string>
+	<original>Location Updated</original>
+	<translate>Ìåñòî èçìåíåíî</translate>
+</string>
+<string>
+	<original>Schedules</original>
+	<translate>Ðàñïèñàíèÿ</translate>
+</string>
+<string>
+	<original>Valid From Date</original>
+	<translate>Äåñòâèòåëüíî ñ</translate>
+</string>
+<string>
+	<original>Valid To Date</original>
+	<translate>Äåéñòâèòåëüíî ïî</translate>
+</string>
+<string>
+	<original>Schedule Created</original>
+	<translate>Ðàñïèñàíèå ñîçäàíî</translate>
+</string>
+<string>
+	<original>Something short and descriptive, like Summer Schedule, etc</original>
+	<translate>×òî-òî êîðîòêîå è èíôîðìàòèâíîå, íàïðèìåð Ëåòíåå ðàñïèñàíèå</translate>
+</string>
+<string>
+	<original>Another schedule with this title already exists</original>
+	<translate>Óæå ñóùåñòâóåò ðàñïèñàíèå ñ òàêèì íàçâàíèåì</translate>
+</string>
+<string>
+	<original>New Schedule For</original>
+	<translate>Íîâîå ðàñïèñàíèå äëÿ</translate>
+</string>
+<string>
+	<original>New Schedule</original>
+	<translate>Íîâîå ðàñïèñàíèå</translate>
+</string>
+<string>
+	<original>Schedule Deleted</original>
+	<translate>Ðàñïèñàíèå óäåëåíî</translate>
+</string>
+<string>
+	<original>Schedules Duplicated</original>
+	<translate>Ðàñïèñàíèå ñêîïèðîâàíî</translate>
+</string>
+<string>
+	<original>Schedule Updated</original>
+	<translate>Ðàñïèñàíèå èçìåíåíî</translate>
+</string>
+<string>
+	<original>Save</original>
+	<translate>Ñîõðàíèòü</translate>
+</string>
+<string>
+	<original>Please choose the session duration</original>
+	<translate>Âûáðèòå äëèòåëüíîñòü ïðèåìà</translate>
+</string>
+<string>
+	<original>Please numbers only</original>
+	<translate>Èñïîëüçóéòå òîëüêî öèôðû</translate>
+</string>
+<string>
+	<original>Delete?</original>
+	<translate>Óäàëèòü?</translate>
+</string>
+<string>
+	<original>Weekday</original>
+	<translate>Äåíü íåäåëè</translate>
+</string>
+<string>
+	<original>Working Hours</original>
+	<translate>Ðàáî÷èå ÷àñû</translate>
+</string>
+<string>
+	<original>Services</original>
+	<translate>Óñëóãè</translate>
+</string>
+<string>
+	<original>Add Time Slot</original>
+	<translate>Äîáàâèòü ïðîìåæóòîê âðåìåíè</translate>
+</string>
+<string>
+	<original>Every</original>
+	<translate>Êàæäûå</translate>
+</string>
+<string>
+	<original>Delete Time Slot</original>
+	<translate>Óäàëèòü ïðîìåæóòîê âðåìåíè</translate>
+</string>
+<string>
+	<original>Availability</original>
+	<translate>Äîñòóïíîñòü</translate>
+</string>
+<string>
+	<original>Time Slot Created</original>
+	<translate>Ïðîìåæóòîê âðåìåíè ñîçäàí</translate>
+</string>
+<string>
+	<original>Applied On</original>
+	<translate>Äåéñòâèòåëåí</translate>
+</string>
+<string>
+	<original>Selectable Times</original>
+	<translate>Âðåìÿ êîòîðîå ìîæíî âûáèðàòü</translate>
+</string>
+<string>
+	<original>Please choose at least one service for this schedule</original>
+	<translate>Âûáåðèòå õîòÿ-áû îäíó óñëóãó äëÿ ýòîãî ðàñïèñàíèÿ</translate>
+</string>
+<string>
+	<original>Please choose at least one location for this schedule</original>
+	<translate>Âûáåðèòå õîòÿ-áû îäíî ìåñòî äëÿ ýòîãî ðàñïèñàíèÿ</translate>
+</string>
+<string>
+	<original>New Time Slot</original>
+	<translate>Íîâûé ïðîìåæóòîê âðåìåíè</translate>
+</string>
+<string>
+	<original>Time Slot Deleted</original>
+	<translate>Ïðîìåæóòîê âðåìåíè óäàëåí</translate>
+</string>
+<string>
+	<original>Time Slot Updated</original>
+	<translate>Ïðîìåæóòîê âðåìåíè ñîõðàíåí</translate>
+</string>
+<string>
+	<original>Edit Time Slot</original>
+	<translate>Ðåäàêòèðîâàòü ïðîìåæóòîê âðåìåíè</translate>
+</string>
+<string>
+	<original>Total Seats</original>
+	<translate>Âñåãî ìåñò</translate>
+</string>
+<string>
+	<original>Sessions</original>
+	<translate>Äëèòåëüíîñòè</translate>
+</string>
+<string>
+	<original>Queue Allowed?</original>
+	<translate>Î÷åðåäü âîçìîæíà?</translate>
+</string>
+<string>
+	<original>Another service with this title already exists</original>
+	<translate>Óæå ñóùåñòâóåò óñëóãà ñ òàêèì íàçâàíèåì</translate>
+</string>
+<string>
+	<original>Seats</original>
+	<translate>Ìåñò</translate>
+</string>
+<string>
+	<original>Total</original>
+	<translate>Âñåãî</translate>
+</string>
+<string>
+	<original>Min For One Booking</original>
+	<translate>Ìèíèìóì äëÿ îäíîãî çàïðîñà</translate>
+</string>
+<string>
+	<original>This should not be greater than the total seats value</original>
+	<translate>Ýòî íå ìîæåò áûòü áîëüøå ÷åì îáùåå ÷èñëî ìåñò</translate>
+</string>
+<string>
+	<original>Max For One Booking</original>
+	<translate>Ìàêñèìóì äëÿ îäíîãî çàïðîñà</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min seats value</original>
+	<translate>Ýòî íå ìîæåò áûòü ìåíüøå ÷åì ìèíèìàëüíîå ÷èñëî ìåñò</translate>
+</string>
+<string>
+	<original>Time Frame</original>
+	<translate>Âðåìÿ äåéñòâèÿ</translate>
+</string>
+<string>
+	<original>Min Advance Booking</original>
+	<translate>Ìèíèìàëüíîå âðåìÿ ïðåäâàðèòåëüíîãî çàïðîñà</translate>
+</string>
+<string>
+	<original>Max Advance Booking</original>
+	<translate>Ìàêñèìàëüíîå âðåìÿ ïðåäâàðèòåëüíîãî çàïðîñà</translate>
+</string>
+<string>
+	<original>This should not be smaller than the min advance booking</original>
+	<translate>Ýòî íå äîëæíî áûòü ìåíüøå ÷åì ìèíèìàëüíîå âðåìÿ ïðåäâàðèòåëüíîãî çàïðîñà</translate>
+</string>
+<string>
+	<original>Cancellation/Reschedule Deadline</original>
+	<translate>Âðåìÿ îòìåíû èëè ïåðåíîñà</translate>
+</string>
+<string>
+	<original>Provider Presence Required</original>
+	<translate>Íåîáõîäèìî ïðèñóòñòâèå ñîòðóäíèêà</translate>
+</string>
+<string>
+	<original>Uncheck this if the service books location only</original>
+	<translate>Ñíèìèòå åñëè çàíèìàåòñÿ òîëüêî ìåñòî</translate>
+</string>
+<string>
+	<original>Allow Queued Appointments</original>
+	<translate>Ðàçðåøèòü î÷åðåëü</translate>
+</string>
+<string>
+	<original>Allow your customers to reserve appointments without time selection, then the staff assigns the exact date and time</original>
+	<translate>Ðàçðåøèòü âàøèì êëåíòàì çàïðàøèâàòü ïðèåì áåç óêàçàíèÿ âðåìåíè, çàòåì ñîòðóäíèê íàçíà÷àåò òî÷íîå âðåìÿ</translate>
+</string>
+<string>
+	<original>Service Deleted</original>
+	<translate>Óñëóãà óäàëåíà</translate>
+</string>
+<string>
+	<original>Are you sure to delete this service?</original>
+	<translate>Óâåðåíû ÷òî õîòèòå óäàëèòü ýòó óñëóãó?</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s) for this service. If you delete the service, these appointments will be cancelled.</original>
+	<translate>Åñòü [b]{APPS_COUNT}[/b] çàïèñåé íà ýòó óñëóãó. Åñëè óäàëèòü óñëóãó, ýòè çàïèñè áóäóò îòìåíåíû.</translate>
+</string>
+<string>
+	<original>Permissions Updated</original>
+	<translate>Ïðàâà äîñòóïà ñîõðàíåíû</translate>
+</string>
+<string>
+	<original>Non Registered Customers</original>
+	<translate>Íåçàðåãèñòðèðîâàííûå ïîëüçîâàòåëè</translate>
+</string>
+<string>
+	<original>Registered Customers</original>
+	<translate>Çàðåãèñòðèðîâàííûå ïîëüçîâàòåëè</translate>
+</string>
+<string>
+	<original>Not Allowed</original>
+	<translate>Íå ðàçðåøåíî</translate>
+</string>
+<string>
+	<original>Company Confirmation Required</original>
+	<translate>Íåîáõîäèìî ïîäòâåðæäåíèå êîìïàíèè</translate>
+</string>
+<string>
+	<original>Auto Confirmed</original>
+	<translate>Àâòîìàòè÷åñêîå ïîäòâåðæäåíèå</translate>
+</string>
+<string>
+	<original>Request Permissions</original>
+	<translate>Ïðàâà çàïðîñà</translate>
+</string>
+<string>
+	<original>Permissions</original>
+	<translate>Ïðàâà</translate>
+</string>
+<string>
+	<original>Duration</original>
+	<translate>Äëèòåëüíîñòü</translate>
+</string>
+<string>
+	<original>Lead In</original>
+	<translate>Lead In</translate>
+</string>
+<string>
+	<original>Lead Out</original>
+	<translate>Lead Out</translate>
+</string>
+<string>
+	<original>Price</original>
+	<translate>Öåíà</translate>
+</string>
+<string>
+	<original>Create New Session</original>
+	<translate>Ñîçäàòü íîâóþ ñåññèþ</translate>
+</string>
+<string>
+	<original>Session Deleted</original>
+	<translate>Ñåññèÿ óäàëåíà</translate>
+</string>
+<string>
+	<original>There are [b]{APPS_COUNT}[/b] appointment(s) for this session. If you delete the session, these appointments will be cancelled.</original>
+	<translate>Åñòü [b]{APPS_COUNT}[/b] çàïèñåé íà ïðèåì íà ýòó ñåññèþ. Åñëè óäàëèòü ýòó ñåññèþ, îíè áóäóò îòìåíåíû.</translate>
+</string>
+<string>
+	<original>Users</original>
+	<translate>Ïîëüçîâàòåëè</translate>
+</string>
+<string>
+	<original>Suspend</original>
+	<translate>Ïðèîñòàíîâèòü</translate>
+</string>
+<string>
+	<original>Filter</original>
+	<translate>Ôèëüòðîâàòü</translate>
+</string>
+<string>
+	<original>All</original>
+	<translate>Âñå</translate>
+</string>
+<string>
+	<original>Customers</original>
+	<translate>Êëèåíòû</translate>
+</string>
+<string>
+	<original>Providers</original>
+	<translate>Ñîòðóäíèêè</translate>
+</string>
+<string>
+	<original>New Appointment</original>
+	<translate>Íîâàÿ çàïèñü íà ïðèåì</translate>
+</string>
+<string>
+	<original>Provider Account Created</original>
+	<translate>Ó÷åòíàÿ çàïèñü ñîòðóäíèêà ñîçäàíà</translate>
+</string>
+<string>
+	<original>User Account Created</original>
+	<translate>Ó÷åòíàÿ çàïèñü ïîëüçîâàòåëÿ ñîçäàíà</translate>
+</string>
+<string>
+	<original>New Customer</original>
+	<translate>Íîâûé êëèåíò</translate>
+</string>
+<string>
+	<original>New Provider</original>
+	<translate>Íîâûé ñîòðóäíèê</translate>
+</string>
+<string>
+	<original>Edit User</original>
+	<translate>Ðåäàêòèðîâàòü ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>Delete this user?</original>
+	<translate>Óäàëèòü ïîëüçîâàòåëÿ?</translate>
+</string>
+<string>
+	<original>Edit Provider</original>
+	<translate>Ðåäàêòèðîâàòü ñîòðóäíèêà</translate>
+</string>
+<string>
+	<original>{SERVICES_COUNT} service(s) for this provider</original>
+	<translate>{SERVICES_COUNT} óñëóã ïðåäîñòàâëÿåìûõ ýòèì ñîòðóäíèêîì</translate>
+</string>
+<string>
+	<original>No services assigned for this provider yet</original>
+	<translate>Ýòîìó ñîòðóäíèêó åùå íå íàçíà÷åíû óñëóãè</translate>
+</string>
+<string>
+	<original>Create Schedule</original>
+	<translate>Ñîçäàòü ðàñïèñàíèå</translate>
+</string>
+<string>
+	<original>Are you sure to delete this customer?</original>
+	<translate>Óâåðåíû ÷òî õîòèòå óäàëèòü ýòîãî êëèåíòà?</translate>
+</string>
+<string>
+	<original>Change Password</original>
+	<translate>Èçìåíèòü ïàðîëü</translate>
+</string>
+<string>
+	<original>Are you sure to delete this provider?</original>
+	<translate>Óâåðåíû ÷òî õîòèòå óäàëèòü ýòîãî ñîòðóäíèêà?</translate>
+</string>
+<string>
+	<original>Remove From Admins</original>
+	<translate>Óáðàòü èç àäìèíèñòðàòîðîâ</translate>
+</string>
+<string>
+	<original>Add To Admins</original>
+	<translate>Äîáàâèòü ê àäìèíèñòðàòîðàì</translate>
+</string>
+<string>
+	<original>No schedules yet</original>
+	<translate>Ðàñïèñàíèé åùå íå ñîçäàíî</translate>
+</string>
+<string>
+	<original>Create Timeoff</original>
+	<translate>Ñîçäàòü âûõîäíûå</translate>
+</string>
+<string>
+	<original>Next Timeoffs</original>
+	<translate>Íîâûå âûõîäíûå</translate>
+</string>
+<string>
+	<original>Old Timeoffs</original>
+	<translate>Ïðîøåäøèå âûõîäíûå</translate>
+</string>
+<string>
+	<original>New timeoff created</original>
+	<translate>Ñîçäàí íîâûé âûõîäíîé</translate>
+</string>
+<string>
+	<original>Time</original>
+	<translate>Âðåìÿ</translate>
+</string>
+<string>
+	<original>New Timeoff</original>
+	<translate>Íîâûé âûõîäíîé</translate>
+</string>
+<string>
+	<original>Customer Form Fields</original>
+	<translate>Ïîëÿ ôîðìû èíôîðìàöèè î êëèåíòå</translate>
+</string>
+<string>
+	<original>Customize Form</original>
+	<translate>Ðåäàêòèðîâàòü ôîðìó</translate>
+</string>
+<string>
+	<original>Your new password has been sent to your email</original>
+	<translate>Íîâûé ïàðîëü ïîñëàí âàì íà ýëåêòðîííóþ ïî÷òó</translate>
+</string>
+<string>
+	<original>There is an error with your account.</original>
+	<translate>Ïðîáëåìà ñ Âàøåé ó÷åòíîé çàïèñüþ.</translate>
+</string>
+<string>
+	<original>Your email is not confirmed yet. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Âàø àäðåñ ýëåêòðîííîé ïî÷òû åùå íå ïîäòâåðæäåí. Îòêðîéòå Âàø ïî÷òîâûé ÿùèê è êëèêíèòå íà ññûëêó ïîäòâåðæäåíèÿ â íàøåì ñîîáùåíèè.</translate>
+</string>
+<string>
+	<original>Home</original>
+	<translate>Íà÷àëî</translate>
+</string>
+<string>
+	<original>Forgot your password?</original>
+	<translate>Çàáûëè ïàðîëü?</translate>
+</string>
+<string>
+	<original>New to our site? Please take a moment to register!</original>
+	<translate>Åùå íå ðåãèñòðèðîâàëèñü? Ïîæàëóéñòà çàðåãèñòðèðóéòåñü!</translate>
+</string>
+<string>
+	<original>Account Not Approved</original>
+	<translate>Ó÷åòíàÿ çàïèñü åùå íå îäîáðåíà</translate>
+</string>
+<string>
+	<original>Your account is not approved yet. We kindly ask you to wait a little, we need to manually approve new acounts. We will notify you when your account gets active.</original>
+	<translate>Âàøà ó÷åòíàÿ çàïèñü åùå íå ïîäòâåðæäåíà. Ìû ïðîñèì Âàñ íåìíîãî ïîäîæäàòü êîãäà ìû ðàññìîòðèì Âàø çàïðîñ. Ìû Âàñ óâåäîìèì, êîãäà Âàøà ó÷åòíàÿ çàïèñü áóäåò ðàññìîòðåíà.</translate>
+</string>
+<string>
+	<original>Account Suspended</original>
+	<translate>Ó÷åòíàÿ çàïèñü äåàêòèâèðîâàíà</translate>
+</string>
+<string>
+	<original>Your account is temporarily suspended</original>
+	<translate>Âàøà ó÷åòíàÿ çàïèñü âðåìåííî äåàêòèâèðîâàíà</translate>
+</string>
+<string>
+	<original>Congratulations, your account has been created and activated</original>
+	<translate>Ïîçäðàâëÿåì, Âàøà ó÷åòíàÿ çàïèñü ñîçäàíà è àêòèâèðîâàíà</translate>
+</string>
+<string>
+	<original>Please Confirm Your Email</original>
+	<translate>Ïîäòâåðäèòå àäðåñ Âàøåé ýëåêòðîííîé ïî÷òû ïîæàëóéñòà</translate>
+</string>
+<string>
+	<original>Thank you for registering![br]Now we kindly ask you to confirm your email. Please open your inbox and click the confirmation link in our message.</original>
+	<translate>Ñïàñèáî çà ðåãèñòðàöèþ![br]Ì Ñåé÷àñ ìû ïðîñèì Âàñ ïîäòâåðäèòü Âàø àäðåñ ýëåâòðîííîé ïî÷òû. Îòêðîéòå Âàø ïî÷òîâûé ÿùèê è êëèêíèòå íà ññûëêó ïîäòâåðæäåíèÿ â íàøåì ïèñüìå.</translate>
+</string>
+<string>
+	<original>Customer Registration</original>
+	<translate>Ðåãèñòðàöèÿ êëèåíòà</translate>
+</string>
+<string>
+	<original>Thank You!</original>
+	<translate>Ñïàñèáî!</translate>
+</string>
+<string>
+	<original>Please wait while we review your request</original>
+	<translate>Ïîæàëóéñòà ïîäîæäèòå ïîêà ìû ðàññìîòðèì Âàøó çàÿâêó</translate>
+</string>
+<string>
+	<original>Thank you for registering![br]Now we kindly ask you to wait a little, we need to manually approve new acounts. We will notify you when your account gets active.</original>
+	<translate>Ñïàñèáî çà ðåãèñòðàöèþ![br]Ìû ïðîñèì Âàñ íåìíîãî ïîäîæäàòü ïîêà ìû ðàññìîòðèì Âàøó çàÿâêó. Ìû Âàñ óâåäîìèì, êîãäà çàÿâêà áóäåò ðàññìîòðåíà.</translate>
+</string>
+<string>
+	<original>Sorry, you seen to have followed an invalid confirmation link</original>
+	<translate>Íåâåðíàÿ ññûëêà</translate>
+</string>
+<string>
+	<original>My Old Appointments</original>
+	<translate>Ìîè ïðåäûäóùèå çàïèñè</translate>
+</string>
+<string>
+	<original>My Upcoming Appointments</original>
+	<translate>Ìîè ñëåäóþùèå çàïèñè</translate>
+</string>
+<string>
+	<original>You cannot cancel or reschedule this appointment now</original>
+	<translate>Ñåé÷àñ Âû íå ìîæåòå îòìåíèòü èëè ïåðåíåñòè ýòó çàïèñü</translate>
+</string>
+<string>
+	<original>Please provide the cancel reason</original>
+	<translate>Óêàæèòå ïðè÷èíó îòìåíû</translate>
+</string>
+<string>
+	<original>Really Cancel This Appointment</original>
+	<translate>Ïîäòâåðäèòü îòìåíó çàïèñè</translate>
+</string>
+<string>
+	<original>Go Back</original>
+	<translate>Íàçàä</translate>
+</string>
+<string>
+	<original>Are you sure to cancel this appointment?</original>
+	<translate>Óâåðåíû ÷òî õîòèòå îòìåíèòü ýòó çàïèñü?</translate>
+</string>
+<string>
+	<original>Sorry, appointment is not allowed at this time</original>
+	<translate>Çàïèñü íåâîçìîæíà â ýòî âðåìÿ</translate>
+</string>
+<string>
+	<original>Submit Appointment Request</original>
+	<translate>Ïîñëàòü çàÿâêó</translate>
+</string>
+<string>
+	<original>Your Name</original>
+	<translate>Âàøå èìÿ</translate>
+</string>
+<string>
+	<original>Not you?</original>
+	<translate>Íå Âû?</translate>
+</string>
+<string>
+	<original>Sorry, this service is not available</original>
+	<translate>Ýòà óñëóãà íåäîñòóïíà</translate>
+</string>
+<string>
+	<original>Already registered? Please login to proceed!</original>
+	<translate>Óæå ðåãèñòðèðîâàëèñü? Âõîäèòå â ñèñòåìó!</translate>
+</string>
+<string>
+	<original>Register</original>
+	<translate>Çàðåãèñòðèðîâàòüñÿ</translate>
+</string>
+<string>
+	<original>Select Location</original>
+	<translate>Âûáîð ìåñòîïîëîæåíèÿ</translate>
+</string>
+<string>
+	<original>Select Provider</original>
+	<translate>Âûáîð ñîòðóäíèêà</translate>
+</string>
+<string>
+	<original>Your request is approved</original>
+	<translate>Âàø çàïðîñ ïîäòâåðæäåí</translate>
+</string>
+<string>
+	<original>Thank you for your appointment request. Your request is now approved.</original>
+	<translate>Ñïàñèáî çà Âàø çàïðîñ. Âàø çàïðîñ ïîäòâåðæäåí.</translate>
+</string>
+<string>
+	<original>Sorry, you are not allowed to view this appointment</original>
+	<translate>Ó Âàñ íåò äîñòóïà ê ýòîé çàïèñè</translate>
+</string>
+<string>
+	<original>Thank you for your appointment request.[br]We kindly ask you to wait a little before we review your request. We will notify you when your appointment is accepted.</original>
+	<translate>Ñïàñèáî çà Âàø çàïðîñ.[br]Ìû ïðîñèì Âàñ íåìíîãî ïîäîæäàòü ïîêà ìû ïîäòâåðäèì âàøó çàÿâêó. Ìû ïðèøëåì Âàì óâåäîìëåíèå, êîãäà çàÿâêà áóäåò ðàññìîòðåíà.</translate>
+</string>
+<string>
+	<original>Payment Required</original>
+	<translate>Íåîáõîäèìà îïëàòà</translate>
+</string>
+<string>
+	<original>Total Amount</original>
+	<translate>Îáùàÿ ñóììà</translate>
+</string>
+<string>
+	<original>There has been a problem with your payment</original>
+	<translate>Ïðîáëåìà ñ Âàøèì ïëàòåæîì</translate>
+</string>
+<string>
+	<original>Try again</original>
+	<translate>Ïîïðîáîâàòü åùå ðàç</translate>
+</string>
+<string>
+	<original>My Timezone</original>
+	<translate>Ìîé ÷àñîâîé ïîÿñ</translate>
+</string>
+<string>
+	<original>My Profile</original>
+	<translate>Ìîé ïðîôèëü</translate>
+</string>
+<string>
+	<original>Switch To Customer View</original>
+	<translate>Ïåðåêëþ÷èòüñÿ íà âèä êëèåíòà</translate>
+</string>
+<string>
+	<original>Admin Area</original>
+	<translate>Ïàíåëü àäìèíèñòðàòîðà</translate>
+</string>
+<string>
+	<original>Provider Area</original>
+	<translate>Ïàíåëü ïåðñîíàëà</translate>
+</string>
+<string>
+	<original>My Appointments</original>
+	<translate>Ìîè çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>Logout</original>
+	<translate>Âûõîä</translate>
+</string>
+<string>
+	<original>Login</original>
+	<translate>Âõîä â ñèñòåìó</translate>
+</string>
+<string>
+	<original>Old Appointments</original>
+	<translate>Ïðîøåäøèå ïðèåìû</translate>
+</string>
+<string>
+	<original>Upcoming Appointments</original>
+	<translate>Áóäóùèå çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>[b]{LOCATION_NAME}[/b] Is Partially Occupied</original>
+	<translate>[b]{LOCATION_NAME}[/b] ÷àñòè÷íî çàíÿòî</translate>
+</string>
+<string>
+	<original>Max Time Measure In Duration Display</original>
+	<translate>Ìàêñèìàëüíàÿ åäèíèöà âðåìåíè êîãäà ïîêàçûâàåòñÿ ïåðèîä</translate>
+</string>
+<string>
+	<original>Languages</original>
+	<translate>ßçûêè</translate>
+</string>
+<string>
+	<original>Location Can Be Shared With Other Providers</original>
+	<translate>Ýòî ìåñòî ìîæåò ñîâìåñòíî èñïîëüçîâàòüñÿ ñ äðóãèì ïåðñîíàëîì</translate>
+</string>
+<string>
+	<original>Check this if an appointment of this service allows other appointments at the same time in the same locaiton. Otherwise, the location will be blocked for other providers.</original>
+	<translate>Óñòàíîâèòå åñëè ýòà óñëóãà ïîçâîëÿåò ïðèñóòñòâèå äðóãèõ êëèåíòîâ â òîæå âðåìÿ â òîì-æå ìåñòå. Â ïðîòèâíîì ñëó÷àå, ìåñòî áóäåò çàíÿòî äëÿ îñòàëüíîãî ïåðñîíàëà.</translate>
+</string>
+<string>
+	<original>Timezone</original>
+	<translate>×àñîâîé ïîÿñ</translate>
+</string>
+<string>
+	<original>Paypal Email</original>
+	<translate>Ýë. ïî÷òà Paypal</translate>
+</string>
+<string>
+	<original>Newsletter sent to {USER_COUNT} user(s)</original>
+	<translate>Ðàññûëêà îòïðàâëåíà {USER_COUNT} ïîëüçîâàòåëÿì</translate>
+</string>
+<string>
+	<original>Send To</original>
+	<translate>Êîìó ñëàòü</translate>
+</string>
+<string>
+	<original>Please choose whom to send your newsletter to</original>
+	<translate>Âûáåðèòå êîìó ïîñëàòü ðàññûëêó</translate>
+</string>
+<string>
+	<original>Subject</original>
+	<translate>Òåìà</translate>
+</string>
+<string>
+	<original>Message Text</original>
+	<translate>Òåêñò ñîîáùåíèÿ</translate>
+</string>
+<string>
+	<original>Send</original>
+	<translate>Ïîñëàòü</translate>
+</string>
+<string>
+	<original>Newsletter</original>
+	<translate>Ðàññûëêà</translate>
+</string>
+<string>
+	<original>Settings</original>
+	<translate>Óñòàíîâêè</translate>
+</string>
+<string>
+	<original>Password</original>
+	<translate>Ïàðîëü</translate>
+</string>
+<string>
+	<original>Login details</original>
+	<translate>Ó÷åòíàÿ çàïèñü</translate>
+</string>
+<string>
+	<original>Desired Username</original>
+	<translate>Æåëàåìîå èìÿ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>This username is already in use</original>
+	<translate>Ýòî èìÿ ïîëüçîâàòåëÿ óæå çàíÿòî</translate>
+</string>
+<string>
+	<original>Confirm Appointment Request</original>
+	<translate>Ïîäòâåðæäåíèå çàïðîñà</translate>
+</string>
+<string>
+	<original>Don't have an account yet?</original>
+	<translate>Åùå íå ðåãèñòðèðîâàëèñü?</translate>
+</string>
+<string>
+	<original>Please register</original>
+	<translate>Çàðåãèñòðèðîâàòüñÿ</translate>
+</string>
+<string>
+	<original>Continue</original>
+	<translate>Ïðîäîëæèòü</translate>
+</string>
+<string>
+	<original>Already have an account?</original>
+	<translate>Óæå çàðåãèñòðèðîâàíû?</translate>
+</string>
+<string>
+	<original>Please login</original>
+	<translate>Âõîä â ñèñòåìó</translate>
+</string>
+<string>
+	<original>Please provide your contact details</original>
+	<translate>Ââåäèòå Âàøó êîíòàêòíóþ èíôîðìàöèþ</translate>
+</string>
+<string>
+	<original>Sorry, this service is not available now</original>
+	<translate>Ê ñîæàëåíèþ, ýòà óñëóãà ñåé÷àñ íåäîñòóïíà</translate>
+</string>
+<string>
+	<original>Language</original>
+	<translate>ßçûê</translate>
+</string>
+<string>
+	<original>You can use the * wildcard to match any set of characters</original>
+	<translate>Âû ìîæåòå èñïîëüçîâàòü çíà÷îê * äëÿ ñîâïàäåíèÿ ñ ëþáûì ñèìâîëîì</translate>
+</string>
+<string>
+	<original>Showing {SHOW_FROM} - {SHOW_TO} of {TOTAL_COUNT}</original>
+	<translate>Ïîêàçàíî {SHOW_FROM} - {SHOW_TO} èç {TOTAL_COUNT}</translate>
+</string>
+<string>
+	<original>Pages</original>
+	<translate>Ñòðàíèöû</translate>
+</string>
+<string>
+	<original>This email is not registered</original>
+	<translate>Ýòîò àäðåñ ýëåêòðîííîé ïî÷òû íå çàðåãåñòðèðîâàí</translate>
+</string>
+<string>
+	<original>Send New Password</original>
+	<translate>Ïîñëàòü íîâûé ïàðîëü</translate>
+</string>
+<string>
+	<original>Forgot Your Password?</original>
+	<translate>Çàáûëè ïàðîëü?</translate>
+</string>
+<string>
+	<original>Payment Settings</original>
+	<translate>Íàñòðîéêè ïëàòåæåé</translate>
+</string>
+<string>
+	<original>Contact Information</original>
+	<translate>Êîíòàêòíàÿ èíôîðìàöèÿ</translate>
+</string>
+<string>
+	<original>Leave these blank to autogenerate a random password</original>
+	<translate>Îñòàâüòå ïóñòûì ÷òîáû ñãåíåðèðîâàòü ñëó÷àéíûé ïàðîëü</translate>
+</string>
+<string>
+	<original>Confirm Password</original>
+	<translate>Ïîäòâåðäèòü ïàðîëü</translate>
+</string>
+<string>
+	<original>This field title is already in use</original>
+	<translate>Ýòî íàçâàíèå ïîëÿ óæå èñïîëüçóåòñÿ</translate>
+</string>
+<string>
+	<original>Descriptive Title</original>
+	<translate>Íàçâàíèå</translate>
+</string>
+<string>
+	<original>Customer Access</original>
+	<translate>Ïðàâà äîñòóïà êëèåíòà</translate>
+</string>
+<string>
+	<original>Form Field Type and Options</original>
+	<translate>Òèï ïîëÿ è îïöèè</translate>
+</string>
+<string>
+	<original>Active Language</original>
+	<translate>Òåêóùèé ÿçûê</translate>
+</string>
+<string>
+	<original>Last Update</original>
+	<translate>Ïîñëåäíåå îáíîâëåíèå</translate>
+</string>
+<string>
+	<original>Author</original>
+	<translate>Àâòîð</translate>
+</string>
+<string>
+	<original>Disable</original>
+	<translate>Ïðèîñòàíîâèòü</translate>
+</string>
+<string>
+	<original>Available Languages</original>
+	<translate>Äîñòóïíûå ÿçûêè</translate>
+</string>
+<string>
+	<original>Create New Language File</original>
+	<translate>Ñîçäàòü íîâûé ÿçûêîâîé ôàéë</translate>
+</string>
+<string>
+	<original>Sender Email</original>
+	<translate>Àäðåñ ýëåêòðîííîé ïî÷òû îòïðàâèòåëÿ</translate>
+</string>
+<string>
+	<original>Sender Name</original>
+	<translate>Èìÿ îòïðàâèòåëÿ</translate>
+</string>
+<string>
+	<original>Email Test Mode</original>
+	<translate>Òåñòîâûé ðåæèì ýëåêòðîííîé ïî÷òû</translate>
+</string>
+<string>
+	<original>If set, email messages will be printed on screen rather than sent</original>
+	<translate>Åñëè óñòàíîâëåíî, ñîîáùåíèÿ áóäóò ïîÿâëÿòüñÿ íà ýêðàíå, à íå ïîñûëàòüñÿ</translate>
+</string>
+<string>
+	<original>Header For All Emails</original>
+	<translate>Îáùèé çàãîëîâîê äëÿ âñåõ ñîîáùåíèé</translate>
+</string>
+<string>
+	<original>Tags</original>
+	<translate>Òýãè</translate>
+</string>
+<string>
+	<original>Footer For All Emails</original>
+	<translate>Îáùàÿ ïîäïèñü äëÿ âñåõ ñîîáùåíèé</translate>
+</string>
+<string>
+	<original>SMTP Settings</original>
+	<translate>Óñòàíîâêè SMTP</translate>
+</string>
+<string>
+	<original>Fill in if required by your web hosting. You may need to consult your web hosting administrator or help documentation.</original>
+	<translate>Çàïîëíèòå åñëè ýòî òðåáóåòñÿ Âàøèì âåá-óçëîì.</translate>
+</string>
+<string>
+	<original>SMTP Host</original>
+	<translate>SMTP óçåë</translate>
+</string>
+<string>
+	<original>SMTP Username</original>
+	<translate>SMTP èìÿ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>SMTP Password</original>
+	<translate>SMTP ïàðîëü</translate>
+</string>
+<string>
+	<original>Email Notifications Templates</original>
+	<translate>Øàáëîíû ïèñåì</translate>
+</string>
+<string>
+	<original>User Registration</original>
+	<translate>Ðåãèñòðàöèÿ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>User Notifications</original>
+	<translate>Óâåäîìëåíèÿ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>Admin Notifications</original>
+	<translate>Óâåäîìëåíèÿ àäìèíèñòðàòîðà</translate>
+</string>
+<string>
+	<original>Edit Header</original>
+	<translate>Ðåäàêòèðîâàòü îáùèé çàãîëîâîê</translate>
+</string>
+<string>
+	<original>Edit Footer</original>
+	<translate>Ðåäàêòèðîâàòü îáùóþ ïîäïèñü</translate>
+</string>
+<string>
+	<original>If set correctly, your company time is now [b]{TIME_STRING}[/b]. If it is wrong, please set your company correct time zone.</original>
+	<translate>Åñëè óñòàíîâëåíî ïðàâèëüíî, òî Âàøå âðåìÿ ñåé÷àñ [b]{TIME_STRING}[/b]. Åñëè íåâåðíî, óñòàíîâèòå ïðàâèëüíûé ÷àñîâîé ïîÿñ.</translate>
+</string>
+<string>
+	<original>If set to Minute for example, it will show 90 Minutes rather than 1 Hour 30 Minutes.</original>
+	<translate>Åñëè óñòàíîâëåíî íà Ìèíóòó íàïðèìåð, òî áóäåò ïîêàçûâàòüñÿ 90 ìèíóò, à íå 1 ÷àñ 30 ìèíóò.</translate>
+</string>
+<string>
+	<original>Price Format</original>
+	<translate>Ôîðìàò öåíû</translate>
+</string>
+<string>
+	<original>Reset To Defaults</original>
+	<translate>Âåðíóòü ê çíà÷åíèþ ïî óìîëàíèþ</translate>
+</string>
+<string>
+	<original>Currency and Price Formatting</original>
+	<translate>Âàëþòà è ôîðìàò öåíû</translate>
+</string>
+<string>
+	<original>Active Payment Gateways</original>
+	<translate>Àêòèâèðîâàííûå ïëàòåæíûå ñèñòåìû</translate>
+</string>
+<string>
+	<original>None. Please activate at least one from the below list.</original>
+	<translate>Íåò. Âûáåðèòå õîòÿ-áû îäíó èç ñïèñêà íèæå.</translate>
+</string>
+<string>
+	<original>Available Payment Gateways</original>
+	<translate>Äîñòóïíûå ïëàòåæíûå ñèñòåìû</translate>
+</string>
+<string>
+	<original>Show upcoming appointments</original>
+	<translate>Ïîêàçàòü áóäóùèå çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>Show old appointments</original>
+	<translate>Ïîêàçàòü ïðîøåäøèå çàïèñè íà ïðèåì</translate>
+</string>
+<string>
+	<original>Cancel</original>
+	<translate>Îòìåíà</translate>
+</string>
+<string>
+	<original>New Service</original>
+	<translate>Íîâàÿ óñëóãà</translate>
+</string>
+<string>
+	<original>Are you sure to delete this session?</original>
+	<translate>Óâåðåíû ÷òî õîòèòå óäàëèòü ýòó ñåññèþ?</translate>
+</string>
+<string>
+	<original>Please confirm the password</original>
+	<translate>Ïîäòâåðäèòå ïàðîëü</translate>
+</string>
+<string>
+	<original>Passwords don't match!</original>
+	<translate>Ïàðîëè íå ñîâïàäàþò!</translate>
+</string>
+<string>
+	<original>Password Changed</original>
+	<translate>Ïàðîëü èçìåíåí</translate>
+</string>
+<string>
+	<original>Duplicate</original>
+	<translate>Ñîçäàòü êîïèþ</translate>
+</string>
+<string>
+	<original>Full Name</original>
+	<translate>Ïîëíîå èìÿ</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Approved</original>
+	<translate>{APPS_COUNT} çàïèñåé íà ïðèåì ïîäòâåðæäåíî</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Already Approved</original>
+	<translate>{APPS_COUNT} çàïèñåé íà ïðèåì óæå ïîäòâåðæäåíî</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Rejected</original>
+	<translate>{APPS_COUNT} çàïèñåé îòìåíåíî</translate>
+</string>
+<string>
+	<original>{APPS_COUNT} Appointments(s) Cancelled</original>
+	<translate>{APPS_COUNT} çàïèñåé îòìåíåíî</translate>
+</string>
+<string>
+	<original>Are you sure to reject this appointment?</original>
+	<translate>Óâåðåíû ÷òî õîòèòå îòìåíèòü ýòó çàïèñü?</translate>
+</string>
+<string>
+	<original>Wrong username or password</original>
+	<translate>Íåïðàâèëüíûé ïàðîëü èëè èìÿ ïîëüçîâàòåëÿ</translate>
+</string>
+<string>
+	<original>Logged out</original>
+	<translate>Âûõîä èç ñèñòåìû</translate>
+</string>
+<string>
+	<original>Password Updated</original>
+	<translate>Ïàðîëü èçìåíåí</translate>
+</string>
+<string>
+	<original>{USER_COUNT} User Account(s) Deleted</original>
+	<translate>{USER_COUNT} ïîëüçîâàòåëåé óäàëåíî</translate>
+</string>
+<string>
+	<original>{USER_COUNT} User Account(s) Suspended</original>
+	<translate>{USER_COUNT} ïîëüçîâàòåëåé ïðèîñòàíîâëåíî</translate>
+</string>
+<string>
+	<original>{USER_COUNT} User Account(s) Activated</original>
+	<translate>{USER_COUNT} ïîëüçîâàòåëåé àêòèâèðîâàíî</translate>
+</string>
+<string>
+	<original>Language Activated</original>
+	<translate>ßçûê àêòèâèðîâàí</translate>
+</string>
+<string>
+	<original>Invoice {INVOICE_NO}</original>
+	<translate>Ñ÷åò {INVOICE_NO}</translate>
+</string>
+<string>
+	<original>Enable Customer Registration?</original>
+	<translate>Êëèåíòû ìîãóò ðåãèñòðèðîâàòüñÿ?</translate>
+</string>
+<string>
+	<original>Can your customers register themselves in the system?</original>
+	<translate>Ìîãóò Âàøè êëèåíòû ñàìîñòîÿòåëüíî ðåãèñòðèðîâàòüñÿ â ñèñòåìå?</translate>
+</string>
+<string>
+	<original>Email Confirmation Required?</original>
+	<translate>Íåîáõîäèìî ïîäòâåðæäåíèå ýëåêòðîííîé ïî÷òû?</translate>
+</string>
+<string>
+	<original>Newly registered users will be asked to confirm their email by following a confirmation link in the email message</original>
+	<translate>Äëÿ íîâûõ êëèåíòîâ íåîáõîäèìî ïîäòâåðäèòü àäðåñ ýëåêòðîííîé ïî÷òû ïî ññûëêå â ïèñüìå</translate>
+</string>
+<string>
+	<original>Admin Approval Required?</original>
+	<translate>Íåîáõîäèìî ïîäòâåðæäåíèå àäìèíèñòðàòîðà?</translate>
+</string>
+<string>
+	<original>The administrator will need to manually approve new customer accounts before they can access the system</original>
+	<translate>Àäìèíèñòðàòîð äîëæåí âðó÷íóþ ïîäòâåðæäàòü íîâûõ êëèåíòîâ</translate>
+</string>
+<string>
+	<original>User Login Required?</original>
+	<translate>Íåîáõîäèì ëîãèí ïîëüçîâàòåëÿ?</translate>
+</string>
+<string>
+	<original>User login required to use the system?</original>
+	<translate>Äëÿ ïîëüçîâàíèÿ ñèñòåìîé íåîáõîäèì ëîãèí ïîëüçîâåòåëÿ?</translate>
+</string>
+<string>
+	<original>Label For Customers</original>
+	<translate>Òåêñò äëÿ êëèåíòîâ</translate>
+</string>
+<string>
+	<original>You can also provide individual Paypal accounts for every provider. If no Paypal email is given for a provider, this global account will be used.</original>
+	<translate>Âû òàêæå ìîæåòå óñòàíîâèòü äëÿ êàæäîãî ñîòðóäíèêà ñâîé àäðåñ ýëåêòðîííîé ïî÷òû Paypal. Åñëè çäåñü íè÷åãî íå óñòàíîâëåíî, áóäåò èñïîëüçîâàíî îáùåå çíà÷åíèå.</translate>
+</string>
+<string>
+	<original>Required field</original>
+	<translate>Íåîáõîäèìî</translate>
+</string>
+<string>
+	<original>Field Name</original>
+	<translate>Íàçâàíèå ïîëÿ</translate>
+</string>
+<string>
+	<original>Field Type</original>
+	<translate>Òèï ïîëÿ</translate>
+</string>
+<string>
+	<original>Validation</original>
+	<translate>Ïðîâåðêà</translate>
+</string>
+<string>
+	<original>Actions</original>
+	<translate>Äåéñòâèÿ</translate>
+</string>
+<string>
+	<original>Custom Form Updated</original>
+	<translate>Ôîðìà ñîõðàíåíà</translate>
+</string>
+<string>
+	<original>Form Field Moved Down</original>
+	<translate>Ïîëå ïåðåìåùåíî âíèç</translate>
+</string>
+<string>
+	<original>Service Moved Down</original>
+	<translate>Óñëóãà ïåðåìåùåíà âíèç</translate>
+</string>
+<string>
+	<original>Service Moved Up</original>
+	<translate>Óñëóãà ïåðåìåùåíà ââåðõ</translate>
+</string>
+<string>
+	<original>Service Created</original>
+	<translate>Óñëóãà ñîçäàíà</translate>
+</string>
+<string>
+	<original>Uncategorized</original>
+	<translate>Áåç êàòåãîðèè</translate>
+</string>
+<string>
+	<original>Category Moved Down</original>
+	<translate>Êàòåãîðèÿ ïåðåìåùåíà âíèç</translate>
+</string>
+<string>
+	<original>Category Moved Up</original>
+	<translate>Êàòåãîðèÿ ïåðåìåùåíà ââåðõ</translate>
+</string>
+<string>
+	<original>Categories</original>
+	<translate>Êàòåãîðèè</translate>
+</string>
+<string>
+	<original>Service Category Created</original>
+	<translate>Êàòåãîðèÿ óñëóã ñîçäàíà</translate>
+</string>
+<string>
+	<original>Another service category with this title already exists</original>
+	<translate>Óæå ñóùåñòâóåò êàòåãîðèÿ ñ òàêèì íàçâàíèåì</translate>
+</string>
+<string>
+	<original>Create Service Category</original>
+	<translate>Ñîçäàòü êàòåãîðèþ óñëóã</translate>
+</string>
+<string>
+	<original>Service Category Deleted</original>
+	<translate>Êàòåãîðèÿ óñëóã óäàëåíà</translate>
+</string>
+<string>
+	<original>Category</original>
+	<translate>Êàòåãîðèÿ</translate>
+</string>
+<string>
+	<original>Service Category Updated</original>
+	<translate>Êàòåãîðèÿ ñîõðàíåíà</translate>
+</string>
+<string>
+	<original>Category Services Updated</original>
+	<translate>Óñëóãè êàòåãîðèè ñîõðàíåíû</translate>
+</string>
+<string>
+	<original>Service Categories Updated</original>
+	<translate>Êàòåãîðèè óñëóãè ñîõðàíåíû</translate>
+</string>
+<string>
+	<original>Service Updated</original>
+	<translate>Óñëóãà ñîõðàíåíà</translate>
+</string>
+<string>
+	<original>Session Created</original>
+	<translate>Ñåññèÿ ñîçäàíà</translate>
+</string>
+<string>
+	<original>Session Updated</original>
+	<translate>Ñåññèÿ ñîõðàíåíà</translate>
+</string>
+
+</file>

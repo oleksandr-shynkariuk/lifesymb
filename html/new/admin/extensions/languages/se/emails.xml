@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<subject>Din bokning avvaktar godkännande</subject>
+<body>
+Tack för din bokningsförfrågan!
+Vi ber dig vänligen avvakta då vi undersöker din bokningsförfrågan. Vi kommer att meddela dig när din bokning har bekräftats.
+
+Dina bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<subject>Din bokning har bekräftats</subject>
+<body>
+Din bokningsförfrågan har nu bekräftats. Tack för din bokning!
+
+Dina bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<subject>Din bokning har avvisats</subject>
+<body>
+Tack för din bokningsförfrågan. Vi måste tyvärr informera att din bokingsförfrågan har avvisats.
+
+Orsak:
+{APPOINTMENT.REJECT_REASON}
+
+Dina bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-customer</key>
+<subject>Din bokning har markerats som utebliven tid</subject>
+<body>
+Tyvärr har din bokning markerats som utebliven/missad.
+
+Dina bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<subject>Din bokningsförfrågan</subject>
+<body>
+Din bokningsförfrågan har nu bekräftats. Tack för din bokning!
+
+Dina bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<subject>Din bokning har avbokats</subject>
+<body>
+Vi bekräftar härmed att vi på din begäran har avbokat din tid.
+
+Avbokningsorsak:
+{APPOINTMENT.CANCEL_REASON}
+
+Dina avbokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-customer</key>
+<subject>Din bokning har ändrats</subject>
+<body>
+Din bokning har ändrats, dina nya bokningsuppgifter är:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-require_approval-provider</key>
+<subject>En ny bokning kräver ditt godkännande</subject>
+<body>
+Det finns en ny bokningsförfrågan.
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+
+Kunduppgifter:
+{APPOINTMENT.CUSTOMER.-ALL-}
+
+Länk för denna bokning:
+{APPOINTMENT.QUICK_LINK_APPROVE} {APPOINTMENT.QUICK_LINK_REJECT}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<subject>Ny bokning</subject>
+<body>
+En ny bokning har gjorts, den har automatiskt godkänts.
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+
+Kunduppgifter:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<subject>Avbokad tid av kund</subject>
+<body>
+En bokning har avbokats av kund.
+
+Avbokningsorsak:
+{APPOINTMENT.CANCEL_REASON}
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+
+Kunduppgifter:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-provider</key>
+<subject>Bokning avvisad</subject>
+<body>
+Din bokning har avvisats.
+
+Orsak till avvisning:
+{APPOINTMENT.REJECT_REASON}
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+
+Kunduppgifter:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-provider</key>
+<subject>Utebliven tid</subject>
+<body>
+Din bokning har markerats som utebliven. 
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+
+Kunduppgifter:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+
+<message>
+<key>appointment-approve-provider</key>
+<subject>Godkänd bokning</subject>
+<body>
+Din bokning har nu bekräftats.
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+
+Kunduppgifter:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-change-provider</key>
+<subject>Ändrad bokning</subject>
+<body>
+Din bokning har ändrats, dina nya bokningsuppgifter är:
+{APPOINTMENT.-ALL-}
+
+Kunduppgifter:
+{APPOINTMENT.CUSTOMER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-require_email_confirmation-user</key>
+<subject>Vänligen bekräfta din email adress</subject>
+<body>
+Tack för din registrering! Vi ber dig bekräfta din email adress:
+
+{USER.CONFIRMATION_LINK}
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<subject>Avvaktar kontoaktivering</subject>
+<body>
+Tack för din registrering!
+Vi behöver acceptera nya konton manuellt och kommer att bekräfta ditt konto inom kort. Vi kommer att meddela dig då kontot har blivit aktiverat.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<subject>Ny användare, ditt godkännande krävs</subject>
+<body>
+En ny användare har registrerats på din hitAppoint webbsida. Vänligen logga in på admin/kontrollpanelen för att godkänna eller avvisa den nya användaren. 
+
+Användarinformation:
+{USER.-ALL-}
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<subject>Ditt konto är aktiverat</subject>
+<body>
+Gratulerar!
+Ditt användarkonto är nu aktiverat. Dina inloggningsuppgifter är:
+
+Användarnamn:   {USER.USERNAME}
+Lösenord:       {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<subject>Lösenord återställt</subject>
+<body>
+Ditt lösenord har återställts på din begäran. Dina nya inloggningsuppgifter är:
+
+Användarnamn:   {USER.USERNAME}
+Lösenord:       {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-customer</key>
+<subject>Bokningspåminnelse</subject>
+<body>
+Vi vill påminna om din bokning.
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-provider</key>
+<subject>Bokningspåminnelse</subject>
+<body>
+Det här är en påminnelse om följande bokning:
+
+Bokningsuppgifter:
+{APPOINTMENT.-ALL-}
+</body>
+</message>
+
+<message>
+<key>sms-user-reset_password-user</key>
+<subject></subject>
+<body>
+Ditt lösenord har återställts:
+Användarnamn: {USER.USERNAME}
+Lösenord: {USER.PASSWORD}
+</body>
+</message>
+    
+<message>
+<key>sms-appointment-remind-customer</key>
+<subject></subject>
+<body>
+Bokningsbekräftelse: {APPOINTMENT.STARTS_AT} 
+</body>
+</message>
+</emails>

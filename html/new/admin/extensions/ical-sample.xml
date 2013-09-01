@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ical>
+
+<summary>OLSSON Daniel</summary>
+<description>
+Reason: {APPOINTMENT.SERVICE}
+DOB:{APPOINTMENT.CUSTOMER.DOB}
+{BOOKABLE_RESOURCE}
+
+URL;VALUE=URI:http://drrobking.com.au/map
+</description>
+
+</ical>

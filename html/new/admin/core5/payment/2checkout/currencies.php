@@ -1,0 +1,30 @@
+<?php
+$currencies = array(
+	'ars',
+	'aud',
+	'brl',
+	'gbp',
+	'cad',
+	'dkk',
+	'eur',
+	'hkd',
+	'inr',
+	'ils',
+	'jpy',
+	'ltl',
+	'myr',
+	'mxn',
+	'nzd',
+	'nok',
+	'php',
+	'ron',
+	'rub',
+	'sgd',
+	'zar',
+	'sek',
+	'chf',
+	'try',
+	'aed',
+	'usd'
+	);
+?>

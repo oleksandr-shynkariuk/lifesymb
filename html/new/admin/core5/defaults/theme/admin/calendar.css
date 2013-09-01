@@ -1,0 +1,95 @@
+#nts .nts-filter {
+	padding: 0.25em 0;
+	border: #999999 1px solid;
+	margin: 0 0;
+	list-style-type: none;
+	float: none;
+	clear: both;
+
+	display: block;
+	width: 100%;
+	overflow: hidden;
+	text-align: center;
+	}
+#nts .nts-filter li {
+	border-width: 0px;
+	display: block;
+	padding: 0.25em 0.25em;
+	margin: 0.25em 0.25em;
+	overflow: hidden;
+	text-align: left;
+	}
+#nts .nts-filter li ul li {
+	float: none;
+	clear: both;
+	}
+#nts .nts-filter li.option {
+	border: #bbbbbb 1px solid;
+	}
+	
+/* days full view */
+#nts ul.nts-day-slots {
+	width: auto;
+	border-width: 0;
+	list-style-type: none;
+	margin: 0 0;
+	padding: 0 0;
+	overflow: hidden;
+	width: 100%;
+	}
+#nts ul.nts-day-slots li.nts-day-slot {
+	display: block;
+	margin: 0 0 0.5em 0;
+	padding: 0 0;
+	border-width: 0;
+	overflow: hidden;
+	width: 100%;
+	border-top: #999999 1px solid;
+	}
+#nts ul.nts-day-slots li.nts-day-slot div.nts-container {
+	display: block;
+	margin: 0 0 1px 0;
+	padding: 0 0;
+	border-width: 0;
+	overflow: hidden;
+	width: 100%;
+	}
+#nts ul.nts-day-slots a.nts-slot-link,
+#nts ul.nts-day-slots div.nts-slot-hidden {
+	display: block;
+	float: left;
+	margin: 0 0;
+	padding: 0 0;
+	text-decoration: none;
+	overflow: hidden;
+	color: #000000;
+	border-width: 0;
+	}
+
+#nts ul.nts-day-slots a.nts-slot-link span {
+	display: block;
+	width: auto;
+	margin: 1px 1px;
+/*	border: #666666 1px solid; */
+	border-width: 1px;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+#nts ul.nts-day-slots a.nts-slot-link span span {
+	border-width: 0;
+	font-size: 0.8em;
+	}
+#nts ul.nts-day-slots a.nts-slot-link span span.nts-l {
+	text-align: left;
+	}
+#nts ul.nts-day-slots a.nts-slot-link span span.nts-r {
+	text-align: right;
+	}
+#nts ul.nts-day-slots a.nts-slot-link span span.nts-c {
+	text-align: center;
+	}
+
+#nts ul.nts-day-slots a.nts-slot-link:hover {
+	color: #ffffff;
+	background-color: #009900;
+	}

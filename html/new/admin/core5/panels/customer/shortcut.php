@@ -1,0 +1,3 @@
+<?php
+$shortcut = 'appointments/request';
+?>

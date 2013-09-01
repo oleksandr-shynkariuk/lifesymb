@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<emails>
+
+<message>
+<key>appointment-require_approval-customer</key>
+<body>
+Appointment request notification:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-customer</key>
+<body>
+Appointment Accepted:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-customer</key>
+<body>
+Appointment Rejected:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-customer</key>
+<body>
+Appointment No Show:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-request-customer</key>
+<body>
+Appointment Accepted:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-customer</key>
+<body>
+Appointment Cancelled:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-change-customer</key>
+<body>
+Appointment Changed:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-require_approval-provider</key>
+<body>
+Appointment Requires Approval:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+Customer: {APPOINTMENT.CUSTOMER.FIRST_NAME} {APPOINTMENT.CUSTOMER.LAST_NAME}
+</body>
+</message>
+
+<message>
+<key>appointment-request-provider</key>
+<body>
+Appointment Accepted:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+Customer: {APPOINTMENT.CUSTOMER.FIRST_NAME} {APPOINTMENT.CUSTOMER.LAST_NAME}
+</body>
+</message>
+
+<message>
+<key>appointment-cancel-provider</key>
+<body>
+Appointment Cancelled:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+Customer: {APPOINTMENT.CUSTOMER.FIRST_NAME} {APPOINTMENT.CUSTOMER.LAST_NAME}
+</body>
+</message>
+
+<message>
+<key>appointment-reject-provider</key>
+<body>
+Appointment Rejected:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+Customer: {APPOINTMENT.CUSTOMER.FIRST_NAME} {APPOINTMENT.CUSTOMER.LAST_NAME}
+</body>
+</message>
+
+<message>
+<key>appointment-noshow-provider</key>
+<body>
+Appointment No Show:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+Customer: {APPOINTMENT.CUSTOMER.FIRST_NAME} {APPOINTMENT.CUSTOMER.LAST_NAME}
+</body>
+</message>
+
+<message>
+<key>appointment-approve-provider</key>
+<body>
+Appointment Approved:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+Customer: {APPOINTMENT.CUSTOMER.FIRST_NAME} {APPOINTMENT.CUSTOMER.LAST_NAME}
+</body>
+</message>
+
+<message>
+<key>appointment-change-provider</key>
+<body>
+Appointment Changed:
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+Customer: {APPOINTMENT.CUSTOMER.FIRST_NAME} {APPOINTMENT.CUSTOMER.LAST_NAME}
+</body>
+</message>
+
+<message>
+<key>user-require_email_confirmaion-user</key>
+<body>
+Thank you for registering, please confirm your email.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-user</key>
+<body>
+Thank you for registering, please wait while we approve your account.
+</body>
+</message>
+
+<message>
+<key>user-require_approval-admin</key>
+<body>
+New user registered, please approve or reject the user.
+USER.USERNAME ({USER.FIRST_NAME} {USER.LAST_NAME})
+</body>
+</message>
+
+<message>
+<key>user-activate-user</key>
+<body>
+Your User Account Is Now Active
+Username: {USER.USERNAME}
+</body>
+</message>
+
+<message>
+<key>user-activate-admin</key>
+<body>
+New user account is active.
+USER.USERNAME ({USER.FIRST_NAME} {USER.LAST_NAME})
+</body>
+</message>
+
+<message>
+<key>user-reset_password-user</key>
+<body>
+Your Password Has Been Reset
+Username: {USER.USERNAME}
+Password: {USER.PASSWORD}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-customer</key>
+<body>
+Appointment reminder:
+
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+
+<message>
+<key>appointment-remind-provider</key>
+<body>
+Appointment reminder:
+
+{APPOINTMENT.SERVICE}
+{APPOINTMENT.STARTS_AT}
+</body>
+</message>
+</emails>
