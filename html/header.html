@@ -84,12 +84,23 @@
 
                 <div id="navwrap">
                     <ul id="uppernav">
-                        <li><a href="index.html" class="active">HEM</a></li>
-                        <li><a href="terapi.html" class="button">50+</a></li>
-                        <li><a href="#" class="button">Företagshälso</a></li>
-                        <li><a href="#" class="button"> Atlet</a></li>
-                        <li><a href="price_schedule.html" class="button menuanchorclass" rel="anylinkmenu1">Priser</a></li>
-                        <li><a href="#" class="button">Schema</a></li>
+                        <!--<li><a href="index.php" class="active">HEM</a></li>-->
+                        <li>
+                            <?php echo ($page=='index') ? '<a href="index.php" class="active">HEM</a>' : '<a href="index.php" class="button">HEM</a>'; ?>
+                        </li>
+                        <li>
+                            <?php echo ($page=='50plus') ? '<a href="50plus.php" class="active">50+</a>' : '<a href="50plus.php" class="button">50+</a>'; ?>
+                        </li>
+                        <li>
+                            <?php echo ($page=='company_health') ? '<a href="company_health.php" class="active">Företagshälso</a>' : '<a href="company_health.php" class="button">Företagshälso</a>'; ?>
+                        </li>
+                        <li>
+                            <?php echo ($page=='athlete') ? '<a href="athlete.php" class="active">Atlet</a>' : '<a href="athlete.php" class="button">Atlet</a>'; ?>
+                        </li>
+                        <li><a href="price_schedule.php" class="button menuanchorclass" rel="anylinkmenu1">Priser</a></li>
+                        <li>
+                            <?php echo ($page=='schema') ? '<a href="schema.php" class="active">Schema</a>' : '<a href="schema.php" class="button">Schema</a>'; ?>
+                        </li>
 
                     </ul>
                 </div></div>
