@@ -1,17 +1,36 @@
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<style type="text/css">
+    html { height: 100% }
+    body { height: 100%; margin: 0; padding: 0 }
+    #map-canvas { height: 100% }
+</style>
+<script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2eeZ7IyOGSFXhW8GgxpDUxC9uPyQCjbQ&sensor=true">
+</script>
+<script type="text/javascript">
+    function initialize() {
+        var myLatlng = new google.maps.LatLng(56.663409, 16.342967);
+        var mapOptions = {
+            center: myLatlng,
+            zoom: 16,
+            mapTypeId: google.maps.MapTypeId.HYBRID
+        };
+        var map = new google.maps.Map(document.getElementById("map-canvas"),
+                mapOptions);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: 'Södra vägen 28, 392 45 Kalmar'
+        });
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+
 <div class="clearfix" style="clear:both;"></div>
 
 <div class="banner">
-
-    <!--<div id="piecemaker">
-  <p>Put your alternative Non Flash content here.</p>
-</div>-->
-
-
-    <div style="overflow:hidden; width:80%; margin:0; padding:0;">
-        <iframe width="800" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-                src="https://www.google.com/maps?t=m&amp;dg=opt&amp;ie=UTF8&amp;ll=56.674564,16.348282&amp;spn=0.025605,0.084028&amp;z=14&amp;output=embed"></iframe>
-    </div>
-    <div>Besök oss på</div>
+    <div id="map-canvas"></div>
 </div>
 
 
@@ -20,7 +39,7 @@
 <div id="mainwrap" class="clearfix">
     <br/>
 
-    <div class="latest-updates">
+    <!--<div class="latest-updates">
 
         <div class="mainticker">
             <ul id="ticker_01" class="ticker">
@@ -40,13 +59,32 @@
             </ul>
 
         </div>
-    </div>
+    </div>-->
 
     <br/>
 
     <div id="content1">
+        <div class="register">Besök LifeSymb</div>
+        <div class="blog-img section-image" style="background:url(images/office/lifesymb_office.jpg) no-repeat center center; width:250px; height:170px;"></div>
+        <div class="basic-info" style="margin-left: 350px; font-size: 16px">
+            Besök oss på  Södra vägen 28, 392 45 Kalmar
+            <br/>
+            <br/>
+            Öppnettider:
+            <br/>
+            Tisdag: 8 – 12 och 13 - 16
+            <br/>
+            Torsdag: 8 – 12 och 13 - 16
+            <br/>
+            Freday: 8 - 12
+            <br/>
+            Lordag: 8 – 12
+        </div>
 
-        <div class="register">Contact LifeSymb</div>
+        <br/>
+        <br/>
+        <br/>
+        <div class="register">Kontakt LifeSymb</div>
 
         <div class="basic-info">
 
