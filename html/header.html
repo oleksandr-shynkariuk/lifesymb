@@ -6,6 +6,7 @@
     <meta name="robots" content="all" />
     <meta name="MSSmartTagsPreventParsing" content="true" />
     <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/custom/tables.css" type="text/css"/>
     <link href='http://fonts.googleapis.com/css?family=Cherry+Swash:400,700' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Carrois+Gothic+SC' rel='stylesheet' type='text/css'>
     <link rel='stylesheet' id='style-css'  href='css/diapo.css' type='text/css' media='all'>
@@ -97,7 +98,9 @@
                         <li>
                             <?php echo ($page=='athlete') ? '<a href="athlete.php" class="active">Atlet</a>' : '<a href="athlete.php" class="button">Atlet</a>'; ?>
                         </li>
-                        <li><a href="price_schedule.php" class="button menuanchorclass" rel="anylinkmenu1">Priser</a></li>
+                        <li>
+                            <?php echo ($page=='price_schedule') ? '<a href="price_schedule.php" class="active">Priser</a>' : '<a href="price_schedule.php" class="button">Priser</a>'; ?>
+                        </li>
                         <li>
                             <?php echo ($page=='schema') ? '<a href="schema.php" class="active">Schema</a>' : '<a href="schema.php" class="button">Schema</a>'; ?>
                         </li>

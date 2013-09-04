@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    border: 1px solid #c4ffc0;
+    margin: 1em 25px;
+    text-align: left; }
+th {
+    font-weight: bold;
+    background-color: darkseagreen;
+    border-bottom: 1px solid #c4ffc0; }
+td,th {
+    padding: 4px 5px; }
+.odd {
+    background-color: #c4ffc0; }
+.odd td {
+    border-bottom: 1px solid #c4ffc0; }
