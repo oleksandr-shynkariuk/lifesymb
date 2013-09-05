@@ -1189,7 +1189,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2fbaed', end
 	text-transform:uppercase;
 }
 .our-team {
-	width:280px;
+	width:310px;
 	margin-left:17px;
 	margin-right:17px;
 	background:#0065b3;
@@ -1208,7 +1208,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8dca48', end
 }
 .team-info {
 	height:180px;
-	width:270px;
+	width:300px;
 	margin:auto;
 	margin-top:5px;
 	background:#FFF;
@@ -1218,7 +1218,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8dca48', end
 	float:right;
 	text-align:center;
 	margin-top:30px;
-	margin-right:10px;
+	margin-right:5px;
 	font-weight:bold;
 	line-height:23px;
 	font-size:13px;
