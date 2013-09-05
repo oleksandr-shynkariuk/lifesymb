@@ -2,16 +2,16 @@ table {
     /*width: 100%;*/
     width: auto;
     min-width: 420px;
-    border: 1px solid #c4ffc0;
+    border: 1px solid #000000;
     margin: 1em 50px;
     text-align: left; }
 th {
     font-weight: bold;
-    background-color: darkseagreen;
-    border-bottom: 1px solid #c4ffc0; }
+    background-color: #ffbb43;
+    border-bottom: 1px solid #e8f6ff; }
 td,th {
     padding: 4px 5px; }
 .odd {
-    background-color: #c4ffc0; }
+    background-color: #e8f6ff; }
 .odd td {
-    border-bottom: 1px solid #c4ffc0; }
+    border-bottom: 1px solid #e8f6ff; }
