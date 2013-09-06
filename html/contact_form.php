@@ -15,7 +15,6 @@ if(isset($_POST['message'])) {
         'X-Mailer: PHP/' . phpversion();
 
     $sent = mail($email_to, $email_subject, $message, $headers);
-    echo "SENT: " . $sent;
 }
 include_once 'contact_thanks.html';
 include_once 'footer.html';
