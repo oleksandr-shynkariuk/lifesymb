@@ -24,8 +24,27 @@
         });
     }
     google.maps.event.addDomListener(window, 'load', initialize);
-</script>
+    function validateForm(){
+        var email = document.getElementById("form_email").value;
+        var fname = document.getElementById("form_firstname").value;
+        var lname = document.getElementById("form_lastname").value;
+        var msg = document.getElementById("form_message").value;
 
+        var atpos = email.indexOf("@");
+        var dotpos = email.lastIndexOf(".");
+        var error = document.getElementById("form_error");
+        if(fname.length < 1 || lname.length < 1 || msg < 1){
+            error.innerHTML = "Alla fält måste fyllas";
+            return false;
+        } else if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= email.length){
+            error.innerHTML = "E-postadress är inte giltig";
+            return false;
+        }
+
+
+        return true;
+    }
+</script>
 
 <div class="clearfix" style="clear:both;"></div>
 
@@ -91,26 +110,22 @@
         <br/>
         <br/>
         <div class="register">Kontakt LifeSymb</div>
-
         <div class="basic-info">
-
             <div class="title">Förnamn :</div>
 
-            <form>
-
-
-                <input type="text" class="input2 right">
+            <form id="contact_form" name="contact_form" method="post" onsubmit="return validateForm();" action="contact_form.php">
+                <input type="text" class="input2 right" id="form_firstname" name="firstname">
 
                 <div class="clearfix"></div>
                 <div class="title">Efternamn :</div>
 
 
-                <input type="text" class="input2 right">
+                <input type="text" class="input2 right" id="form_lastname" name="lastname">
 
                 <div class="clearfix"></div>
                 <div class="title">e-post :</div>
 
-                <input type="text" class="input2 right">
+                <input type="text" id="form_email" class="input2 right" name="email">
 
                 <div class="clearfix"></div>
 
@@ -118,20 +133,19 @@
                 <div class="title">Meddelande :</div>
 
 
-                <textarea name="" class="right con-textares"></textarea>
+                <textarea class="right con-textares" id="form_message" name="message"></textarea>
 
                 <div class="clearfix"></div>
 
-
+                <input type="submit" value="Submit" class="submit right"><a href="contact_form.php" onclick="return validateForm();"></a>
             </form>
 
 
             <div class="clearfix"></div>
             <br/>
 
-            <a href="welcome-lifesymb.html"><input type="submit" value="Submit" class="submit right"></a>
-
             <div class="clearfix"></div>
+            <div style="color: #FF4500" id="form_error"></div>
         </div>
 
 
