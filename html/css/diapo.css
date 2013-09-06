@@ -27,11 +27,11 @@ border-radius: 8px 8px 0px 0px;
 	z-index: 1001;
 }
 #pix_prev {
-	background: url(../images/diapo/prev.png) no-repeat;
+	background: url(../images/diapo/prev_blue.png) no-repeat;
 	left: 10px;
 }
 #pix_next {
-	background: url(../images/diapo/next.png) no-repeat;
+	background: url(../images/diapo/next_blue.png) no-repeat;
 	left: auto!important;
 	right: 10px!important;
 }

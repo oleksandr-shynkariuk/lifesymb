@@ -9,7 +9,7 @@ var anylinkmenu2={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} //First
 anylinkmenu2.items=[
 	
 	
-	["4d Training", "4dtraining.php"] //no comma following last entry!
+	["4D Träning", "4dtraining.php"] //no comma following last entry!
 ]
 
 
