@@ -88,11 +88,14 @@
     {
         if ($subaction == "addcomment")
         {
-            $allow_add_comment  = true;
-            $allow_comments     = true;
+            /*$allow_add_comment  = true;
+            $allow_comments     = true;*/
+            $allow_add_comment  = false;
+            $allow_comments     = false;
         }
         elseif ($subaction == "showcomments")
-            $allow_comments     = true;
+            //$allow_comments     = true;
+            $allow_comments     = false;
 
         elseif ($subaction == "showfull")
             $allow_full_story   = true;
@@ -102,7 +105,8 @@
             $allow_full_story   = true;
 
         if ($subaction == "showfull" and $config_show_comments_with_full == "yes")
-            $allow_comments     = true;
+            //$allow_comments     = true;
+            $allow_comments     = false;
     }
     else
     {
