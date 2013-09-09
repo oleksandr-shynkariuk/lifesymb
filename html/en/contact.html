@@ -1,0 +1,187 @@
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<style type="text/css">
+    html { height: 100% }
+    body { height: 100%; margin: 0; padding: 0 }
+    #map-canvas { height: 100% }
+</style>
+<script type="text/javascript"
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2eeZ7IyOGSFXhW8GgxpDUxC9uPyQCjbQ&sensor=true">
+</script>
+<script type="text/javascript">
+    function initialize() {
+        var myLatlng = new google.maps.LatLng(56.663409, 16.342967);
+        var mapOptions = {
+            center: myLatlng,
+            zoom: 16,
+            mapTypeId: google.maps.MapTypeId.HYBRID
+        };
+        var map = new google.maps.Map(document.getElementById("map-canvas"),
+                mapOptions);
+        var marker = new google.maps.Marker({
+            position: myLatlng,
+            map: map,
+            title: 'Södra vägen 28, 392 45 Kalmar'
+        });
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+    function validateForm(){
+        var email = document.getElementById("form_email").value;
+        var fname = document.getElementById("form_firstname").value;
+        var lname = document.getElementById("form_lastname").value;
+        var msg = document.getElementById("form_message").value;
+
+        var atpos = email.indexOf("@");
+        var dotpos = email.lastIndexOf(".");
+        var error = document.getElementById("form_error");
+        if(fname.length < 1 || lname.length < 1 || msg < 1){
+            error.innerHTML = "All field must be filled out";
+            return false;
+        } else if (atpos < 1 || dotpos < atpos + 2 || dotpos + 2 >= email.length){
+            error.innerHTML = "E-mail address is not valid";
+            return false;
+        }
+
+
+        return true;
+    }
+</script>
+
+<div class="clearfix" style="clear:both;"></div>
+
+<div class="banner">
+    <div id="map-canvas"></div>
+</div>
+
+
+</div>
+
+<div id="mainwrap" class="clearfix">
+    <br/>
+
+    <!--<div class="latest-updates">
+
+        <div class="mainticker">
+            <ul id="ticker_01" class="ticker">
+
+                <li>
+                    Lifesymb has just joined facebook. Take a look and share with your friends.
+                </li>
+                <li>
+                    Lifesymb has just joined facebook. Take a look and share with your friends.
+                </li>
+                <li>
+
+                    <a href="#">jqFancyTransitions</a> is easy-to-use jQuery plugin for displaying your photos as
+                    slideshow with fancy transition effects.
+                </li>
+
+            </ul>
+
+        </div>
+    </div>-->
+
+    <br/>
+
+    <div id="content1">
+        <div class="register">Visit LifeSymb</div>
+        <div class="blog-img section-image" style="background:url(images/office/lifesymb_office.jpg) no-repeat center center; width:250px; height:170px;"></div>
+        <div class="basic-info" style="margin-left: 350px; font-size: 16px">
+            Visit us at Södra vägen 28, 392 45 Kalmar
+            <br/>
+            <br/>
+            Open hours:
+            <br/>
+            Tuesday: 8 – 12 och 13 - 16
+            <br/>
+            Thursday: 8 – 12 och 13 - 16
+            <br/>
+            Friday: 8 - 12
+            <br/>
+            Saturday: 8 – 12
+            <br/>
+            <br/>
+            <a href="mailto:info@lifesymb.com">info@lifesymb.com</a>
+            <br/>
+            0739054330
+
+        </div>
+
+        <br/>
+        <br/>
+        <br/>
+        <div class="register">Contact LifeSymb</div>
+        <div class="basic-info">
+            <div class="title">First name :</div>
+
+            <form id="contact_form" name="contact_form" method="post" onsubmit="return validateForm();" action="contact_form.php">
+                <input type="text" class="input2 right" id="form_firstname" name="firstname">
+
+                <div class="clearfix"></div>
+                <div class="title">Last name :</div>
+
+
+                <input type="text" class="input2 right" id="form_lastname" name="lastname">
+
+                <div class="clearfix"></div>
+                <div class="title">e-mail :</div>
+
+                <input type="text" id="form_email" class="input2 right" name="email">
+
+                <div class="clearfix"></div>
+
+
+                <div class="title">Message :</div>
+
+
+                <textarea class="right con-textares" id="form_message" name="message"></textarea>
+
+                <div class="clearfix"></div>
+
+                <input type="submit" value="Submit" class="submit right"><a href="contact_form.php" onclick="return validateForm();"></a>
+            </form>
+
+
+            <div class="clearfix"></div>
+            <br/>
+
+            <div class="clearfix"></div>
+            <div style="color: #FF4500" id="form_error"></div>
+        </div>
+
+
+        <div class="seperator"></div>
+    </div>
+
+    <div id="sidebar">
+        <a href="register.php" id="bestel"></a>
+        <a href="https://twitter.com/LifeSymb" target="_blank" id="twitter"></a>
+        <a href="https://www.facebook.com/Lifesymb" target="_blank" id="facebook"></a>
+        <a href="mailto:info@lifesymb.com" id="mail"></a>
+
+        <div class="clearfix"></div>
+
+        <div class="login">
+            <h2>Login Here</h2>
+
+
+            <input type="text" value="E-mail or User name"
+                   onclick="if(this.value=='E-mail or User name'){this.value=''}"
+                   onblur="if(this.value==''){this.value='E-mail or User name'} " class="input">
+
+
+            <input type="text" value="Password" onclick="if(this.value=='Password'){this.value=''}"
+                   onblur="if(this.value==''){this.value='Password'} " class="input">
+
+
+            <input type="submit" value="Sign up" class="submit left"/>
+
+            <input type="submit" value="Login" class="submit right">
+
+
+            <div class="clearfix"></div>
+        </div>
+
+
+    </div>
+
+</div>

@@ -20,3 +20,17 @@ athleteLinkMenu.items=[
     //["Rehabilitering", "rehabilitation.php"] //no comma following last entry!
 ]
 
+var technologyMenu_eng={divclass:'anylinkmenu', inlinestyle:'', linktarget:''}
+technologyMenu_eng.items=[
+    ["4D Technology", "4dtechnology.php"]
+]
+
+var athleteLinkMenu_eng={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} //First menu variable. Make sure "anylinkmenu1" is a unique name!
+athleteLinkMenu_eng.items=[
+
+    ["4D Training", "4dtraining.php"]
+
+    //TODO: add later!
+    //["Rehabilitering", "rehabilitation.php"] //no comma following last entry!
+]
+

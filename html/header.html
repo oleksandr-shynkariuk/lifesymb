@@ -14,7 +14,7 @@
     <link rel="stylesheet" type="text/css" href="css/section.css" />
 
     <script type='text/javascript' src='scripts/jquery.min.js'></script>
-    <!--[if !IE]><!--><script type='text/javascript' src='scripts/jquery.mobile-1.0rc2.customized.min.js'></script><!--<![endif]-->
+    <!--[if !IE]><!--><!--<script type='text/javascript' src='scripts/jquery.mobile-1.0rc2.customized.min.js'></script>--><!--<![endif]-->
     <script type='text/javascript' src='scripts/jquery.easing.1.3.js'></script>
     <script type='text/javascript' src='scripts/jquery.hoverIntent.minified.js'></script>
     <script type='text/javascript' src='scripts/diapo.js'></script>
@@ -72,7 +72,7 @@
 
                     <div class="search">
                         <div class="right">
-                            <a href="#">SV</a> | <a href="#">EN</a>
+                            SV | <?php echo "<a href=" . "en/" . basename($_SERVER['PHP_SELF']) . ">EN</a>" ?>
                         </div>
                     </div>
 
