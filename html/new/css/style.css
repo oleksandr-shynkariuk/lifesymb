@@ -108,7 +108,8 @@ div#header {
 	width:1000px;
 }
 img#logo {
-	float:left;
+	/*float:left;*/
+margin: 0 -4px;
 }
 /* navigatie */
 
@@ -122,7 +123,6 @@ div#navwrap {
 	text-decoration:none;
 	margin-left:10px;
 	line-height:30px;
-	text-transform:uppercase;
 	font-family: calibri, Arial, Verdana, Tahoma;
 	font-size:16px;
 }
@@ -246,7 +246,7 @@ div#content1 p{
 }
 
 div#content1 p span{
-	color:#000;
+	color:#ff8000;
 	font-style:italic;
 }
 
@@ -255,6 +255,7 @@ div#content1 b{
 	font-size:16px;
 	color:#079ad4;
 	margin-left:20px;
+	font-style:italic;
 
 }
 
@@ -357,6 +358,11 @@ div.info {
 h2.title {
 	font-size:18px;
 	color:#e273ad;
+}
+h3 {
+	font-size:13px;
+	font-weight:lighter;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
 }
 h3.subtitle {
 	font-size:16px;
@@ -1206,41 +1212,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2fbaed', end
 	border:#FFF dotted 1px;
 }
 .our-team:hover {
-		background: #8dca48; /* Old browsers */
-	background: -moz-linear-gradient(top, #8dca48 1%, #70ae2a 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #8dca48), color-stop(100%, #70ae2a)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top, #8dca48 1%, #70ae2a 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top, #8dca48 1%, #70ae2a 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top, #8dca48 1%, #70ae2a 100%); /* IE10+ */
-	background: linear-gradient(to bottom, #8dca48 1%, #70ae2a 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8dca48', endColorstr='#70ae2a', GradientType=0 ); /* IE6-9 */
-
+	background:#0065b3;
 }
 .team-info {
 	height:180px;
 	width:270px;
 	margin:auto;
-	
 	margin-top:5px;
 	background:#FFF;
 }
-
-
-.team-info p{
-	width:140px;
-	float:right;
-	text-align:center;
-	margin-top:30px;
-	margin-right:10px;
-	font-weight:bold;
-	line-height:23px;
-	font-size:13px;
-}
-	
-
 .tabtitle {
 	margin: 0;
-	text-align:left;
 	background: #8dca48; /* Old browsers */
 	background: -moz-linear-gradient(top, #8dca48 1%, #70ae2a 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%, #8dca48), color-stop(100%, #70ae2a)); /* Chrome,Safari4+ */
@@ -1264,23 +1246,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8dca48', end
 .tabtitle:hover {
 	background: #0065b3;
 }
-
-
-.tabtitle span{
-	text-align:right;
-	font-size:11px;
-	color:#FFF;
-}
 .productDescription,
 .productDescription2,
 .productDescription3,
 .productDescription4,
 .productDescription5,
 .productDescription6 {
-	background:#ededed;
-	padding:5px;
-	line-height:21px;
-	text-align:center;
+	background:#FFF;
+	padding:9px;
+	text-align:justify;
 	height:auto;
 }
 .welcome {
