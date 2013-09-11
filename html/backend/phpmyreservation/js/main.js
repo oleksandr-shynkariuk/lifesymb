@@ -325,7 +325,7 @@ function toggle_reservation_time(id, week, day, time, from)
 
 	var user_name = $(id).html();
 
-	if(user_name == '')
+	if(user_name == '')//if user name in the box is empty, make a reservation!
 	{
 		$(id).html('Wait...'); 
 

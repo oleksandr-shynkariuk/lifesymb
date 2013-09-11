@@ -58,8 +58,19 @@ elseif(isset($_GET['week']))
 		while($i < 7)
 		{
 			$i++;
-
-			echo '<td><div class="reservation_time_div"><div class="reservation_time_cell_div" id="div:' . $week . ':' . $i . ':' . $time . '" onclick="void(0)">' . read_reservation($week, $i, $time) . '</div></div></td>';
+            if(array_key_exists($i, $schedule_times)){
+                if(!empty($schedule_times[$i])){
+                    $arr = $schedule_times[$i];
+                    if(array_key_exists($time, $arr)){
+                        //echo '<td><div class="reservation_time_div"><div class="reservation_time_cell_div" id="div:' . $week . ':' . $i . ':' . $time . '" onclick="void(0)">' . read_reservation($week, $i, $time) . '</div></div></td>';
+                        echo '<td><div class="reservation_time_div"><div class="reservation_time_cell_div" id="div:' . $week . ':' . $i . ':' . $time . '" onclick="void(0)">' . $arr[$time] . '</div></div></td>';
+                    } else {
+                        echo '<td></td>';
+                    }
+                } else {
+                  echo '<td></td>';
+                }
+            }
 		}
 
 		echo '</tr>';

@@ -46,12 +46,21 @@ define('global_url', 'http://lifesymb.com/backend/phpmyreservation/');
 
 // Currency (short format). Price per reservation can be changed in the control panel
 // Currency should not be changed after reservations have been made (of obvious reasons)
-define('global_currency', '€');
+define('global_currency', 'SEK');
 
 // How many weeks forward in time to allow reservations
 define('global_weeks_forward', '2');
 
 // Possible reservation times. Use the same syntax as below (TimeFrom-TimeTo)
-$global_times = array('09-10', '10-11', '11-12', '12-13', '13-14', '14-15', '15-16', '16-17', '17-18', '18-19', '19-20', '20-21');
+$global_times = array('08-09', '09-10', '10-11', '11-12', '12-13', '13-14', '14-15', '15-16', '16-17', '17-18', '18-19');
+$monday_times = array();
+$tuesday_times = array('08-09' => 'Other', '09-10' => 'Other', '10-11' => 'Other', '11-12' => 'Other', '13-14' => 'Other', '14-15' => 'Other', '15-16' => 'Other', '16-17' => 'Other', '17-18' => 'Other');
+$wednesday_times = array('17-18' => '4D', '18-19'  => '4D');
+$thursday_times = array('08-09' => 'Other', '09-10' => 'Other', '10-11' => 'Other', '11-12' => 'Other', '13-14' => 'Other', '14-15' => 'Other', '15-16' => 'Other', '16-17' => 'Other', '17-18' => 'Other');
+$friday_times = array('08-09' => 'Other', '09-10' => 'Other', '10-11' => 'Other', '11-12' => 'Other');
+$saturday_times = array('08-09' => 'Other', '09-10' => 'Other', '10-11' => 'Other', '11-12' => 'Other', '13-14' => '4D', '14-15' => '4D');
+$sunday_times = array();
+$schedule_times = array(1 => $monday_times, 2 => $tuesday_times, 3 => $wednesday_times, 4 => $thursday_times,
+    5 => $friday_times, 6 => $saturday_times, 7 => $sunday_times);
 
 ?>
