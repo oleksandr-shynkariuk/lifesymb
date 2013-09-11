@@ -308,6 +308,38 @@ function create_user()
 }
 
 // Reservation
+function toggle_reservation(id, week, day, time, from){
+    if(session_user_is_admin == '1')
+    {
+        if(week < global_week_number || week == global_week_number && day < global_day_number)
+        {
+            notify('You are reserving back in time. You can do that because you\'re an admin', 4);
+        }
+        else if(week > global_week_number + global_weeks_forward)
+        {
+            notify('You are reserving more than '+global_weeks_forward+' weeks forward in time. You can do that because you\'re an admin', 4);
+        }
+    }
+
+    //TODO: add condition for booking/cancelation
+    var name = $(id).html();
+    $(id).html('Wait...');
+
+    $.post('reservation.php?make_reservation', { week: week, day: day, time: time }, function(data)
+    {
+        if(data == 1)
+        {
+            //setTimeout(function() { read_reservation(id, week, day, time); }, 1000);
+            $(id).css('background-color', 'orange');
+            $(id).html(name);
+        }
+        /*else
+        {
+            notify(data, 4);
+            setTimeout(function() { read_reservation(id, week, day, time); }, 2000);
+        }*/
+    });
+}
 
 function toggle_reservation_time(id, week, day, time, from)
 {
@@ -333,13 +365,14 @@ function toggle_reservation_time(id, week, day, time, from)
 		{
 			if(data == 1)
 			{
-				setTimeout(function() { read_reservation(id, week, day, time); }, 1000);
+				//setTimeout(function() { read_reservation(id, week, day, time); }, 1000);
+                $(id).css('background-color', 'orange');
 			}
-			else
+			/*else
 			{
 				notify(data, 4);
 				setTimeout(function() { read_reservation(id, week, day, time); }, 2000);			
-			}
+			}*/
 		});
 	}
 	else
@@ -441,7 +474,7 @@ function read_reservation_details(id, week, day, time)
 						{
 							if($(reservation_details_id).html() == session_user_name || session_user_is_admin == '1')
 							{
-								var delete_link_html = '<a href="." onclick="toggle_reservation_time(reservation_details_id, reservation_details_week, reservation_details_day, reservation_details_time, \'details\'); return false">Delete</a> | ';
+								var delete_link_html = '<a href="." onclick="toggle_reservation(reservation_details_id, reservation_details_week, reservation_details_day, reservation_details_time, \'details\'); return false">Delete</a> | ';
 							}
 							else
 							{
@@ -858,14 +891,14 @@ $(document).ready( function()
 	$(document).on('click', '.reservation_time_cell_div', function()
 	{
 		var array = this.id.split(':');
-		toggle_reservation_time(this, array[1], array[2], array[3], array[0]);
+		toggle_reservation(this, array[1], array[2], array[3], array[0]);
 	});
 
-	$(document).on('mousemove', '.reservation_time_cell_div', function()
+	/*$(document).on('mousemove', '.reservation_time_cell_div', function()
 	{
 		var array = this.id.split(':');
 		read_reservation_details(this, array[1], array[2], array[3]);
-	});
+	});*/
 
 	// Mouse pointer
 	$(document).on('mouseover', 'input:button, input:submit, .reservation_time_div', function() { this.style.cursor = 'pointer'; });

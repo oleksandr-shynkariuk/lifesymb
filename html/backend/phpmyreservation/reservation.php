@@ -49,6 +49,10 @@ elseif(isset($_GET['week']))
 		echo $days_row;
 	}
 
+    $user_id = $_SESSION['user_id'];
+    $user_reservations = get_reservations_by_user_and_week($user_id, $week);
+    var_dump($user_reservations);
+
 	foreach($global_times as $time)
 	{
 		echo '<tr><th class="reservation_time_th">' . $time . '</th>';
@@ -61,9 +65,22 @@ elseif(isset($_GET['week']))
             if(array_key_exists($i, $schedule_times)){
                 if(!empty($schedule_times[$i])){
                     $arr = $schedule_times[$i];
-                    if(array_key_exists($time, $arr)){
-                        //echo '<td><div class="reservation_time_div"><div class="reservation_time_cell_div" id="div:' . $week . ':' . $i . ':' . $time . '" onclick="void(0)">' . read_reservation($week, $i, $time) . '</div></div></td>';
-                        echo '<td><div class="reservation_time_div"><div class="reservation_time_cell_div" id="div:' . $week . ':' . $i . ':' . $time . '" onclick="void(0)">' . $arr[$time] . '</div></div></td>';
+                    if(array_key_exists($time, $arr)){//if the time is in schedule on this day
+                        $found = false;//check if user has booked it before
+                        foreach($user_reservations as $user_reservation){
+                            if(array_key_exists('reservation_day', $user_reservation)
+                                &&
+                                array_key_exists('reservation_time', $user_reservation)){
+                                if($user_reservation['reservation_day'] == $i && $user_reservation['reservation_time'] == $time){
+                                    $found = true;
+                                    break;
+                                }
+                            }
+                        }
+                        if($found)//display as booked
+                            echo '<td><div class="reservation_time_div"><div class="reservation_time_cell_div_booked" id="div:' . $week . ':' . $i . ':' . $time . '" onclick="void(0)">' . $arr[$time] . '</div></div></td>';
+                        else
+                            echo '<td><div class="reservation_time_div"><div class="reservation_time_cell_div" id="div:' . $week . ':' . $i . ':' . $time . '" onclick="void(0)">' . $arr[$time] . '</div></div></td>';
                     } else {
                         echo '<td></td>';
                     }

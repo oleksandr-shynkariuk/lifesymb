@@ -333,6 +333,7 @@ function make_reservation($week, $day, $time)
 
 function delete_reservation($week, $day, $time)
 {
+    $user_id = $_SESSION['user_id'];
 	if($week < global_week_number && $_SESSION['user_is_admin'] != '1' || $week == global_week_number && $day < global_day_number && $_SESSION['user_is_admin'] != '1')
 	{
 		return('You can\'t reserve back in time');
@@ -348,7 +349,7 @@ function delete_reservation($week, $day, $time)
 
 		if($user['reservation_user_id'] == $_SESSION['user_id'] || $_SESSION['user_is_admin'] == '1')
 		{
-			mysql_query("DELETE FROM " . global_mysql_reservations_table . " WHERE reservation_week='$week' AND reservation_day='$day' AND reservation_time='$time'")or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+			mysql_query("DELETE FROM " . global_mysql_reservations_table . " WHERE reservation_week='$week' AND reservation_day='$day' AND reservation_time='$time' AND reservation_user_id='$user_id'")or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
 
 			return(1);
 		}
@@ -357,6 +358,17 @@ function delete_reservation($week, $day, $time)
 			return('You can\'t remove other users\' reservations');
 		}
 	}
+}
+
+function get_reservations_by_user_and_week($userId, $weekNumber){
+    $queryString = "SELECT * FROM " . global_mysql_reservations_table . " WHERE reservation_user_id='$userId' AND reservation_week='$weekNumber'";
+    $query = mysql_query($queryString) or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+    $res = array();
+    while($row = mysql_fetch_assoc($query)){
+        $res[] = $row;
+    }
+
+    return $res;
 }
 
 // Admin control panel
