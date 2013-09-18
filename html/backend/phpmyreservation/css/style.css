@@ -105,6 +105,11 @@ div#preload_div
 	display: none;
 }
 
+div#title_div
+{
+    display: inline;
+}
+
 div.box_div
 {
 	margin: 0 auto;
@@ -434,6 +439,13 @@ h3
 	color: #4a8cf6;
 	font-size: 14px;
 	font-weight: bold;
+}
+
+h1.inline_header
+{
+    display: inline;
+    position: absolute;
+    margin-top: 20px;
 }
 
 /* Paragraphs */
