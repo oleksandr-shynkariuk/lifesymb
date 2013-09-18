@@ -2,11 +2,17 @@
 
 ### IF YOU ARE GOING TO USE THE CHARACTER ' IN ANY OF THE OPTIONS, ESCAPE IT LIKE THIS: \' ###
 
-// MySQL details
-define('global_mysql_server', '001.mysql.db.fge.5hosting.com');
+//remote  MySQL details
+/*define('global_mysql_server', '001.mysql.db.fge.5hosting.com');
 define('global_mysql_user', 'u297_newlifesymb');
 define('global_mysql_password', 'Dressler123!');
-define('global_mysql_database', 'db297_newlifesymb');
+define('global_mysql_database', 'db297_newlifesymb');*/
+
+//local MySQL details
+define('global_mysql_server', 'localhost');
+define('global_mysql_user', 'lifesymb');
+define('global_mysql_password', '25100152');
+define('global_mysql_database', 'phpmyreservation');
 
 // Salt for password encryption. Changing it is recommended. Use 9 random characters
 // This MUST be 9 characters, and must NOT be changed after users have been created

@@ -51,7 +51,6 @@ elseif(isset($_GET['week']))
 
     $user_id = $_SESSION['user_id'];
     $user_reservations = get_reservations_by_user_and_week($user_id, $week);
-    var_dump($user_reservations);
 
 	foreach($global_times as $time)
 	{

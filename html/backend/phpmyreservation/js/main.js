@@ -321,7 +321,6 @@ function toggle_reservation(id, week, day, time, from){
         }
     }
 
-    //TODO: add condition for booking/cancelation
     var name = $(id).html();
     $(id).html('Wait...');
 
@@ -329,100 +328,13 @@ function toggle_reservation(id, week, day, time, from){
     {
         if(data == 1)
         {
-            //setTimeout(function() { read_reservation(id, week, day, time); }, 1000);
             $(id).css('background-color', 'orange');
             $(id).html(name);
+        } else {
+            $(id).css('background-color', 'white');
+            $(id).html(name);
         }
-        /*else
-        {
-            notify(data, 4);
-            setTimeout(function() { read_reservation(id, week, day, time); }, 2000);
-        }*/
     });
-}
-
-function toggle_reservation_time(id, week, day, time, from)
-{
-	if(session_user_is_admin == '1')
-	{
-		if(week < global_week_number || week == global_week_number && day < global_day_number)
-		{
-			notify('You are reserving back in time. You can do that because you\'re an admin', 4);
-		}
-		else if(week > global_week_number + global_weeks_forward)
-		{
-			notify('You are reserving more than '+global_weeks_forward+' weeks forward in time. You can do that because you\'re an admin', 4);
-		}
-	}
-
-	var user_name = $(id).html();
-
-	if(user_name == '')//if user name in the box is empty, make a reservation!
-	{
-		$(id).html('Wait...'); 
-
-		$.post('reservation.php?make_reservation', { week: week, day: day, time: time }, function(data) 
-		{
-			if(data == 1)
-			{
-				//setTimeout(function() { read_reservation(id, week, day, time); }, 1000);
-                $(id).css('background-color', 'orange');
-			}
-			/*else
-			{
-				notify(data, 4);
-				setTimeout(function() { read_reservation(id, week, day, time); }, 2000);			
-			}*/
-		});
-	}
-	else
-	{
-		if(offclick_event == 'mouseup' || from == 'details')
-		{
-			if(user_name == 'Wait...')
-			{
-				notify('One click is enough', 4);
-			}
-			else if(user_name == session_user_name || session_user_is_admin == '1')
-			{
-				if(user_name != session_user_name && session_user_is_admin == '1')
-				{
-					var delete_confirm = confirm('This is not your reservation, but because you\'re an admin you can remove other users\' reservations. Are you sure you want to do this?');
-				}
-				else
-				{
-					var delete_confirm = true;
-				}
-
-				if(delete_confirm)
-				{
-					$(id).html('Wait...');
-
-					$.post('reservation.php?delete_reservation', { week: week, day: day, time: time }, function(data)
-					{
-						if(data == 1)
-						{
-							setTimeout(function() { read_reservation(id, week, day, time); }, 1000);
-						}
-						else
-						{
-							notify(data, 4);
-							setTimeout(function() { read_reservation(id, week, day, time); }, 2000);
-						}
-					});
-				}
-			}
-			else
-			{
-				notify('You can\'t remove other users\' reservations', 2);
-			}
-
-			if($('#reservation_details_div').is(':visible'))
-			{
-				read_reservation_details();
-			}
-		}
-	}
 }
 
 function read_reservation(id, week, day, time)
@@ -893,6 +805,12 @@ $(document).ready( function()
 		var array = this.id.split(':');
 		toggle_reservation(this, array[1], array[2], array[3], array[0]);
 	});
+
+    $(document).on('click', '.reservation_time_cell_div_booked', function()
+    {
+        var array = this.id.split(':');
+        toggle_reservation(this, array[1], array[2], array[3], array[0]);
+    });
 
 	/*$(document).on('mousemove', '.reservation_time_cell_div', function()
 	{
