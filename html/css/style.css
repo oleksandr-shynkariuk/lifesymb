@@ -169,7 +169,7 @@ div#navwrap {
 	box-shadow: -4px 4px 4px #578f35;
 }
 .quick-link .qmenu {
-	width:350px;
+	width:450px;
 	float:left;
 	height:35px;
 }
@@ -195,7 +195,7 @@ div#navwrap {
 	text-decoration:none;
 }
 .search {
-	width:190px;
+	width:50px;
 	height:35px;
 	float:left;
 	margin-left:3px;
