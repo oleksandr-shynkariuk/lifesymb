@@ -12,7 +12,7 @@ define('global_mysql_database', 'db297_newlifesymb');
 /*define('global_mysql_server', 'localhost');
 define('global_mysql_user', 'lifesymb');
 define('global_mysql_password', '25100152');
-define('global_mysql_database', 'phpmyreservation');*/
+define('global_mysql_database', 'lifesymbreservation');*/
 
 // Salt for password encryption. Changing it is recommended. Use 9 random characters
 // This MUST be 9 characters, and must NOT be changed after users have been created
@@ -48,7 +48,7 @@ define('global_reservation_reminders_email', 'info@lifesymb.com');
 define('global_reservation_reminders_code', '1234');
 
 // Full URL to web site. Used in reservation reminder emails
-define('global_url', 'http://lifesymb.com/backend/phpmyreservation/');
+define('global_url', 'http://lifesymb.com/backend/lifesymbreservation/');
 
 // Currency (short format). Price per reservation can be changed in the control panel
 // Currency should not be changed after reservations have been made (of obvious reasons)

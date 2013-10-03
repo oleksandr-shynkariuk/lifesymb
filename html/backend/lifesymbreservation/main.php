@@ -2,9 +2,18 @@
 
 // About
 
+/*define('global_project_name', 'phpMyReservation');
+define('global_project_version', '1.0');
+define('global_project_website', 'http://www.olejon.net/code/lifesymbreservation/');*/
+
+// About Lifesymb
 define('global_project_name', 'phpMyReservation');
 define('global_project_version', '1.0');
 define('global_project_website', 'http://www.olejon.net/code/phpmyreservation/');
+//thanks to phpmyreservation!
+define('lifesymb_project_name', 'LifeSymb Reservation');
+define('lifesymb_project_version', 'beta');
+define('lifesymb_project_website', 'lifesymb.com');
 
 // Include necessary files
 
@@ -23,7 +32,7 @@ define('global_mysql_reservations_table', 'phpmyreservation_reservations');
 
 // Cookies
 
-define('global_cookie_prefix', 'phpmyreservation');
+define('global_cookie_prefix', 'lifesymbreservation');
 
 // Start session
 

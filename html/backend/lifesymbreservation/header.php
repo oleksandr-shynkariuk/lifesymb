@@ -30,7 +30,12 @@ if(isset($_SESSION['logged_in']))
 
 if(isset($_SESSION['logged_in']))
 {
-	echo '<a href="#cp">Control panel</a> | <a href="#logout">Log out</a>';
+    if(isset($_SESSION['user_name'])){
+        $username = $_SESSION['user_name'];
+        echo '<a href="#cp">' . $username . '</a> | <a href="#logout">Log out</a>';
+    }
+    else
+	    echo '<a href="#cp">Control panel</a> | <a href="#logout">Log out</a>';
 }
 else
 {
