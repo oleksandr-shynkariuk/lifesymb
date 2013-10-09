@@ -6,12 +6,12 @@
 define('global_project_version', '1.0');
 define('global_project_website', 'http://www.olejon.net/code/lifesymbreservation/');*/
 
-// About Lifesymb
+//thanks to phpmyreservation!
 define('global_project_name', 'phpMyReservation');
 define('global_project_version', '1.0');
 define('global_project_website', 'http://www.olejon.net/code/phpmyreservation/');
-//thanks to phpmyreservation!
-define('lifesymb_project_name', 'LifeSymb Reservation');
+// About Lifesymb
+define('lifesymb_project_name', 'LifeSymb');
 define('lifesymb_project_version', 'beta');
 define('lifesymb_project_website', 'lifesymb.com');
 
@@ -26,9 +26,9 @@ mysql_connect(global_mysql_server, global_mysql_user, global_mysql_password)or d
 mysql_select_db(global_mysql_database)or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
 mysql_set_charset('utf8');
 
-define('global_mysql_configuration_table', 'phpmyreservation_configuration');
-define('global_mysql_users_table', 'phpmyreservation_users');
-define('global_mysql_reservations_table', 'phpmyreservation_reservations');
+define('global_mysql_configuration_table', 'lifesymb_configuration');
+define('global_mysql_users_table', 'lifesymb_users');
+define('global_mysql_reservations_table', 'lifesymb_reservations');
 
 // Cookies
 

@@ -48,6 +48,13 @@ function showforgot_password()
 	
 }
 
+function showprofile(userId)
+{
+    page_load();
+    div_hide('#content_div');
+    //$.get('help.php', function(data) { $('#content_div').html(data); div_fadein('#content_div'); page_loaded(); });
+}
+
 function showreservations()
 {
 	page_load('reservation');
@@ -253,9 +260,41 @@ function login()
 	});
 }
 
+function fb_login(userId, name, username)
+{
+    if(userId > 0 && name != '' && username != '')
+    {
+        $.post('login.php?fb_login', { fb_id: userId, fb_name: name, fb_username: username }, function(data)
+            {
+                if(data == 1)
+                {
+                    input_focus();
+                    setTimeout(function() {window.location.replace('.')}, 1000);
+                }
+                else
+                {
+                    if(data == '')
+                    {
+                        $('#login_message_p').html('<span class="error_span">Error occurred while verifying facebook id.</span>');
+                    }
+                    else
+                    {
+                        $('#login_message_p').html(data);
+                    }
+                }
+            }
+        );
+    }
+}
+
 function logout()
 {
 	notify('Logging out...', 300);
+    try{
+        FB.logout(function(response) {});
+    } catch(e){
+        console.log("Exception while exiting facebook account: " + e);
+    }
 	$.get('login.php?logout', function(data) { setTimeout(function() { window.location.replace('.'); }, 1000); });
 }
 

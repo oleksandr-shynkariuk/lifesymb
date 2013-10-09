@@ -4,10 +4,17 @@ include_once('main.php');
 
 if(isset($_GET['login']))
 {
-	$user_email = mysql_real_escape_string($_POST['user_email']);
+    $user_email = mysql_real_escape_string($_POST['user_email']);
 	$user_password = mysql_real_escape_string($_POST['user_password']);
 	$user_remember = $_POST['user_remember'];
 	echo login($user_email, $user_password, $user_remember);
+}
+elseif(isset($_GET['fb_login']))
+{
+    $fb_id = mysql_real_escape_string($_POST['fb_id']);
+    $fb_name = mysql_real_escape_string($_POST['fb_name']);
+    $fb_username = mysql_real_escape_string($_POST['fb_username']);
+    echo fb_login($fb_id, $fb_name, $fb_username);
 }
 elseif(isset($_GET['logout']))
 {
@@ -156,7 +163,13 @@ else
             function testAPI() {
                 console.log('Welcome!  Fetching your information.... ');
                 FB.api('/me', function(response) {
-                    console.log('Good to see you, ' + response.name + '.');
+                    //console.log('Good to see you, ' + response.name + '.');
+                    var id = response.id;
+                    var name = response.name;
+                    var username = response.username;
+
+                    console.log('Good to see you, ' + response.name + ' with id=' + id + ' and username=' + username);
+                    fb_login(id, name, username);
                 });
             }
         </script>

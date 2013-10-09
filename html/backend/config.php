@@ -7,6 +7,7 @@ define('global_mysql_server', '001.mysql.db.fge.5hosting.com');
 define('global_mysql_user', 'u297_newlifesymb');
 define('global_mysql_password', 'Dressler123!');
 define('global_mysql_database', 'db297_newlifesymb');
+define('global_lifesymb_facebook_webapp_APIkey', '1420863004804132');
 
 //local MySQL details
 /*define('global_mysql_server', 'localhost');

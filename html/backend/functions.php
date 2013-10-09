@@ -48,7 +48,7 @@ function modify_email($email)
 
 function validate_user_name($user_name)
 {
-	if(preg_match('/^[a-z æøåÆØÅ]{2,12}$/i', $user_name))
+	if(preg_match('/^[a-z æøåÆØÅ]{2,95}$/i', $user_name))
 	{
 		return(true);
 	}
@@ -144,6 +144,44 @@ function login($user_email, $user_password, $user_remember)
 	}
 }
 
+function fb_login($user_fb_id, $fb_name, $fb_username)
+{
+    $query = mysql_query("SELECT * FROM " . global_mysql_users_table . " WHERE user_fb_id=" .$user_fb_id) or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+    if(mysql_num_rows($query) == 1){
+        $user_email = $fb_username . '@facebook.com';
+        $query = mysql_query("SELECT * FROM " . global_mysql_users_table . " WHERE user_email='$user_email' AND user_fb_id='$user_fb_id'")or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+        if(mysql_num_rows($query) == 1)
+        {
+            $user = mysql_fetch_array($query);
+            $_SESSION['user_id'] = $user['user_id'];
+            $_SESSION['user_is_admin'] = $user['user_is_admin'];
+            $_SESSION['user_email'] = $user['user_email'];
+            $_SESSION['user_name'] = $user['user_name'];
+            $_SESSION['user_reservation_reminder'] = $user['user_reservation_reminder'];
+            $_SESSION['logged_in'] = '1';
+            $_SESSION['fb'] = '1';
+
+            $user_password = $user['user_password'];
+            $user_password = strip_salt($user_password);
+            setcookie(global_cookie_prefix . '_user_email', $user_email, time() + 3600 * 24 * intval(global_remember_login_days));
+            setcookie(global_cookie_prefix . '_user_password', $user_password, time() + 3600 * 24 * intval(global_remember_login_days));
+            return(1);
+        }
+    } else {
+        $user_is_admin = '0';
+        $user_email = $fb_username . '@facebook.com';
+        $user_password = encrypt_password(random_password());
+        $user_name = $fb_name;
+
+        mysql_query("INSERT INTO " . global_mysql_users_table . " (user_is_admin,user_email,user_password,user_name,user_reservation_reminder,user_fb_id) VALUES ($user_is_admin,'$user_email','$user_password','$user_name','0', $user_fb_id)")or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+
+        $user_password = strip_salt($user_password);
+        setcookie(global_cookie_prefix . '_user_email', $user_email, time() + 3600 * 24 * intval(global_remember_login_days));
+        setcookie(global_cookie_prefix . '_user_password', $user_password, time() + 3600 * 24 * intval(global_remember_login_days));
+        return(1);
+    }
+}
+
 function check_login()
 {
 	if(isset($_SESSION['logged_in']))
@@ -170,16 +208,19 @@ function check_login()
 
 function logout()
 {
-	session_unset();
+    session_unset();
 	setcookie(global_cookie_prefix . '_user_email', '', time() - 3600);
 	setcookie(global_cookie_prefix . '_user_password', '', time() - 3600);
+    setcookie("fbsr_" . global_lifesymb_facebook_webapp_APIkey,'',time()-10);
+    unset($_GET["login"]);
+    unset($_GET["fb_login"]);
 }
 
 function create_user($user_name, $user_email, $user_password, $user_secret_code)
 {
 	if(validate_user_name($user_name) != true)
 	{
-		return('<span class="error_span">Name must be <u>letters only</u> and be <u>2 to 12 letters long</u>. If your name is longer, use a short version of your name</span>');
+		return('<span class="error_span">Name must be <u>letters only</u> and be <u>2 to 95 letters long</u>. If your name is longer, use a short version of your name</span>');
 	}
 	elseif(validate_user_email($user_email) != true)
 	{
