@@ -105,13 +105,12 @@
 
                     </ul>-->
                     <?php
-                        $standardMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">Home</a> </li> <li> <a href="index.php" class="button">Training</a> </li> <li> <a href="index.php" class="button">Solutions</a> </li> <li> <a href="index.php" class="button">Try now</a> </li> </ul>';
-                        $fiftyPlusMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">Home</a> </li> <li> <a href="index.php" class="button">Monitoring</a> </li> <li> <a href="index.php" class="button">Programs</a> </li> <li> <a href="price_schedule.php" class="button">Prices</a> </li> <li> <a href="schema.php" class="button">Schedule</a> </li> </ul>';
+                        $standardMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">Home</a> </li> <li> <a href="training.php" class="button">Training</a> </li> <li> <a href="solutions.php" class="button">Solutions</a> </li> <li> <a href="testnow.php" class="button">Try now</a> </li> </ul>';
+                        $fiftyPlusMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">Home</a> </li> <li> <a href="index.php" class="button">Programs</a> </li> <li> <a href="price_schedule.php" class="button">Prices</a> </li> <li> <a href="schema.php" class="button">Schedule</a> </li> </ul>';
                         $companyMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">Home</a> </li> <li> <a href="index.php" class="button">Monitoring</a> </li> <li> <a href="index.php" class="button">Consulting</a> </li> <li> <a href="index.php" class="button">Programs</a> </li> <li> <a href="price_schedule.php" class="button">Prices</a> </li> </ul>';
                         $athleteMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">Home</a> </li> <li> <a href="index.php" class="button">Coaching</a> </li> <li> <a href="index.php" class="button">Programs</a> </li> <li> <a href="price_schedule.php" class="button">Prices</a> </li> <li> <a href="schema.php" class="button">Schedule</a> </li> </ul>';
-                        if($page=='athlete')echo $athleteMenu;
-                        else if($page=='company_health') echo $companyMenu;
-                        else if($page=='50plus') echo $fiftyPlusMenu;
+
+                        if($page=='50plus') echo $fiftyPlusMenu;
                         else echo $standardMenu;
 
                     ?>
