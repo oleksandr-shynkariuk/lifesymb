@@ -445,6 +445,14 @@ div#rightbox {
 	float:left;
 	width:300px;
 }
+div#left_col{
+    float: left;
+    width: 400px;
+}
+div#right_col{
+    float: right;
+    width: 400px;
+}
 ul.adresgegevens a#email {
 	color:#74ac37;
 }

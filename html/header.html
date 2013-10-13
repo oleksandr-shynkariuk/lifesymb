@@ -104,13 +104,9 @@
 
                     </ul>-->
                     <?php
-                        $athleteMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="index.php" class="button">Diagnostik</a> </li> <li> <a href="index.php" class="button">Träning</a> </li> <li> <a href="index.php" class="button">Optimering</a> </li> <li> <a href="index.php" class="button">Prognos</a> </li> </ul>';
-                        $companyMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="index.php" class="button">Diagnostik</a> </li> <li> <a href="index.php" class="button">Träning</a> </li> <li> <a href="index.php" class="button">Prognos</a> </li> <li> <a href="index.php" class="button">Teambuilding</a> </li> </ul>';
-                        $fiftyPlusMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="index.php" class="button">Rot</a> </li> <li> <a href="index.php" class="button">Stam</a> </li> <li> <a href="index.php" class="button">Gren</a> </li> <li> <a href="index.php" class="button">Blad</a> </li> <li> <a href="schema.php" class="button">Schema</a> </li> </ul>';
-                        $standardMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="index.php" class="button">Paket</a> </li> <li> <a href="index.php" class="button">Träning</a> </li> <li> <a href="price_schedule.php" class="button">Priser</a> </li> <li> <a href="schema.php" class="button">Schema</a> </li> </ul>';
-                        if($page=='athlete')echo $athleteMenu;
-                        else if($page=='company_health') echo $companyMenu;
-                        else if($page=='50plus') echo $fiftyPlusMenu;
+                        $standardMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="training.php" class="button">Träning</a> </li> <li> <a href="solutions.php" class="button">Lösningar</a> </li> <li> <a href="testnow.php" class="button">Prova nu</a> </li> </ul>';
+                        $fiftyPlusMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="50plus.php" class="button">Program</a> </li> <li> <a href="price_schedule.php" class="button">Priser</a> </li> <li> <a href="schema.php" class="button">Schema</a> </li> </ul>';
+                        if($page=='50plus') echo $fiftyPlusMenu;
                         else echo $standardMenu;
 
                     ?>
