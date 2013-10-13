@@ -445,13 +445,22 @@ div#rightbox {
 	float:left;
 	width:300px;
 }
+div#wrap {
+    width:100%;
+    margin:0 auto;
+}
 div#left_col{
     float: left;
-    width: 400px;
+    width: 49%;
+    min-width: 400px;
 }
 div#right_col{
     float: right;
-    width: 400px;
+    width: 49%;
+    min-width: 350px;
+}
+div.more{
+    display: none;
 }
 ul.adresgegevens a#email {
 	color:#74ac37;
