@@ -60,6 +60,7 @@
                     <div class="qmenu">
 
                         <ul>
+                            <li> <a href="index.php">Hem</a></li>
                             <li> <a href="about-us.php">Om oss</a></li>
                             <li><a href="contact.php">Kontakt</a></li>
                             <li><a href="50plus.php">50+</a></li>
@@ -104,8 +105,8 @@
 
                     </ul>-->
                     <?php
-                        $standardMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="training.php" class="button">Träning</a> </li> <li> <a href="solutions.php" class="button">Lösningar</a> </li> <li> <a href="testnow.php" class="button">Prova nu</a> </li> </ul>';
-                        $fiftyPlusMenu = '<ul id="uppernav"> <li> <a href="index.php" class="button">HEM</a> </li> <li> <a href="50plus.php" class="button">Program</a> </li> <li> <a href="price_schedule.php" class="button">Priser</a> </li> <li> <a href="schema.php" class="button">Schema</a> </li> </ul>';
+                        $standardMenu = '<ul id="uppernav"> <li> <a href="training.php" class="button">Träning</a> </li> <li> <a href="solutions.php" class="button">Lösningar</a> </li> <li> <a href="testnow.php" class="button">Prova nu</a> </li> </ul>';
+                        $fiftyPlusMenu = '<ul id="uppernav"> <li> <a href="50plus_sensors.php" class="button">Sensors</a></li> <li><a href="50plus_core.php" class="button">Core</a> </li> <li><a href="50plus_motion.php" class="button">Motion</a> </li> <li><a href="50plus_reaction.php" class="button">ReAction</a> </li> <li> <a href="price_schedule.php" class="button">Priser</a> </li> <li> <a href="schema.php" class="button">Schema</a> </li> </ul>';
                         if($page=='50plus') echo $fiftyPlusMenu;
                         else echo $standardMenu;
 

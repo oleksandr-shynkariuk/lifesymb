@@ -160,7 +160,7 @@ div#navwrap {
 /* einde navigatie */
 
 .quick-link {
-	width:550px;
+	width:620px;
 	height:35px;
 	background:#FFF;
 	float:right;
@@ -169,7 +169,7 @@ div#navwrap {
 	box-shadow: -4px 4px 4px #578f35;
 }
 .quick-link .qmenu {
-	width:450px;
+	width:550px;
 	float:left;
 	height:35px;
 }
